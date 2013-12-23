@@ -3,40 +3,40 @@ php-manual
 
 This is php manual for vim with help keyword doc. You can press <S-K> to view the Explanation of the function under the cursor.
 ```
- Install: 
- a. Copy these files to runtimepath.(~/.vim,..) 
- b. Use vundle, but do not run helptags command. 
- c. other package manager. 
+Install: 
+a. Copy these files to runtimepath.(~/.vim,..) 
+b. Use vundle, but do not run helptags command. 
+c. other package manager. 
 
- Note: 
- if you want to generate docs by youself, follow next steps(just example): 
+Note: 
+if you want to generate docs by youself, follow next steps(just example): 
 
- 1. 
- cd YOUR-PHP-SOURCE-CODE 
- ./configure --prefix=/Users/river/codeX/phpmanual/php551 --with-pear --with-zlib=/usr/local/Cellar/zlib/1.2.8 
- make 
- make install 
-  
- 2.  
- php551/bin/pear install doc.php.net/phd_php  
- php551/bin/pear install XML_Parser  
-  
- 3.  
- svn co https://svn.php.net/repository/phpdoc/modules/doc-en phpdoc  
- cd phpdoc  
- vim build.sh  
- PHP=/Users/river/codeX/phpmanual/php551/bin/php  
- PHD=/Users/river/codeX/phpmanual/pear/bin/phd  
+1. 
+cd YOUR-PHP-SOURCE-CODE 
+./configure --prefix=/Users/river/codeX/phpmanual/php551 --with-pear --with-zlib=/usr/local/Cellar/zlib/1.2.8 
+make 
+make install 
+ 
+2.  
+php551/bin/pear install doc.php.net/phd_php  
+php551/bin/pear install XML_Parser  
+ 
+3.  
+svn co https://svn.php.net/repository/phpdoc/modules/doc-en phpdoc  
+cd phpdoc  
+vim build.sh  
+PHP=/Users/river/codeX/phpmanual/php551/bin/php  
+PHD=/Users/river/codeX/phpmanual/pear/bin/phd  
 
 if error because memory exhausted, hack the code: 
 vim /Volumes/DataHD/code/phpmanual/pear/share/pear/phpdotnet/phd/Index.php
 add code: ini_set('memory_limit', '256M');
 
- 4. 
- wget http://blog.planetxml.de/uploads/source/php/phpdoc/parser2.php.txt -O parser2.php 
+4. 
+wget http://blog.planetxml.de/uploads/source/php/phpdoc/parser2.php.txt -O parser2.php 
 
- vim parser2.diff 
- ==========code start========== 
+vim parser2.diff 
+==========code start========== 
  
 --- a/parser2.php 2011-05-27 00:07:45.515535000 +0800
 +++ b/parser2.php 2011-05-26 16:37:01.081761000 +0800
@@ -61,22 +61,23 @@ add code: ini_set('memory_limit', '256M');
  
  echo "sorting tags\n";
 
- ==========code end========== 
- delete line: 
- load_entities('phpdoc/doc-base/entities/version.ent'); 
+==========code end========== 
+delete line: 
+load_entities('phpdoc/doc-base/entities/version.ent'); 
 
- 5. 
- patch -p1 < parser2.diff 
+5. 
+patch -p1 < parser2.diff 
 
- 6. 
- mkdir out 
- php551/bin/php parser2.php 
+6. 
+mkdir out 
+php551/bin/php parser2.php 
 
- 7. 
- done, copy out/* to doc/ 
+7. 
+done, copy out/* to doc/ 
 
- 8. 
- ref: 
- http://blog.gasol.tw/2011/05/php-manual-in-vim.html 
+8. 
+ref: 
+http://blog.gasol.tw/2011/05/php-manual-in-vim.html 
  
 ```
+
