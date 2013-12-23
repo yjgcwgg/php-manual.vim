@@ -5,6 +5,8 @@ php manual doc
 
 Copy these files to runtimepath.(~/.vim,..)
 Also can use vundle...
+
+
 1. 
 ./configure --prefix=/Users/river/codeX/phpmanual/php551 --with-pear --with-zlib=/usr/local/Cellar/zlib/1.2.8 
 make
