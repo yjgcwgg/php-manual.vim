@@ -1,7 +1,7 @@
 php-manual
 ==========
 
-This is php manual for vim with help keyword doc. You can press <S-K> to view the Explanation of the function under the cursor.
+This is php manual for vim with help keyword doc. You can press <kbd>SHIFT-K</kbd> to view the Explanation of the function under the cursor.
 ```
 Install: 
 a. Copy these files to runtimepath.(~/.vim,..) 
@@ -77,7 +77,8 @@ done, copy out/* to doc/
 
 8. 
 ref: 
-http://blog.gasol.tw/2011/05/php-manual-in-vim.html 
+http://blog.planetxml.de/archives/16-PHP-Manual-in-VIM-einbinden.html
+http://blog.gasol.tw/2011/05/php-manual-in-vim.html
  
 ```
 
