@@ -1,4 +1,4 @@
-*ifx_fetch_row* -- Get row as an associative array
+ifx_fetch_row -- Get row as an associative array
 
   array ifx_fetch_row(resource result_id [, mixed position])~
 

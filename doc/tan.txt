@@ -1,4 +1,4 @@
-*tan* -- Tangent
+tan -- Tangent
 
   float tan(float arg)~
 

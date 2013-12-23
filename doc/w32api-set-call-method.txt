@@ -1,4 +1,4 @@
-*w32api_set_call_method* -- Sets the calling method used
+w32api_set_call_method -- Sets the calling method used
 
   void w32api_set_call_method(int method)~
 

@@ -1,4 +1,4 @@
-*spl_autoload_unregister* -- Unregister given function as __autoload()
+spl_autoload_unregister -- Unregister given function as __autoload()
 implementation
 
   bool spl_autoload_unregister(mixed autoload_function)~

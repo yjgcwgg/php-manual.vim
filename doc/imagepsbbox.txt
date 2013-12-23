@@ -1,4 +1,4 @@
-*imagepsbbox* -- Give the bounding box of a text rectangle using PostScript
+imagepsbbox -- Give the bounding box of a text rectangle using PostScript
 Type1 fonts
 
   array imagepsbbox(string text, resource font, int size)~

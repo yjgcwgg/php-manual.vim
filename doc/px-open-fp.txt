@@ -1,4 +1,4 @@
-*px_open_fp* -- Open paradox database
+px_open_fp -- Open paradox database
 
   bool px_open_fp(resource pxdoc, resource file)~
 

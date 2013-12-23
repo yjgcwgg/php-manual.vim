@@ -1,4 +1,4 @@
-*pg_client_encoding* -- Gets the client encoding
+pg_client_encoding -- Gets the client encoding
 
   string pg_client_encoding([resource connection])~
 

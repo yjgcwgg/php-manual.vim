@@ -1,4 +1,4 @@
-*hw_getremotechildren* -- Gets children of remote document
+hw_getremotechildren -- Gets children of remote document
 
   mixed hw_getremotechildren(int connection, string object_record)~
 

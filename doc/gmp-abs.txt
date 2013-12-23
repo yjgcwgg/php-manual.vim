@@ -1,4 +1,4 @@
-*gmp_abs* -- Absolute value
+gmp_abs -- Absolute value
 
   resource gmp_abs(resource a)~
 

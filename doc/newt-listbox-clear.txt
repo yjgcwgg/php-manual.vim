@@ -1,4 +1,4 @@
-*newt_listbox_clear* --
+newt_listbox_clear --
 
   void newt_listbox_clear(resource listobx)~
 

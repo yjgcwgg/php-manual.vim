@@ -1,4 +1,4 @@
-*ibase_blob_info* -- Return blob length and other useful info
+ibase_blob_info -- Return blob length and other useful info
 
   array ibase_blob_info(resource link_identifier, string blob_id)~
 

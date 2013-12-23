@@ -1,4 +1,4 @@
-*apd_dump_regular_resources* -- Return all current regular resources as an array
+apd_dump_regular_resources -- Return all current regular resources as an array
 
   array apd_dump_regular_resources()~
 

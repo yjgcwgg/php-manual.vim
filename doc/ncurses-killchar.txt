@@ -1,4 +1,4 @@
-*ncurses_killchar* -- Returns current line kill character
+ncurses_killchar -- Returns current line kill character
 
   string ncurses_killchar()~
 

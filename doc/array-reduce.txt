@@ -1,14 +1,16 @@
-*array_reduce* -- Iteratively reduce the array to a single value using a
+array_reduce -- Iteratively reduce the array to a single value using a
 callback function
 
-  mixed array_reduce(array input, callback function [, mixed initial])~
+  mixed array_reduce(array array, callable callback [, mixed initial])~
 
-|array_reduce| applies iteratively the {function} function to the elements of
-the array {input}, so as to reduce the array to a single value.
+|array_reduce| applies iteratively the {callback} function to the elements of
+the {array}, so as to reduce the array to a single value.
 
-{input} The input array.
+{array} The input array.
 
-{function} The callback function.
+{callback} The callback function.
+
+  mixed (array array, callable callback [, mixed initial, mixed result, mixed item])~
 
 {initial} If the optional {initial} is available, it will be used at the
 beginning of the process, or as a final result in case the array is empty.

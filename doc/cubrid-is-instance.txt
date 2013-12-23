@@ -1,4 +1,4 @@
-*cubrid_is_instance* -- Check whether the instance pointed by OID exists
+cubrid_is_instance -- Check whether the instance pointed by OID exists
 
   int cubrid_is_instance(resource conn_identifier, string oid)~
 

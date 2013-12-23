@@ -1,4 +1,4 @@
-*pi* -- Get value of pi
+pi -- Get value of pi
 
   float pi()~
 

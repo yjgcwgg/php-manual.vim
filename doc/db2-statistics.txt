@@ -1,4 +1,4 @@
-*db2_statistics* -- Returns a result set listing the index and statistics for a
+db2_statistics -- Returns a result set listing the index and statistics for a
 table
 
   resource db2_statistics(resource connection, string qualifier, string schema, string table-name, bool unique)~

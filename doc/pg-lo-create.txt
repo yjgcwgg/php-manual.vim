@@ -1,4 +1,4 @@
-*pg_lo_create* -- Create a large object
+pg_lo_create -- Create a large object
 
   int pg_lo_create([resource connection [, mixed object_id]])~
 

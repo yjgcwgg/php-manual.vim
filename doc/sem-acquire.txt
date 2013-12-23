@@ -1,4 +1,4 @@
-*sem_acquire* -- Acquire a semaphore
+sem_acquire -- Acquire a semaphore
 
   bool sem_acquire(resource sem_identifier)~
 

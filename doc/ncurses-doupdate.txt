@@ -1,4 +1,4 @@
-*ncurses_doupdate* -- Write all prepared refreshes to terminal
+ncurses_doupdate -- Write all prepared refreshes to terminal
 
   bool ncurses_doupdate()~
 

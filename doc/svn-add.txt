@@ -1,4 +1,4 @@
-*svn_add* -- Schedules the addition of an item in a working directory
+svn_add -- Schedules the addition of an item in a working directory
 
   bool svn_add(string path [, bool recursive [, bool force]])~
 

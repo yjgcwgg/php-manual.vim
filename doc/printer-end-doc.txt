@@ -1,4 +1,4 @@
-*printer_end_doc* -- Close document
+printer_end_doc -- Close document
 
   bool printer_end_doc(resource printer_handle)~
 

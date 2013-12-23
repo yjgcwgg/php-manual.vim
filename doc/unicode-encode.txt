@@ -1,4 +1,4 @@
-*unicode_encode* -- Convert a unicode string in any encoding
+unicode_encode -- Convert a unicode string in any encoding
 
   string unicode_encode(unicode input, string encoding [, int errmode])~
 

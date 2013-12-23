@@ -1,4 +1,4 @@
-*dbplus_unlockrel* -- Give up write lock on relation
+dbplus_unlockrel -- Give up write lock on relation
 
   int dbplus_unlockrel(resource relation)~
 

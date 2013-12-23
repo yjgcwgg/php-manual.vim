@@ -1,4 +1,4 @@
-*printer_list* -- Return an array of printers attached to the server
+printer_list -- Return an array of printers attached to the server
 
   array printer_list(int enumtype [, string name [, int level]])~
 

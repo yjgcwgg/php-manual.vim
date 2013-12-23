@@ -1,4 +1,4 @@
-*fdf_add_doc_javascript* -- Adds javascript code to the FDF document
+fdf_add_doc_javascript -- Adds javascript code to the FDF document
 
   bool fdf_add_doc_javascript(resource fdf_document, string script_name, string script_code)~
 

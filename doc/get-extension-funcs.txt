@@ -1,4 +1,4 @@
-*get_extension_funcs* -- Returns an array with the names of the functions of a
+get_extension_funcs -- Returns an array with the names of the functions of a
 module
 
   array get_extension_funcs(string module_name)~
@@ -51,6 +51,6 @@ The above example will output something similar to:
 
 
 
-|get_loaded_extensions|
+|get_loaded_extensions| ReflectionExtension::getFunctions
 
 vim:ft=help:

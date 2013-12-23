@@ -1,4 +1,4 @@
-*maxdb_result::field_seek* -- Set result pointer to a specified field offset
+maxdb_result::field_seek -- Set result pointer to a specified field offset
 
 Procedural style
 

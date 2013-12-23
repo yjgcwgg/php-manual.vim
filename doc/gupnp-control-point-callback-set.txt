@@ -1,4 +1,4 @@
-*gupnp_control_point_callback_set* -- Set control point callback
+gupnp_control_point_callback_set -- Set control point callback
 
   bool gupnp_control_point_callback_set(resource cpoint, int signal, mixed callback [, mixed arg])~
 

@@ -1,4 +1,4 @@
-*dba_delete* -- Delete DBA entry specified by key
+dba_delete -- Delete DBA entry specified by key
 
   bool dba_delete(string key, resource handle)~
 

@@ -1,4 +1,4 @@
-*fbsql_database* -- Get or set the database name used with a connection
+fbsql_database -- Get or set the database name used with a connection
 
   string fbsql_database(resource link_identifier [, string database])~
 

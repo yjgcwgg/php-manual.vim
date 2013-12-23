@@ -1,4 +1,4 @@
-*swf_defineline* -- Define a line
+swf_defineline -- Define a line
 
   void swf_defineline(int objid, float x1, float y1, float x2, float y2, float width)~
 

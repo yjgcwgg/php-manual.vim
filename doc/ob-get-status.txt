@@ -1,4 +1,4 @@
-*ob_get_status* -- Get status of output buffers
+ob_get_status -- Get status of output buffers
 
   array ob_get_status([bool full_status])~
 

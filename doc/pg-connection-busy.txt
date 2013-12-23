@@ -1,4 +1,4 @@
-*pg_connection_busy* -- Get connection is busy or not
+pg_connection_busy -- Get connection is busy or not
 
   bool pg_connection_busy(resource connection)~
 

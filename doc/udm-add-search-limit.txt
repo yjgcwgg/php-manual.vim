@@ -1,4 +1,4 @@
-*udm_add_search_limit* -- Add various search limits
+udm_add_search_limit -- Add various search limits
 
   bool udm_add_search_limit(resource agent, int var, string val)~
 

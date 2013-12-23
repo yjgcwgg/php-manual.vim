@@ -1,4 +1,4 @@
-*mqseries_back* -- MQSeries MQBACK
+mqseries_back -- MQSeries MQBACK
 
   void mqseries_back(resource hconn, resource compCode, resource reason)~
 

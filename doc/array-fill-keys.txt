@@ -1,4 +1,4 @@
-*array_fill_keys* -- Fill an array with values, specifying keys
+array_fill_keys -- Fill an array with values, specifying keys
 
   array array_fill_keys(array keys, mixed value)~
 

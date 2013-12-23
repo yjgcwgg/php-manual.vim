@@ -1,4 +1,4 @@
-*ibase_fetch_assoc* -- Fetch a result row from a query as an associative array
+ibase_fetch_assoc -- Fetch a result row from a query as an associative array
 
   array ibase_fetch_assoc(resource result [, int fetch_flag])~
 

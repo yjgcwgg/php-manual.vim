@@ -1,4 +1,4 @@
-*pspell_config_save_repl* -- Determine whether to save a replacement pairs list
+pspell_config_save_repl -- Determine whether to save a replacement pairs list
 along with the wordlist
 
   bool pspell_config_save_repl(int dictionary_link, bool flag)~

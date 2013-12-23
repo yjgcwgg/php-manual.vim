@@ -1,4 +1,4 @@
-*posix_strerror* -- Retrieve the system error message associated with the given
+posix_strerror -- Retrieve the system error message associated with the given
 errno
 
   string posix_strerror(int errno)~

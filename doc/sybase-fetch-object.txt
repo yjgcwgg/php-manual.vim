@@ -1,4 +1,4 @@
-*sybase_fetch_object* -- Fetch a row as an object
+sybase_fetch_object -- Fetch a row as an object
 
   object sybase_fetch_object(resource result [, mixed object])~
 

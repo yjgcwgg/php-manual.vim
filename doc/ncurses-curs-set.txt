@@ -1,4 +1,4 @@
-*ncurses_curs_set* -- Set cursor state
+ncurses_curs_set -- Set cursor state
 
   int ncurses_curs_set(int visibility)~
 

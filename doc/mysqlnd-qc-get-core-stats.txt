@@ -1,4 +1,4 @@
-*mysqlnd_qc_get_core_stats* -- Statistics collected by the core of the query
+mysqlnd_qc_get_core_stats -- Statistics collected by the core of the query
 cache
 
   array mysqlnd_qc_get_core_stats()~
@@ -18,9 +18,9 @@ collection of time related statistics.
 The scope of the core statistics is the PHP process. Depending on your
 deployment model a PHP process may handle one or multiple requests.
 
-Statistics are aggregated for all cache entries. It is not possible to tell
-how much queries originating from mysqli, PDO_MySQL or mysql API calls have
-contributed to the aggregated data values.
+Statistics are aggregated for all cache entries and all storage handler. It is
+not possible to tell how much queries originating from mysqli, PDO_MySQL or
+mysql API calls have contributed to the aggregated data values.
 
 This function has no parameters.
 
@@ -39,6 +39,8 @@ Array of core statistics
 
 ... and meta data shows at least one column in the result set
 
+|mysqlnd_qc_get_core_stats| example
+
 <?php >
   /* Enable collection of statistics - default: disabled */
   ini_set("mysqlnd_qc.collect_statistics", 1);
@@ -55,7 +57,7 @@ Array of core statistics
   /* Cache hit */
   $mysqli->query("/*qc=on*/SELECT id FROM test");
   
-  /* Display core statstics */
+  /* Display core statistics */
   var_dump(mysqlnd_qc_get_core_stats());
 ?>
 
@@ -117,5 +119,6 @@ The above examples will output:
   }
 
 Runtime configuration mysqlnd_qc.collect_statistics mysqlnd_qc.time_statistics
+|mysqlnd_qc_get_cache_info|
 
 vim:ft=help:

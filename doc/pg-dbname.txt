@@ -1,4 +1,4 @@
-*pg_dbname* -- Get the database name
+pg_dbname -- Get the database name
 
   string pg_dbname([resource connection])~
 

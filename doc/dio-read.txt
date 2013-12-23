@@ -1,4 +1,4 @@
-*dio_read* -- Reads bytes from a file descriptor
+dio_read -- Reads bytes from a file descriptor
 
   string dio_read(resource fd [, int len])~
 

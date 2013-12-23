@@ -1,4 +1,4 @@
-*odbc_binmode* -- Handling of binary column data
+odbc_binmode -- Handling of binary column data
 
   bool odbc_binmode(resource result_id, int mode)~
 

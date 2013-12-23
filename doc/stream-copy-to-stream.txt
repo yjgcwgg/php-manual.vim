@@ -1,4 +1,4 @@
-*stream_copy_to_stream* -- Copies data from one stream to another
+stream_copy_to_stream -- Copies data from one stream to another
 
   int stream_copy_to_stream(resource source, resource dest [, int maxlength [, int offset]])~
 

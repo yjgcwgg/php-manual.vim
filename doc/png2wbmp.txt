@@ -1,4 +1,4 @@
-*png2wbmp* -- Convert PNG image file to WBMP image file
+png2wbmp -- Convert PNG image file to WBMP image file
 
   bool png2wbmp(string pngname, string wbmpname, int dest_height, int dest_width, int threshold)~
 

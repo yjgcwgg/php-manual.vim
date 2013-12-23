@@ -1,4 +1,4 @@
-*geoip_org_by_name* -- Get the organization name
+geoip_org_by_name -- Get the organization name
 
   string geoip_org_by_name(string hostname)~
 

@@ -1,4 +1,4 @@
-*ibase_maintain_db* -- Execute a maintenance command on the database server
+ibase_maintain_db -- Execute a maintenance command on the database server
 
   bool ibase_maintain_db(resource service_handle, string db, int action [, int argument])~
 

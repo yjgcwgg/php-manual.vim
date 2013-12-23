@@ -1,4 +1,4 @@
-*pspell_config_ignore* -- Ignore words less than N characters long
+pspell_config_ignore -- Ignore words less than N characters long
 
   bool pspell_config_ignore(int dictionary_link, int n)~
 

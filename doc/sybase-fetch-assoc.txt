@@ -1,4 +1,4 @@
-*sybase_fetch_assoc* -- Fetch a result row as an associative array
+sybase_fetch_assoc -- Fetch a result row as an associative array
 
   array sybase_fetch_assoc(resource result)~
 

@@ -1,4 +1,4 @@
-*ifx_create_char* -- Creates an char object
+ifx_create_char -- Creates an char object
 
   int ifx_create_char(string param)~
 

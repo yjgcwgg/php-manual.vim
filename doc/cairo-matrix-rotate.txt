@@ -1,4 +1,4 @@
-*cairo_matrix_rotate* -- Description
+cairo_matrix_rotate -- Description
 
   void cairo_matrix_rotate(CairoMatrix matrix, float radians)~
 

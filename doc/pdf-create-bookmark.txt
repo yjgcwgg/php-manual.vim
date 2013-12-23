@@ -1,4 +1,4 @@
-*PDF_create_bookmark* -- Create bookmark
+PDF_create_bookmark -- Create bookmark
 
   int PDF_create_bookmark(resource pdfdoc, string text, string optlist)~
 

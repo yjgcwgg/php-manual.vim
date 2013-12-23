@@ -1,4 +1,4 @@
-*sinh* -- Hyperbolic sine
+sinh -- Hyperbolic sine
 
   float sinh(float arg)~
 

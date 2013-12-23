@@ -1,4 +1,4 @@
-*swf_lookat* -- Define a viewing transformation
+swf_lookat -- Define a viewing transformation
 
   void swf_lookat(float view_x, float view_y, float view_z, float reference_x, float reference_y, float reference_z, float twist)~
 

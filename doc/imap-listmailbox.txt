@@ -1,4 +1,4 @@
-*imap_listmailbox* -- Alias of imap_list
+imap_listmailbox -- Alias of imap_list
 
 This function is an alias of: |imap_list|.
 

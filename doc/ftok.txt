@@ -1,4 +1,4 @@
-*ftok* -- Convert a pathname and a project identifier to a System V IPC key
+ftok -- Convert a pathname and a project identifier to a System V IPC key
 
   int ftok(string pathname, string proj)~
 

@@ -1,4 +1,4 @@
-*db2_field_name* -- Returns the name of the column in the result set
+db2_field_name -- Returns the name of the column in the result set
 
   string db2_field_name(resource stmt, mixed column)~
 

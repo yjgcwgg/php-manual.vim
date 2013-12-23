@@ -1,6 +1,6 @@
-*simplexml_load_string* -- Interprets a string of XML into an object
+simplexml_load_string -- Interprets a string of XML into an object
 
-  object simplexml_load_string(string data [, string class_name [, int options [, string ns [, bool is_prefix]]]])~
+  SimpleXMLElement simplexml_load_string(string data [, string class_name [, int options [, string ns [, bool is_prefix]]]])~
 
 Takes a well-formed XML string and returns it as an object.
 
@@ -13,12 +13,12 @@ class should extend the SimpleXMLElement class.
 {options} Since PHP 5.1.0 and Libxml 2.6.0, you may also use the {options}
 parameter to specify additional Libxml parameters.
 
-{ns}
+{ns} Namespace prefix or URI.
 
-{is_prefix}
+{is_prefix} TRUE if {ns} is a prefix, FALSE if it's a URI; defaults to FALSE.
 
 Returns an object of class SimpleXMLElement with properties containing the
-data held within the xml document. On errors, it will return FALSE.
+data held within the xml document, or FALSE on failure.
 
 Produces an E_WARNING error message for each error found in the XML data.
 

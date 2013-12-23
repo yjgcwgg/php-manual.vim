@@ -1,4 +1,4 @@
-*ncurses_deleteln* -- Delete line at current position, move rest of screen up
+ncurses_deleteln -- Delete line at current position, move rest of screen up
 
   bool ncurses_deleteln()~
 

@@ -1,4 +1,4 @@
-*ifxus_free_slob* -- Deletes the slob object
+ifxus_free_slob -- Deletes the slob object
 
   bool ifxus_free_slob(int bid)~
 

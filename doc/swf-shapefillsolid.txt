@@ -1,4 +1,4 @@
-*swf_shapefillsolid* -- Set the current fill style to the specified color
+swf_shapefillsolid -- Set the current fill style to the specified color
 
   void swf_shapefillsolid(float r, float g, float b, float a)~
 

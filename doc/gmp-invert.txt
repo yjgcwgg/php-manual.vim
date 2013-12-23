@@ -1,4 +1,4 @@
-*gmp_invert* -- Inverse by modulo
+gmp_invert -- Inverse by modulo
 
   resource gmp_invert(resource a, resource b)~
 

@@ -1,4 +1,4 @@
-*ldap_explode_dn* -- Splits DN into its component parts
+ldap_explode_dn -- Splits DN into its component parts
 
   array ldap_explode_dn(string dn, int with_attrib)~
 

@@ -1,4 +1,4 @@
-*gmp_intval* -- Convert GMP number to integer
+gmp_intval -- Convert GMP number to integer
 
   int gmp_intval(resource gmpnumber)~
 

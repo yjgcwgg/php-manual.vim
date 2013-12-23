@@ -1,4 +1,4 @@
-*fbsql_list_tables* -- List tables in a FrontBase database
+fbsql_list_tables -- List tables in a FrontBase database
 
   resource fbsql_list_tables(string database [, resource link_identifier])~
 

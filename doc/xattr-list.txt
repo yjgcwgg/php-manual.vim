@@ -1,4 +1,4 @@
-*xattr_list* -- Get a list of extended attributes
+xattr_list -- Get a list of extended attributes
 
   array xattr_list(string filename [, int flags])~
 

@@ -1,4 +1,4 @@
-*m_transsend* -- Finalize and send the transaction
+m_transsend -- Finalize and send the transaction
 
   int m_transsend(resource conn, int identifier)~
 

@@ -1,12 +1,11 @@
-*session_is_registered* -- Find out whether a global variable is registered in a
+session_is_registered -- Find out whether a global variable is registered in a
 session
 
   bool session_is_registered(string name)~
 
 Finds out whether a global variable is registered in a session.
 
-This function has been DEPRECATED as of PHP 5.3.0. Relying on this feature is
-highly discouraged.
+This function has been DEPRECATED as of PHP 5.3.0 and REMOVED as of PHP 5.4.0.
 
 {name} The variable name.
 

@@ -1,4 +1,4 @@
-*dba_exists* -- Check whether key exists
+dba_exists -- Check whether key exists
 
   bool dba_exists(string key, resource handle)~
 

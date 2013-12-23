@@ -1,4 +1,4 @@
-*zip_close* -- Close a ZIP file archive
+zip_close -- Close a ZIP file archive
 
   void zip_close(resource zip)~
 

@@ -1,4 +1,4 @@
-*ps_set_parameter* -- Sets certain parameters
+ps_set_parameter -- Sets certain parameters
 
   bool ps_set_parameter(resource psdoc, string name, string value)~
 

@@ -1,4 +1,4 @@
-*ifx_getsqlca* -- Get the contents of sqlca.sqlerrd[0..5] after a query
+ifx_getsqlca -- Get the contents of sqlca.sqlerrd[0..5] after a query
 
   array ifx_getsqlca(resource result_id)~
 

@@ -1,4 +1,4 @@
-*win32_create_service* -- Creates a new service entry in the SCM database
+win32_create_service -- Creates a new service entry in the SCM database
 
   mixed win32_create_service(array details [, string machine])~
 

@@ -1,4 +1,4 @@
-*mb_detect_order* -- Set/Get character encoding detection order
+mb_detect_order -- Set/Get character encoding detection order
 
   mixed mb_detect_order([mixed encoding_list])~
 

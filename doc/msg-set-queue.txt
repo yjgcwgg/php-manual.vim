@@ -1,4 +1,4 @@
-*msg_set_queue* -- Set information in the message queue data structure
+msg_set_queue -- Set information in the message queue data structure
 
   bool msg_set_queue(resource queue, array data)~
 

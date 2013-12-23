@@ -1,4 +1,4 @@
-*bcompiler_write_exe_footer* -- Writes the start pos, and sig to the end of a
+bcompiler_write_exe_footer -- Writes the start pos, and sig to the end of a
 exe type file
 
   bool bcompiler_write_exe_footer(resource filehandle, int startpos)~

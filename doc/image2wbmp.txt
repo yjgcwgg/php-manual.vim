@@ -1,4 +1,4 @@
-*image2wbmp* -- Output image to browser or file
+image2wbmp -- Output image to browser or file
 
   bool image2wbmp(resource image [, string filename [, int threshold]])~
 
@@ -20,7 +20,7 @@ Returns TRUE on success or &false; on failure.
   $file = 'php.png';
   $image = imagecreatefrompng($file);
   
-  header('Content-type: ' . image_type_to_mime_type(IMAGETYPE_WBMP));
+  header('Content-Type: ' . image_type_to_mime_type(IMAGETYPE_WBMP));
   image2wbmp($image); // output the stream directly
   imagedestroy($image);
 ?>

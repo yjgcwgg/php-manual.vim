@@ -1,4 +1,4 @@
-*notes_version* -- Get the version Lotus Notes
+notes_version -- Get the version Lotus Notes
 
   float notes_version(string database_name)~
 

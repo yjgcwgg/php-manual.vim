@@ -1,4 +1,4 @@
-*fputs* -- Alias of fwrite
+fputs -- Alias of fwrite
 
 This function is an alias of: |fwrite|.
 

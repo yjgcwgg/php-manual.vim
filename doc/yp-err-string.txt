@@ -1,4 +1,4 @@
-*yp_err_string* -- Returns the error string associated with the given error code
+yp_err_string -- Returns the error string associated with the given error code
 
   string yp_err_string(int errorcode)~
 

@@ -1,4 +1,4 @@
-*svn_diff* -- Recursively diffs two paths
+svn_diff -- Recursively diffs two paths
 
   array svn_diff(string path1, int rev1, string path2, int rev2)~
 

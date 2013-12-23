@@ -1,4 +1,4 @@
-*com_load_typelib* -- Loads a Typelib
+com_load_typelib -- Loads a Typelib
 
   bool com_load_typelib(string typelib_name [, bool case_insensitive])~
 

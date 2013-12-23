@@ -1,4 +1,4 @@
-*ncurses_insstr* -- Insert string at current position, moving rest of line right
+ncurses_insstr -- Insert string at current position, moving rest of line right
 
   int ncurses_insstr(string text)~
 

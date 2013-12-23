@@ -1,4 +1,4 @@
-*textdomain* -- Sets the default domain
+textdomain -- Sets the default domain
 
   string textdomain(string text_domain)~
 

@@ -1,4 +1,4 @@
-*imagecolorstotal* -- Find out the number of colors in an image's palette
+imagecolorstotal -- Find out the number of colors in an image's palette
 
   int imagecolorstotal(resource image)~
 

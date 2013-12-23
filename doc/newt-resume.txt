@@ -1,4 +1,4 @@
-*newt_resume* -- Resume using the newt interface after calling newt_suspend
+newt_resume -- Resume using the newt interface after calling newt_suspend
 
   void newt_resume()~
 

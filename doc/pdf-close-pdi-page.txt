@@ -1,4 +1,4 @@
-*PDF_close_pdi_page* -- Close the page handle
+PDF_close_pdi_page -- Close the page handle
 
   bool PDF_close_pdi_page(resource p, int page)~
 

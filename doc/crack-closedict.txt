@@ -1,4 +1,4 @@
-*crack_closedict* -- Closes an open CrackLib dictionary
+crack_closedict -- Closes an open CrackLib dictionary
 
   bool crack_closedict([resource dictionary])~
 

@@ -1,4 +1,4 @@
-*bcompiler_read* -- Reads and creates classes from a filehandle
+bcompiler_read -- Reads and creates classes from a filehandle
 
   bool bcompiler_read(resource filehandle)~
 

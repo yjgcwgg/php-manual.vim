@@ -1,4 +1,4 @@
-*dbplus_add* -- Add a tuple to a relation
+dbplus_add -- Add a tuple to a relation
 
   int dbplus_add(resource relation, array tuple)~
 

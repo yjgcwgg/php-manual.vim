@@ -1,4 +1,4 @@
-*db2_cursor_type* -- Returns the cursor type used by a statement resource
+db2_cursor_type -- Returns the cursor type used by a statement resource
 
   int db2_cursor_type(resource stmt)~
 

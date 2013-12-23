@@ -1,4 +1,4 @@
-*enchant_broker_init* -- create a new broker object capable of requesting
+enchant_broker_init -- create a new broker object capable of requesting
 
   resource enchant_broker_init()~
 

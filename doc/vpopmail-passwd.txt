@@ -1,4 +1,4 @@
-*vpopmail_passwd* -- Change a virtual user's password
+vpopmail_passwd -- Change a virtual user's password
 
   bool vpopmail_passwd(string user, string domain, string password [, bool apop])~
 

@@ -1,4 +1,4 @@
-*imap_uid* -- This function returns the UID for the given message sequence
+imap_uid -- This function returns the UID for the given message sequence
 number
 
   int imap_uid(resource imap_stream, int msg_number)~

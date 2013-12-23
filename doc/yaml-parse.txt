@@ -1,4 +1,4 @@
-*yaml_parse* -- Parse a YAML stream
+yaml_parse -- Parse a YAML stream
 
   mixed yaml_parse(string input [, int pos [, int ndocs [, array callbacks]]])~
 
@@ -13,11 +13,11 @@ document, ...).
 found in stream.
 
 {callbacks} Content handlers for YAML nodes. Associative array of YAML tag =>
-callback mappings.
+callable mappings. See parse callbacks for more details.
 
-Returns the value encoded in {input} in appropriate PHP type. NULL is returned
-if the {input} cannot be decoded. If {pos} is -1 an array will be returned
-with one entry for each document found in the stream.
+Returns the value encoded in {input} in appropriate PHP type or FALSE on
+failure. If {pos} is -1 an array will be returned with one entry for each
+document found in the stream.
 
 |yaml_parse| example
 

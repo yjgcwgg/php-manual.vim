@@ -1,4 +1,4 @@
-*idn_strerror* -- Returns string describing the IDNA error code
+idn_strerror -- Returns string describing the IDNA error code
 
   string idn_strerror(int errorcode)~
 

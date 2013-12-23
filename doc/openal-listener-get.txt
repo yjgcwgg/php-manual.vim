@@ -1,4 +1,4 @@
-*openal_listener_get* -- Retrieve a listener property
+openal_listener_get -- Retrieve a listener property
 
   mixed openal_listener_get(int property)~
 

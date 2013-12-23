@@ -1,4 +1,4 @@
-*abs* -- Absolute value
+abs -- Absolute value
 
   number abs(mixed number)~
 

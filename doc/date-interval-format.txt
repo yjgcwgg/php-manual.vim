@@ -1,4 +1,4 @@
-*date_interval_format* -- Alias of DateInterval::format
+date_interval_format -- Alias of DateInterval::format
 
 This function is an alias of: DateInterval::format
 

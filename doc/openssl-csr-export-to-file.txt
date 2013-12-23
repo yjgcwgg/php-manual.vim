@@ -1,4 +1,4 @@
-*openssl_csr_export_to_file* -- Exports a CSR to a file
+openssl_csr_export_to_file -- Exports a CSR to a file
 
   bool openssl_csr_export_to_file(resource csr, string outfilename [, bool notext])~
 

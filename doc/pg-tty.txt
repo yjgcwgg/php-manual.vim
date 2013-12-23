@@ -1,4 +1,4 @@
-*pg_tty* -- Return the TTY name associated with the connection
+pg_tty -- Return the TTY name associated with the connection
 
   string pg_tty([resource connection])~
 

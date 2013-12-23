@@ -1,4 +1,4 @@
-*ncurses_inch* -- Get character and attribute at current position
+ncurses_inch -- Get character and attribute at current position
 
   string ncurses_inch()~
 

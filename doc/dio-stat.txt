@@ -1,4 +1,4 @@
-*dio_stat* -- Gets stat information about the file descriptor fd
+dio_stat -- Gets stat information about the file descriptor fd
 
   array dio_stat(resource fd)~
 

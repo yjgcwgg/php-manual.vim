@@ -1,4 +1,4 @@
-*gupnp_service_proxy_get_subscribed* -- Check whether subscription is valid to
+gupnp_service_proxy_get_subscribed -- Check whether subscription is valid to
 the service
 
   bool gupnp_service_proxy_get_subscribed(resource proxy)~

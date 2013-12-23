@@ -1,4 +1,4 @@
-*hw_GetChildDocColl* -- Object ids of child documents of collection
+hw_GetChildDocColl -- Object ids of child documents of collection
 
   array hw_getchilddoccoll(int connection, int objectID)~
 

@@ -1,4 +1,4 @@
-*pspell_config_create* -- Create a config used to open a dictionary
+pspell_config_create -- Create a config used to open a dictionary
 
   int pspell_config_create(string language [, string spelling [, string jargon [, string encoding]]])~
 

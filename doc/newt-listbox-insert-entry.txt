@@ -1,4 +1,4 @@
-*newt_listbox_insert_entry* --
+newt_listbox_insert_entry --
 
   void newt_listbox_insert_entry(resource listbox, string text, mixed data, mixed key)~
 

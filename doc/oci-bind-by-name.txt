@@ -1,4 +1,4 @@
-*oci_bind_by_name* -- Binds a PHP variable to an Oracle placeholder
+oci_bind_by_name -- Binds a PHP variable to an Oracle placeholder
 
   bool oci_bind_by_name(resource statement, string bv_name, mixed variable [, int maxlength [, int type]])~
 
@@ -577,10 +577,6 @@ pointing to the last loop iteration's value. Instead use the following:
       oci_bind_by_name($stid, $key, $myarray[$key]);
   }
 ?>
-
-In PHP versions before 5.0.0 you must use |ocibindbyname| instead. The old
-function name can still be used in current versions, however it is deprecated
-and not recommended.
 
 |oci_bind_array_by_name| |oci_parse|
 

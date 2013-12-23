@@ -1,4 +1,4 @@
-*die* -- Equivalent to exit
+die -- Equivalent to exit
 
 This language construct is equivalent to |exit|.
 

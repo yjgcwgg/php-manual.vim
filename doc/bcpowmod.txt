@@ -1,4 +1,4 @@
-*bcpowmod* -- Raise an arbitrary precision number to another, reduced by a
+bcpowmod -- Raise an arbitrary precision number to another, reduced by a
 specified modulus
 
   string bcpowmod(string left_operand, string right_operand, string modulus [, int scale])~

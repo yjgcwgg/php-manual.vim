@@ -1,4 +1,4 @@
-*swf_endshape* -- Completes the definition of the current shape
+swf_endshape -- Completes the definition of the current shape
 
   void swf_endshape()~
 

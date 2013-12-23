@@ -1,20 +1,29 @@
-*pathinfo* -- Returns information about a file path
+pathinfo -- Returns information about a file path
 
   mixed pathinfo(string path [, int options])~
 
-|pathinfo| returns an associative array containing information about {path}.
+|pathinfo| returns information about {path}: either an associative array or a
+string, depending on {options}.
 
-{path} The path being checked.
+{path} The path to be parsed.
 
-{options} You can specify which elements are returned with optional parameter
-{options}. It composes from PATHINFO_DIRNAME, PATHINFO_BASENAME,
-PATHINFO_EXTENSION and PATHINFO_FILENAME. It defaults to return all elements.
+{options} If present, specifies a specific element to be returned; one of
+PATHINFO_DIRNAME, PATHINFO_BASENAME, PATHINFO_EXTENSION or PATHINFO_FILENAME.
 
-The following associative array elements are returned: dirname, basename,
-extension (if any), and filename.
+If {options} is not specified, returns all available elements.
 
-If {options} is used, this function will return a string if not all elements
-are requested.
+If the {options} parameter is not passed, an associative array containing the
+following elements is returned: dirname, basename, extension (if any), and
+filename.
+
+If the {path} has more than one extension, PATHINFO_EXTENSION returns only the
+last one and PATHINFO_FILENAME only strips the last one. (see first example
+below).
+
+If the {path} does not have an extension, no extension element will be
+returned (see second example below).
+
+If {options} is present, returns a string containing the requested element.
 
 Version Description 5.2.0 The PATHINFO_FILENAME constant was added.
 
@@ -38,11 +47,30 @@ The above example will output:
 
 
 
+|pathinfo| example showing difference between null and no extension
+
+<?php >
+  $path_parts = pathinfo('/path/emptyextension.');
+  var_dump($path_parts['extension']);
+  
+  $path_parts = pathinfo('/path/noextension');
+  var_dump($path_parts['extension']);
+?>
+
+The above example will output something similar to:
+
+  string(0) ""
+  
+  Notice: Undefined index: extension in test.php on line 6
+  NULL
+
+
+
 For information on retrieving the current path info, read the section on
 predefined reserved variables.
 
-|pathinfo| is locale aware, so for it to parse the path correctly with
-multibyte character, the matching locale must be set using the |setlocale|
+|pathinfo| is locale aware, so for it to parse a path containing multibyte
+characters correctly, the matching locale must be set using the |setlocale|
 function.
 
 |dirname| |basename| |parse_url| |realpath|

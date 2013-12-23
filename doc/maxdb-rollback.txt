@@ -1,4 +1,4 @@
-*maxdb::rollback* -- Rolls back current transaction
+maxdb::rollback -- Rolls back current transaction
 
 Procedural style
 

@@ -1,4 +1,4 @@
-*dbplus_info* -- Get information about a relation
+dbplus_info -- Get information about a relation
 
   int dbplus_info(resource relation, string key, array result)~
 

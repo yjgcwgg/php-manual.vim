@@ -1,4 +1,4 @@
-*imagefilltoborder* -- Flood fill to specific color
+imagefilltoborder -- Flood fill to specific color
 
   bool imagefilltoborder(resource image, int x, int y, int border, int color)~
 

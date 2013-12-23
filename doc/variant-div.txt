@@ -1,4 +1,4 @@
-*variant_div* -- Returns the result from dividing two variants
+variant_div -- Returns the result from dividing two variants
 
   mixed variant_div(mixed left, mixed right)~
 

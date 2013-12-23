@@ -1,4 +1,4 @@
-*ldap_get_entries* -- Get all result entries
+ldap_get_entries -- Get all result entries
 
   array ldap_get_entries(resource link_identifier, resource result_identifier)~
 

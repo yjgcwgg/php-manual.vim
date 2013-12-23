@@ -1,4 +1,4 @@
-*mb_encoding_aliases* -- Get aliases of a known encoding type
+mb_encoding_aliases -- Get aliases of a known encoding type
 
   array mb_encoding_aliases(string encoding)~
 

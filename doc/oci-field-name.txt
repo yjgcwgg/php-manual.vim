@@ -1,4 +1,4 @@
-*oci_field_name* -- Returns the name of a field from the statement
+oci_field_name -- Returns the name of a field from the statement
 
   string oci_field_name(resource statement, int field)~
 

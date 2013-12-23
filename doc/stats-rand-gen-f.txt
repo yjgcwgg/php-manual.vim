@@ -1,4 +1,4 @@
-*stats_rand_gen_f* -- Generates a random deviate
+stats_rand_gen_f -- Generates a random deviate
 
   float stats_rand_gen_f(float dfn, float dfd)~
 

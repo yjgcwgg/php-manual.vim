@@ -1,4 +1,4 @@
-*ifx_get_char* -- Return the content of the char object
+ifx_get_char -- Return the content of the char object
 
   string ifx_get_char(int bid)~
 

@@ -1,4 +1,4 @@
-*imap_setflag_full* -- Sets flags on messages
+imap_setflag_full -- Sets flags on messages
 
   bool imap_setflag_full(resource imap_stream, string sequence, string flag [, int options])~
 

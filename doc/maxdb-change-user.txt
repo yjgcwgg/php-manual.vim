@@ -1,4 +1,4 @@
-*maxdb::change_user* -- Changes the user of the specified database connection
+maxdb::change_user -- Changes the user of the specified database connection
 
 Procedural style
 

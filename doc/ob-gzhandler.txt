@@ -1,4 +1,4 @@
-*ob_gzhandler* -- ob_start callback function to gzip output buffer
+ob_gzhandler -- ob_start callback function to gzip output buffer
 
   string ob_gzhandler(string buffer, int mode)~
 
@@ -27,8 +27,8 @@ Version Description 4.0.5 The {mode} parameter was added.
   <html>
   <body>
   <p>This should be a compressed page.</p>
+  </body>
   </html>
-  <body>
 
 
 

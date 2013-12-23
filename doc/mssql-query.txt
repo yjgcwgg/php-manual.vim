@@ -1,4 +1,4 @@
-*mssql_query* -- Send MS SQL query
+mssql_query -- Send MS SQL query
 
   mixed mssql_query(string query [, resource link_identifier [, int batch_size]])~
 

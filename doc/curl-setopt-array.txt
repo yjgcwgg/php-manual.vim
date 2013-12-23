@@ -1,4 +1,4 @@
-*curl_setopt_array* -- Set multiple options for a cURL transfer
+curl_setopt_array -- Set multiple options for a cURL transfer
 
   bool curl_setopt_array(resource ch, array options)~
 

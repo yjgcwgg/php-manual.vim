@@ -1,4 +1,4 @@
-*db2_special_columns* -- Returns a result set listing the unique row identifier
+db2_special_columns -- Returns a result set listing the unique row identifier
 columns for a table
 
   resource db2_special_columns(resource connection, string qualifier, string schema, string table_name, int scope)~

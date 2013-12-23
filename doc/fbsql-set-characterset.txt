@@ -1,4 +1,4 @@
-*fbsql_set_characterset* -- Change input/output character set
+fbsql_set_characterset -- Change input/output character set
 
   void fbsql_set_characterset(resource link_identifier, int characterset [, int in_out_both])~
 

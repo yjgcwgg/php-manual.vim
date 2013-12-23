@@ -1,4 +1,4 @@
-*ovrimos_fetch_into* -- Fetches a row from the result set
+ovrimos_fetch_into -- Fetches a row from the result set
 
   bool ovrimos_fetch_into(int result_id, array result_array [, string how [, int rownumber]])~
 

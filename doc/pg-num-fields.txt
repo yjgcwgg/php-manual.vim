@@ -1,4 +1,4 @@
-*pg_num_fields* -- Returns the number of fields in a result
+pg_num_fields -- Returns the number of fields in a result
 
   int pg_num_fields(resource result)~
 

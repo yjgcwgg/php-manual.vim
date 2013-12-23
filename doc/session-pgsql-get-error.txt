@@ -1,4 +1,4 @@
-*session_pgsql_get_error* -- Returns number of errors and last error message
+session_pgsql_get_error -- Returns number of errors and last error message
 
   array session_pgsql_get_error([bool with_error_message])~
 

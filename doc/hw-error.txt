@@ -1,4 +1,4 @@
-*hw_Error* -- Error number
+hw_Error -- Error number
 
   int hw_error(int connection)~
 

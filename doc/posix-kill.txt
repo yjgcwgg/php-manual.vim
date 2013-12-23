@@ -1,4 +1,4 @@
-*posix_kill* -- Send a signal to a process
+posix_kill -- Send a signal to a process
 
   bool posix_kill(int pid, int sig)~
 

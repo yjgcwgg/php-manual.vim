@@ -1,4 +1,4 @@
-*event_del* -- Remove an event from the set of monitored events
+event_del -- Remove an event from the set of monitored events
 
   bool event_del(resource event)~
 

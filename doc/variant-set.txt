@@ -1,4 +1,4 @@
-*variant_set* -- Assigns a new value for a variant object
+variant_set -- Assigns a new value for a variant object
 
   void variant_set(variant variant, mixed value)~
 

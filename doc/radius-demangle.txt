@@ -1,4 +1,4 @@
-*radius_demangle* -- Demangles data
+radius_demangle -- Demangles data
 
   string radius_demangle(resource radius_handle, string mangled)~
 

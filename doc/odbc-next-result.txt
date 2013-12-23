@@ -1,4 +1,4 @@
-*odbc_next_result* -- Checks if multiple results are available
+odbc_next_result -- Checks if multiple results are available
 
   bool odbc_next_result(resource result_id)~
 

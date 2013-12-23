@@ -1,4 +1,4 @@
-*event_buffer_read* -- Read data from a buffered event
+event_buffer_read -- Read data from a buffered event
 
   string event_buffer_read(resource bevent, int data_size)~
 

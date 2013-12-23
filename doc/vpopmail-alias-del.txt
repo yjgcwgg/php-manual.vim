@@ -1,4 +1,4 @@
-*vpopmail_alias_del* -- Deletes all virtual aliases of a user
+vpopmail_alias_del -- Deletes all virtual aliases of a user
 
   bool vpopmail_alias_del(string user, string domain)~
 

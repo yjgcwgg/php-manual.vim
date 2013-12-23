@@ -1,4 +1,4 @@
-*mssql_min_error_severity* -- Sets the minimum error severity
+mssql_min_error_severity -- Sets the minimum error severity
 
   void mssql_min_error_severity(int severity)~
 

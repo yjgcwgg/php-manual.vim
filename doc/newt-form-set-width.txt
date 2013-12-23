@@ -1,4 +1,4 @@
-*newt_form_set_width* --
+newt_form_set_width --
 
   void newt_form_set_width(resource form, int width)~
 

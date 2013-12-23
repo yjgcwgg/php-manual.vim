@@ -1,4 +1,4 @@
-*imap_thread* -- Returns a tree of threaded message
+imap_thread -- Returns a tree of threaded message
 
   array imap_thread(resource imap_stream [, int options])~
 

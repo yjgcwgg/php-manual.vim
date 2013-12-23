@@ -1,4 +1,4 @@
-*atanh* -- Inverse hyperbolic tangent
+atanh -- Inverse hyperbolic tangent
 
   float atanh(float arg)~
 

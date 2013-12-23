@@ -1,4 +1,4 @@
-*radius_acct_open* -- Creates a Radius handle for accounting
+radius_acct_open -- Creates a Radius handle for accounting
 
   resource radius_acct_open()~
 

@@ -1,4 +1,4 @@
-*kadm5_flush* -- Flush all changes to the Kerberos database
+kadm5_flush -- Flush all changes to the Kerberos database
 
   bool kadm5_flush(resource handle)~
 

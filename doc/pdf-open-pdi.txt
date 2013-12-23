@@ -1,4 +1,4 @@
-*PDF_open_pdi* -- Open PDF file [deprecated]
+PDF_open_pdi -- Open PDF file [deprecated]
 
   int PDF_open_pdi(resource pdfdoc, string filename, string optlist, int len)~
 

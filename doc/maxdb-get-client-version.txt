@@ -1,4 +1,4 @@
-*maxdb_get_client_version* -- Get MaxDB client info
+maxdb_get_client_version -- Get MaxDB client info
 
   int maxdb_get_client_version()~
 

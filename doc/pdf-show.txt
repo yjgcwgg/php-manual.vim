@@ -1,4 +1,4 @@
-*PDF_show* -- Output text at current position
+PDF_show -- Output text at current position
 
   bool PDF_show(resource pdfdoc, string text)~
 

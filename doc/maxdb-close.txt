@@ -1,4 +1,4 @@
-*maxdb::close* -- Closes a previously opened database connection
+maxdb::close -- Closes a previously opened database connection
 
 Procedural style
 

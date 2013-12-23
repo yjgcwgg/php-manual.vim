@@ -1,4 +1,4 @@
-*stats_covariance* -- Computes the covariance of two data sets
+stats_covariance -- Computes the covariance of two data sets
 
   float stats_covariance(array a, array b)~
 

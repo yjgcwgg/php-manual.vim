@@ -1,4 +1,4 @@
-*ssh2_exec* -- Execute a command on a remote server
+ssh2_exec -- Execute a command on a remote server
 
   resource ssh2_exec(resource session, string command [, string pty [, array env [, int width [, int height [, int width_height_type]]]]])~
 

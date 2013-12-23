@@ -1,4 +1,4 @@
-*swf_mulcolor* -- Sets the global multiply color to the rgba value specified
+swf_mulcolor -- Sets the global multiply color to the rgba value specified
 
   void swf_mulcolor(float r, float g, float b, float a)~
 

@@ -1,4 +1,4 @@
-*newt_entry* --
+newt_entry --
 
   resource newt_entry(int left, int top, int width [, string init_value [, int flags]])~
 

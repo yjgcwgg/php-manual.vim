@@ -1,4 +1,4 @@
-*mb_eregi* -- Regular expression match ignoring case with multibyte support
+mb_eregi -- Regular expression match ignoring case with multibyte support
 
   int mb_eregi(string pattern, string string [, array regs])~
 

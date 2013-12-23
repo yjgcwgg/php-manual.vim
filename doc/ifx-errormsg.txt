@@ -1,4 +1,4 @@
-*ifx_errormsg* -- Returns error message of last Informix call
+ifx_errormsg -- Returns error message of last Informix call
 
   string ifx_errormsg([int errorcode])~
 

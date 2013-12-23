@@ -1,4 +1,4 @@
-*curl_init* -- Initialize a cURL session
+curl_init -- Initialize a cURL session
 
   resource curl_init([string url])~
 
@@ -7,6 +7,8 @@ Initializes a new session and return a cURL handle for use with the
 
 {url} If provided, the CURLOPT_URL option will be set to its value. You can
 manually set this using the |curl_setopt| function.
+
+The file protocol is disabled by cURL if open_basedir is set.
 
 Returns a cURL handle on success, FALSE on errors.
 

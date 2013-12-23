@@ -1,4 +1,4 @@
-*array_intersect_assoc* -- Computes the intersection of arrays with additional
+array_intersect_assoc -- Computes the intersection of arrays with additional
 index check
 
   array array_intersect_assoc(array array1, array array2 [, array ...])~
@@ -11,7 +11,7 @@ comparison unlike in |array_intersect|.
 
 {array2} An array to compare values against.
 
-{array} A variable list of arrays to compare.
+{...} A variable list of arrays to compare.
 
 Returns an associative array containing all the values in {array1} that are
 present in all of the arguments.
@@ -20,7 +20,7 @@ present in all of the arguments.
 
 <?php >
   $array1 = array("a" => "green", "b" => "brown", "c" => "blue", "red");
-  $array2 = array("a" => "green", "yellow", "red");
+  $array2 = array("a" => "green", "b" => "yellow", "blue", "red");
   $result_array = array_intersect_assoc($array1, $array2);
   print_r($result_array);
 ?>
@@ -36,7 +36,8 @@ The above example will output:
 
 In our example you see that only the pair "a" => "green" is present in both
 arrays and thus is returned. The value "red" is not returned because in
-$array1 its key is 0 while the key of "red" in $array2 is 1.
+$array1 its key is 0 while the key of "red" in $array2 is 1, and the key "b"
+is not returned because its values are different in each array.
 
 The two values from the key => value pairs are considered equal only if
 (string) $elem1 === (string) $elem2 . In other words a strict type check is

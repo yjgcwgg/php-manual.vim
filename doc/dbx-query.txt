@@ -1,4 +1,4 @@
-*dbx_query* -- Send a query and fetch all results (if any)
+dbx_query -- Send a query and fetch all results (if any)
 
   mixed dbx_query(object link_identifier, string sql_statement [, int flags])~
 

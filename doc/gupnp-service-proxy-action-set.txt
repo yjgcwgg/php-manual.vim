@@ -1,4 +1,4 @@
-*gupnp_service_proxy_action_set* -- Send action to the service and set value
+gupnp_service_proxy_action_set -- Send action to the service and set value
 
   bool gupnp_service_proxy_action_set(resource proxy, string action, string name, mixed value, int type)~
 

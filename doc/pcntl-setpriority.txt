@@ -1,4 +1,4 @@
-*pcntl_setpriority* -- Change the priority of any process
+pcntl_setpriority -- Change the priority of any process
 
   bool pcntl_setpriority(int priority [, int pid [, int process_identifier]])~
 

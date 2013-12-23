@@ -1,4 +1,4 @@
-*runkit_import* -- Process a PHP file importing function and class definitions,
+runkit_import -- Process a PHP file importing function and class definitions,
 overwriting where appropriate
 
   bool runkit_import(string filename [, int flags])~

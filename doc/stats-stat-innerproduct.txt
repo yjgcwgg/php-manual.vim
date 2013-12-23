@@ -1,4 +1,4 @@
-*stats_stat_innerproduct* --
+stats_stat_innerproduct --
 
   float stats_stat_innerproduct(array arr1, array arr2)~
 

@@ -1,4 +1,4 @@
-*notes_list_msgs* -- Returns the notes from a selected database_name
+notes_list_msgs -- Returns the notes from a selected database_name
 
   bool notes_list_msgs(string db)~
 

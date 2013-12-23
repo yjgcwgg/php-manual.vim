@@ -1,4 +1,4 @@
-*ibase_pconnect* -- Open a persistent connection to an InterBase database
+ibase_pconnect -- Open a persistent connection to an InterBase database
 
   resource ibase_pconnect([string database [, string username [, string password [, string charset [, int buffers [, int dialect [, string role [, int sync]]]]]]]])~
 

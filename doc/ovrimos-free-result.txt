@@ -1,4 +1,4 @@
-*ovrimos_free_result* -- Frees the specified result_id
+ovrimos_free_result -- Frees the specified result_id
 
   bool ovrimos_free_result(int result_id)~
 

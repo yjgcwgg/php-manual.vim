@@ -1,4 +1,4 @@
-*ldap_first_attribute* -- Return first attribute
+ldap_first_attribute -- Return first attribute
 
   string ldap_first_attribute(resource link_identifier, resource result_entry_identifier)~
 

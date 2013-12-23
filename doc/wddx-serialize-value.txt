@@ -1,4 +1,4 @@
-*wddx_serialize_value* -- Serialize a single value into a WDDX packet
+wddx_serialize_value -- Serialize a single value into a WDDX packet
 
   string wddx_serialize_value(mixed var [, string comment])~
 

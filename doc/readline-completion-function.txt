@@ -1,6 +1,6 @@
-*readline_completion_function* -- Registers a completion function
+readline_completion_function -- Registers a completion function
 
-  bool readline_completion_function(callback function)~
+  bool readline_completion_function(callable function)~
 
 This function registers a completion function. This is the same kind of
 functionality you'd get if you hit your tab key while using Bash.

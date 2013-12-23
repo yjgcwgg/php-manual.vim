@@ -1,4 +1,4 @@
-*variant_or* -- Performs a logical disjunction on two variants
+variant_or -- Performs a logical disjunction on two variants
 
   mixed variant_or(mixed left, mixed right)~
 

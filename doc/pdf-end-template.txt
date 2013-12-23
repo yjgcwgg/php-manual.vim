@@ -1,4 +1,4 @@
-*PDF_end_template* -- Finish template
+PDF_end_template -- Finish template
 
   bool PDF_end_template(resource p)~
 

@@ -1,4 +1,4 @@
-*imagesy* -- Get image height
+imagesy -- Get image height
 
   int imagesy(resource image)~
 

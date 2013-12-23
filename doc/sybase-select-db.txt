@@ -1,4 +1,4 @@
-*sybase_select_db* -- Selects a Sybase database
+sybase_select_db -- Selects a Sybase database
 
   bool sybase_select_db(string database_name [, resource link_identifier])~
 

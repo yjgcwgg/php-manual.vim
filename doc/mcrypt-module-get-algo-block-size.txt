@@ -1,4 +1,4 @@
-*mcrypt_module_get_algo_block_size* -- Returns the blocksize of the specified
+mcrypt_module_get_algo_block_size -- Returns the blocksize of the specified
 algorithm
 
   int mcrypt_module_get_algo_block_size(string algorithm [, string lib_dir])~

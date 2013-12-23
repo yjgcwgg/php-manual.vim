@@ -1,4 +1,4 @@
-*ncurses_init* -- Initialize ncurses
+ncurses_init -- Initialize ncurses
 
   void ncurses_init()~
 

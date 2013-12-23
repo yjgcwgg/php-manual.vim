@@ -1,4 +1,4 @@
-*cairo_matrix_create_translate* -- Alias of CairoMatrix::initTranslate
+cairo_matrix_create_translate -- Alias of CairoMatrix::initTranslate
 
 This function is an alias of: CairoMatrix::initTranslate.
 

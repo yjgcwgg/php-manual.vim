@@ -1,4 +1,4 @@
-*gupnp_context_unhost_path* -- Stop hosting
+gupnp_context_unhost_path -- Stop hosting
 
   bool gupnp_context_unhost_path(resource context, string server_path)~
 

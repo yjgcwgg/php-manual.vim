@@ -1,4 +1,4 @@
-*ovrimos_prepare* -- Prepares an SQL statement
+ovrimos_prepare -- Prepares an SQL statement
 
   int ovrimos_prepare(int connection_id, string query)~
 

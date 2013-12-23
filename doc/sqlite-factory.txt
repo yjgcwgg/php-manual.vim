@@ -1,4 +1,4 @@
-*sqlite_factory* -- Opens an SQLite database and returns an SQLiteDatabase
+sqlite_factory -- Opens an SQLite database and returns an SQLiteDatabase
 object
 
   SQLiteDatabase sqlite_factory(string filename [, int mode [, string error_message]])~

@@ -1,4 +1,4 @@
-*pcntl_sigtimedwait* -- Waits for signals, with a timeout
+pcntl_sigtimedwait -- Waits for signals, with a timeout
 
   int pcntl_sigtimedwait(array set [, array siginfo [, int seconds [, int nanoseconds]]])~
 

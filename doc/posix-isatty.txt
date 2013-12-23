@@ -1,4 +1,4 @@
-*posix_isatty* -- Determine if a file descriptor is an interactive terminal
+posix_isatty -- Determine if a file descriptor is an interactive terminal
 
   bool posix_isatty(int fd)~
 

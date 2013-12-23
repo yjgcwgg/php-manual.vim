@@ -1,4 +1,4 @@
-*mt_getrandmax* -- Show largest possible random value
+mt_getrandmax -- Show largest possible random value
 
   int mt_getrandmax()~
 

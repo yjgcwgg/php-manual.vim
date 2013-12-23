@@ -1,4 +1,4 @@
-*iis_start_service* -- Starts the service defined by ServiceId
+iis_start_service -- Starts the service defined by ServiceId
 
   int iis_start_service(string service_id)~
 

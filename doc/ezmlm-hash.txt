@@ -1,4 +1,4 @@
-*ezmlm_hash* -- Calculate the hash value needed by EZMLM
+ezmlm_hash -- Calculate the hash value needed by EZMLM
 
   int ezmlm_hash(string addr)~
 

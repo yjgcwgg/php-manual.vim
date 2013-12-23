@@ -1,4 +1,4 @@
-*fprintf* -- Write a formatted string to a stream
+fprintf -- Write a formatted string to a stream
 
   int fprintf(resource handle, string format [, mixed args [, mixed ...]])~
 

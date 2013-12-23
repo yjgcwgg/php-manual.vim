@@ -1,4 +1,4 @@
-*imagepolygon* -- Draws a polygon
+imagepolygon -- Draws a polygon
 
   bool imagepolygon(resource image, array points, int num_points, int color)~
 

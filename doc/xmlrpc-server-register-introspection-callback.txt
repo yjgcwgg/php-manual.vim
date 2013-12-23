@@ -1,4 +1,4 @@
-*xmlrpc_server_register_introspection_callback* -- Register a PHP function to
+xmlrpc_server_register_introspection_callback -- Register a PHP function to
 generate documentation
 
   bool xmlrpc_server_register_introspection_callback(resource server, string function)~

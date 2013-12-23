@@ -1,4 +1,4 @@
-*metaphone* -- Calculate the metaphone key of a string
+metaphone -- Calculate the metaphone key of a string
 
   string metaphone(string str [, int phonemes])~
 

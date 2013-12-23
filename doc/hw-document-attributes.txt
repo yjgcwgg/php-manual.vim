@@ -1,4 +1,4 @@
-*hw_Document_Attributes* -- Object record of hw_document
+hw_Document_Attributes -- Object record of hw_document
 
   string hw_document_attributes(int hw_document)~
 

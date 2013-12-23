@@ -1,4 +1,4 @@
-*domxml_open_file* -- Creates a DOM object from an XML file
+domxml_open_file -- Creates a DOM object from an XML file
 
   DomDocument domxml_open_file(string filename [, int mode [, array error]])~
 

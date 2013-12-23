@@ -1,4 +1,4 @@
-*solr_get_version* -- Returns the current version of the Apache Solr extension
+solr_get_version -- Returns the current version of the Apache Solr extension
 
   string solr_get_version()~
 

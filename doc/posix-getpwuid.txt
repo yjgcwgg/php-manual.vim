@@ -1,4 +1,4 @@
-*posix_getpwuid* -- Return info about a user by user id
+posix_getpwuid -- Return info about a user by user id
 
   array posix_getpwuid(int uid)~
 
@@ -40,7 +40,7 @@ The above example will output something similar to:
       [passwd]  => x
       [uid]     => 10000
       [gid]     => 42
-      [geocs]   => "tom,,,"
+      [gecos]   => "tom,,,"
       [dir]     => "/home/tom"
       [shell]   => "/bin/bash"
   )

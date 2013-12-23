@@ -1,4 +1,4 @@
-*cairo_scaled_font_get_type* -- Description
+cairo_scaled_font_get_type -- Description
 
   int cairo_scaled_font_get_type(CairoScaledFont scaledfont)~
 

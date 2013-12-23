@@ -1,4 +1,4 @@
-*PDF_set_text_pos* -- Set text position
+PDF_set_text_pos -- Set text position
 
   bool PDF_set_text_pos(resource p, float x, float y)~
 

@@ -1,4 +1,4 @@
-*wincache_unlock* -- Releases an exclusive lock on a given key
+wincache_unlock -- Releases an exclusive lock on a given key
 
   bool wincache_unlock(string key)~
 

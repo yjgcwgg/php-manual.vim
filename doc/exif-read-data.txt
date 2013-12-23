@@ -1,4 +1,4 @@
-*exif_read_data* -- Reads the EXIF headers from JPEG or TIFF
+exif_read_data -- Reads the EXIF headers from JPEG or TIFF
 
   array exif_read_data(string filename [, string sections [, bool arrays [, bool thumbnail]]])~
 
@@ -33,7 +33,7 @@ the value in IFD0 section.
 |exif_read_data| also validates EXIF data tags according to the EXIF
 specification (http://exif.org/Exif2-2.PDF, page 20).
 
-Windows ME/XP can both wipe the Exif headers when connecting to a camera.
+Windows Me/XP can both wipe the Exif headers when connecting to a camera.
 
 {filename} The name of the image file being read. This cannot be an URL.
 

@@ -1,4 +1,4 @@
-*ps_setpolydash* -- Sets appearance of a dashed line
+ps_setpolydash -- Sets appearance of a dashed line
 
   bool ps_setpolydash(resource psdoc, float arr)~
 

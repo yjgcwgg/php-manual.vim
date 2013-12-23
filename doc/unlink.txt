@@ -1,4 +1,4 @@
-*unlink* -- Deletes a file
+unlink -- Deletes a file
 
   bool unlink(string filename [, resource context])~
 

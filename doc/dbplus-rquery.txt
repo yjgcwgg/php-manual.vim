@@ -1,4 +1,4 @@
-*dbplus_rquery* -- Perform local (raw) AQL query
+dbplus_rquery -- Perform local (raw) AQL query
 
   resource dbplus_rquery(string query [, string dbpath])~
 

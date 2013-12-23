@@ -1,4 +1,4 @@
-*getmypid* -- Gets PHP's process ID
+getmypid -- Gets PHP's process ID
 
   int getmypid()~
 

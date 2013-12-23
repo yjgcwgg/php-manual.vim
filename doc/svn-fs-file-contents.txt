@@ -1,4 +1,4 @@
-*svn_fs_file_contents* -- Returns a stream to access the contents of a file from
+svn_fs_file_contents -- Returns a stream to access the contents of a file from
 a given version of the fs
 
   resource svn_fs_file_contents(resource fsroot, string path)~

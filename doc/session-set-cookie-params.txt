@@ -1,4 +1,4 @@
-*session_set_cookie_params* -- Set the session cookie parameters
+session_set_cookie_params -- Set the session cookie parameters
 
   void session_set_cookie_params(int lifetime [, string path [, string domain [, bool secure [, bool httponly]]]])~
 
@@ -6,6 +6,9 @@ Set cookie parameters defined in the php.ini file. The effect of this function
 only lasts for the duration of the script. Thus, you need to call
 |session_set_cookie_params| for every request and before |session_start| is
 called.
+
+This function updates the runtime ini values of the corresponding PHP ini
+configuration keys which can be retrieved with the |ini_get|.
 
 {lifetime} Lifetime of the session cookie, defined in seconds.
 
@@ -25,7 +28,7 @@ No value is returned.
 Version Description 5.2.0 The {httponly} parameter was added. 4.0.4 The
 {secure} parameter was added.
 
-session.cookie_lifetime session.cookie_domain session.cookie_secure
-session.cookie_httponly |session_get_cookie_params|
+session.cookie_lifetime session.cookie_path session.cookie_domain
+session.cookie_secure session.cookie_httponly |session_get_cookie_params|
 
 vim:ft=help:

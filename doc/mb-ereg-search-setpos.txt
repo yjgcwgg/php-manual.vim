@@ -1,4 +1,4 @@
-*mb_ereg_search_setpos* -- Set start point of next regular expression match
+mb_ereg_search_setpos -- Set start point of next regular expression match
 
   bool mb_ereg_search_setpos(int position)~
 

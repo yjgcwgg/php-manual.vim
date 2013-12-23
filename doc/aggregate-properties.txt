@@ -1,4 +1,4 @@
-*aggregate_properties* -- Dynamic aggregation of class properties to an object
+aggregate_properties -- Dynamic aggregation of class properties to an object
 
   void aggregate_properties(object object, string class_name)~
 

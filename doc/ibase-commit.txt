@@ -1,4 +1,4 @@
-*ibase_commit* -- Commit a transaction
+ibase_commit -- Commit a transaction
 
   bool ibase_commit([resource link_or_trans_identifier])~
 

@@ -1,4 +1,4 @@
-*pg_version* -- Returns an array with client, protocol and server version (when
+pg_version -- Returns an array with client, protocol and server version (when
 available)
 
   array pg_version([resource connection])~

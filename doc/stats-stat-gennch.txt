@@ -1,4 +1,4 @@
-*stats_stat_gennch* -- Not documented
+stats_stat_gennch -- Not documented
 
   float stats_stat_gennch(int n)~
 

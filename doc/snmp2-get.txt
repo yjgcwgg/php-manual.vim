@@ -1,4 +1,4 @@
-*snmp2_get* -- Fetch an SNMP object
+snmp2_get -- Fetch an SNMP object
 
   string snmp2_get(string host, string community, string object_id [, string timeout [, string retries]])~
 
@@ -13,7 +13,7 @@ The SNMP object.
 
 The number of microseconds until the first timeout.
 
-The number of retries in case timeouts occur.
+The number of times to retry if timeouts occur.
 
 Returns SNMP object value on success or FALSE on error.
 

@@ -1,4 +1,4 @@
-*aggregate* -- Dynamic class and object aggregation of methods and properties
+aggregate -- Dynamic class and object aggregation of methods and properties
 
   void aggregate(object object, string class_name)~
 

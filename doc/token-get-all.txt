@@ -1,4 +1,4 @@
-*token_get_all* -- Split given source into PHP tokens
+token_get_all -- Split given source into PHP tokens
 
   array token_get_all(string source)~
 

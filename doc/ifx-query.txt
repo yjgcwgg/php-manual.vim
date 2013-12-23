@@ -1,4 +1,4 @@
-*ifx_query* -- Send Informix query
+ifx_query -- Send Informix query
 
   resource ifx_query(string query, resource link_identifier [, int cursor_type [, mixed blobidarray]])~
 

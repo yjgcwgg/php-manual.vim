@@ -1,4 +1,4 @@
-*msession_list* -- List all sessions
+msession_list -- List all sessions
 
   array msession_list()~
 

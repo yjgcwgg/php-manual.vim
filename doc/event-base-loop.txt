@@ -1,4 +1,4 @@
-*event_base_loop* -- Handle events
+event_base_loop -- Handle events
 
   int event_base_loop(resource event_base [, int flags])~
 

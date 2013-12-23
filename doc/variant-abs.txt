@@ -1,4 +1,4 @@
-*variant_abs* -- Returns the absolute value of a variant
+variant_abs -- Returns the absolute value of a variant
 
   mixed variant_abs(mixed val)~
 

@@ -1,4 +1,4 @@
-*ldap_start_tls* -- Start TLS
+ldap_start_tls -- Start TLS
 
   bool ldap_start_tls(resource link)~
 

@@ -1,4 +1,4 @@
-*geoip_country_name_by_name* -- Get the full country name
+geoip_country_name_by_name -- Get the full country name
 
   string geoip_country_name_by_name(string hostname)~
 

@@ -1,4 +1,4 @@
-*dbplus_errno* -- Get error code for last operation
+dbplus_errno -- Get error code for last operation
 
   int dbplus_errno()~
 

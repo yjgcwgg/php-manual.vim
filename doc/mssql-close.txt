@@ -1,4 +1,4 @@
-*mssql_close* -- Close MS SQL Server connection
+mssql_close -- Close MS SQL Server connection
 
   bool mssql_close([resource link_identifier])~
 

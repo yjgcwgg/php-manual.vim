@@ -1,4 +1,4 @@
-*fdf_close* -- Close an FDF document
+fdf_close -- Close an FDF document
 
   void fdf_close(resource fdf_document)~
 

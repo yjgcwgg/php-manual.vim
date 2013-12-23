@@ -1,4 +1,4 @@
-*dbase_numrecords* -- Gets the number of records in a database
+dbase_numrecords -- Gets the number of records in a database
 
   int dbase_numrecords(int dbase_identifier)~
 

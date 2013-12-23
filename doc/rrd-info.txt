@@ -1,10 +1,10 @@
-*rrd_info* -- Gets information about rrd file
+rrd_info -- Gets information about rrd file
 
   array rrd_info(string filename)~
 
 Returns information about particular RRD database file.
 
-Filename for the RRD database file.
+RRD database file name.
 
 Array with information about requsted RRD file, FALSE when error occurs.
 

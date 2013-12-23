@@ -1,4 +1,4 @@
-*ibase_free_result* -- Free a result set
+ibase_free_result -- Free a result set
 
   bool ibase_free_result(resource result_identifier)~
 

@@ -1,4 +1,4 @@
-*ncurses_bkgd* -- Set background property for terminal screen
+ncurses_bkgd -- Set background property for terminal screen
 
   int ncurses_bkgd(int attrchar)~
 

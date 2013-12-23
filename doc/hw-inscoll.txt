@@ -1,4 +1,4 @@
-*hw_InsColl* -- Insert collection
+hw_InsColl -- Insert collection
 
   int hw_inscoll(int connection, int objectID, array object_array)~
 

@@ -1,4 +1,4 @@
-*connection_status* -- Returns connection status bitfield
+connection_status -- Returns connection status bitfield
 
   int connection_status()~
 

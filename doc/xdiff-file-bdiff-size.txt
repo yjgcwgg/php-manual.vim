@@ -1,4 +1,4 @@
-*xdiff_file_bdiff_size* -- Read a size of file created by applying a binary diff
+xdiff_file_bdiff_size -- Read a size of file created by applying a binary diff
 
   int xdiff_file_bdiff_size(string file)~
 

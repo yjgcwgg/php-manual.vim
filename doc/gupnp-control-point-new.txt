@@ -1,4 +1,4 @@
-*gupnp_control_point_new* -- Create a new control point
+gupnp_control_point_new -- Create a new control point
 
   resource gupnp_control_point_new(resource context, string target)~
 

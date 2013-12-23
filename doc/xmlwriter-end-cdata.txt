@@ -1,8 +1,8 @@
-*XMLWriter::endCData* -- End current CDATA
+xmlwriter_end_cdata -- End current CDATA
 
 Object oriented style
 
-  bool endCData()~
+  bool XMLWriter::endCData()~
 
 Procedural style
 

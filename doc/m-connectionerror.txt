@@ -1,4 +1,4 @@
-*m_connectionerror* -- Get a textual representation of why a connection failed
+m_connectionerror -- Get a textual representation of why a connection failed
 
   string m_connectionerror(resource conn)~
 

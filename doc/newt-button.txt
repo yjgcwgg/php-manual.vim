@@ -1,4 +1,4 @@
-*newt_button* -- Create a new button
+newt_button -- Create a new button
 
   resource newt_button(int left, int top, string text)~
 

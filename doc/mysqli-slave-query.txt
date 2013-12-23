@@ -1,4 +1,4 @@
-*mysqli_slave_query* -- Force execution of a query on a slave in a master/slave
+mysqli_slave_query -- Force execution of a query on a slave in a master/slave
 setup
 
   bool mysqli_slave_query(mysqli link, string query)~

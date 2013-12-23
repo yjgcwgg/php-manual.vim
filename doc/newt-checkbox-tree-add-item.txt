@@ -1,4 +1,4 @@
-*newt_checkbox_tree_add_item* -- Adds new item to the checkbox tree
+newt_checkbox_tree_add_item -- Adds new item to the checkbox tree
 
   void newt_checkbox_tree_add_item(resource checkboxtree, string text, mixed data, int flags, int index [, int ...])~
 

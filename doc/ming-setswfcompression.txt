@@ -1,4 +1,4 @@
-*ming_setswfcompression* -- Sets the SWF output compression
+ming_setswfcompression -- Sets the SWF output compression
 
   void ming_setswfcompression(int level)~
 

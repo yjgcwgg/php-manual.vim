@@ -1,4 +1,4 @@
-*maxdb->next_result* -- Prepare next result from multi_query
+maxdb::next_result -- Prepare next result from multi_query
 
   bool maxdb_next_result(resource link)~
 

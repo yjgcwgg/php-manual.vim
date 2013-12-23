@@ -1,4 +1,4 @@
-*str_repeat* -- Repeat a string
+str_repeat -- Repeat a string
 
   string str_repeat(string input, int multiplier)~
 

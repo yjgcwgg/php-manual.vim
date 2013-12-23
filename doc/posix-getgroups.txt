@@ -1,4 +1,4 @@
-*posix_getgroups* -- Return the group set of the current process
+posix_getgroups -- Return the group set of the current process
 
   array posix_getgroups()~
 

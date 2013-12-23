@@ -1,4 +1,4 @@
-*maxdb_result->field_count* -- Get the number of fields in a result
+maxdb_result::field_count -- Get the number of fields in a result
 
 Procedural style
 

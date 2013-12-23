@@ -1,4 +1,4 @@
-*pg_fetch_result* -- Returns values from a result resource
+pg_fetch_result -- Returns values from a result resource
 
   string pg_fetch_result(resource result, int row, mixed field)~
 

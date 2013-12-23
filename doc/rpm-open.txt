@@ -1,4 +1,4 @@
-*rpm_open* -- Opens an RPM file
+rpm_open -- Opens an RPM file
 
   resource rpm_open(string filename)~
 

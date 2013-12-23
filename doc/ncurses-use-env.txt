@@ -1,4 +1,4 @@
-*ncurses_use_env* -- Control use of environment information about terminal size
+ncurses_use_env -- Control use of environment information about terminal size
 
   void ncurses_use_env(bool flag)~
 

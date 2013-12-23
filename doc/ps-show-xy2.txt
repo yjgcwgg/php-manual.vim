@@ -1,4 +1,4 @@
-*ps_show_xy2* -- Output text at position
+ps_show_xy2 -- Output text at position
 
   bool ps_show_xy2(resource psdoc, string text, int len, float xcoor, float ycoor)~
 

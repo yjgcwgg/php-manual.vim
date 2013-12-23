@@ -1,4 +1,4 @@
-*ps_arc* -- Draws an arc counterclockwise
+ps_arc -- Draws an arc counterclockwise
 
   bool ps_arc(resource psdoc, float x, float y, float radius, float alpha, float beta)~
 

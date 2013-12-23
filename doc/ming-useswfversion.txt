@@ -1,4 +1,4 @@
-*ming_useswfversion* -- Sets the SWF version
+ming_useswfversion -- Sets the SWF version
 
   void ming_useswfversion(int version)~
 

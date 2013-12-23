@@ -1,4 +1,4 @@
-*px_get_value* -- Gets a value
+px_get_value -- Gets a value
 
   float px_get_value(resource pxdoc, string name)~
 

@@ -1,4 +1,4 @@
-*shm_detach* -- Disconnects from shared memory segment
+shm_detach -- Disconnects from shared memory segment
 
   bool shm_detach(resource shm_identifier)~
 

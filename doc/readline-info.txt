@@ -1,4 +1,4 @@
-*readline_info* -- Gets/sets various internal readline variables
+readline_info -- Gets/sets various internal readline variables
 
   mixed readline_info([string varname [, string newvalue]])~
 

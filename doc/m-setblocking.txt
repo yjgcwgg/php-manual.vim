@@ -1,4 +1,4 @@
-*m_setblocking* -- Set blocking/non-blocking mode for connection
+m_setblocking -- Set blocking/non-blocking mode for connection
 
   int m_setblocking(resource conn, int tf)~
 

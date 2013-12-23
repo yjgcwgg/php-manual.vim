@@ -1,4 +1,4 @@
-*ps_save* -- Save current context
+ps_save -- Save current context
 
   bool ps_save(resource psdoc)~
 

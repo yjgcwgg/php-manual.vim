@@ -1,4 +1,4 @@
-*swf_actiontogglequality* -- Toggle between low and high quality
+swf_actiontogglequality -- Toggle between low and high quality
 
   void swf_actiontogglequality()~
 

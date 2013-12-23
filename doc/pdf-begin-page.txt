@@ -1,4 +1,4 @@
-*PDF_begin_page* -- Start new page [deprecated]
+PDF_begin_page -- Start new page [deprecated]
 
   bool PDF_begin_page(resource pdfdoc, float width, float height)~
 

@@ -1,4 +1,4 @@
-*class_parents* -- Return the parent classes of the given class
+class_parents -- Return the parent classes of the given class
 
   array class_parents(mixed class [, bool autoload])~
 
@@ -8,7 +8,7 @@ given {class}.
 {class} An object (class instance) or a string (class name).
 
 {autoload} Whether to allow this function to load the class automatically
-through the __autoload magic method.
+through the |__autoload| magic method.
 
 An array on success, or FALSE on error.
 

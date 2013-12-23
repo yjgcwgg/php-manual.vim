@@ -1,4 +1,4 @@
-*openssl_x509_export* -- Exports a certificate as a string
+openssl_x509_export -- Exports a certificate as a string
 
   bool openssl_x509_export(mixed x509, string output [, bool notext])~
 

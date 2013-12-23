@@ -1,4 +1,4 @@
-*openssl_dh_compute_key* -- Computes shared secret for public value of remote DH
+openssl_dh_compute_key -- Computes shared secret for public value of remote DH
 key and local DH key
 
   string openssl_dh_compute_key(string pub_key, resource dh_key)~

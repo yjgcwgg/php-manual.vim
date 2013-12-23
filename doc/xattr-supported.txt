@@ -1,4 +1,4 @@
-*xattr_supported* -- Check if filesystem supports extended attributes
+xattr_supported -- Check if filesystem supports extended attributes
 
   bool xattr_supported(string filename [, int flags])~
 

@@ -1,4 +1,4 @@
-*win32_ps_list_procs* -- List running processes
+win32_ps_list_procs -- List running processes
 
   array win32_ps_list_procs()~
 

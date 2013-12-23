@@ -1,4 +1,4 @@
-*pspell_check* -- Check a word
+pspell_check -- Check a word
 
   bool pspell_check(int dictionary_link, string word)~
 

@@ -1,4 +1,4 @@
-*easter_days* -- Get number of days after March 21 on which Easter falls for a
+easter_days -- Get number of days after March 21 on which Easter falls for a
 given year
 
   int easter_days([int year [, int method]])~
@@ -31,9 +31,9 @@ constants for more valid constants.
 The number of days after March 21st that the Easter Sunday is in the given
 {year}.
 
-Version Description Since 4.3.0 The {year} parameter is optional and defaults
-to the current year according to the local time if omitted. Since 4.3.0 The
-{method} parameter was introduced.
+Version Description 4.3.0 The {year} parameter is optional and defaults to the
+current year according to the local time if omitted. 4.3.0 The {method}
+parameter was introduced.
 
 |easter_days| example
 

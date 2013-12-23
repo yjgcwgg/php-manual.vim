@@ -1,4 +1,4 @@
-*mqseries_get* -- MQSeries MQGET
+mqseries_get -- MQSeries MQGET
 
   void mqseries_get(resource hConn, resource hObj, array md, array gmo, int bufferLength, string msg, int data_length, resource compCode, resource reason)~
 

@@ -1,4 +1,4 @@
-*mssql_field_name* -- Get the name of a field
+mssql_field_name -- Get the name of a field
 
   string mssql_field_name(resource result [, int offset])~
 

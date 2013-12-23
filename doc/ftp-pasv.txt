@@ -1,4 +1,4 @@
-*ftp_pasv* -- Turns passive mode on or off
+ftp_pasv -- Turns passive mode on or off
 
   bool ftp_pasv(resource ftp_stream, bool pasv)~
 

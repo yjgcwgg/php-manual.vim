@@ -1,4 +1,4 @@
-*strrchr* -- Find the last occurrence of a character in a string
+strrchr -- Find the last occurrence of a character in a string
 
   string strrchr(string haystack, mixed needle)~
 
@@ -35,6 +35,6 @@ Version Description 4.3.0 This function is now binary safe.
 
 This function is binary-safe.
 
-|strstr| |substr| |stristr|
+|strstr| |strrpos|
 
 vim:ft=help:

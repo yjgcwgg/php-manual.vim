@@ -1,4 +1,4 @@
-*passthru* -- Execute an external program and display raw output
+passthru -- Execute an external program and display raw output
 
   void passthru(string command [, int return_var])~
 

@@ -1,4 +1,4 @@
-*ps_end_template* -- End a template
+ps_end_template -- End a template
 
   bool ps_end_template(resource psdoc)~
 

@@ -1,4 +1,4 @@
-*socket_select* -- Runs the select() system call on the given arrays of sockets
+socket_select -- Runs the select() system call on the given arrays of sockets
 with a specified timeout
 
   int socket_select(array read, array write, array except, int tv_sec [, int tv_usec])~

@@ -1,4 +1,4 @@
-*ob_flush* -- Flush (send) the output buffer
+ob_flush -- Flush (send) the output buffer
 
   void ob_flush()~
 

@@ -1,4 +1,4 @@
-*hw_dummy* -- Hyperwave dummy function
+hw_dummy -- Hyperwave dummy function
 
   string hw_dummy(int link, int id, int msgid)~
 

@@ -1,4 +1,4 @@
-*bbcode_destroy* -- Close BBCode_container resource
+bbcode_destroy -- Close BBCode_container resource
 
   bool bbcode_destroy(resource bbcode_container)~
 

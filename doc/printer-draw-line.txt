@@ -1,4 +1,4 @@
-*printer_draw_line* -- Draw a line
+printer_draw_line -- Draw a line
 
   void printer_draw_line(resource printer_handle, int from_x, int from_y, int to_x, int to_y)~
 

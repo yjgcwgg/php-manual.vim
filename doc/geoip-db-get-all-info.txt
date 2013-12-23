@@ -1,4 +1,4 @@
-*geoip_db_get_all_info* -- Returns detailed information about all GeoIP database
+geoip_db_get_all_info -- Returns detailed information about all GeoIP database
 types
 
   array geoip_db_get_all_info()~

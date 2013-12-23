@@ -1,4 +1,4 @@
-*set_socket_blocking* -- Alias of stream_set_blocking
+set_socket_blocking -- Alias of stream_set_blocking
 
 This function is an alias of: |stream_set_blocking|
 

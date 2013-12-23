@@ -1,4 +1,4 @@
-*mailparse_msg_get_structure* -- Returns an array of mime section names in the
+mailparse_msg_get_structure -- Returns an array of mime section names in the
 supplied message
 
   array mailparse_msg_get_structure(resource mimemail)~

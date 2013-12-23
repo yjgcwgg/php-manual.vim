@@ -1,4 +1,4 @@
-*msql_error* -- Returns error message of last msql call
+msql_error -- Returns error message of last msql call
 
   string msql_error()~
 

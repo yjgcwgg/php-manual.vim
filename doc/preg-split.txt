@@ -1,4 +1,4 @@
-*preg_split* -- Split string by a regular expression
+preg_split -- Split string by a regular expression
 
   array preg_split(string pattern, string subject [, int limit [, int flags]])~
 
@@ -10,7 +10,7 @@ Split the given string by a regular expression.
 
 {limit} If specified, then only substrings up to {limit} are returned with the
 rest of the string being placed in the last substring. A {limit} of -1, 0 or
-null means "no limit" and, as is standard across PHP, you can use null to skip
+NULL means "no limit" and, as is standard across PHP, you can use NULL to skip
 to the {flags} parameter.
 
 {flags} {flags} can be any combination of the following flags (combined with
@@ -37,9 +37,17 @@ PREG_SPLIT_DELIM_CAPTURE was added
   // split the phrase by any number of commas or space characters,
   // which include " ", \r, \t, \n and \f
   $keywords = preg_split("/[\s,]+/", "hypertext language, programming");
+  print_r($keywords);
 ?>
 
+The above example will output:
 
+  Array
+  (
+      [0] => hypertext
+      [1] => language
+      [2] => programming
+  )
 
 
 
@@ -51,7 +59,17 @@ Splitting a string into component characters
   print_r($chars);
 ?>
 
+The above example will output:
 
+  Array
+  (
+      [0] => s
+      [1] => t
+      [2] => r
+      [3] => i
+      [4] => n
+      [5] => g
+  )
 
 
 
@@ -91,6 +109,9 @@ The above example will output:
 
 If you don't need the power of regular expressions, you can choose faster
 (albeit simpler) alternatives like |explode| or |str_split|.
+
+If matching fails, an array with a single element containing the input string
+will be returned.
 
 PCRE Patterns |implode| |preg_match| |preg_match_all| |preg_replace|
 |preg_last_error|

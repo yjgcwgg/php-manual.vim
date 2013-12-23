@@ -1,4 +1,4 @@
-*mb_convert_kana* -- Convert "kana" one from another ("zen-kaku", "han-kaku" and
+mb_convert_kana -- Convert "kana" one from another ("zen-kaku", "han-kaku" and
 more)
 
   string mb_convert_kana(string str [, string option [, string encoding]])~

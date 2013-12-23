@@ -1,4 +1,4 @@
-*variant_round* -- Rounds a variant to the specified number of decimal places
+variant_round -- Rounds a variant to the specified number of decimal places
 
   mixed variant_round(mixed variant, int decimals)~
 

@@ -1,4 +1,4 @@
-*ibase_fetch_row* -- Fetch a row from an InterBase database
+ibase_fetch_row -- Fetch a row from an InterBase database
 
   array ibase_fetch_row(resource result_identifier [, int fetch_flag])~
 

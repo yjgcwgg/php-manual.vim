@@ -1,4 +1,4 @@
-*com_create_guid* -- Generate a globally unique identifier (GUID)
+com_create_guid -- Generate a globally unique identifier (GUID)
 
   string com_create_guid()~
 

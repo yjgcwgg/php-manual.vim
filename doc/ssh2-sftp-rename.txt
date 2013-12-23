@@ -1,4 +1,4 @@
-*ssh2_sftp_rename* -- Rename a remote file
+ssh2_sftp_rename -- Rename a remote file
 
   bool ssh2_sftp_rename(resource sftp, string from, string to)~
 

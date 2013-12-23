@@ -1,4 +1,4 @@
-*pcntl_sigwaitinfo* -- Waits for signals
+pcntl_sigwaitinfo -- Waits for signals
 
   int pcntl_sigwaitinfo(array set [, array siginfo])~
 

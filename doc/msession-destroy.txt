@@ -1,4 +1,4 @@
-*msession_destroy* -- Destroy a session
+msession_destroy -- Destroy a session
 
   bool msession_destroy(string name)~
 

@@ -1,4 +1,4 @@
-*swf_posround* -- Enables or Disables the rounding of the translation when
+swf_posround -- Enables or Disables the rounding of the translation when
 objects are placed or moved
 
   void swf_posround(int round)~

@@ -1,4 +1,4 @@
-*oci_field_precision* -- Tell the precision of a field
+oci_field_precision -- Tell the precision of a field
 
   int oci_field_precision(resource statement, int field)~
 

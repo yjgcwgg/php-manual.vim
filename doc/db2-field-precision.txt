@@ -1,4 +1,4 @@
-*db2_field_precision* -- Returns the precision of the indicated column in a
+db2_field_precision -- Returns the precision of the indicated column in a
 result set
 
   int db2_field_precision(resource stmt, mixed column)~

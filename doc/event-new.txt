@@ -1,4 +1,4 @@
-*event_new* -- Create new event
+event_new -- Create new event
 
   resource event_new()~
 

@@ -1,4 +1,4 @@
-*db2_fetch_assoc* -- Returns an array, indexed by column name, representing a
+db2_fetch_assoc -- Returns an array, indexed by column name, representing a
 row in a result set
 
   array db2_fetch_assoc(resource stmt [, int row_number])~

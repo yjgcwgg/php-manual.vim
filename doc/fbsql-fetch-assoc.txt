@@ -1,4 +1,4 @@
-*fbsql_fetch_assoc* -- Fetch a result row as an associative array
+fbsql_fetch_assoc -- Fetch a result row as an associative array
 
   array fbsql_fetch_assoc(resource result)~
 

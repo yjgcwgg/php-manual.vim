@@ -1,4 +1,4 @@
-*ncurses_border* -- Draw a border around the screen using attributed characters
+ncurses_border -- Draw a border around the screen using attributed characters
 
   int ncurses_border(int left, int right, int top, int bottom, int tl_corner, int tr_corner, int bl_corner, int br_corner)~
 

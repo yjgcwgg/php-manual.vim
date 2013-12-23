@@ -1,4 +1,4 @@
-*date_parse_from_format* -- Get info about given date formatted according to the
+date_parse_from_format -- Get info about given date formatted according to the
 specified format
 
   array date_parse_from_format(string format, string date)~

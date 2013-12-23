@@ -1,4 +1,4 @@
-*cairo_surface_create_similar* -- Description
+cairo_surface_create_similar -- Description
 
   CairoSurface cairo_surface_create_similar(CairoSurface surface, int content, float width, float height)~
 

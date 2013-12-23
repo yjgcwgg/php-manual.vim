@@ -1,4 +1,4 @@
-*msg_get_queue* -- Create or attach to a message queue
+msg_get_queue -- Create or attach to a message queue
 
   resource msg_get_queue(int key [, int perms])~
 

@@ -1,4 +1,4 @@
-*pg_fetch_all* -- Fetches all rows from a result as an array
+pg_fetch_all -- Fetches all rows from a result as an array
 
   array pg_fetch_all(resource result)~
 
@@ -20,13 +20,13 @@ PostgreSQL fetch all
 <?php >
   $conn = pg_pconnect("dbname=publisher");
   if (!$conn) {
-      echo "An error occured.\n";
+      echo "An error occurred.\n";
       exit;
   }
   
   $result = pg_query($conn, "SELECT * FROM authors");
   if (!$result) {
-      echo "An error occured.\n";
+      echo "An error occurred.\n";
       exit;
   }
   

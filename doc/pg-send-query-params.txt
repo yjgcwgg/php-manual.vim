@@ -1,4 +1,4 @@
-*pg_send_query_params* -- Submits a command and separate parameters to the
+pg_send_query_params -- Submits a command and separate parameters to the
 server without waiting for the result(s).
 
   bool pg_send_query_params(resource connection, string query, array params)~

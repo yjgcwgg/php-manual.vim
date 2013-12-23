@@ -1,4 +1,4 @@
-*cairo_surface_set_device_offset* -- Description
+cairo_surface_set_device_offset -- Description
 
   void cairo_surface_set_device_offset(CairoSurface surface, float x, float y)~
 

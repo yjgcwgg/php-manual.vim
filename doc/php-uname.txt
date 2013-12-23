@@ -1,4 +1,4 @@
-*php_uname* -- Returns information about the operating system PHP is running on
+php_uname -- Returns information about the operating system PHP is running on
 
   string php_uname([string mode])~
 

@@ -1,4 +1,4 @@
-*openal_device_open* -- Initialize the OpenAL audio layer
+openal_device_open -- Initialize the OpenAL audio layer
 
   resource openal_device_open([string device_desc])~
 

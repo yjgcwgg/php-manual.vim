@@ -1,4 +1,4 @@
-*idate* -- Format a local time/date as integer
+idate -- Format a local time/date as integer
 
   int idate(string format [, int timestamp])~
 

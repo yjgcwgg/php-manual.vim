@@ -1,4 +1,4 @@
-*ncurses_newpad* -- Creates a new pad (window)
+ncurses_newpad -- Creates a new pad (window)
 
   resource ncurses_newpad(int rows, int cols)~
 

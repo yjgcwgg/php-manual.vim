@@ -1,4 +1,4 @@
-*yaz_scan* -- Prepares for a scan
+yaz_scan -- Prepares for a scan
 
   void yaz_scan(resource id, string type, string startterm [, array flags])~
 

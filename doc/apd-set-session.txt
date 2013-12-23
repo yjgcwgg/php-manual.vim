@@ -1,4 +1,4 @@
-*apd_set_session* -- Changes or sets the current debugging level
+apd_set_session -- Changes or sets the current debugging level
 
   void apd_set_session(int debug_level)~
 

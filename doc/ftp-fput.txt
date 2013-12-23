@@ -1,4 +1,4 @@
-*ftp_fput* -- Uploads from an open file to the FTP server
+ftp_fput -- Uploads from an open file to the FTP server
 
   bool ftp_fput(resource ftp_stream, string remote_file, resource handle, int mode [, int startpos])~
 

@@ -1,4 +1,4 @@
-*openal_stream* -- Begin streaming on a source
+openal_stream -- Begin streaming on a source
 
   resource openal_stream(resource source, int format, int rate)~
 

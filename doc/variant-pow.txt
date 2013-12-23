@@ -1,4 +1,4 @@
-*variant_pow* -- Returns the result of performing the power function with two
+variant_pow -- Returns the result of performing the power function with two
 variants
 
   mixed variant_pow(mixed left, mixed right)~

@@ -1,7 +1,7 @@
-*xml_set_start_namespace_decl_handler* -- Set up start namespace declaration
+xml_set_start_namespace_decl_handler -- Set up start namespace declaration
 handler
 
-  bool xml_set_start_namespace_decl_handler(resource parser, callback handler)~
+  bool xml_set_start_namespace_decl_handler(resource parser, callable handler)~
 
 Set a handler to be called when a namespace is declared. Namespace
 declarations occur inside start tags. But the namespace declaration start
@@ -13,7 +13,7 @@ that start tag.
 {handler} {handler} is a string containing the name of a function that must
 exist when |xml_parse| is called for {parser}.
 
-  bool (resource parser, callback handler, resource parser, string prefix, string uri)~
+  bool (resource parser, callable handler, resource parser, string prefix, string uri)~
 
 The function named by {handler} must accept three parameters, and should
 return an integer value. If the value returned from the handler is FALSE

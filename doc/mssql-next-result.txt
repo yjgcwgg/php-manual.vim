@@ -1,4 +1,4 @@
-*mssql_next_result* -- Move the internal result pointer to the next result
+mssql_next_result -- Move the internal result pointer to the next result
 
   bool mssql_next_result(resource result_id)~
 

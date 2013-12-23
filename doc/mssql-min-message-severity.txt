@@ -1,4 +1,4 @@
-*mssql_min_message_severity* -- Sets the minimum message severity
+mssql_min_message_severity -- Sets the minimum message severity
 
   void mssql_min_message_severity(int severity)~
 

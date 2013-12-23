@@ -1,4 +1,4 @@
-*oauth_get_sbs* -- Generate a Signature Base String
+oauth_get_sbs -- Generate a Signature Base String
 
   string oauth_get_sbs(string http_method, string uri [, array request_parameters])~
 

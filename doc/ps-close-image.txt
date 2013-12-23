@@ -1,4 +1,4 @@
-*ps_close_image* -- Closes image and frees memory
+ps_close_image -- Closes image and frees memory
 
   void ps_close_image(resource psdoc, int imageid)~
 

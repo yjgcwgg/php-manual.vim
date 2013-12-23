@@ -1,4 +1,4 @@
-*wincache_scache_meminfo* -- Retrieves information about session cache memory
+wincache_scache_meminfo -- Retrieves information about session cache memory
 usage
 
   array wincache_scache_meminfo()~

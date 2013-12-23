@@ -1,4 +1,4 @@
-*imagegif* -- Output image to browser or file
+imagegif -- Output image to browser or file
 
   bool imagegif(resource image [, string filename])~
 
@@ -30,7 +30,7 @@ Outputting an image using |imagegif|
   imagestring($im, 3, 40, 20, 'GD Library', 0xFFBA00);
   
   // Output the image to browser
-  header('Content-type: image/gif');
+  header('Content-Type: image/gif');
   
   imagegif($im);
   imagedestroy($im);
@@ -64,7 +64,7 @@ more information, see the GD Project site.
 
 The following code snippet allows you to write more portable PHP applications
 by auto-detecting the type of GD support which is available. Replace the
-sequence header ("Content-type: image/gif"); imagegif ($im); by the more
+sequence header ("Content-Type: image/gif"); imagegif ($im); by the more
 flexible sequence:
 
 <?php >
@@ -77,28 +77,28 @@ flexible sequence:
   if(function_exists('imagegif'))
   {
       // For GIF
-      header('Content-type: image/gif');
+      header('Content-Type: image/gif');
   
       imagegif($im);
   }
   elseif(function_exists('imagejpeg'))
   {
       // For JPEG
-      header('Content-type: image/jpeg');
+      header('Content-Type: image/jpeg');
   
       imagejpeg($im, NULL, 100);
   }
   elseif(function_exists('imagepng'))
   {
       // For PNG
-      header('Content-type: image/png');
+      header('Content-Type: image/png');
   
       imagepng($im);
   }
   elseif(function_exists('imagewbmp'))
   {
       // For WBMP
-      header('Content-type: image/vnd.wap.wbmp');
+      header('Content-Type: image/vnd.wap.wbmp');
   
       imagewbmp($im);
   }
@@ -124,7 +124,7 @@ formats:
 <?php >
   if(imagetypes() &amp; IMG_GIF)
   {
-      header('Content-type: image/gif');
+      header('Content-Type: image/gif');
       imagegif($im);
   }
   elseif(imagetypes() & IMG_JPG)

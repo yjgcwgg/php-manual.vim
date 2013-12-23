@@ -1,4 +1,4 @@
-*hw_Document_Content* -- Returns content of hw_document
+hw_Document_Content -- Returns content of hw_document
 
   string hw_document_content(int hw_document)~
 

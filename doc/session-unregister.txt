@@ -1,12 +1,11 @@
-*session_unregister* -- Unregister a global variable from the current session
+session_unregister -- Unregister a global variable from the current session
 
   bool session_unregister(string name)~
 
 |session_unregister| unregisters the global variable named {name} from the
 current session.
 
-This function has been DEPRECATED as of PHP 5.3.0. Relying on this feature is
-highly discouraged.
+This function has been DEPRECATED as of PHP 5.3.0 and REMOVED as of PHP 5.4.0.
 
 {name} The variable name.
 

@@ -1,4 +1,4 @@
-*pfsockopen* -- Open persistent Internet or Unix domain socket connection
+pfsockopen -- Open persistent Internet or Unix domain socket connection
 
   resource pfsockopen(string hostname [, int port [, int errno [, string errstr [, float timeout]]]])~
 

@@ -1,8 +1,10 @@
-*mkdir* -- Makes directory
+mkdir -- Makes directory
 
   bool mkdir(string pathname [, int mode [, bool recursive [, resource context]]])~
 
-Attempts to create the directory specified by pathname.
+Attempts to create the directory specified by pathname. The directory must not
+already exist, and the relevant permissions must permit this. An E_WARNING
+level error will be generated on failure.
 
 {pathname} The directory path.
 
@@ -16,7 +18,7 @@ means it should have a leading zero. The mode is also modified by the current
 umask, which you can change using |umask|.
 
 {recursive} Allows the creation of nested directories specified in the
-{pathname}. Defaults to FALSE.
+{pathname}.
 
 {context} Context support was added with PHP 5.0.0. For a description of
 contexts, refer to .

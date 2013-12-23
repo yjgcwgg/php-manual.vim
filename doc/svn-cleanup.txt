@@ -1,4 +1,4 @@
-*svn_cleanup* -- Recursively cleanup a working copy directory, finishing
+svn_cleanup -- Recursively cleanup a working copy directory, finishing
 incomplete operations and removing locks
 
   bool svn_cleanup(string workingdir)~

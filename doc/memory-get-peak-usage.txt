@@ -1,4 +1,4 @@
-*memory_get_peak_usage* -- Returns the peak of memory allocated by PHP
+memory_get_peak_usage -- Returns the peak of memory allocated by PHP
 
   int memory_get_peak_usage([bool real_usage])~
 

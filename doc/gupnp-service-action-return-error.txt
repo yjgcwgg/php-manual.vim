@@ -1,4 +1,4 @@
-*gupnp_service_action_return_error* -- Return error code
+gupnp_service_action_return_error -- Return error code
 
   bool gupnp_service_action_return_error(resource action, int error_code [, string error_description])~
 

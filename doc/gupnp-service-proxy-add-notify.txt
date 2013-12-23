@@ -1,4 +1,4 @@
-*gupnp_service_proxy_add_notify* -- Sets up callback for variable change
+gupnp_service_proxy_add_notify -- Sets up callback for variable change
 notification
 
   bool gupnp_service_proxy_add_notify(resource proxy, string value, int type, mixed callback [, mixed arg])~

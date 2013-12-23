@@ -1,4 +1,4 @@
-*sqlite_udf_encode_binary* -- Encode binary data before returning it from an UDF
+sqlite_udf_encode_binary -- Encode binary data before returning it from an UDF
 
   string sqlite_udf_encode_binary(string data)~
 

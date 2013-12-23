@@ -1,4 +1,4 @@
-*udm_api_version* -- Get mnoGoSearch API version
+udm_api_version -- Get mnoGoSearch API version
 
   int udm_api_version()~
 

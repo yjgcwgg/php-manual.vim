@@ -1,4 +1,4 @@
-*wincache_ucache_exists* -- Checks if a variable exists in the user cache
+wincache_ucache_exists -- Checks if a variable exists in the user cache
 
   bool wincache_ucache_exists(string key)~
 

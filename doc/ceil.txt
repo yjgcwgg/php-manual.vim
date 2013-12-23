@@ -1,4 +1,4 @@
-*ceil* -- Round fractions up
+ceil -- Round fractions up
 
   float ceil(float value)~
 

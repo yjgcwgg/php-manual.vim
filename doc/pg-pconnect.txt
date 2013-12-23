@@ -1,4 +1,4 @@
-*pg_pconnect* -- Open a persistent PostgreSQL connection
+pg_pconnect -- Open a persistent PostgreSQL connection
 
   resource pg_pconnect(string connection_string [, int connect_type])~
 

@@ -1,4 +1,4 @@
-*fscanf* -- Parses input from a file according to a format
+fscanf -- Parses input from a file according to a format
 
   mixed fscanf(resource handle, string format [, mixed ...])~
 

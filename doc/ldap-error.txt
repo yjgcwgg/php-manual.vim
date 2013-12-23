@@ -1,4 +1,4 @@
-*ldap_error* -- Return the LDAP error message of the last LDAP command
+ldap_error -- Return the LDAP error message of the last LDAP command
 
   string ldap_error(resource link_identifier)~
 

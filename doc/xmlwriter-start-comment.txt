@@ -1,8 +1,8 @@
-*XMLWriter::startComment* -- Create start comment
+xmlwriter_start_comment -- Create start comment
 
 Object oriented style
 
-  bool startComment()~
+  bool XMLWriter::startComment()~
 
 Procedural style
 

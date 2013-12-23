@@ -1,4 +1,4 @@
-*pg_get_pid* -- Gets the backend's process ID
+pg_get_pid -- Gets the backend's process ID
 
   int pg_get_pid(resource connection)~
 
@@ -15,7 +15,7 @@ PostgreSQL backend PID
 <?php >
   $conn = pg_pconnect("dbname=publisher");
   if (!$conn) {
-    echo "An error occured.\n";
+    echo "An error occurred.\n";
     exit;
   }
   

@@ -1,4 +1,4 @@
-*stats_dens_f* --
+stats_dens_f --
 
   float stats_dens_f(float x, float dfr1, float dfr2)~
 

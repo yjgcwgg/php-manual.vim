@@ -1,4 +1,4 @@
-*PDF_setgray* -- Set color to gray [deprecated]
+PDF_setgray -- Set color to gray [deprecated]
 
   bool PDF_setgray(resource p, float g)~
 

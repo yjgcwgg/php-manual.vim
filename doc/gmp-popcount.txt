@@ -1,4 +1,4 @@
-*gmp_popcount* -- Population count
+gmp_popcount -- Population count
 
   int gmp_popcount(resource a)~
 

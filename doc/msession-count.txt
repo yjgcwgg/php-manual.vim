@@ -1,4 +1,4 @@
-*msession_count* -- Get session count
+msession_count -- Get session count
 
   int msession_count()~
 

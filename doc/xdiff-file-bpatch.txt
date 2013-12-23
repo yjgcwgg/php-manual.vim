@@ -1,4 +1,4 @@
-*xdiff_file_bpatch* -- Patch a file with a binary diff
+xdiff_file_bpatch -- Patch a file with a binary diff
 
   bool xdiff_file_bpatch(string file, string patch, string dest)~
 

@@ -1,4 +1,4 @@
-*bcompiler_write_functions_from_file* -- Writes all functions defined in a file
+bcompiler_write_functions_from_file -- Writes all functions defined in a file
 as bytecodes
 
   bool bcompiler_write_functions_from_file(resource filehandle, string fileName)~

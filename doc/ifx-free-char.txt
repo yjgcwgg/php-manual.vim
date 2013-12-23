@@ -1,4 +1,4 @@
-*ifx_free_char* -- Deletes the char object
+ifx_free_char -- Deletes the char object
 
   bool ifx_free_char(int bid)~
 

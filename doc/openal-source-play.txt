@@ -1,4 +1,4 @@
-*openal_source_play* -- Start playing the source
+openal_source_play -- Start playing the source
 
   bool openal_source_play(resource source)~
 

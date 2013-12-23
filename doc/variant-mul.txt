@@ -1,4 +1,4 @@
-*variant_mul* -- Multiplies the values of the two variants
+variant_mul -- Multiplies the values of the two variants
 
   mixed variant_mul(mixed left, mixed right)~
 

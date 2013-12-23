@@ -1,4 +1,4 @@
-*imap_binary* -- Convert an 8bit string to a base64 string
+imap_binary -- Convert an 8bit string to a base64 string
 
   string imap_binary(string string)~
 

@@ -1,4 +1,4 @@
-*libxml_get_last_error* -- Retrieve last error from libxml
+libxml_get_last_error -- Retrieve last error from libxml
 
   LibXMLError libxml_get_last_error()~
 

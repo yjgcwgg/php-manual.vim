@@ -1,4 +1,4 @@
-*dbase_close* -- Closes a database
+dbase_close -- Closes a database
 
   bool dbase_close(int dbase_identifier)~
 

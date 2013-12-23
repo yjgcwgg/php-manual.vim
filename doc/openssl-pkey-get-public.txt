@@ -1,4 +1,4 @@
-*openssl_pkey_get_public* -- Extract public key from certificate and prepare it
+openssl_pkey_get_public -- Extract public key from certificate and prepare it
 for use
 
   resource openssl_pkey_get_public(mixed certificate)~

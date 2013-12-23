@@ -1,4 +1,4 @@
-*sybase_query* -- Sends a Sybase query
+sybase_query -- Sends a Sybase query
 
   mixed sybase_query(string query [, resource link_identifier])~
 

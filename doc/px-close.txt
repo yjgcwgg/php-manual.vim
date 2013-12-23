@@ -1,4 +1,4 @@
-*px_close* -- Closes a paradox database
+px_close -- Closes a paradox database
 
   bool px_close(resource pxdoc)~
 

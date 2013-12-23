@@ -1,4 +1,4 @@
-*enchant_broker_free* -- Free the broker resource and its dictionnaries
+enchant_broker_free -- Free the broker resource and its dictionnaries
 
   bool enchant_broker_free(resource broker)~
 

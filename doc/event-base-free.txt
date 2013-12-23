@@ -1,4 +1,4 @@
-*event_base_free* -- Destroy event base
+event_base_free -- Destroy event base
 
   void event_base_free(resource event_base)~
 

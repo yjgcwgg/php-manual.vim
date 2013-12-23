@@ -1,4 +1,4 @@
-*variant_get_type* -- Returns the type of a variant object
+variant_get_type -- Returns the type of a variant object
 
   int variant_get_type(variant variant)~
 

@@ -1,8 +1,8 @@
-*XMLWriter::writeCData* -- Write full CDATA tag
+xmlwriter_write_cdata -- Write full CDATA tag
 
 Object oriented style
 
-  bool writeCData(string content)~
+  bool XMLWriter::writeCData(string content)~
 
 Procedural style
 

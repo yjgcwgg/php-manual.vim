@@ -1,4 +1,4 @@
-*lzf_compress* -- LZF compression
+lzf_compress -- LZF compression
 
   string lzf_compress(string data)~
 

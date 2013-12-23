@@ -1,4 +1,4 @@
-*cairo_pattern_get_extend* -- Description
+cairo_pattern_get_extend -- Description
 
   int cairo_pattern_get_extend(string pattern)~
 

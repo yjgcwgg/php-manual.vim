@@ -1,4 +1,4 @@
-*variant_and* -- Performs a bitwise AND operation between two variants
+variant_and -- Performs a bitwise AND operation between two variants
 
   mixed variant_and(mixed left, mixed right)~
 

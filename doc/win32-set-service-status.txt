@@ -1,4 +1,4 @@
-*win32_set_service_status* -- Update the service status
+win32_set_service_status -- Update the service status
 
   bool win32_set_service_status(int status [, int checkpoint])~
 

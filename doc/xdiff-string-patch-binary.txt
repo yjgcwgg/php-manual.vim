@@ -1,4 +1,4 @@
-*xdiff_string_patch_binary* -- Alias of xdiff_string_bpatch
+xdiff_string_patch_binary -- Alias of xdiff_string_bpatch
 
   string xdiff_string_patch_binary(string str, string patch)~
 

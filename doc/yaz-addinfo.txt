@@ -1,4 +1,4 @@
-*yaz_addinfo* -- Returns additional error information
+yaz_addinfo -- Returns additional error information
 
   string yaz_addinfo(resource id)~
 

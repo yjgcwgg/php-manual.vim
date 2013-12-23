@@ -1,4 +1,4 @@
-*hw_GetText* -- Retrieve text document
+hw_GetText -- Retrieve text document
 
   int hw_gettext(int connection, int objectID [, mixed rootID/prefix])~
 

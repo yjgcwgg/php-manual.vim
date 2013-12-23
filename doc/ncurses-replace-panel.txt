@@ -1,4 +1,4 @@
-*ncurses_replace_panel* -- Replaces the window associated with panel
+ncurses_replace_panel -- Replaces the window associated with panel
 
   int ncurses_replace_panel(resource panel, resource window)~
 

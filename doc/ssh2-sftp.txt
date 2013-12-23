@@ -1,4 +1,4 @@
-*ssh2_sftp* -- Initialize SFTP subsystem
+ssh2_sftp -- Initialize SFTP subsystem
 
   resource ssh2_sftp(resource session)~
 

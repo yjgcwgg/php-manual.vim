@@ -1,8 +1,8 @@
-*XMLWriter::startDTD* -- Create start DTD tag
+xmlwriter_start_dtd -- Create start DTD tag
 
 Object oriented style
 
-  bool startDTD(string qualifiedName [, string publicId [, string systemId]])~
+  bool XMLWriter::startDTD(string qualifiedName [, string publicId [, string systemId]])~
 
 Procedural style
 

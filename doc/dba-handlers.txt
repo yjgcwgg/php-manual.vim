@@ -1,4 +1,4 @@
-*dba_handlers* -- List all the handlers available
+dba_handlers -- List all the handlers available
 
   array dba_handlers([bool full_info])~
 

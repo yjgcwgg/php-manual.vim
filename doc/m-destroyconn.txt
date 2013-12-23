@@ -1,4 +1,4 @@
-*m_destroyconn* -- Destroy the connection and MCVE_CONN structure
+m_destroyconn -- Destroy the connection and MCVE_CONN structure
 
   bool m_destroyconn(resource conn)~
 

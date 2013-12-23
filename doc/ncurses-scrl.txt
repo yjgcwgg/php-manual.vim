@@ -1,4 +1,4 @@
-*ncurses_scrl* -- Scroll window content up or down without changing current
+ncurses_scrl -- Scroll window content up or down without changing current
 position
 
   int ncurses_scrl(int count)~

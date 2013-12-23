@@ -1,8 +1,8 @@
-*XMLWriter::text* -- Write text
+xmlwriter_text -- Write text
 
 Object oriented style
 
-  bool text(string content)~
+  bool XMLWriter::text(string content)~
 
 Procedural style
 

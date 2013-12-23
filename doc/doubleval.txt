@@ -1,4 +1,4 @@
-*doubleval* -- Alias of floatval
+doubleval -- Alias of floatval
 
 This function is an alias of: |floatval|.
 

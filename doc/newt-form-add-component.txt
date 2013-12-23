@@ -1,4 +1,4 @@
-*newt_form_add_component* -- Adds a single component to the form
+newt_form_add_component -- Adds a single component to the form
 
   void newt_form_add_component(resource form, resource component)~
 

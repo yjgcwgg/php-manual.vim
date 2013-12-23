@@ -1,4 +1,4 @@
-*lcg_value* -- Combined linear congruential generator
+lcg_value -- Combined linear congruential generator
 
   float lcg_value()~
 

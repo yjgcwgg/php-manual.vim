@@ -1,4 +1,4 @@
-*bzerrstr* -- Returns a bzip2 error string
+bzerrstr -- Returns a bzip2 error string
 
   string bzerrstr(resource bz)~
 

@@ -1,4 +1,4 @@
-*aggregate_info* -- Gets aggregation information for a given object
+aggregate_info -- Gets aggregation information for a given object
 
   array aggregate_info(object object)~
 

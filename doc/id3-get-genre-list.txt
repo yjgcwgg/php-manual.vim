@@ -1,4 +1,4 @@
-*id3_get_genre_list* -- Get all possible genre values
+id3_get_genre_list -- Get all possible genre values
 
   array id3_get_genre_list()~
 

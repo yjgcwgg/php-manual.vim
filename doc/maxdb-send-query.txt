@@ -1,4 +1,4 @@
-*maxdb::send_query* -- Send the query and return
+maxdb::send_query -- Send the query and return
 
 Procedural style
 

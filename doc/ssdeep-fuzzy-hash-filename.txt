@@ -1,4 +1,4 @@
-*ssdeep_fuzzy_hash_filename* -- Create a fuzzy hash from a file
+ssdeep_fuzzy_hash_filename -- Create a fuzzy hash from a file
 
   string ssdeep_fuzzy_hash_filename(string file_name)~
 

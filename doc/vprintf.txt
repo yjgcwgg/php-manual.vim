@@ -1,4 +1,4 @@
-*vprintf* -- Output a formatted string
+vprintf -- Output a formatted string
 
   int vprintf(string format, array args)~
 

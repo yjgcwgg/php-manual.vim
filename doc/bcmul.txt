@@ -1,4 +1,4 @@
-*bcmul* -- Multiply two arbitrary precision number
+bcmul -- Multiply two arbitrary precision numbers
 
   string bcmul(string left_operand, string right_operand [, int scale])~
 

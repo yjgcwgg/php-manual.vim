@@ -1,4 +1,4 @@
-*fbsql_pconnect* -- Open a persistent connection to a FrontBase Server
+fbsql_pconnect -- Open a persistent connection to a FrontBase Server
 
   resource fbsql_pconnect([string hostname [, string username [, string password]]])~
 

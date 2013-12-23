@@ -1,4 +1,4 @@
-*ifxus_write_slob* -- Writes a string into the slob object
+ifxus_write_slob -- Writes a string into the slob object
 
   int ifxus_write_slob(int bid, string content)~
 

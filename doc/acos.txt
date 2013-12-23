@@ -1,4 +1,4 @@
-*acos* -- Arc cosine
+acos -- Arc cosine
 
   float acos(float arg)~
 

@@ -1,4 +1,4 @@
-*gmp_gcdext* -- Calculate GCD and multipliers
+gmp_gcdext -- Calculate GCD and multipliers
 
   array gmp_gcdext(resource a, resource b)~
 

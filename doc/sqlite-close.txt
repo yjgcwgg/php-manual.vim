@@ -1,4 +1,4 @@
-*sqlite_close* -- Closes an open SQLite database
+sqlite_close -- Closes an open SQLite database
 
   void sqlite_close(resource dbhandle)~
 

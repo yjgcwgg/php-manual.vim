@@ -1,4 +1,4 @@
-*ibase_blob_echo* -- Output blob contents to browser
+ibase_blob_echo -- Output blob contents to browser
 
   bool ibase_blob_echo(string blob_id)~
 

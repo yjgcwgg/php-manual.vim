@@ -1,4 +1,4 @@
-*vpopmail_auth_user* -- Attempt to validate a username/domain/password
+vpopmail_auth_user -- Attempt to validate a username/domain/password
 
   bool vpopmail_auth_user(string user, string domain, string password [, string apop])~
 

@@ -1,4 +1,4 @@
-*imap_getsubscribed* -- List all the subscribed mailboxes
+imap_getsubscribed -- List all the subscribed mailboxes
 
   array imap_getsubscribed(resource imap_stream, string ref, string pattern)~
 

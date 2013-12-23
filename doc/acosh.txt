@@ -1,4 +1,4 @@
-*acosh* -- Inverse hyperbolic cosine
+acosh -- Inverse hyperbolic cosine
 
   float acosh(float arg)~
 

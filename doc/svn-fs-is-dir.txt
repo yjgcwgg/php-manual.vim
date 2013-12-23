@@ -1,4 +1,4 @@
-*svn_fs_is_dir* -- Return true if the path points to a directory, false
+svn_fs_is_dir -- Return true if the path points to a directory, false
 otherwise
 
   bool svn_fs_is_dir(resource root, string path)~

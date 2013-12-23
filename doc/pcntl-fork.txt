@@ -1,4 +1,4 @@
-*pcntl_fork* -- Forks the currently running process
+pcntl_fork -- Forks the currently running process
 
   int pcntl_fork()~
 
@@ -29,6 +29,6 @@ created, and a PHP error is raised.
 
 
 
-|pcntl_waitpid| |pcntl_signal|
+|pcntl_waitpid| |pcntl_signal| |setproctitle|
 
 vim:ft=help:

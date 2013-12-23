@@ -1,4 +1,4 @@
-*mysqlnd_qc_clear_cache* -- Flush all cache contents
+mysqlnd_qc_clear_cache -- Flush all cache contents
 
   bool mysqlnd_qc_clear_cache()~
 

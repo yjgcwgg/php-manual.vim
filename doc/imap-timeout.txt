@@ -1,4 +1,4 @@
-*imap_timeout* -- Set or fetch imap timeout
+imap_timeout -- Set or fetch imap timeout
 
   mixed imap_timeout(int timeout_type [, int timeout])~
 

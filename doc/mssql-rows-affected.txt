@@ -1,4 +1,4 @@
-*mssql_rows_affected* -- Returns the number of records affected by the query
+mssql_rows_affected -- Returns the number of records affected by the query
 
   int mssql_rows_affected(resource link_identifier)~
 

@@ -1,4 +1,4 @@
-*sqrt* -- Square root
+sqrt -- Square root
 
   float sqrt(float arg)~
 

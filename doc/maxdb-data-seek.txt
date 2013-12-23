@@ -1,4 +1,4 @@
-*maxdb_result::data_seek* -- Adjusts the result pointer to an arbitary row in
+maxdb_result::data_seek -- Adjusts the result pointer to an arbitary row in
 the result
 
 Procedural style

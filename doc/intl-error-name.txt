@@ -1,4 +1,4 @@
-*intl_error_name* -- Get symbolic name for a given error code
+intl_error_name -- Get symbolic name for a given error code
 
   string intl_error_name(int error_code)~
 

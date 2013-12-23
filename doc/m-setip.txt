@@ -1,4 +1,4 @@
-*m_setip* -- Set the connection method to IP
+m_setip -- Set the connection method to IP
 
   int m_setip(resource conn, string host, int port)~
 

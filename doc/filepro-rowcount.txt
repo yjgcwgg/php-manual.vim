@@ -1,4 +1,4 @@
-*filepro_rowcount* -- Find out how many rows are in a filePro database
+filepro_rowcount -- Find out how many rows are in a filePro database
 
   int filepro_rowcount()~
 

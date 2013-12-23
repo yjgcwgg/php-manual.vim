@@ -1,4 +1,4 @@
-*ps_end_page* -- End a page
+ps_end_page -- End a page
 
   bool ps_end_page(resource psdoc)~
 

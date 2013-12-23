@@ -1,4 +1,4 @@
-*preg_grep* -- Return array entries that match the pattern
+preg_grep -- Return array entries that match the pattern
 
   array preg_grep(string pattern, array input [, int flags])~
 

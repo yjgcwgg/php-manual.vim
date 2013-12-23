@@ -1,6 +1,6 @@
-*mb_encode_numericentity* -- Encode character to HTML numeric string reference
+mb_encode_numericentity -- Encode character to HTML numeric string reference
 
-  string mb_encode_numericentity(string str, array convmap, string encoding)~
+  string mb_encode_numericentity(string str, array convmap [, string encoding [, bool is_hex]])~
 
 Converts specified character codes in string {str} from HTML numeric character
 reference to character code.
@@ -12,10 +12,15 @@ reference to character code.
 {encoding} The {encoding} parameter is the character encoding. If it is
 omitted, the internal character encoding value will be used.
 
+{is_hex}
+
 The converted string.
+
+Version Description 5.4.0 Added {is_hex} parameter.
 
 {convmap} example
 
+<?php >
   $convmap = array (
    int start_code1, int end_code1, int offset1, int mask1,
    int start_code2, int end_code2, int offset2, int mask2,
@@ -24,6 +29,7 @@ The converted string.
   // Specify Unicode value for start_codeN and end_codeN
   // Add offsetN to value and take bit-wise 'AND' with maskN, then
   // it converts value to numeric string reference.
+?>
 
 
 

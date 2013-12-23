@@ -1,4 +1,4 @@
-*oci_field_type_raw* -- Tell the raw Oracle data type of the field
+oci_field_type_raw -- Tell the raw Oracle data type of the field
 
   int oci_field_type_raw(resource statement, int field)~
 

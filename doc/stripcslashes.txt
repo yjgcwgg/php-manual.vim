@@ -1,4 +1,4 @@
-*stripcslashes* -- Un-quote string quoted with addcslashes
+stripcslashes -- Un-quote string quoted with addcslashes
 
   string stripcslashes(string str)~
 

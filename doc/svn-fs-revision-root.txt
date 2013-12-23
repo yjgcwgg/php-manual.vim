@@ -1,4 +1,4 @@
-*svn_fs_revision_root* -- Get a handle on a specific version of the repository
+svn_fs_revision_root -- Get a handle on a specific version of the repository
 root
 
   resource svn_fs_revision_root(resource fs, int revnum)~

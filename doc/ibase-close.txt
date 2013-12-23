@@ -1,4 +1,4 @@
-*ibase_close* -- Close a connection to an InterBase database
+ibase_close -- Close a connection to an InterBase database
 
   bool ibase_close([resource connection_id])~
 

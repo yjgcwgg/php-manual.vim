@@ -1,4 +1,4 @@
-*maxdb->server_version* -- Returns the version of the MaxDB server as an integer
+maxdb::server_version -- Returns the version of the MaxDB server as an integer
 
 Procedural style
 

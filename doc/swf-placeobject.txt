@@ -1,4 +1,4 @@
-*swf_placeobject* -- Place an object onto the screen
+swf_placeobject -- Place an object onto the screen
 
   void swf_placeobject(int objid, int depth)~
 

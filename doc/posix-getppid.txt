@@ -1,4 +1,4 @@
-*posix_getppid* -- Return the parent process identifier
+posix_getppid -- Return the parent process identifier
 
   int posix_getppid()~
 

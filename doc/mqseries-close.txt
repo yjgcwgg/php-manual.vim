@@ -1,4 +1,4 @@
-*mqseries_close* -- MQSeries MQCLOSE
+mqseries_close -- MQSeries MQCLOSE
 
   void mqseries_close(resource hconn, resource hobj, int options, resource compCode, resource reason)~
 

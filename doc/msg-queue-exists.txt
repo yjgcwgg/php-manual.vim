@@ -1,4 +1,4 @@
-*msg_queue_exists* -- Check whether a message queue exists
+msg_queue_exists -- Check whether a message queue exists
 
   bool msg_queue_exists(int key)~
 

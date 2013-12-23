@@ -1,4 +1,4 @@
-*apd_echo* -- Echo to the debugging socket
+apd_echo -- Echo to the debugging socket
 
   bool apd_echo(string output)~
 

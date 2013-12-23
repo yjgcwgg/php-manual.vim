@@ -1,4 +1,4 @@
-*svn_fs_youngest_rev* -- Returns the number of the youngest revision in the
+svn_fs_youngest_rev -- Returns the number of the youngest revision in the
 filesystem
 
   int svn_fs_youngest_rev(resource fs)~

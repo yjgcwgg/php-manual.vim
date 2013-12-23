@@ -1,4 +1,4 @@
-*gmp_pow* -- Raise number into power
+gmp_pow -- Raise number into power
 
   resource gmp_pow(resource base, int exp)~
 

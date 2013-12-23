@@ -1,4 +1,4 @@
-*px_get_field* -- Returns the specification of a single field
+px_get_field -- Returns the specification of a single field
 
   array px_get_field(resource pxdoc, int fieldno)~
 

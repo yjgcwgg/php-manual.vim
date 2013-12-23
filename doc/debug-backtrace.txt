@@ -1,17 +1,22 @@
-*debug_backtrace* -- Generates a backtrace
+debug_backtrace -- Generates a backtrace
 
-  array debug_backtrace([int options])~
+  array debug_backtrace([int options [, int limit]])~
 
 |debug_backtrace| generates a PHP backtrace.
 
-{options} Since 5.3.6, this parameter is a bitmask for the following options:
+{options} As of 5.3.6, this parameter is a bitmask for the following options:
 |debug_backtrace| options DEBUG_BACKTRACE_PROVIDE_OBJECT Whether or not to
 populate the "object" index. DEBUG_BACKTRACE_IGNORE_ARGS Whether or not to
-omit the "args" index and thus all the method arguments to save memory. Before
-5.3.6, only value recognized is TRUE or FALSE, which is the same as setting
-and unsetting DEBUG_BACKTRACE_PROVIDE_OBJECT option.
+omit the "args" index, and thus all the function/method arguments, to save
+memory. Before 5.3.6, the only values recognized are TRUE or FALSE, which are
+the same as setting or not setting the DEBUG_BACKTRACE_PROVIDE_OBJECT option
+respectively.
 
-Returns an associative array. The possible returned elements are as follows:
+{limit} As of 5.4.0, this parameter can be used to limit the number of stack
+frames returned. By default ({limit}=0) it returns all stack frames.
+
+Returns an array of associative arrays. The possible returned elements are as
+follows:
 
 Possible returned elements from |debug_backtrace| Name Type Description
 function string The current function name. See also __FUNCTION__. line integer
@@ -23,10 +28,10 @@ function call, nothing is returned. args array If inside a function, this
 lists the functions arguments. If inside an included file, this lists the
 included file name(s).
 
-Version Description 5.3.6 The parameter {provide_object} changed to {options}
-and additional option DEBUG_BACKTRACE_IGNORE_ARGS is added. 5.2.5 Added the
-optional parameter {provide_object}. 5.1.1 Added the current object as a
-possible return element.
+Version Description 5.4.0 Added the optional parameter {limit}. 5.3.6 The
+parameter {provide_object} changed to {options} and additional option
+DEBUG_BACKTRACE_IGNORE_ARGS is added. 5.2.5 Added the optional parameter
+{provide_object}. 5.1.1 Added the current object as a possible return element.
 
 |debug_backtrace| example
 

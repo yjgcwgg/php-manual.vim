@@ -1,4 +1,4 @@
-*SQLiteDatabase->unbufferedQuery* -- Execute a query that does not prefetch and
+SQLiteDatabase::unbufferedQuery -- Execute a query that does not prefetch and
 buffer all data
 
   resource sqlite_unbuffered_query(resource dbhandle, string query [, int result_type [, string error_msg]])~
@@ -7,7 +7,7 @@ buffer all data
 
 Object oriented style (method):
 
-  SQLiteUnbuffered unbufferedQuery(resource dbhandle, string query [, int result_type [, string error_msg, string query, resource dbhandle [, int result_type [, string error_msg, string query [, int result_type [, string error_msg]]]]]])~
+  SQLiteUnbuffered SQLiteDatabase::unbufferedQuery(resource dbhandle, string query [, int result_type [, string error_msg, string query, resource dbhandle [, int result_type [, string error_msg, string query [, int result_type [, string error_msg]]]]]])~
 
 |sqlite_unbuffered_query| is identical to |sqlite_query| except that the
 result that is returned is a sequential forward-only result set that can only

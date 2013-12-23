@@ -1,4 +1,4 @@
-*sin* -- Sine
+sin -- Sine
 
   float sin(float arg)~
 

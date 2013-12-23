@@ -1,4 +1,4 @@
-*ob_get_clean* -- Get current buffer contents and delete current output buffer
+ob_get_clean -- Get current buffer contents and delete current output buffer
 
   string ob_get_clean()~
 

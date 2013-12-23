@@ -1,4 +1,4 @@
-*mcrypt_enc_is_block_mode* -- Checks whether the opened mode outputs blocks
+mcrypt_enc_is_block_mode -- Checks whether the opened mode outputs blocks
 
   bool mcrypt_enc_is_block_mode(resource td)~
 

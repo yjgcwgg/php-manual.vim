@@ -1,4 +1,4 @@
-*variant_not* -- Performs bitwise not negation on a variant
+variant_not -- Performs bitwise not negation on a variant
 
   mixed variant_not(mixed variant)~
 

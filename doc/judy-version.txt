@@ -1,4 +1,4 @@
-*judy_version* -- Return or print the current PHP Judy version
+judy_version -- Return or print the current PHP Judy version
 
   string judy_version()~
 

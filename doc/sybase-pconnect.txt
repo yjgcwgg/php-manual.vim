@@ -1,4 +1,4 @@
-*sybase_pconnect* -- Open persistent Sybase connection
+sybase_pconnect -- Open persistent Sybase connection
 
   resource sybase_pconnect([string servername [, string username [, string password [, string charset [, string appname]]]]])~
 

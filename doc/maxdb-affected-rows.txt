@@ -1,4 +1,4 @@
-*maxdb->affected_rows* -- Gets the number of affected rows in a previous MaxDB
+maxdb::affected_rows -- Gets the number of affected rows in a previous MaxDB
 operation
 
 Procedural style

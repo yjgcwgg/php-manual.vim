@@ -1,4 +1,4 @@
-*PDF_resume_page* -- Resume page
+PDF_resume_page -- Resume page
 
   bool PDF_resume_page(resource pdfdoc, string optlist)~
 

@@ -1,4 +1,4 @@
-*com_get* -- Gets the value of a COM Component's property [deprecated]
+com_get -- Gets the value of a COM Component's property [deprecated]
 
 Deprecated, use the OO syntax instead.
 

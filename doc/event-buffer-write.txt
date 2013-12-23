@@ -1,4 +1,4 @@
-*event_buffer_write* -- Write data to a buffered event
+event_buffer_write -- Write data to a buffered event
 
   bool event_buffer_write(resource bevent, string data [, int data_size])~
 

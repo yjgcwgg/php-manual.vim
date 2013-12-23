@@ -1,4 +1,4 @@
-*notes_mark_read* -- Mark a note_id as read for the User user_name
+notes_mark_read -- Mark a note_id as read for the User user_name
 
   bool notes_mark_read(string database_name, string user_name, string note_id)~
 

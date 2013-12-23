@@ -1,4 +1,4 @@
-*posix_geteuid* -- Return the effective user ID of the current process
+posix_geteuid -- Return the effective user ID of the current process
 
   int posix_geteuid()~
 

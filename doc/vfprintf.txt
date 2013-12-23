@@ -1,4 +1,4 @@
-*vfprintf* -- Write a formatted string to a stream
+vfprintf -- Write a formatted string to a stream
 
   int vfprintf(resource handle, string format, array args)~
 

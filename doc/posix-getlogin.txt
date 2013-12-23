@@ -1,4 +1,4 @@
-*posix_getlogin* -- Return login name
+posix_getlogin -- Return login name
 
   string posix_getlogin()~
 

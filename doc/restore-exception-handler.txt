@@ -1,4 +1,4 @@
-*restore_exception_handler* -- Restores the previously defined exception handler
+restore_exception_handler -- Restores the previously defined exception handler
 function
 
   bool restore_exception_handler()~

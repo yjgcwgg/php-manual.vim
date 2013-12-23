@@ -1,4 +1,4 @@
-*msql_field_table* -- Get table name for field
+msql_field_table -- Get table name for field
 
   int msql_field_table(resource result, int field_offset)~
 

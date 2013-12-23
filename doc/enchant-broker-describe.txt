@@ -1,4 +1,4 @@
-*enchant_broker_describe* -- Enumerates the Enchant providers
+enchant_broker_describe -- Enumerates the Enchant providers
 
   array enchant_broker_describe(resource broker)~
 

@@ -1,4 +1,4 @@
-*db2_commit* -- Commits a transaction
+db2_commit -- Commits a transaction
 
   bool db2_commit(resource connection)~
 

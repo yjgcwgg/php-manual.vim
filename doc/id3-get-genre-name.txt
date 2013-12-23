@@ -1,4 +1,4 @@
-*id3_get_genre_name* -- Get the name for a genre id
+id3_get_genre_name -- Get the name for a genre id
 
   string id3_get_genre_name(int genre_id)~
 

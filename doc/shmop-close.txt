@@ -1,4 +1,4 @@
-*shmop_close* -- Close shared memory block
+shmop_close -- Close shared memory block
 
   void shmop_close(int shmid)~
 

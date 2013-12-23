@@ -1,11 +1,11 @@
-*SQLiteDatabase->busyTimeout* -- Set busy timeout duration, or disable busy
+SQLiteDatabase::busyTimeout -- Set busy timeout duration, or disable busy
 handlers
 
   void sqlite_busy_timeout(resource dbhandle, int milliseconds)~
 
 Object oriented style (method):
 
-  void busyTimeout(resource dbhandle, int milliseconds, int milliseconds)~
+  void SQLiteDatabase::busyTimeout(resource dbhandle, int milliseconds, int milliseconds)~
 
 Set the maximum time, in milliseconds, that SQLite will wait for a {dbhandle}
 to become ready for use.

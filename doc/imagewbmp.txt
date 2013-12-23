@@ -1,4 +1,4 @@
-*imagewbmp* -- Output image to browser or file
+imagewbmp -- Output image to browser or file
 
   bool imagewbmp(resource image [, string filename [, int foreground]])~
 
@@ -26,7 +26,7 @@ Outputting a WBMP image
   
   // Set the content type header - in this case image/vnd.wap.wbmp
   // Hint: see image_type_to_mime_type() for content-types
-  header('Content-type: image/vnd.wap.wbmp');
+  header('Content-Type: image/vnd.wap.wbmp');
   
   // Output the image
   imagewbmp($im);
@@ -68,7 +68,7 @@ Outputting the image with a different foreground
   
   // Set the content type header - in this case image/vnd.wap.wbmp
   // Hint: see image_type_to_mime_type() for content-types
-  header('Content-type: image/vnd.wap.wbmp');
+  header('Content-Type: image/vnd.wap.wbmp');
   
   // Set a replacement foreground color
   $foreground_color = imagecolorallocate($im, 255, 0, 0);

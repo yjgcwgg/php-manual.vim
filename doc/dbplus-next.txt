@@ -1,4 +1,4 @@
-*dbplus_next* -- Get next tuple from relation
+dbplus_next -- Get next tuple from relation
 
   int dbplus_next(resource relation, array tuple)~
 

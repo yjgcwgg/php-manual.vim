@@ -1,4 +1,4 @@
-*dbase_pack* -- Packs a database
+dbase_pack -- Packs a database
 
   bool dbase_pack(int dbase_identifier)~
 

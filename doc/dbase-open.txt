@@ -1,4 +1,4 @@
-*dbase_open* -- Opens a database
+dbase_open -- Opens a database
 
   int dbase_open(string filename, int mode)~
 

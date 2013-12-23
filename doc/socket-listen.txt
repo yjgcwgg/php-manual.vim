@@ -1,4 +1,4 @@
-*socket_listen* -- Listens for a connection on a socket
+socket_listen -- Listens for a connection on a socket
 
   bool socket_listen(resource socket [, int backlog])~
 

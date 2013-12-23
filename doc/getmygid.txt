@@ -1,4 +1,4 @@
-*getmygid* -- Get PHP script owner's GID
+getmygid -- Get PHP script owner's GID
 
   int getmygid()~
 

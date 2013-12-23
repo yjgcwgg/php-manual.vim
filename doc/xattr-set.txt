@@ -1,4 +1,4 @@
-*xattr_set* -- Set an extended attribute
+xattr_set -- Set an extended attribute
 
   bool xattr_set(string filename, string name, string value [, int flags])~
 

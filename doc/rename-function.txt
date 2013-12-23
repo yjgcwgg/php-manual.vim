@@ -1,4 +1,4 @@
-*rename_function* -- Renames orig_name to new_name in the global function table
+rename_function -- Renames orig_name to new_name in the global function table
 
   bool rename_function(string original_name, string new_name)~
 

@@ -1,4 +1,4 @@
-*db2_get_option* -- Retrieves an option value for a statement resource or a
+db2_get_option -- Retrieves an option value for a statement resource or a
 connection resource
 
   string db2_get_option(resource resource, string option)~

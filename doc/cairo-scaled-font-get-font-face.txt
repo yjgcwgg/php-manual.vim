@@ -1,4 +1,4 @@
-*cairo_scaled_font_get_font_face* -- Description
+cairo_scaled_font_get_font_face -- Description
 
   CairoFontFace cairo_scaled_font_get_font_face(CairoScaledFont scaledfont)~
 

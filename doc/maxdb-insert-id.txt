@@ -1,4 +1,4 @@
-*maxdb->insert_id* -- Returns the auto generated id used in the last query
+maxdb::insert_id -- Returns the auto generated id used in the last query
 
 Procedural style
 

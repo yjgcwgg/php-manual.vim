@@ -1,4 +1,4 @@
-*ncurses_delay_output* -- Delay output on terminal using padding characters
+ncurses_delay_output -- Delay output on terminal using padding characters
 
   int ncurses_delay_output(int milliseconds)~
 

@@ -1,4 +1,4 @@
-*ps_hyphenate* -- Hyphenates a word
+ps_hyphenate -- Hyphenates a word
 
   array ps_hyphenate(resource psdoc, string text)~
 

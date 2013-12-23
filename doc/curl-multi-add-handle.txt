@@ -1,4 +1,4 @@
-*curl_multi_add_handle* -- Add a normal cURL handle to a cURL multi handle
+curl_multi_add_handle -- Add a normal cURL handle to a cURL multi handle
 
   int curl_multi_add_handle(resource mh, resource ch)~
 

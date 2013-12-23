@@ -1,4 +1,4 @@
-*gupnp_context_set_subscription_timeout* -- Sets the event subscription timeout
+gupnp_context_set_subscription_timeout -- Sets the event subscription timeout
 
   void gupnp_context_set_subscription_timeout(resource context, int timeout)~
 

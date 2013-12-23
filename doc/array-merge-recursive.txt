@@ -1,4 +1,4 @@
-*array_merge_recursive* -- Merge two or more arrays recursively
+array_merge_recursive -- Merge two or more arrays recursively
 
   array array_merge_recursive(array array1 [, array ...])~
 
@@ -49,6 +49,6 @@ The above example will output:
 
 
 
-|array_merge|
+|array_merge| |array_replace_recursive|
 
 vim:ft=help:

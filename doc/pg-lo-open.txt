@@ -1,4 +1,4 @@
-*pg_lo_open* -- Open a large object
+pg_lo_open -- Open a large object
 
   resource pg_lo_open(resource connection, int oid, string mode)~
 

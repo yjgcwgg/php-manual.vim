@@ -1,4 +1,4 @@
-*ncurses_ungetch* -- Put a character back into the input stream
+ncurses_ungetch -- Put a character back into the input stream
 
   int ncurses_ungetch(int keycode)~
 

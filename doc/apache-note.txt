@@ -1,4 +1,4 @@
-*apache_note* -- Get and set apache request notes
+apache_note -- Get and set apache request notes
 
   string apache_note(string note_name [, string note_value])~
 

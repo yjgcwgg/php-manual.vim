@@ -1,4 +1,4 @@
-*stream_socket_shutdown* -- Shutdown a full-duplex connection
+stream_socket_shutdown -- Shutdown a full-duplex connection
 
   bool stream_socket_shutdown(resource stream, int how)~
 

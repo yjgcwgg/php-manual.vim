@@ -1,4 +1,4 @@
-*mktime* -- Get Unix timestamp for a date
+mktime -- Get Unix timestamp for a date
 
   int mktime([int hour [, int minute [, int second [, int month [, int day [, int year [, int is_dst]]]]]]])~
 
@@ -12,26 +12,26 @@ omitted will be set to the current value according to the local date and time.
 As of PHP 5.1, when called with no arguments, |mktime| throws an E_STRICT
 notice: use the |time| function instead.
 
-{hour} The number of the hour relevant to the start of the day determined by
+{hour} The number of the hour relative to the start of the day determined by
 {month}, {day} and {year}. Negative values reference the hour before midnight
 of the day in question. Values greater than 23 reference the appropriate hour
 in the following day(s).
 
-{minute} The number of the minute relevant to the start of the {hour}.
+{minute} The number of the minute relative to the start of the {hour}.
 Negative values reference the minute in the previous hour. Values greater than
 59 reference the appropriate minute in the following hour(s).
 
-{second} The number of seconds relevant to the start of the {minute}. Negative
+{second} The number of seconds relative to the start of the {minute}. Negative
 values reference the second in the previous minute. Values greater than 59
 reference the appropriate second in the following minute(s).
 
-{month} The number of the month relevant to the end of the previous year.
+{month} The number of the month relative to the end of the previous year.
 Values 1 to 12 reference the normal calendar months of the year in question.
 Values less than 1 (including negative values) reference the months in the
 previous year in reverse order, so 0 is December, -1 is November, etc. Values
 greater than 12 reference the appropriate month in the following year(s).
 
-{day} The number of the day relevant to the end of the previous month. Values
+{day} The number of the day relative to the end of the previous month. Values
 1 to 28, 29, 30 or 31 (depending upon the month) reference the normal days in
 the relevant month. Values less than 1 (including negative values) reference
 the days in the previous month, so 0 is the last day of the previous month, -1
@@ -101,7 +101,7 @@ For example, each of the following lines produces the string "Jan-01-1998".
 
 
 
-Last day of next month The last day of any given month can be expressed as the
+Last day of a month The last day of any given month can be expressed as the
 "0" day of the next month, not the -1 day. Both of the following examples will
 produce the string "The last day in Feb 2000 is: 29".
 

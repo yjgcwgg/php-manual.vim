@@ -1,4 +1,4 @@
-*ncurses_slk_refresh* -- Copies soft label keys to screen
+ncurses_slk_refresh -- Copies soft label keys to screen
 
   int ncurses_slk_refresh()~
 

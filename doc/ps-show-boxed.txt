@@ -1,4 +1,4 @@
-*ps_show_boxed* -- Output text in a box
+ps_show_boxed -- Output text in a box
 
   int ps_show_boxed(resource psdoc, string text, float left, float bottom, float width, float height, string hmode [, string feature])~
 
@@ -6,7 +6,7 @@ Outputs a text in a given box. The lower left corner of the box is at ({left},
 {bottom}). Line breaks will be inserted where needed. Multiple spaces are
 treated as one. Tabulators are treated as spaces.
 
-The text will be hyphenated if the parameter {hyphenation} is set to true and
+The text will be hyphenated if the parameter {hyphenation} is set to TRUE and
 the parameter {hyphendict} contains a valid filename for a hyphenation file.
 The line spacing is taken from the value leading. Paragraphs can be separated
 by an empty line just like in TeX. If the value parindent is set to value >

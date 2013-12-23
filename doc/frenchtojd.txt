@@ -1,4 +1,4 @@
-*FrenchToJD* -- Converts a date from the French Republican Calendar to a Julian
+FrenchToJD -- Converts a date from the French Republican Calendar to a Julian
 Day Count
 
   int frenchtojd(int month, int day, int year)~

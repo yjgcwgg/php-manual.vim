@@ -1,4 +1,4 @@
-*cairo_surface_flush* -- Description
+cairo_surface_flush -- Description
 
   void cairo_surface_flush(CairoSurface surface)~
 

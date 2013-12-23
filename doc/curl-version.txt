@@ -1,4 +1,4 @@
-*curl_version* -- Gets cURL version information
+curl_version -- Gets cURL version information
 
   array curl_version([int age])~
 

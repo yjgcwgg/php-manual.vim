@@ -1,4 +1,4 @@
-*maxdb::real_query* -- Execute an SQL query
+maxdb::real_query -- Execute an SQL query
 
 Procedural style
 

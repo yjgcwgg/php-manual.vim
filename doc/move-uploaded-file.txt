@@ -1,4 +1,4 @@
-*move_uploaded_file* -- Moves an uploaded file to a new location
+move_uploaded_file -- Moves an uploaded file to a new location
 
   bool move_uploaded_file(string filename, string destination)~
 
@@ -49,6 +49,7 @@ those files uploaded through PHP to be moved.
 
 If the destination file already exists, it will be overwritten.
 
-|is_uploaded_file| See Handling file uploads for a simple usage example
+|is_uploaded_file| |rename| See Handling file uploads for a simple usage
+example
 
 vim:ft=help:

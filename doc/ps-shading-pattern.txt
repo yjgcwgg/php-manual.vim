@@ -1,4 +1,4 @@
-*ps_shading_pattern* -- Creates a pattern based on a shading
+ps_shading_pattern -- Creates a pattern based on a shading
 
   int ps_shading_pattern(resource psdoc, int shadingid, string optlist)~
 

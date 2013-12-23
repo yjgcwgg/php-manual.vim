@@ -1,4 +1,4 @@
-*m_destroyengine* -- Free memory associated with IP/SSL connectivity
+m_destroyengine -- Free memory associated with IP/SSL connectivity
 
   void m_destroyengine()~
 

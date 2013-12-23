@@ -1,4 +1,4 @@
-*printer_start_page* -- Start a new page
+printer_start_page -- Start a new page
 
   bool printer_start_page(resource printer_handle)~
 

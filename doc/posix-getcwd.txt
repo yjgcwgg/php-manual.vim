@@ -1,4 +1,4 @@
-*posix_getcwd* -- Pathname of current directory
+posix_getcwd -- Pathname of current directory
 
   string posix_getcwd()~
 

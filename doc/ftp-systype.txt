@@ -1,4 +1,4 @@
-*ftp_systype* -- Returns the system type identifier of the remote FTP server
+ftp_systype -- Returns the system type identifier of the remote FTP server
 
   string ftp_systype(resource ftp_stream)~
 

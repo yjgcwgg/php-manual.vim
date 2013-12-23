@@ -1,4 +1,4 @@
-*imagesetbrush* -- Set the brush image for line drawing
+imagesetbrush -- Set the brush image for line drawing
 
   bool imagesetbrush(resource image, resource brush)~
 

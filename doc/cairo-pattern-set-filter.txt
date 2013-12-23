@@ -1,4 +1,4 @@
-*cairo_pattern_set_filter* -- Description
+cairo_pattern_set_filter -- Description
 
   void cairo_pattern_set_filter(CairoSurfacePattern pattern, int filter)~
 

@@ -1,4 +1,4 @@
-*openal_context_suspend* -- Suspend the specified context
+openal_context_suspend -- Suspend the specified context
 
   bool openal_context_suspend(resource context)~
 

@@ -1,4 +1,4 @@
-*get_called_class* -- the "Late Static Binding" class name
+get_called_class -- the "Late Static Binding" class name
 
   string get_called_class()~
 

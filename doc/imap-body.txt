@@ -1,4 +1,4 @@
-*imap_body* -- Read the message body
+imap_body -- Read the message body
 
   string imap_body(resource imap_stream, int msg_number [, int options])~
 

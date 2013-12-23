@@ -1,4 +1,4 @@
-*bcsqrt* -- Get the square root of an arbitrary precision number
+bcsqrt -- Get the square root of an arbitrary precision number
 
   string bcsqrt(string operand [, int scale])~
 

@@ -1,4 +1,4 @@
-*sys_getloadavg* -- Gets system load average
+sys_getloadavg -- Gets system load average
 
   array sys_getloadavg()~
 

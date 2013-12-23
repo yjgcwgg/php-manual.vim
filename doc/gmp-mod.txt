@@ -1,4 +1,4 @@
-*gmp_mod* -- Modulo operation
+gmp_mod -- Modulo operation
 
   resource gmp_mod(resource n, resource d)~
 

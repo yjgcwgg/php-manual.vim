@@ -1,4 +1,4 @@
-*lcfirst* -- Make a string's first character lowercase
+lcfirst -- Make a string's first character lowercase
 
   string lcfirst(string str)~
 
@@ -6,8 +6,7 @@ Returns a string with the first character of {str} , lowercased if that
 character is alphabetic.
 
 Note that 'alphabetic' is determined by the current locale. For instance, in
-the default "C" locale characters such as umlaut-a (&auml;) will not be
-converted.
+the default "C" locale characters such as umlaut-a (ä) will not be converted.
 
 {str} The input string.
 

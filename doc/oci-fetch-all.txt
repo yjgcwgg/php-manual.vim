@@ -1,4 +1,4 @@
-*oci_fetch_all* -- Fetches multiple rows from a query into a two-dimensional
+oci_fetch_all -- Fetches multiple rows from a query into a two-dimensional
 array
 
   int oci_fetch_all(resource statement, array output [, int skip [, int maxrows [, int flags]]])~
@@ -40,8 +40,8 @@ index modes.
 
 Oracle's default, non-case sensitive column names will have uppercase array
 keys. Case-sensitive column names will have array keys using the exact column
-case. Use |var_dump| on {output}to verify the appropriate case to use for each
-query.
+case. Use |var_dump| on {output} to verify the appropriate case to use for
+each query.
 
 Queries that have more than one column with the same name should use column
 aliases. Otherwise only one of the columns will appear in an associative
@@ -91,7 +91,7 @@ failure.
   foreach ($res as $col) {
       echo "<tr>\n";
       foreach ($col as $item) {
-          echo "    <td>".($item !== null ? htmlentities($item, ENT_QUOTES) : "&amp;nbsp;")."</td>\n";
+          echo "    <td>".($item !== null ? htmlentities($item, ENT_QUOTES) : "")."</td>\n";
       }
       echo "</tr>\n";
   }
@@ -204,9 +204,8 @@ single-row fetching function like |oci_fetch_array| is used.
 For queries returning a large number of rows, performance can be significantly
 improved by increasing oci8.default_prefetch or using |oci_set_prefetch|.
 
-In PHP versions before 5.0.0 you must use |ocifetchstatement| instead. The old
-function name can still be used in current versions, however it is deprecated
-and not recommended.
+Will not return rows from Oracle Database 12c Implicit Result Sets. Use
+|oci_fetch_array| instead.
 
 |oci_fetch| |oci_fetch_array| |oci_fetch_assoc| |oci_fetch_object|
 |oci_fetch_row| |oci_set_prefetch|

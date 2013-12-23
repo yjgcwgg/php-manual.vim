@@ -1,4 +1,4 @@
-*imap_listscan* -- Returns the list of mailboxes that matches the given text
+imap_listscan -- Returns the list of mailboxes that matches the given text
 
   array imap_listscan(resource imap_stream, string ref, string pattern, string content)~
 

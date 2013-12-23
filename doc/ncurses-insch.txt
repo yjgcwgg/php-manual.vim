@@ -1,4 +1,4 @@
-*ncurses_insch* -- Insert character moving rest of line including character at
+ncurses_insch -- Insert character moving rest of line including character at
 current position
 
   int ncurses_insch(int character)~

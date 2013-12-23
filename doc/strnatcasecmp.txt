@@ -1,4 +1,4 @@
-*strnatcasecmp* -- Case insensitive string comparisons using a "natural order"
+strnatcasecmp -- Case insensitive string comparisons using a "natural order"
 algorithm
 
   int strnatcasecmp(string str1, string str2)~

@@ -1,4 +1,4 @@
-*ncurses_init_pair* -- Define a color pair
+ncurses_init_pair -- Define a color pair
 
   int ncurses_init_pair(int pair, int fg, int bg)~
 

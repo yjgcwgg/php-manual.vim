@@ -1,4 +1,4 @@
-*px_set_tablename* -- Sets the name of a table (deprecated)
+px_set_tablename -- Sets the name of a table (deprecated)
 
   void px_set_tablename(resource pxdoc, string name)~
 

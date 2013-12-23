@@ -1,4 +1,4 @@
-*set_include_path* -- Sets the include_path configuration option
+set_include_path -- Sets the include_path configuration option
 
   string set_include_path(string new_include_path)~
 
@@ -12,10 +12,10 @@ Returns the old include_path on success or FALSE on failure.
 
 <?php >
   // Works as of PHP 4.3.0
-  set_include_path('/inc');
+  set_include_path('/usr/lib/pear');
   
   // Works in all PHP versions
-  ini_set('include_path', '/inc');
+  ini_set('include_path', '/usr/lib/pear');
 ?>
 
 

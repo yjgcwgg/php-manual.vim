@@ -1,4 +1,4 @@
-*shmop_open* -- Create or open shared memory block
+shmop_open -- Create or open shared memory block
 
   int shmop_open(int key, string flags, int mode, int size)~
 

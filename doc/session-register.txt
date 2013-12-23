@@ -1,4 +1,4 @@
-*session_register* -- Register one or more global variables with the current
+session_register -- Register one or more global variables with the current
 session
 
   bool session_register(mixed name [, mixed ...])~

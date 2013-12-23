@@ -1,4 +1,4 @@
-*pcntl_wifsignaled* -- Checks whether the status code represents a termination
+pcntl_wifsignaled -- Checks whether the status code represents a termination
 due to a signal
 
   bool pcntl_wifsignaled(int status)~

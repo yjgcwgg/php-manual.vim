@@ -1,4 +1,4 @@
-*msession_unlock* -- Unlock a session
+msession_unlock -- Unlock a session
 
   int msession_unlock(string session, int key)~
 

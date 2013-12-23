@@ -1,4 +1,4 @@
-*is_uploaded_file* -- Tells whether the file was uploaded via HTTP POST
+is_uploaded_file -- Tells whether the file was uploaded via HTTP POST
 
   bool is_uploaded_file(string filename)~
 

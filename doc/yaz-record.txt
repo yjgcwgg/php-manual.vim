@@ -1,4 +1,4 @@
-*yaz_record* -- Returns a record
+yaz_record -- Returns a record
 
   string yaz_record(resource id, int pos, string type)~
 

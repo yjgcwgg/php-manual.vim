@@ -1,4 +1,4 @@
-*svn_repos_fs* -- Gets a handle on the filesystem for a repository
+svn_repos_fs -- Gets a handle on the filesystem for a repository
 
   resource svn_repos_fs(resource repos)~
 

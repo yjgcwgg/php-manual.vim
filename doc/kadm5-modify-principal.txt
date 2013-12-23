@@ -1,4 +1,4 @@
-*kadm5_modify_principal* -- Modifies a kerberos principal with the given
+kadm5_modify_principal -- Modifies a kerberos principal with the given
 parameters
 
   bool kadm5_modify_principal(resource handle, string principal, array options)~

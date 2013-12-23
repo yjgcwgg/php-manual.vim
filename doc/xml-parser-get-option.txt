@@ -1,4 +1,4 @@
-*xml_parser_get_option* -- Get options from an XML parser
+xml_parser_get_option -- Get options from an XML parser
 
   mixed xml_parser_get_option(resource parser, int option)~
 

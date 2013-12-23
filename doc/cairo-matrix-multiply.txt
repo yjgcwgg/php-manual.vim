@@ -1,4 +1,4 @@
-*cairo_matrix_multiply* -- Description
+cairo_matrix_multiply -- Description
 
   CairoMatrix cairo_matrix_multiply(CairoMatrix matrix1, CairoMatrix matrix2)~
 

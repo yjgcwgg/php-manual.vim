@@ -1,4 +1,4 @@
-*fdf_header* -- Sets FDF-specific output headers
+fdf_header -- Sets FDF-specific output headers
 
   void fdf_header()~
 

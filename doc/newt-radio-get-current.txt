@@ -1,4 +1,4 @@
-*newt_radio_get_current* --
+newt_radio_get_current --
 
   resource newt_radio_get_current(resource set_member)~
 

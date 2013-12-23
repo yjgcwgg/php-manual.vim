@@ -1,4 +1,4 @@
-*inotify_init* -- Initialize an inotify instance
+inotify_init -- Initialize an inotify instance
 
   resource inotify_init()~
 

@@ -1,4 +1,4 @@
-*dio_tcsetattr* -- Sets terminal attributes and baud rate for a serial port
+dio_tcsetattr -- Sets terminal attributes and baud rate for a serial port
 
   bool dio_tcsetattr(resource fd, array options)~
 

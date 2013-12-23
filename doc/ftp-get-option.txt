@@ -1,4 +1,4 @@
-*ftp_get_option* -- Retrieves various runtime behaviours of the current FTP
+ftp_get_option -- Retrieves various runtime behaviours of the current FTP
 stream
 
   mixed ftp_get_option(resource ftp_stream, int option)~

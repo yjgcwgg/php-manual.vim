@@ -1,4 +1,4 @@
-*curl_copy_handle* -- Copy a cURL handle along with all of its preferences
+curl_copy_handle -- Copy a cURL handle along with all of its preferences
 
   resource curl_copy_handle(resource ch)~
 

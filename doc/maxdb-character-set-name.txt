@@ -1,4 +1,4 @@
-*maxdb::character_set_name* -- Returns the default character set for the
+maxdb::character_set_name -- Returns the default character set for the
 database connection
 
 Procedural style

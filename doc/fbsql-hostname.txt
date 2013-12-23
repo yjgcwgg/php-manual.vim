@@ -1,4 +1,4 @@
-*fbsql_hostname* -- Get or set the host name used with a connection
+fbsql_hostname -- Get or set the host name used with a connection
 
   string fbsql_hostname(resource link_identifier [, string host_name])~
 

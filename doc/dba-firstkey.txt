@@ -1,4 +1,4 @@
-*dba_firstkey* -- Fetch first key
+dba_firstkey -- Fetch first key
 
   string dba_firstkey(resource handle)~
 

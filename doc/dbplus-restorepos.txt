@@ -1,4 +1,4 @@
-*dbplus_restorepos* -- Restore position
+dbplus_restorepos -- Restore position
 
   int dbplus_restorepos(resource relation, array tuple)~
 

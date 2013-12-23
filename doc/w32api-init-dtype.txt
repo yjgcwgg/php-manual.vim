@@ -1,4 +1,4 @@
-*w32api_init_dtype* -- Creates an instance of the data type typename and fills
+w32api_init_dtype -- Creates an instance of the data type typename and fills
 it with the values passed
 
   resource w32api_init_dtype(string typename, mixed value [, mixed ...])~

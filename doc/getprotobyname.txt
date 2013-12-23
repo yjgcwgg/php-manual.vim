@@ -1,4 +1,4 @@
-*getprotobyname* -- Get protocol number associated with protocol name
+getprotobyname -- Get protocol number associated with protocol name
 
   int getprotobyname(string name)~
 
@@ -7,14 +7,14 @@
 
 {name} The protocol name.
 
-Returns the protocol number or -1 if the protocol is not found.
+Returns the protocol number, or FALSE on failure.
 
 |getprotobyname| example
 
 <?php >
   $protocol = 'tcp';
   $get_prot = getprotobyname($protocol);
-  if ($get_prot == -1) {
+  if ($get_prot === FALSE) {
       echo 'Invalid Protocol';
   } else {
       echo 'Protocol #' . $get_prot;

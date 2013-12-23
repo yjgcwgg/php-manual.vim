@@ -1,4 +1,4 @@
-*dba_insert* -- Insert entry
+dba_insert -- Insert entry
 
   bool dba_insert(string key, string value, resource handle)~
 

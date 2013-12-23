@@ -1,4 +1,4 @@
-*printer_open* -- Opens a connection to a printer
+printer_open -- Opens a connection to a printer
 
   resource printer_open([string printername])~
 

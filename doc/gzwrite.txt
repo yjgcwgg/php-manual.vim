@@ -1,4 +1,4 @@
-*gzwrite* -- Binary-safe gz-file write
+gzwrite -- Binary-safe gz-file write
 
   int gzwrite(resource zp, string string [, int length])~
 

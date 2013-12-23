@@ -1,4 +1,4 @@
-*shmop_read* -- Read data from shared memory block
+shmop_read -- Read data from shared memory block
 
   string shmop_read(int shmid, int start, int count)~
 

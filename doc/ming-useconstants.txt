@@ -1,4 +1,4 @@
-*ming_useconstants* -- Use constant pool
+ming_useconstants -- Use constant pool
 
   void ming_useconstants(int use)~
 

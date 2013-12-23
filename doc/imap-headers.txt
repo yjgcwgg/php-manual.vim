@@ -1,4 +1,4 @@
-*imap_headers* -- Returns headers for all messages in a mailbox
+imap_headers -- Returns headers for all messages in a mailbox
 
   array imap_headers(resource imap_stream)~
 

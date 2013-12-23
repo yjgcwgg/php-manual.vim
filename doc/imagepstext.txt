@@ -1,4 +1,4 @@
-*imagepstext* -- Draws a text over an image using PostScript Type1 fonts
+imagepstext -- Draws a text over an image using PostScript Type1 fonts
 
   array imagepstext(resource image, string text, resource font_index, int size, int foreground, int background, int x, int y [, int space [, int tightness [, float angle [, int antialias_steps]]]])~
 

@@ -1,4 +1,4 @@
-*ifx_byteasvarchar* -- Set the default byte mode
+ifx_byteasvarchar -- Set the default byte mode
 
   bool ifx_byteasvarchar(int mode)~
 

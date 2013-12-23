@@ -1,4 +1,4 @@
-*headers_sent* -- Checks if or where headers have been sent
+headers_sent -- Checks if or where headers have been sent
 
   bool headers_sent([string file [, int line]])~
 
@@ -50,6 +50,9 @@ Examples using |headers_sent|
 
 
 
+
+Headers will only be accessible and output when a SAPI that supports them is
+in use.
 
 |ob_start| |trigger_error| |headers_list| |header| for a more detailed
 discussion of the matters involved.

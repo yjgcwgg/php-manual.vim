@@ -1,4 +1,4 @@
-*ps_set_text_pos* -- Sets position for text output
+ps_set_text_pos -- Sets position for text output
 
   bool ps_set_text_pos(resource psdoc, float x, float y)~
 

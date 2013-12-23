@@ -1,4 +1,4 @@
-*pg_delete* -- Deletes records
+pg_delete -- Deletes records
 
   mixed pg_delete(resource connection, string table_name, array assoc_array [, int options])~
 
@@ -40,6 +40,9 @@ PGSQL_DML_STRING is passed via {options}.
 This function is EXPERIMENTAL. The behaviour of this function, its name, and
 surrounding documentation may change without notice in a future release of
 PHP. This function should be used at your own risk.
+
+Version Description 5.5.3/5.4.19 Direct SQL injection to {table_name} and
+Indirect SQL injection to identifiers are fixed.
 
 |pg_convert|
 

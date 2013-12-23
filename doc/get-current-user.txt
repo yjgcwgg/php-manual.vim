@@ -1,4 +1,4 @@
-*get_current_user* -- Gets the name of the owner of the current PHP script
+get_current_user -- Gets the name of the owner of the current PHP script
 
   string get_current_user()~
 

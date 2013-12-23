@@ -1,4 +1,4 @@
-*stats_rand_gen_t* -- Generates a single random deviate from a T distribution
+stats_rand_gen_t -- Generates a single random deviate from a T distribution
 
   float stats_rand_gen_t(float df)~
 

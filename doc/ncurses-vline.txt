@@ -1,4 +1,4 @@
-*ncurses_vline* -- Draw a vertical line at current position using an attributed
+ncurses_vline -- Draw a vertical line at current position using an attributed
 character and max. n characters long
 
   int ncurses_vline(int charattr, int n)~

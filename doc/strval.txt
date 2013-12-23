@@ -1,4 +1,4 @@
-*strval* -- Get string value of a variable
+strval -- Get string value of a variable
 
   string strval(mixed var)~
 
@@ -11,13 +11,13 @@ for a way to format a numeric value as a string, please see |sprintf| or
 
 {var} The variable that is being converted to a string.
 
-{var} may be any scalar type or an object that implements the __toString
+{var} may be any scalar type or an object that implements the __toString()
 method. You cannot use |strval| on arrays or on objects that do not implement
-the __toString method.
+the __toString() method.
 
 The string value of {var}.
 
-|strval| example using PHP5's magic __toString method.
+|strval| example using PHP 5's magic __toString() method.
 
 <?php >
   class StrValTest
@@ -36,7 +36,7 @@ The string value of {var}.
 
 
 
-|floatval| |intval| |settype| |sprintf| |number_format| Type juggling
-__toString
+|boolval| |floatval| |intval| |settype| |sprintf| |number_format| Type
+juggling __toString()
 
 vim:ft=help:

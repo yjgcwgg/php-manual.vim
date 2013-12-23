@@ -1,4 +1,4 @@
-*bbcode_set_arg_parser* -- Attach another parser in order to use another rule
+bbcode_set_arg_parser -- Attach another parser in order to use another rule
 set for argument parsing
 
   bool bbcode_set_arg_parser(resource bbcode_container, resource bbcode_arg_parser)~

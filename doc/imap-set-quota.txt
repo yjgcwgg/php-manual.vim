@@ -1,4 +1,4 @@
-*imap_set_quota* -- Sets a quota for a given mailbox
+imap_set_quota -- Sets a quota for a given mailbox
 
   bool imap_set_quota(resource imap_stream, string quota_root, int quota_limit)~
 

@@ -1,4 +1,4 @@
-*m_iscommadelimited* -- Checks to see if response is comma delimited
+m_iscommadelimited -- Checks to see if response is comma delimited
 
   int m_iscommadelimited(resource conn, int identifier)~
 

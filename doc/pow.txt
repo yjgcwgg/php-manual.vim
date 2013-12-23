@@ -1,25 +1,21 @@
-*pow* -- Exponential expression
+pow -- Exponential expression
 
   number pow(number base, number exp)~
 
 Returns {base} raised to the power of {exp}.
 
-In PHP 4.0.6 and earlier |pow| always returned a float, and did not issue
-warnings.
-
 {base} The base to use
 
 {exp} The exponent
 
-{base} raised to the power of {exp}. If the result can be represented as
-integer it will be returned as type integer, else it will be returned as type
-float. If the power cannot be computed FALSE will be returned instead.
+{base} raised to the power of {exp}. If both arguments are non-negative
+integers and the result can be represented as an integer, the result will be
+returned with integer type, otherwise it will be returned as a float.
 
-Version Description Since 4.0.6 The function will now return integer results
-if possible, before this it always returned a float result. For older
-versions, you may receive a bogus result for complex numbers. Since 4.2.0 PHP
-stops to emit a warning if the value can't be computed, it will now silently
-return FALSE only.
+Version Description 4.2.0 No warning is emitted on errors, even if the value
+can't be computed. 4.0.6 The function will now return integer results if
+possible, before this it always returned a float result. For older versions,
+you may receive a bogus result for complex numbers.
 
 Some examples of |pow|
 
@@ -35,6 +31,9 @@ Some examples of |pow|
 
 
 
+
+This function will convert all input to a number, even non-scalar values,
+which could lead to weird results.
 
 |exp| |sqrt| |bcpow| |gmp_pow|
 

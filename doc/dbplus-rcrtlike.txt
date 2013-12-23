@@ -1,4 +1,4 @@
-*dbplus_rcrtlike* -- Creates an empty copy of a relation with default indices
+dbplus_rcrtlike -- Creates an empty copy of a relation with default indices
 
   mixed dbplus_rcrtlike(string name, resource relation [, int overwrite])~
 

@@ -1,4 +1,4 @@
-*date_timezone_get* -- Alias of DateTime::getTimezone
+date_timezone_get -- Alias of DateTime::getTimezone
 
 This function is an alias of: DateTime::getTimezone
 

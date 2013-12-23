@@ -1,4 +1,4 @@
-*com_propget* -- Alias of com_get
+com_propget -- Alias of com_get
 
 This function is an alias of: |com_get|.
 

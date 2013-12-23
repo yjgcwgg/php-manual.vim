@@ -1,4 +1,4 @@
-*ncurses_start_color* -- Initializes color functionality
+ncurses_start_color -- Initializes color functionality
 
   int ncurses_start_color()~
 

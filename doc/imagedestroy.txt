@@ -1,4 +1,4 @@
-*imagedestroy* -- Destroy an image
+imagedestroy -- Destroy an image
 
   bool imagedestroy(resource image)~
 

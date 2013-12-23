@@ -1,4 +1,4 @@
-*sybase_connect* -- Opens a Sybase server connection
+sybase_connect -- Opens a Sybase server connection
 
   resource sybase_connect([string servername [, string username [, string password [, string charset [, string appname [, bool new]]]]]])~
 

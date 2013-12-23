@@ -1,4 +1,4 @@
-*gnupg_addencryptkey* -- Add a key for encryption
+gnupg_addencryptkey -- Add a key for encryption
 
   bool gnupg_addencryptkey(resource identifier, string fingerprint)~
 

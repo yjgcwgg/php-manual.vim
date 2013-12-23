@@ -1,4 +1,4 @@
-*mcrypt_generic_deinit* -- This function deinitializes an encryption module
+mcrypt_generic_deinit -- This function deinitializes an encryption module
 
   bool mcrypt_generic_deinit(resource td)~
 

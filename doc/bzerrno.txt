@@ -1,4 +1,4 @@
-*bzerrno* -- Returns a bzip2 error number
+bzerrno -- Returns a bzip2 error number
 
   int bzerrno(resource bz)~
 

@@ -1,4 +1,4 @@
-*odbc_cursor* -- Get cursorname
+odbc_cursor -- Get cursorname
 
   string odbc_cursor(resource result_id)~
 

@@ -1,4 +1,4 @@
-*mhash_get_hash_name* -- Gets the name of the specified hash
+mhash_get_hash_name -- Gets the name of the specified hash
 
   string mhash_get_hash_name(int hash)~
 

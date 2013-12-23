@@ -1,4 +1,4 @@
-*posix_setgid* -- Set the GID of the current process
+posix_setgid -- Set the GID of the current process
 
   bool posix_setgid(int gid)~
 

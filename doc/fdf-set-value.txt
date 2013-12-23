@@ -1,4 +1,4 @@
-*fdf_set_value* -- Set the value of a field
+fdf_set_value -- Set the value of a field
 
   bool fdf_set_value(resource fdf_document, string fieldname, mixed value [, int isName])~
 

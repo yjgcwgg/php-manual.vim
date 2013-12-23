@@ -1,4 +1,4 @@
-*m_getcellbynum* -- Get a specific cell from a comma delimited response by
+m_getcellbynum -- Get a specific cell from a comma delimited response by
 column number
 
   string m_getcellbynum(resource conn, int identifier, int column, int row)~

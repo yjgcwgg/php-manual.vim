@@ -1,4 +1,4 @@
-*mssql_select_db* -- Select MS SQL database
+mssql_select_db -- Select MS SQL database
 
   bool mssql_select_db(string database_name [, resource link_identifier])~
 

@@ -1,4 +1,4 @@
-*explode* -- Split a string by string
+explode -- Split a string by string
 
   array explode(string delimiter, string string [, int limit])~
 
@@ -27,7 +27,7 @@ boundaries formed by the {delimiter}.
 
 If {delimiter} is an empty string (""), |explode| will return FALSE. If
 {delimiter} contains a value that is not contained in {string} and a negative
-{limit} is used, then an empty arraywill be returned, otherwise an array
+{limit} is used, then an empty array will be returned, otherwise an array
 containing {string} will be returned.
 
 Version Description 5.1.0 Support for negative {limit}s was added 4.0.1 The
@@ -50,6 +50,33 @@ Version Description 5.1.0 Support for negative {limit}s was added 4.0.1 The
 ?>
 
 
+
+
+
+|explode| return examples
+
+<?php >
+  /* 
+     A string that doesn't contain the delimiter will simply
+     return a one-length array of the original string.
+  */
+  $input1 = "hello";
+  $input2 = "hello,there";
+  var_dump( explode( ',', $input1 ) );
+  var_dump( explode( ',', $input2 ) );
+?>
+
+The above example will output:
+
+  array(1)
+  (
+      [0] => string(5) "hello"
+  )
+  array(2)
+  (
+      [0] => string(5) "hello"
+      [1] => string(5) "there"
+  )
 
 
 
@@ -83,6 +110,6 @@ The above example will output:
 
 This function is binary-safe.
 
-|preg_split| |str_split| |str_word_count| |strtok| |implode|
+|preg_split| |str_split| |mb_split| |str_word_count| |strtok| |implode|
 
 vim:ft=help:

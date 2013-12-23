@@ -1,4 +1,4 @@
-*printer_draw_elipse* -- Draw an ellipse
+printer_draw_elipse -- Draw an ellipse
 
   void printer_draw_elipse(resource printer_handle, int ul_x, int ul_y, int lr_x, int lr_y)~
 

@@ -1,4 +1,4 @@
-*oci_cancel* -- Cancels reading from cursor
+oci_cancel -- Cancels reading from cursor
 
   bool oci_cancel(resource statement)~
 

@@ -1,4 +1,4 @@
-*ncurses_ungetmouse* -- Pushes mouse event to queue
+ncurses_ungetmouse -- Pushes mouse event to queue
 
   bool ncurses_ungetmouse(array mevent)~
 

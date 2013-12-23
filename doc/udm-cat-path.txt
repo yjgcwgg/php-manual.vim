@@ -1,4 +1,4 @@
-*udm_cat_path* -- Get the path to the current category
+udm_cat_path -- Get the path to the current category
 
   array udm_cat_path(resource agent, string category)~
 

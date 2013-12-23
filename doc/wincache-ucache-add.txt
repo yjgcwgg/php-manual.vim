@@ -1,4 +1,4 @@
-*wincache_ucache_add* -- Adds a variable in user cache only if variable does not
+wincache_ucache_add -- Adds a variable in user cache only if variable does not
 already exist in the cache
 
   bool wincache_ucache_add(string key, mixed value [, int ttl])~

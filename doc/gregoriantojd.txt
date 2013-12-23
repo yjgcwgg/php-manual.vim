@@ -1,4 +1,4 @@
-*GregorianToJD* -- Converts a Gregorian date to Julian Day Count
+GregorianToJD -- Converts a Gregorian date to Julian Day Count
 
   int gregoriantojd(int month, int day, int year)~
 

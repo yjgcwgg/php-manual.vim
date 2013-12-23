@@ -1,4 +1,4 @@
-*maxdb->more_results* -- Check if there any more query results from a multi
+maxdb::more_results -- Check if there any more query results from a multi
 query
 
   bool maxdb_more_results(resource link)~

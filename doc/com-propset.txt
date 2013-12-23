@@ -1,4 +1,4 @@
-*com_propset* -- Alias of com_set
+com_propset -- Alias of com_set
 
 This function is an alias of: |com_set|.
 

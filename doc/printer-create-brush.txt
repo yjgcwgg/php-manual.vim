@@ -1,4 +1,4 @@
-*printer_create_brush* -- Create a new brush
+printer_create_brush -- Create a new brush
 
   resource printer_create_brush(int style, string color)~
 

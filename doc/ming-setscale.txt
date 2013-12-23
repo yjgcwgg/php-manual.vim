@@ -1,4 +1,4 @@
-*ming_setscale* -- Set the global scaling factor.
+ming_setscale -- Set the global scaling factor.
 
   void ming_setscale(float scale)~
 

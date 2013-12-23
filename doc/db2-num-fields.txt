@@ -1,4 +1,4 @@
-*db2_num_fields* -- Returns the number of fields contained in a result set
+db2_num_fields -- Returns the number of fields contained in a result set
 
   int db2_num_fields(resource stmt)~
 

@@ -1,4 +1,4 @@
-*dbplus_unselect* -- Remove a constraint from relation
+dbplus_unselect -- Remove a constraint from relation
 
   int dbplus_unselect(resource relation)~
 

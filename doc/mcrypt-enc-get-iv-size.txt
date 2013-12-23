@@ -1,4 +1,4 @@
-*mcrypt_enc_get_iv_size* -- Returns the size of the IV of the opened algorithm
+mcrypt_enc_get_iv_size -- Returns the size of the IV of the opened algorithm
 
   int mcrypt_enc_get_iv_size(resource td)~
 

@@ -1,4 +1,4 @@
-*runkit_method_copy* -- Copies a method from class to another
+runkit_method_copy -- Copies a method from class to another
 
   bool runkit_method_copy(string dClass, string dMethod, string sClass [, string sMethod])~
 

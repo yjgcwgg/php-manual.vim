@@ -1,4 +1,4 @@
-*ftp_rawlist* -- Returns a detailed list of files in the given directory
+ftp_rawlist -- Returns a detailed list of files in the given directory
 
   array ftp_rawlist(resource ftp_stream, string directory [, bool recursive])~
 
@@ -7,7 +7,7 @@ array.
 
 {ftp_stream} The link identifier of the FTP connection.
 
-{directory} The directory path.
+{directory} The directory path. May include arguments for the LIST command.
 
 {recursive} If set to TRUE, the issued command will be LIST -R.
 

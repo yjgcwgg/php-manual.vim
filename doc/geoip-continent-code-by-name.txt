@@ -1,4 +1,4 @@
-*geoip_continent_code_by_name* -- Get the two letter continent code
+geoip_continent_code_by_name -- Get the two letter continent code
 
   string geoip_continent_code_by_name(string hostname)~
 

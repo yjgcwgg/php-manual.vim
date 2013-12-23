@@ -1,4 +1,4 @@
-*ps_setflat* -- Sets flatness
+ps_setflat -- Sets flatness
 
   bool ps_setflat(resource psdoc, float value)~
 

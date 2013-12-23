@@ -1,4 +1,4 @@
-*swf_rotate* -- Rotate the current transformation
+swf_rotate -- Rotate the current transformation
 
   void swf_rotate(float angle, string axis)~
 

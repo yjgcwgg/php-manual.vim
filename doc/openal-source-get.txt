@@ -1,4 +1,4 @@
-*openal_source_get* -- Retrieve an OpenAL source property
+openal_source_get -- Retrieve an OpenAL source property
 
   mixed openal_source_get(resource source, int property)~
 

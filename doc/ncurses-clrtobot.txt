@@ -1,4 +1,4 @@
-*ncurses_clrtobot* -- Clear screen from current position to bottom
+ncurses_clrtobot -- Clear screen from current position to bottom
 
   bool ncurses_clrtobot()~
 

@@ -1,4 +1,4 @@
-*interface_exists* -- Checks if the interface has been defined
+interface_exists -- Checks if the interface has been defined
 
   bool interface_exists(string interface_name [, bool autoload])~
 
@@ -27,6 +27,6 @@ FALSE otherwise.
 
 
 
-|class_exists|
+|get_declared_interfaces| |class_implements| |class_exists|
 
 vim:ft=help:

@@ -1,4 +1,4 @@
-*hw_GetRemote* -- Gets a remote document
+hw_GetRemote -- Gets a remote document
 
   int hw_getremote(int connection, int objectID)~
 

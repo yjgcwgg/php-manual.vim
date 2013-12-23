@@ -1,4 +1,4 @@
-*ncurses_wattrset* -- Set the attributes for a window
+ncurses_wattrset -- Set the attributes for a window
 
   int ncurses_wattrset(resource window, int attrs)~
 

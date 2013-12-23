@@ -1,8 +1,8 @@
-*XMLWriter::startAttributeNS* -- Create start namespaced attribute
+xmlwriter_start_attribute_ns -- Create start namespaced attribute
 
 Object oriented style
 
-  bool startAttributeNS(string prefix, string name, string uri)~
+  bool XMLWriter::startAttributeNS(string prefix, string name, string uri)~
 
 Procedural style
 

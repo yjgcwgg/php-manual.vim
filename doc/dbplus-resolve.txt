@@ -1,4 +1,4 @@
-*dbplus_resolve* -- Resolve host information for relation
+dbplus_resolve -- Resolve host information for relation
 
   array dbplus_resolve(string relation_name)~
 

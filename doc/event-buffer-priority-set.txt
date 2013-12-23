@@ -1,4 +1,4 @@
-*event_buffer_priority_set* -- Assign a priority to a buffered event
+event_buffer_priority_set -- Assign a priority to a buffered event
 
   bool event_buffer_priority_set(resource bevent, int priority)~
 

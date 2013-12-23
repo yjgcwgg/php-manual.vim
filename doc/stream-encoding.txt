@@ -1,4 +1,4 @@
-*stream_encoding* -- Set character set for stream encoding
+stream_encoding -- Set character set for stream encoding
 
   bool stream_encoding(resource stream [, string encoding])~
 

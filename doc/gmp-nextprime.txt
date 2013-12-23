@@ -1,4 +1,4 @@
-*gmp_nextprime* -- Find next prime number
+gmp_nextprime -- Find next prime number
 
   resource gmp_nextprime(int a)~
 

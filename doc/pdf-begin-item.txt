@@ -1,4 +1,4 @@
-*PDF_begin_item* -- Open structure element or other content item
+PDF_begin_item -- Open structure element or other content item
 
   int PDF_begin_item(resource pdfdoc, string tag, string optlist)~
 

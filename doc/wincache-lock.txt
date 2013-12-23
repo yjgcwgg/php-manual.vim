@@ -1,4 +1,4 @@
-*wincache_lock* -- Acquires an exclusive lock on a given key
+wincache_lock -- Acquires an exclusive lock on a given key
 
   bool wincache_lock(string key [, bool isglobal])~
 

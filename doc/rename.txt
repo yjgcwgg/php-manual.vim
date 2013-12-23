@@ -1,8 +1,9 @@
-*rename* -- Renames a file or directory
+rename -- Renames a file or directory
 
   bool rename(string oldname, string newname [, resource context])~
 
-Attempts to rename {oldname} to {newname}.
+Attempts to rename {oldname} to {newname}, moving it between directories if
+necessary. If {newname} exists, it will be overwritten.
 
 {oldname}
 
@@ -22,7 +23,7 @@ for a listing of which wrappers support |rename|. 4.3.3 |rename| may now be
 able to rename files across partitions on *nix based systems, provided the
 appropriate permissions are held. Warnings may be generated if the destination
 filesystem doesn't permit chown() or chmod() system calls to be made on files
-&mdash; for example, if the destination filesystem is a FAT filesystem.
+— for example, if the destination filesystem is a FAT filesystem.
 
 Example with |rename|
 

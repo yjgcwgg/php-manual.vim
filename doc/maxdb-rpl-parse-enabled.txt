@@ -1,4 +1,4 @@
-*maxdb_rpl_parse_enabled* -- Check if RPL parse is enabled
+maxdb_rpl_parse_enabled -- Check if RPL parse is enabled
 
   int maxdb_rpl_parse_enabled(resource link)~
 

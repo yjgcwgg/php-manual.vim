@@ -1,4 +1,4 @@
-*maxdb_execute* -- Alias of maxdb_stmt_execute
+maxdb_execute -- Alias of maxdb_stmt_execute
 
 This function is an alias of: |maxdb_stmt_execute|.
 

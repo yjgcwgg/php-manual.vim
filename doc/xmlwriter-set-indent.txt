@@ -1,8 +1,8 @@
-*XMLWriter::setIndent* -- Toggle indentation on/off
+xmlwriter_set_indent -- Toggle indentation on/off
 
 Object oriented style
 
-  bool setIndent(bool indent)~
+  bool XMLWriter::setIndent(bool indent)~
 
 Procedural style
 

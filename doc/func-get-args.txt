@@ -1,4 +1,4 @@
-*func_get_args* -- Returns an array comprising a function's argument list
+func_get_args -- Returns an array comprising a function's argument list
 
   array func_get_args()~
 
@@ -79,14 +79,54 @@ Output in PHP 5.3 and later:
 
 
 
+|func_get_args| example of byref and byval arguments
+
+<?php >
+  function byVal($arg) {
+      echo 'As passed     : ', var_export(func_get_args()), PHP_EOL;
+      $arg = 'baz';
+      echo 'After change  : ', var_export(func_get_args()), PHP_EOL;
+  }
+  
+  function byRef(&amp;$arg) {
+      echo 'As passed     : ', var_export(func_get_args()), PHP_EOL;
+      $arg = 'baz';
+      echo 'After change  : ', var_export(func_get_args()), PHP_EOL;
+  }
+  
+  $arg = 'bar';
+  byVal($arg);
+  byRef($arg);
+?>
+
+The above example will output:
+
+  As passed     : array (
+    0 => 'bar',
+  )
+  After change  : array (
+    0 => 'bar',
+  )
+  As passed     : array (
+    0 => 'bar',
+  )
+  After change  : array (
+    0 => 'baz',
+  )
+
+
+
 Because this function depends on the current scope to determine parameter
 details, it cannot be used as a function parameter in versions prior to 5.3.0.
 If this value must be passed, the results should be assigned to a variable,
 and that variable should be passed.
 
+If the arguments are passed by reference, any changes to the arguments will be
+reflected in the values returned by this function.
+
 This function returns a copy of the passed arguments only, and does not
 account for default (non-passed) arguments.
 
-|func_get_arg| |func_num_args|
+|func_get_arg| |func_num_args| ReflectionFunctionAbstract::getParameters
 
 vim:ft=help:

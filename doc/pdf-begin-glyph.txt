@@ -1,4 +1,4 @@
-*PDF_begin_glyph* -- Start glyph definition for Type 3 font
+PDF_begin_glyph -- Start glyph definition for Type 3 font
 
   bool PDF_begin_glyph(resource pdfdoc, string glyphname, float wx, float llx, float lly, float urx, float ury)~
 

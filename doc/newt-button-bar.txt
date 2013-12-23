@@ -1,4 +1,4 @@
-*newt_button_bar* -- This function returns a grid containing the buttons
+newt_button_bar -- This function returns a grid containing the buttons
 created.
 
   resource newt_button_bar(array buttons)~

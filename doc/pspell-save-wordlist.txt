@@ -1,4 +1,4 @@
-*pspell_save_wordlist* -- Save the personal wordlist to a file
+pspell_save_wordlist -- Save the personal wordlist to a file
 
   bool pspell_save_wordlist(int dictionary_link)~
 

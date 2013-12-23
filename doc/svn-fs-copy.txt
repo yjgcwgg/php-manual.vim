@@ -1,4 +1,4 @@
-*svn_fs_copy* -- Copies a file or a directory, returns true if all is ok, false
+svn_fs_copy -- Copies a file or a directory, returns true if all is ok, false
 otherwise
 
   bool svn_fs_copy(resource from_root, string from_path, resource to_root, string to_path)~

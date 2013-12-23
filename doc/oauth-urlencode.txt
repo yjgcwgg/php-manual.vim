@@ -1,4 +1,4 @@
-*oauth_urlencode* -- Encode a URI to RFC 3986
+oauth_urlencode -- Encode a URI to RFC 3986
 
   string oauth_urlencode(string uri)~
 

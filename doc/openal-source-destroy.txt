@@ -1,4 +1,4 @@
-*openal_source_destroy* -- Destroy a source resource
+openal_source_destroy -- Destroy a source resource
 
   bool openal_source_destroy(resource source)~
 

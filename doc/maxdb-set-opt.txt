@@ -1,4 +1,4 @@
-*maxdb_set_opt* -- Alias of maxdb_options
+maxdb_set_opt -- Alias of maxdb_options
 
 This function is an alias of: |maxdb_options|.
 

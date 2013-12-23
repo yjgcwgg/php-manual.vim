@@ -1,4 +1,4 @@
-*ifx_pconnect* -- Open persistent Informix connection
+ifx_pconnect -- Open persistent Informix connection
 
   resource ifx_pconnect([string database [, string userid [, string password]]])~
 

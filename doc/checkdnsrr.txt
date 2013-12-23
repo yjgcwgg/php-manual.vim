@@ -1,4 +1,4 @@
-*checkdnsrr* -- Check DNS records corresponding to a given Internet host name or
+checkdnsrr -- Check DNS records corresponding to a given Internet host name or
 IP address
 
   bool checkdnsrr(string host [, string type])~

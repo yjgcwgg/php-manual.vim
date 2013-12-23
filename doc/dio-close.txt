@@ -1,4 +1,4 @@
-*dio_close* -- Closes the file descriptor given by fd
+dio_close -- Closes the file descriptor given by fd
 
   void dio_close(resource fd)~
 

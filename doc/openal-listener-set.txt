@@ -1,4 +1,4 @@
-*openal_listener_set* -- Set a listener property
+openal_listener_set -- Set a listener property
 
   bool openal_listener_set(int property, mixed setting)~
 

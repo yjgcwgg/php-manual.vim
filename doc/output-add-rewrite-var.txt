@@ -1,4 +1,4 @@
-*output_add_rewrite_var* -- Add URL rewriter values
+output_add_rewrite_var -- Add URL rewriter values
 
   bool output_add_rewrite_var(string name, string value)~
 

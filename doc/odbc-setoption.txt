@@ -1,4 +1,4 @@
-*odbc_setoption* -- Adjust ODBC settings
+odbc_setoption -- Adjust ODBC settings
 
   bool odbc_setoption(resource id, int function, int option, int param)~
 

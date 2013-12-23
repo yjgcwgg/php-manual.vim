@@ -1,4 +1,4 @@
-*odbc_pconnect* -- Open a persistent database connection
+odbc_pconnect -- Open a persistent database connection
 
   resource odbc_pconnect(string dsn, string user, string password [, int cursor_type])~
 

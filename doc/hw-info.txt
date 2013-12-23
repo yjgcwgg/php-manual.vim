@@ -1,4 +1,4 @@
-*hw_Info* -- Info about connection
+hw_Info -- Info about connection
 
   string hw_info(int connection)~
 

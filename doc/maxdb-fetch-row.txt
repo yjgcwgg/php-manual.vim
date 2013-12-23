@@ -1,4 +1,4 @@
-*maxdb_result::fetch_row* -- Get a result row as an enumerated array
+maxdb_result::fetch_row -- Get a result row as an enumerated array
 
 Procedural style
 

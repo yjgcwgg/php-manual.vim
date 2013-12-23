@@ -1,4 +1,4 @@
-*ps_get_parameter* -- Gets certain parameters
+ps_get_parameter -- Gets certain parameters
 
   string ps_get_parameter(resource psdoc, string name [, float modifier])~
 

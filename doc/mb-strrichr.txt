@@ -1,4 +1,4 @@
-*mb_strrichr* -- Finds the last occurrence of a character in a string within
+mb_strrichr -- Finds the last occurrence of a character in a string within
 another, case insensitive
 
   string mb_strrichr(string haystack, string needle [, bool part [, string encoding]])~

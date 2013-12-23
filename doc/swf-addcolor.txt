@@ -1,4 +1,4 @@
-*swf_addcolor* -- Set the global add color to the rgba value specified
+swf_addcolor -- Set the global add color to the rgba value specified
 
   void swf_addcolor(float r, float g, float b, float a)~
 

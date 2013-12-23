@@ -1,4 +1,4 @@
-*ps_symbol_name* -- Gets name of a glyph
+ps_symbol_name -- Gets name of a glyph
 
   string ps_symbol_name(resource psdoc, int ord [, int fontid])~
 

@@ -1,4 +1,4 @@
-*notes_drop_db* -- Drop a Lotus Notes database
+notes_drop_db -- Drop a Lotus Notes database
 
   bool notes_drop_db(string database_name)~
 

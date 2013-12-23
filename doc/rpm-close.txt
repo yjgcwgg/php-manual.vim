@@ -1,4 +1,4 @@
-*rpm_close* -- Closes an RPM file
+rpm_close -- Closes an RPM file
 
   bool rpm_close(resource rpmr)~
 

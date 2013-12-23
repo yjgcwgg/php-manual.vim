@@ -1,4 +1,4 @@
-*session_write_close* -- Write session data and end session
+session_write_close -- Write session data and end session
 
   void session_write_close()~
 
@@ -13,5 +13,7 @@ frames by ending the session as soon as all changes to session variables are
 done.
 
 No value is returned.
+
+The |session_register_shutdown|
 
 vim:ft=help:

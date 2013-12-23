@@ -1,4 +1,4 @@
-*session_unset* -- Free all session variables
+session_unset -- Free all session variables
 
   void session_unset()~
 

@@ -1,4 +1,4 @@
-*gmp_strval* -- Convert GMP number to string
+gmp_strval -- Convert GMP number to string
 
   string gmp_strval(resource gmpnumber [, int base])~
 

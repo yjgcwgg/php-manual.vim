@@ -1,4 +1,4 @@
-*escapeshellarg* -- Escape a string to be used as a shell argument
+escapeshellarg -- Escape a string to be used as a shell argument
 
   string escapeshellarg(string arg)~
 

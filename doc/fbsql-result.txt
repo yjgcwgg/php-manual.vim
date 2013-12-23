@@ -1,4 +1,4 @@
-*fbsql_result* -- Get result data
+fbsql_result -- Get result data
 
   mixed fbsql_result(resource result [, int row [, mixed field]])~
 

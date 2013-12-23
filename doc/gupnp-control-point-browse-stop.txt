@@ -1,4 +1,4 @@
-*gupnp_control_point_browse_stop* -- Stop browsing
+gupnp_control_point_browse_stop -- Stop browsing
 
   bool gupnp_control_point_browse_stop(resource cpoint)~
 

@@ -1,4 +1,4 @@
-*fbsql_db_query* -- Send a FrontBase query
+fbsql_db_query -- Send a FrontBase query
 
   resource fbsql_db_query(string database, string query [, resource link_identifier])~
 

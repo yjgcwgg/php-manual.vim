@@ -1,8 +1,8 @@
-*XMLWriter::writePI* -- Writes a PI
+xmlwriter_write_pi -- Writes a PI
 
 Object oriented style
 
-  bool writePI(string target, string content)~
+  bool XMLWriter::writePI(string target, string content)~
 
 Procedural style
 

@@ -1,4 +1,4 @@
-*svn_log* -- Returns the commit log messages of a repository URL
+svn_log -- Returns the commit log messages of a repository URL
 
   array svn_log(string repos_url [, int start_revision [, int end_revision [, int limit [, int flags]]]])~
 
@@ -6,11 +6,6 @@
 {repos_url}, or the history of a specific revision if {start_revision} is set.
 This function is equivalent to svn log --verbose -r $start_revision
 $repos_url.
-
-For repositories with large histories, the output may be quite large (one
-array item for every revision of the item). This function does not support the
---limit NUM flag, nor does it support revision ranges (start_revision must be
-an integer).
 
 {repos_url} Repository URL of the item to retrieve log history from.
 

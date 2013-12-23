@@ -1,8 +1,8 @@
-*XMLWriter::startElement* -- Create start element tag
+xmlwriter_start_element -- Create start element tag
 
 Object oriented style
 
-  bool startElement(string name)~
+  bool XMLWriter::startElement(string name)~
 
 Procedural style
 

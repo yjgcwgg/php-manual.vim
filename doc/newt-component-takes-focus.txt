@@ -1,4 +1,4 @@
-*newt_component_takes_focus* --
+newt_component_takes_focus --
 
   void newt_component_takes_focus(resource component, bool takes_focus)~
 

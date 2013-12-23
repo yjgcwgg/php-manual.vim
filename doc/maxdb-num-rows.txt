@@ -1,4 +1,4 @@
-*maxdb->num_rows* -- Gets the number of rows in a result
+maxdb::num_rows -- Gets the number of rows in a result
 
 Procedural style
 

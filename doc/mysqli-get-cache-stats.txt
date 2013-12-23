@@ -1,4 +1,4 @@
-*mysqli_get_cache_stats* -- Returns client Zval cache statistics
+mysqli_get_cache_stats -- Returns client Zval cache statistics
 
   array mysqli_get_cache_stats()~
 

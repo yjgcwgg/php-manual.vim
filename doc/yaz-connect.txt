@@ -1,4 +1,4 @@
-*yaz_connect* -- Prepares for a connection to a Z39.50 server
+yaz_connect -- Prepares for a connection to a Z39.50 server
 
   mixed yaz_connect(string zurl [, mixed options])~
 

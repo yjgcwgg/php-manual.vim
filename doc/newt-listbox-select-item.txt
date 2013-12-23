@@ -1,4 +1,4 @@
-*newt_listbox_select_item* --
+newt_listbox_select_item --
 
   void newt_listbox_select_item(resource listbox, mixed key, int sense)~
 

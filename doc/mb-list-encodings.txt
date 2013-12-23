@@ -1,4 +1,4 @@
-*mb_list_encodings* -- Returns an array of all supported encodings
+mb_list_encodings -- Returns an array of all supported encodings
 
   array mb_list_encodings()~
 

@@ -1,4 +1,4 @@
-*m_verifyconnection* -- Set whether or not to PING upon connect to verify
+m_verifyconnection -- Set whether or not to PING upon connect to verify
 connection
 
   bool m_verifyconnection(resource conn, int tf)~

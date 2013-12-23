@@ -1,4 +1,4 @@
-*dom_import_simplexml* -- Gets a DOMElement object from a SimpleXMLElement
+dom_import_simplexml -- Gets a DOMElement object from a SimpleXMLElement
 object
 
   DOMElement dom_import_simplexml(SimpleXMLElement node)~

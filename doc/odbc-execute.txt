@@ -1,4 +1,4 @@
-*odbc_execute* -- Execute a prepared statement
+odbc_execute -- Execute a prepared statement
 
   bool odbc_execute(resource result_id [, array parameters_array])~
 

@@ -1,4 +1,4 @@
-*mailparse_msg_get_part* -- Returns a handle on a given section in a mimemessage
+mailparse_msg_get_part -- Returns a handle on a given section in a mimemessage
 
   resource mailparse_msg_get_part(resource mimemail, string mimesection)~
 

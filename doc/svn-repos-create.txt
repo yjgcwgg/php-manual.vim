@@ -1,4 +1,4 @@
-*svn_repos_create* -- Create a new subversion repository at path
+svn_repos_create -- Create a new subversion repository at path
 
   resource svn_repos_create(string path [, array config [, array fsconfig]])~
 

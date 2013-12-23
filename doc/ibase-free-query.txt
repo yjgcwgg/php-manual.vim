@@ -1,4 +1,4 @@
-*ibase_free_query* -- Free memory allocated by a prepared query
+ibase_free_query -- Free memory allocated by a prepared query
 
   bool ibase_free_query(resource query)~
 

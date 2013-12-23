@@ -1,4 +1,4 @@
-*dbplus_prev* -- Get previous tuple from relation
+dbplus_prev -- Get previous tuple from relation
 
   int dbplus_prev(resource relation, array tuple)~
 

@@ -1,4 +1,4 @@
-*wddx_serialize_vars* -- Serialize variables into a WDDX packet
+wddx_serialize_vars -- Serialize variables into a WDDX packet
 
   string wddx_serialize_vars(mixed var_name [, mixed ...])~
 

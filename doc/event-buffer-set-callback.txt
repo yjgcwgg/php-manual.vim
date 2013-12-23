@@ -1,4 +1,4 @@
-*event_buffer_set_callback* -- Set or reset callbacks for a buffered event
+event_buffer_set_callback -- Set or reset callbacks for a buffered event
 
   bool event_buffer_set_callback(resource event, mixed readcb, mixed writecb, mixed errorcb [, mixed arg])~
 

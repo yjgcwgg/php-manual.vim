@@ -1,4 +1,4 @@
-*chmod* -- Changes file mode
+chmod -- Changes file mode
 
   bool chmod(string filename, int mode)~
 

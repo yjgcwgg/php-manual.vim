@@ -1,4 +1,4 @@
-*oci_set_module_name* -- Sets the module name
+oci_set_module_name -- Sets the module name
 
   bool oci_set_module_name(resource connection, string module_name)~
 

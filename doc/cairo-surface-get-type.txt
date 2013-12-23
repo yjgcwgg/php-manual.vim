@@ -1,4 +1,4 @@
-*cairo_surface_get_type* -- Description
+cairo_surface_get_type -- Description
 
   int cairo_surface_get_type(CairoSurface surface)~
 

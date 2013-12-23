@@ -1,4 +1,4 @@
-*iis_get_server_by_path* -- Return the instance number associated with the Path
+iis_get_server_by_path -- Return the instance number associated with the Path
 
   int iis_get_server_by_path(string path)~
 

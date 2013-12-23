@@ -1,4 +1,4 @@
-*ncurses_mvaddch* -- Move current position and add character
+ncurses_mvaddch -- Move current position and add character
 
   int ncurses_mvaddch(int y, int x, int c)~
 

@@ -1,4 +1,4 @@
-*stream_get_line* -- Gets line from stream resource up to a given delimiter
+stream_get_line -- Gets line from stream resource up to a given delimiter
 
   string stream_get_line(resource handle, int length [, string ending])~
 

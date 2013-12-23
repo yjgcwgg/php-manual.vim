@@ -1,4 +1,4 @@
-*pg_unescape_bytea* -- Unescape binary for bytea type
+pg_unescape_bytea -- Unescape binary for bytea type
 
   string pg_unescape_bytea(string data)~
 
@@ -39,6 +39,8 @@ A string containing the unescaped data.
 
 
 
+
+Version Description 5.5.1 A warning is thrown if the input string is invalid.
 
 |pg_escape_bytea| |pg_escape_string|
 

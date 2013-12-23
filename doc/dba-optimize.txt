@@ -1,4 +1,4 @@
-*dba_optimize* -- Optimize database
+dba_optimize -- Optimize database
 
   bool dba_optimize(resource handle)~
 

@@ -1,4 +1,4 @@
-*zend_version* -- Gets the version of the current Zend engine
+zend_version -- Gets the version of the current Zend engine
 
   string zend_version()~
 

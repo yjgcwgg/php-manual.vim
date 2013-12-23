@@ -1,4 +1,4 @@
-*hw_GetObjectByQuery* -- Search object
+hw_GetObjectByQuery -- Search object
 
   array hw_getobjectbyquery(int connection, string query, int max_hits)~
 

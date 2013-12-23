@@ -1,4 +1,4 @@
-*system* -- Execute an external program and display the output
+system -- Execute an external program and display the output
 
   string system(string command [, int return_var])~
 

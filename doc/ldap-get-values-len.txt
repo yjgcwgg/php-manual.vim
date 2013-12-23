@@ -1,4 +1,4 @@
-*ldap_get_values_len* -- Get all binary values from a result entry
+ldap_get_values_len -- Get all binary values from a result entry
 
   array ldap_get_values_len(resource link_identifier, resource result_entry_identifier, string attribute)~
 

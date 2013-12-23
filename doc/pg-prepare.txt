@@ -1,4 +1,4 @@
-*pg_prepare* -- Submits a request to create a prepared statement with the given
+pg_prepare -- Submits a request to create a prepared statement with the given
 parameters, and waits for completion.
 
   resource pg_prepare([resource connection, string stmtname, string query])~

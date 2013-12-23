@@ -1,4 +1,4 @@
-*aggregate_methods_by_list* -- Selective dynamic class methods aggregation to an
+aggregate_methods_by_list -- Selective dynamic class methods aggregation to an
 object
 
   void aggregate_methods_by_list(object object, string class_name, array methods_list [, bool exclude])~

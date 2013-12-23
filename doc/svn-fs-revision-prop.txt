@@ -1,4 +1,4 @@
-*svn_fs_revision_prop* -- Fetches the value of a named property
+svn_fs_revision_prop -- Fetches the value of a named property
 
   string svn_fs_revision_prop(resource fs, int revnum, string propname)~
 

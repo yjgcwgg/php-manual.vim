@@ -1,4 +1,4 @@
-*snmp_set_quick_print* -- Set the value of quick_print within the UCD SNMP
+snmp_set_quick_print -- Set the value of quick_print within the UCD SNMP
 library
 
   bool snmp_set_quick_print(bool quick_print)~
@@ -21,7 +21,7 @@ in a later release.
 No value is returned.
 
 Setting quick_print is often used when using the information returned rather
-then displaying it.
+than displaying it.
 
 Using |snmp_set_quick_print|
 

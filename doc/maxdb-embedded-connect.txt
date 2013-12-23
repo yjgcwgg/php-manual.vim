@@ -1,4 +1,4 @@
-*maxdb_embedded_connect* -- Open a connection to an embedded MaxDB server
+maxdb_embedded_connect -- Open a connection to an embedded MaxDB server
 
   resource maxdb_embedded_connect([string dbname])~
 

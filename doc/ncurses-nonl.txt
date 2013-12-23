@@ -1,4 +1,4 @@
-*ncurses_nonl* -- Do not translate newline and carriage return / line feed
+ncurses_nonl -- Do not translate newline and carriage return / line feed
 
   bool ncurses_nonl()~
 

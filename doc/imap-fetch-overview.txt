@@ -1,4 +1,4 @@
-*imap_fetch_overview* -- Read an overview of the information in the headers of
+imap_fetch_overview -- Read an overview of the information in the headers of
 the given message
 
   array imap_fetch_overview(resource imap_stream, string sequence [, int options])~

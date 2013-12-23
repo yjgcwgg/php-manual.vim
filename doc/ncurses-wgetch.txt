@@ -1,4 +1,4 @@
-*ncurses_wgetch* -- Reads a character from keyboard (window)
+ncurses_wgetch -- Reads a character from keyboard (window)
 
   int ncurses_wgetch(resource window)~
 

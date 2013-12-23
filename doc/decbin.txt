@@ -1,4 +1,4 @@
-*decbin* -- Decimal to binary
+decbin -- Decimal to binary
 
   string decbin(int number)~
 

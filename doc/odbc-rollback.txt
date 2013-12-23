@@ -1,4 +1,4 @@
-*odbc_rollback* -- Rollback a transaction
+odbc_rollback -- Rollback a transaction
 
   bool odbc_rollback(resource connection_id)~
 

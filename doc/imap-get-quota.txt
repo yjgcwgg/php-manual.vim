@@ -1,4 +1,4 @@
-*imap_get_quota* -- Retrieve the quota level settings, and usage statics per
+imap_get_quota -- Retrieve the quota level settings, and usage statics per
 mailbox
 
   array imap_get_quota(resource imap_stream, string quota_root)~

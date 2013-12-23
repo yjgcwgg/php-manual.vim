@@ -1,4 +1,4 @@
-*enchant_broker_list_dicts* -- Returns a list of available dictionaries
+enchant_broker_list_dicts -- Returns a list of available dictionaries
 
   mixed enchant_broker_list_dicts(resource broker)~
 

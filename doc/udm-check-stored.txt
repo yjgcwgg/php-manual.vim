@@ -1,4 +1,4 @@
-*udm_check_stored* -- Check connection to stored
+udm_check_stored -- Check connection to stored
 
   int udm_check_stored(resource agent, int link, string doc_id)~
 

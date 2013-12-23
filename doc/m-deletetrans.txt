@@ -1,4 +1,4 @@
-*m_deletetrans* -- Delete specified transaction from MCVE_CONN structure
+m_deletetrans -- Delete specified transaction from MCVE_CONN structure
 
   bool m_deletetrans(resource conn, int identifier)~
 

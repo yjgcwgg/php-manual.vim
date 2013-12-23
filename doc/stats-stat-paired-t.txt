@@ -1,4 +1,4 @@
-*stats_stat_paired_t* -- Not documented
+stats_stat_paired_t -- Not documented
 
   float stats_stat_paired_t(array arr1, array arr2)~
 

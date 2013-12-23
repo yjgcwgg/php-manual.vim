@@ -1,4 +1,4 @@
-*maxdb_get_client_info* -- Returns the MaxDB client version as a string
+maxdb_get_client_info -- Returns the MaxDB client version as a string
 
   string maxdb_get_client_info()~
 

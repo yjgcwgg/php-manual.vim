@@ -1,4 +1,4 @@
-*ncurses_mvcur* -- Move cursor immediately
+ncurses_mvcur -- Move cursor immediately
 
   int ncurses_mvcur(int old_y, int old_x, int new_y, int new_x)~
 

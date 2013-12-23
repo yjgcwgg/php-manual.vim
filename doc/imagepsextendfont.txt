@@ -1,4 +1,4 @@
-*imagepsextendfont* -- Extend or condense a font
+imagepsextendfont -- Extend or condense a font
 
   bool imagepsextendfont(resource font_index, float extend)~
 

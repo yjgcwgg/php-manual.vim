@@ -1,4 +1,4 @@
-*mb_language* -- Set/Get current language
+mb_language -- Set/Get current language
 
   mixed mb_language([string language])~
 

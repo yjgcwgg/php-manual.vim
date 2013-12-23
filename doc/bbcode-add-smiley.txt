@@ -1,4 +1,4 @@
-*bbcode_add_smiley* -- Adds a smiley to the parser
+bbcode_add_smiley -- Adds a smiley to the parser
 
   bool bbcode_add_smiley(resource bbcode_container, string smiley, string replace_by)~
 

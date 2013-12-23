@@ -1,4 +1,4 @@
-*mhash_get_block_size* -- Gets the block size of the specified hash
+mhash_get_block_size -- Gets the block size of the specified hash
 
   int mhash_get_block_size(int hash)~
 

@@ -1,4 +1,4 @@
-*ibase_num_fields* -- Get the number of fields in a result set
+ibase_num_fields -- Get the number of fields in a result set
 
   int ibase_num_fields(resource result_id)~
 

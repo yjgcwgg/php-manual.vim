@@ -1,4 +1,4 @@
-*mqseries_set* -- MQSeries MQSET
+mqseries_set -- MQSeries MQSET
 
   void mqseries_set(resource hconn, resource hobj, int selectorcount, array selectors, int intattrcount, array intattrs, int charattrlength, array charattrs, resource compCode, resource reason)~
 

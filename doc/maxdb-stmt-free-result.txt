@@ -1,4 +1,4 @@
-*maxdb_stmt::free_result* -- Frees stored result memory for the given statement
+maxdb_stmt::free_result -- Frees stored result memory for the given statement
 handle
 
 Procedural style

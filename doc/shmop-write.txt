@@ -1,4 +1,4 @@
-*shmop_write* -- Write data into shared memory block
+shmop_write -- Write data into shared memory block
 
   int shmop_write(int shmid, string data, int offset)~
 

@@ -1,4 +1,4 @@
-*openssl_open* -- Open sealed data
+openssl_open -- Open sealed data
 
   bool openssl_open(string sealed_data, string open_data, string env_key, mixed priv_key_id [, string method])~
 

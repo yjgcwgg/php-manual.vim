@@ -1,4 +1,4 @@
-*maxdb_rpl_probe* -- RPL probe
+maxdb_rpl_probe -- RPL probe
 
   bool maxdb_rpl_probe(resource link)~
 

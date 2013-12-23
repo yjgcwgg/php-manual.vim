@@ -1,4 +1,4 @@
-*PDF_begin_font* -- Start a Type 3 font definition
+PDF_begin_font -- Start a Type 3 font definition
 
   bool PDF_begin_font(resource pdfdoc, string filename, float a, float b, float c, float d, float e, float f, string optlist)~
 

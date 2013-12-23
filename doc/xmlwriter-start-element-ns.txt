@@ -1,8 +1,8 @@
-*XMLWriter::startElementNS* -- Create start namespaced element tag
+xmlwriter_start_element_ns -- Create start namespaced element tag
 
 Object oriented style
 
-  bool startElementNS(string prefix, string name, string uri)~
+  bool XMLWriter::startElementNS(string prefix, string name, string uri)~
 
 Procedural style
 

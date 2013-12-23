@@ -1,4 +1,4 @@
-*stats_dens_logistic* -- Not documented
+stats_dens_logistic -- Not documented
 
   float stats_dens_logistic(float x, float ave, float stdev)~
 

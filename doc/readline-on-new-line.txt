@@ -1,4 +1,4 @@
-*readline_on_new_line* -- Inform readline that the cursor has moved to a new
+readline_on_new_line -- Inform readline that the cursor has moved to a new
 line
 
   void readline_on_new_line()~

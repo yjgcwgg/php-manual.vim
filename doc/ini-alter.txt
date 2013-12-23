@@ -1,4 +1,4 @@
-*ini_alter* -- Alias of ini_set
+ini_alter -- Alias of ini_set
 
 This function is an alias of: |ini_set|.
 

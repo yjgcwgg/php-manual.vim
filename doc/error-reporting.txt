@@ -1,4 +1,4 @@
-*error_reporting* -- Sets which PHP errors are reported
+error_reporting -- Sets which PHP errors are reported
 
   int error_reporting([int level])~
 
@@ -19,9 +19,9 @@ levels are described in the predefined constants.
 Returns the old error_reporting level or the current level if no {level}
 parameter is given.
 
-Version Description 5.0.0 E_STRICT introduced (not part of E_ALL). 5.2.0
-E_RECOVERABLE_ERROR introduced. 5.3.0 E_DEPRECATED and E_USER_DEPRECATED
-introduced.
+Version Description 5.4.0 E_STRICT became part of E_ALL. 5.3.0 E_DEPRECATED
+and E_USER_DEPRECATED introduced. 5.2.0 E_RECOVERABLE_ERROR introduced. 5.0.0
+E_STRICT introduced (not part of E_ALL).
 
 |error_reporting| examples
 
@@ -59,7 +59,8 @@ not reported in the file where error_reporting is enhanced to include E_STRICT
 errors (and vice versa).
 
 Passing in the value -1 will show every possible error, even when new levels
-and constants are added in future PHP versions.
+and constants are added in future PHP versions. The E_ALL constant also
+behaves this way as of PHP 5.4.
 
 The display_errors directive The html_errors directive The xmlrpc_errors
 directive |ini_set|

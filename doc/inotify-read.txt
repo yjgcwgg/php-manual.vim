@@ -1,4 +1,4 @@
-*inotify_read* -- Read events from an inotify instance
+inotify_read -- Read events from an inotify instance
 
   array inotify_read(resource inotify_instance)~
 

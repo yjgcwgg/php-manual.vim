@@ -1,4 +1,4 @@
-*ncurses_erasechar* -- Returns current erase character
+ncurses_erasechar -- Returns current erase character
 
   string ncurses_erasechar()~
 

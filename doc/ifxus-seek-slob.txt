@@ -1,4 +1,4 @@
-*ifxus_seek_slob* -- Sets the current file or seek position
+ifxus_seek_slob -- Sets the current file or seek position
 
   int ifxus_seek_slob(int bid, int mode, int offset)~
 

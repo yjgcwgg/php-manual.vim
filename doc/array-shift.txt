@@ -1,4 +1,4 @@
-*array_shift* -- Shift an element off the beginning of array
+array_shift -- Shift an element off the beginning of array
 
   mixed array_shift(array array)~
 
@@ -7,7 +7,7 @@ shortening the {array} by one element and moving everything down. All
 numerical array keys will be modified to start counting from zero while
 literal keys won't be touched.
 
-This function will |reset| the array pointer after use.
+This function will |reset| the array pointer of the input array after use.
 
 {array} The input array.
 

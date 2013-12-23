@@ -1,4 +1,4 @@
-*id3_set_tag* -- Update information stored in an ID3 tag
+id3_set_tag -- Update information stored in an ID3 tag
 
   bool id3_set_tag(string filename, array tag [, int version])~
 
@@ -35,17 +35,17 @@ Returns TRUE on success or &false; on failure.
                );
   $result = id3_set_tag( "path/to/example.mp3", $data, ID3_V1_0 );
   if ($result === true) {
-      echo "Tag succesfully updated\n";
+      echo "Tag successfully updated\n";
   }
 ?>
 
 If the file is writable, this will output:
 
-  Tag succesfully updated
+  Tag successfully updated
 
 
 
-Currently |id3_remove_tag| only supports version 1.0 and 1.1.
+Currently |id3_set_tag| only supports version 1.0 and 1.1.
 
 |id3_remove_tag| |id3_get_tag| |id3_get_version|
 

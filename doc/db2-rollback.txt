@@ -1,4 +1,4 @@
-*db2_rollback* -- Rolls back a transaction
+db2_rollback -- Rolls back a transaction
 
   bool db2_rollback(resource connection)~
 

@@ -1,4 +1,4 @@
-*db2_fetch_row* -- Sets the result set pointer to the next row or requested row
+db2_fetch_row -- Sets the result set pointer to the next row or requested row
 
   bool db2_fetch_row(resource stmt [, int row_number])~
 

@@ -1,4 +1,4 @@
-*dba_list* -- List all open database files
+dba_list -- List all open database files
 
   array dba_list()~
 

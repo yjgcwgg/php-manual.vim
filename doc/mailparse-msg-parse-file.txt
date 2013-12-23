@@ -1,4 +1,4 @@
-*mailparse_msg_parse_file* -- Parses a file
+mailparse_msg_parse_file -- Parses a file
 
   resource mailparse_msg_parse_file(string filename)~
 

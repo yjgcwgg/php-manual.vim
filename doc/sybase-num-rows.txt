@@ -1,4 +1,4 @@
-*sybase_num_rows* -- Get number of rows in a result set
+sybase_num_rows -- Get number of rows in a result set
 
   int sybase_num_rows(resource result)~
 

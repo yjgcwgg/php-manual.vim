@@ -1,4 +1,4 @@
-*fsockopen* -- Open Internet or Unix domain socket connection
+fsockopen -- Open Internet or Unix domain socket connection
 
   resource fsockopen(string hostname [, int port [, int errno [, string errstr [, float timeout]]]])~
 
@@ -10,11 +10,16 @@ of supported transports can also be retrieved using |stream_get_transports|.
 The socket will by default be opened in blocking mode. You can switch it to
 non-blocking mode by using |stream_set_blocking|.
 
+The function |stream_socket_client| is similar but provides a richer set of
+options, including non-blocking connection and the ability to provide a stream
+context.
+
 {hostname} If OpenSSL support is installed, you may prefix the {hostname} with
 either ssl:// or tls:// to use an SSL or TLS client connection over TCP/IP to
 connect to the remote host.
 
-{port} The port number.
+{port} The port number. This can be omitted and skipped with -1 for transports
+that do not use ports, such as unix://.
 
 {errno} If provided, holds the system level error number that occurred in the
 system-level connect() call.
@@ -91,7 +96,7 @@ data.
 When specifying a numerical IPv6 address (e.g. fe80::1), you must enclose the
 IP in square brackets—for example, tcp://[fe80::1]:80.
 
-|pfsockopen| |stream_set_blocking| |stream_set_timeout| |fgets| |fgetss|
-|fwrite| |fclose| |feof| The Curl extension
+|pfsockopen| |stream_socket_client| |stream_set_blocking| |stream_set_timeout|
+|fgets| |fgetss| |fwrite| |fclose| |feof| |socket_connect| The Curl extension
 
 vim:ft=help:

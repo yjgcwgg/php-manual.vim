@@ -1,4 +1,4 @@
-*bbcode_parse* -- Parse a string following a given rule set
+bbcode_parse -- Parse a string following a given rule set
 
   string bbcode_parse(resource bbcode_container, string to_parse)~
 

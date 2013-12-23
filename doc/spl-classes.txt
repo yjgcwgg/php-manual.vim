@@ -1,4 +1,4 @@
-*spl_classes* -- Return available SPL classes
+spl_classes -- Return available SPL classes
 
   array spl_classes()~
 

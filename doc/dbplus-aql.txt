@@ -1,4 +1,4 @@
-*dbplus_aql* -- Perform AQL query
+dbplus_aql -- Perform AQL query
 
   resource dbplus_aql(string query [, string server [, string dbpath]])~
 

@@ -1,4 +1,4 @@
-*pg_send_prepare* -- Sends a request to create a prepared statement with the
+pg_send_prepare -- Sends a request to create a prepared statement with the
 given parameters, without waiting for completion.
 
   bool pg_send_prepare(resource connection, string stmtname, string query)~

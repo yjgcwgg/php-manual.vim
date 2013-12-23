@@ -1,4 +1,4 @@
-*crack_opendict* -- Opens a new CrackLib dictionary
+crack_opendict -- Opens a new CrackLib dictionary
 
   resource crack_opendict(string dictionary)~
 

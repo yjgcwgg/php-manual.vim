@@ -1,4 +1,4 @@
-*oci_set_action* -- Sets the action name
+oci_set_action -- Sets the action name
 
   bool oci_set_action(resource connection, string action_name)~
 

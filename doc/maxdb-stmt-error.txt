@@ -1,4 +1,4 @@
-*maxdb_stmt->error* -- Returns a string description for last statement error
+maxdb_stmt::error -- Returns a string description for last statement error
 
 Procedural style
 

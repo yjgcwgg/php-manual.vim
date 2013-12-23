@@ -1,4 +1,4 @@
-*enchant_dict_store_replacement* -- Add a correction for a word
+enchant_dict_store_replacement -- Add a correction for a word
 
   void enchant_dict_store_replacement(resource dict, string mis, string cor)~
 

@@ -1,4 +1,4 @@
-*posix_get_last_error* -- Retrieve the error number set by the last posix
+posix_get_last_error -- Retrieve the error number set by the last posix
 function that failed
 
   int posix_get_last_error()~

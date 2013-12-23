@@ -1,4 +1,4 @@
-*fputcsv* -- Format line as CSV and write to file pointer
+fputcsv -- Format line as CSV and write to file pointer
 
   int fputcsv(resource handle, array fields [, string delimiter [, string enclosure]])~
 

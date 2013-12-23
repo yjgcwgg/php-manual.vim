@@ -1,4 +1,4 @@
-*svn_repos_open* -- Open a shared lock on a repository.
+svn_repos_open -- Open a shared lock on a repository.
 
   resource svn_repos_open(string path)~
 

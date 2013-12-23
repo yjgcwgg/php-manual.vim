@@ -1,4 +1,4 @@
-*imap_status* -- Returns status information on a mailbox
+imap_status -- Returns status information on a mailbox
 
   object imap_status(resource imap_stream, string mailbox, int options)~
 

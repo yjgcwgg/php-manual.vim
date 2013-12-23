@@ -1,4 +1,4 @@
-*PDF_stringwidth* -- Return width of text
+PDF_stringwidth -- Return width of text
 
   float PDF_stringwidth(resource p, string text, int font, float fontsize)~
 

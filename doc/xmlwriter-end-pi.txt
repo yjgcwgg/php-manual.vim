@@ -1,8 +1,8 @@
-*XMLWriter::endPI* -- End current PI
+xmlwriter_end_pi -- End current PI
 
 Object oriented style
 
-  bool endPI()~
+  bool XMLWriter::endPI()~
 
 Procedural style
 

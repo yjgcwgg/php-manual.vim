@@ -1,4 +1,4 @@
-*mb_ereg_search_getpos* -- Returns start point for next regular expression match
+mb_ereg_search_getpos -- Returns start point for next regular expression match
 
   int mb_ereg_search_getpos()~
 

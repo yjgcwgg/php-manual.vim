@@ -1,4 +1,4 @@
-*ncurses_slk_color* -- Sets color for soft label keys
+ncurses_slk_color -- Sets color for soft label keys
 
   int ncurses_slk_color(int intarg)~
 

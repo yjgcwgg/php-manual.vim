@@ -1,4 +1,4 @@
-*maxdb::query* -- Performs a query on the database
+maxdb::query -- Performs a query on the database
 
 Procedural style
 

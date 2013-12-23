@@ -1,4 +1,4 @@
-*stats_rand_gen_exponential* -- Generates a single random deviate from an
+stats_rand_gen_exponential -- Generates a single random deviate from an
 exponential distribution with mean "av"
 
   float stats_rand_gen_exponential(float av)~

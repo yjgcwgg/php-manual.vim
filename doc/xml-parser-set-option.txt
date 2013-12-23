@@ -1,4 +1,4 @@
-*xml_parser_set_option* -- Set options in an XML parser
+xml_parser_set_option -- Set options in an XML parser
 
   bool xml_parser_set_option(resource parser, int option, mixed value)~
 

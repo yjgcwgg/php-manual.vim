@@ -1,4 +1,4 @@
-*oci_free_statement* -- Frees all resources associated with statement or cursor
+oci_free_statement -- Frees all resources associated with statement or cursor
 
   bool oci_free_statement(resource statement)~
 

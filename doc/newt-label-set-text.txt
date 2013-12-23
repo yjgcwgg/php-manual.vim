@@ -1,4 +1,4 @@
-*newt_label_set_text* --
+newt_label_set_text --
 
   void newt_label_set_text(resource label, string text)~
 

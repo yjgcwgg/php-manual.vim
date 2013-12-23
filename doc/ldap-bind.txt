@@ -1,4 +1,4 @@
-*ldap_bind* -- Bind to LDAP directory
+ldap_bind -- Bind to LDAP directory
 
   bool ldap_bind(resource link_identifier [, string bind_rdn [, string bind_password]])~
 

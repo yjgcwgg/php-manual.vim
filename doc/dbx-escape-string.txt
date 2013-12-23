@@ -1,4 +1,4 @@
-*dbx_escape_string* -- Escape a string so it can safely be used in an
+dbx_escape_string -- Escape a string so it can safely be used in an
 sql-statement
 
   string dbx_escape_string(object link_identifier, string text)~

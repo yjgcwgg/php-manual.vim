@@ -1,4 +1,4 @@
-*shmop_size* -- Get size of shared memory block
+shmop_size -- Get size of shared memory block
 
   int shmop_size(int shmid)~
 

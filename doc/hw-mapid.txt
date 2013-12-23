@@ -1,4 +1,4 @@
-*hw_mapid* -- Maps global id on virtual local id
+hw_mapid -- Maps global id on virtual local id
 
   int hw_mapid(int connection, int server_id, int object_id)~
 

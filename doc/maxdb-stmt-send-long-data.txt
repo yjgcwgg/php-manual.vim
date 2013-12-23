@@ -1,4 +1,4 @@
-*maxdb_stmt::send_long_data* -- Send data in blocks
+maxdb_stmt::send_long_data -- Send data in blocks
 
 Procedural style
 

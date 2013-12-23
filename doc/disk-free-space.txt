@@ -1,4 +1,4 @@
-*disk_free_space* -- Returns available space on filesystem or disk partition
+disk_free_space -- Returns available space on filesystem or disk partition
 
   float disk_free_space(string directory)~
 

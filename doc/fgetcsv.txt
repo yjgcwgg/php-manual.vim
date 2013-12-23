@@ -1,4 +1,4 @@
-*fgetcsv* -- Gets line from file pointer and parse for CSV fields
+fgetcsv -- Gets line from file pointer and parse for CSV fields
 
   array fgetcsv(resource handle [, int length [, string delimiter [, string enclosure [, string escape]]]])~
 

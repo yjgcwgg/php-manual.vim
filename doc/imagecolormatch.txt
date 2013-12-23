@@ -1,4 +1,4 @@
-*imagecolormatch* -- Makes the colors of the palette version of an image more
+imagecolormatch -- Makes the colors of the palette version of an image more
 closely match the true color version
 
   bool imagecolormatch(resource image1, resource image2)~

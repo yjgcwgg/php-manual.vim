@@ -1,4 +1,4 @@
-*ps_closepath_stroke* -- Closes and strokes path
+ps_closepath_stroke -- Closes and strokes path
 
   bool ps_closepath_stroke(resource psdoc)~
 

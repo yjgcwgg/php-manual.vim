@@ -1,4 +1,4 @@
-*ibase_affected_rows* -- Return the number of rows that were affected by the
+ibase_affected_rows -- Return the number of rows that were affected by the
 previous query
 
   int ibase_affected_rows([resource link_identifier])~

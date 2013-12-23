@@ -1,4 +1,4 @@
-*overload* -- Enable property and method call overloading for a class
+overload -- Enable property and method call overloading for a class
 
   void overload(string class_name)~
 

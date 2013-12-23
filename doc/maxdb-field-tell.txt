@@ -1,4 +1,4 @@
-*maxdb_result->current_field* -- Get current field offset of a result pointer
+maxdb_result::current_field -- Get current field offset of a result pointer
 
 Procedural style
 

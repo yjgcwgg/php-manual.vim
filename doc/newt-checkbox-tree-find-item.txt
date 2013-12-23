@@ -1,4 +1,4 @@
-*newt_checkbox_tree_find_item* -- Finds an item in the checkbox tree
+newt_checkbox_tree_find_item -- Finds an item in the checkbox tree
 
   array newt_checkbox_tree_find_item(resource checkboxtree, mixed data)~
 

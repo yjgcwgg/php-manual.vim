@@ -1,4 +1,4 @@
-*PDF_set_value* -- Set numerical parameter
+PDF_set_value -- Set numerical parameter
 
   bool PDF_set_value(resource p, string key, float value)~
 

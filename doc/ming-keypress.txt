@@ -1,4 +1,4 @@
-*ming_keypress* -- Returns the action flag for keyPress(char)
+ming_keypress -- Returns the action flag for keyPress(char)
 
   int ming_keypress(string char)~
 

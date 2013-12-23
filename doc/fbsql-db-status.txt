@@ -1,4 +1,4 @@
-*fbsql_db_status* -- Get the status for a given database
+fbsql_db_status -- Get the status for a given database
 
   int fbsql_db_status(string database_name [, resource link_identifier])~
 

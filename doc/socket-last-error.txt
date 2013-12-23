@@ -1,4 +1,4 @@
-*socket_last_error* -- Returns the last error on the socket
+socket_last_error -- Returns the last error on the socket
 
   int socket_last_error([resource socket])~
 

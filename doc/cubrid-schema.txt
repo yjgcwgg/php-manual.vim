@@ -1,4 +1,4 @@
-*cubrid_schema* -- Get the requested schema information
+cubrid_schema -- Get the requested schema information
 
   array cubrid_schema(resource conn_identifier, int schema_type [, string class_name [, string attr_name]])~
 
@@ -52,7 +52,7 @@ return false, not -1.
 |cubrid_schema| example
 
 <?php >
-  $conn = cubrid_connect("localhost", 33000, "demodb");
+  $conn = cubrid_connect("localhost", 33000, "demodb", "dba");
   
   printf("\n--- Primary Key ---\n");
   $pk = cubrid_schema($conn, CUBRID_SCH_PRIMARY_KEY, "game");

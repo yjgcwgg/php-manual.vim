@@ -1,4 +1,4 @@
-*win32_continue_service* -- Resumes a paused service
+win32_continue_service -- Resumes a paused service
 
   int win32_continue_service(string servicename [, string machine])~
 

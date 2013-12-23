@@ -1,4 +1,4 @@
-*rewinddir* -- Rewind directory handle
+rewinddir -- Rewind directory handle
 
   void rewinddir([resource dir_handle])~
 

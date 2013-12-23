@@ -1,4 +1,4 @@
-*xml_parser_create* -- Create an XML parser
+xml_parser_create -- Create an XML parser
 
   resource xml_parser_create([string encoding])~
 

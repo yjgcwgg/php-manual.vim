@@ -1,4 +1,4 @@
-*event_free* -- Free event resource
+event_free -- Free event resource
 
   void event_free(resource event)~
 

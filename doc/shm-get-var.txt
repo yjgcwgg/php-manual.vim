@@ -1,4 +1,4 @@
-*shm_get_var* -- Returns a variable from shared memory
+shm_get_var -- Returns a variable from shared memory
 
   mixed shm_get_var(resource shm_identifier, int variable_key)~
 

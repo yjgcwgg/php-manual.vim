@@ -1,4 +1,4 @@
-*maxdb_stmt::data_seek* -- Seeks to an arbitray row in statement result set
+maxdb_stmt::data_seek -- Seeks to an arbitray row in statement result set
 
 Procedural style
 

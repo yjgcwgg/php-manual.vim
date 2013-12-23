@@ -1,4 +1,4 @@
-*tanh* -- Hyperbolic tangent
+tanh -- Hyperbolic tangent
 
   float tanh(float arg)~
 

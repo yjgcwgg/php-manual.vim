@@ -1,4 +1,4 @@
-*bzflush* -- Force a write of all buffered data
+bzflush -- Force a write of all buffered data
 
   int bzflush(resource bz)~
 

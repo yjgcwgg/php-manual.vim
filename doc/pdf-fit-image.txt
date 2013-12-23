@@ -1,4 +1,4 @@
-*PDF_fit_image* -- Place image or template
+PDF_fit_image -- Place image or template
 
   bool PDF_fit_image(resource pdfdoc, int image, float x, float y, string optlist)~
 

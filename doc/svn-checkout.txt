@@ -1,4 +1,4 @@
-*svn_checkout* -- Checks out a working copy from the repository
+svn_checkout -- Checks out a working copy from the repository
 
   bool svn_checkout(string repos, string targetpath [, int revision [, int flags]])~
 

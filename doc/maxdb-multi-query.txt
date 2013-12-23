@@ -1,4 +1,4 @@
-*maxdb::multi_query* -- Performs a query on the database
+maxdb::multi_query -- Performs a query on the database
 
 Procedural style
 

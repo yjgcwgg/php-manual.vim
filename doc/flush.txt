@@ -1,4 +1,4 @@
-*flush* -- Flush the output buffer
+flush -- Flush the output buffer
 
   void flush()~
 

@@ -1,4 +1,4 @@
-*pg_connection_reset* -- Reset connection (reconnect)
+pg_connection_reset -- Reset connection (reconnect)
 
   bool pg_connection_reset(resource connection)~
 

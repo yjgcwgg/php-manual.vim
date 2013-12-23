@@ -1,4 +1,4 @@
-*cubrid_get_db_parameter* -- Returns the CUBRID database parameters
+cubrid_get_db_parameter -- Returns the CUBRID database parameters
 
   array cubrid_get_db_parameter(resource conn_identifier)~
 
@@ -6,23 +6,17 @@ This function returns the CUBRID database parameters or it returns FALSE on
 failure. It returns an associative array with the values for the following
 parameters:
 
-PARAM_ISOLATION_LEVEL LOCK_TIMEOUT MAX_STRING_LENGTH PARAM_AUTO_COMMIT
+PARAM_ISOLATION_LEVEL PARAM_LOCK_TIMEOUT PARAM_MAX_STRING_LENGTH
+PARAM_AUTO_COMMIT
 
-Database parameters Parameter Description PARAM_ISOLATION_LEVEL In current
-version CUBRID PHP, you can set the level of transaction isolation by using
-isolation_level in the $CUBRID/conf/cubrid.conf or the SET TRANSACTION
-statement. In next version, isolation level can be set using new CUBRID PHP
-API. LOCK_TIMEOUT CUBRID provides the lock timeout feature, which sets the
-waiting time for the lock until the transaction lock setting is allowed. The
-system parameter lock_timeout_in_secs in the $CUBRID/conf/cubrid.conf file or
-the SET TRANSACTION statement sets the timeout (in seconds). In next version,
-lock timeout can be set using new CUBRID PHP API. The default value of the
+Database parameters Parameter Description PARAM_ISOLATION_LEVEL The
+transaction isolation level. LOCK_TIMEOUT CUBRID provides the lock timeout
+feature, which sets the waiting time (in seconds) for the lock until the
+transaction lock setting is allowed. The default value of the
 lock_timeout_in_secs parameter is -1, which means the application client will
 wait indefinitely until the transaction lock is allowed. PARAM_AUTO_COMMIT In
-CUBRID PHP, an auto-commit mode is disabled by default for transaction
-management, and it can't be enabled in current version CUBRID PHP. It can be
-set in next version. And auto commit modes can be applied only for SELECT
-statements by setting broker parameters.
+CUBRID PHP, auto-commit mode is disabled by default for transaction
+management. It can be set by using |cubrid_set_autocommit|.
 
 The following table shows the isolation levels from 1 to 6. It consists of
 table schema (row) and isolation level: Levels of Isolation Supported by
@@ -59,6 +53,9 @@ specified, the last link opened by |cubrid_connect| is assumed.
 An associative array with CUBRID database parameters; on success.
 
 FALSE on failure.
+
+Version Description 8.4.0 Change LOCK_TIMEOUT to PARAM_LOCK_TIMEOUT, and
+MAX_STRING_LENGTH to PARAM_MAX_STRING_LENGTH in result.
 
 |cubrid_get_db_parameter| example
 
@@ -98,16 +95,18 @@ FALSE on failure.
 
 The above example will output:
 
-  CUBRID PHP Version:            8.3.1.0005
+  CUBRID PHP Version:            9.1.0.0001
   
   PARAM_ISOLATION_LEVEL          3
   LOCK_TIMEOUT                   -1
   MAX_STRING_LENGTH              1073741823
-  PARAM_AUTO_COMMIT              0
+  PARAM_AUTO_COMMIT              1
   
-  Server Info:                   8.3.1.0173
-  Client Info:                   8.3.1
+  Server Info:                   9.1.0.0212
+  Client Info:                   9.1.0
   
   CUBRID Charset:                iso8859-1
+
+|cubrid_set_db_parameter| |cubrid_get_autocommit|
 
 vim:ft=help:

@@ -1,18 +1,13 @@
-*gettype* -- Get the type of a variable
+gettype -- Get the type of a variable
 
   string gettype(mixed var)~
 
-Returns the type of the PHP variable {var}.
-
-Never use |gettype| to test for a certain type, since the returned string may
-be subject to change in a future version. In addition, it is slow too, as it
-involves string comparison.
-
-Instead, use the is_* functions.
+Returns the type of the PHP variable {var}. For type checking, use is_*
+functions.
 
 {var} The variable being type checked.
 
-Possibles values for the returned string are: "boolean"
+Possible values for the returned string are: "boolean"
 
 "integer"
 

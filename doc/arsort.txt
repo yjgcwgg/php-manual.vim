@@ -1,4 +1,4 @@
-*arsort* -- Sort an array in reverse order and maintain index association
+arsort -- Sort an array in reverse order and maintain index association
 
   bool arsort(array array [, int sort_flags])~
 

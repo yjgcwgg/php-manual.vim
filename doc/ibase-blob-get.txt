@@ -1,4 +1,4 @@
-*ibase_blob_get* -- Get len bytes data from open blob
+ibase_blob_get -- Get len bytes data from open blob
 
   string ibase_blob_get(resource blob_handle, int len)~
 

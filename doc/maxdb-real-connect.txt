@@ -1,4 +1,4 @@
-*maxdb::real_connect* -- Opens a connection to a MaxDB server
+maxdb::real_connect -- Opens a connection to a MaxDB server
 
 Procedural style
 

@@ -1,4 +1,4 @@
-*ncurses_panel_above* -- Returns the panel above panel
+ncurses_panel_above -- Returns the panel above panel
 
   resource ncurses_panel_above(resource panel)~
 

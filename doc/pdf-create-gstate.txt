@@ -1,4 +1,4 @@
-*PDF_create_gstate* -- Create graphics state object
+PDF_create_gstate -- Create graphics state object
 
   int PDF_create_gstate(resource pdfdoc, string optlist)~
 

@@ -1,4 +1,4 @@
-*ifx_textasvarchar* -- Set the default text mode
+ifx_textasvarchar -- Set the default text mode
 
   bool ifx_textasvarchar(int mode)~
 

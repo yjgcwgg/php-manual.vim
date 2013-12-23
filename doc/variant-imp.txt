@@ -1,4 +1,4 @@
-*variant_imp* -- Performs a bitwise implication on two variants
+variant_imp -- Performs a bitwise implication on two variants
 
   mixed variant_imp(mixed left, mixed right)~
 

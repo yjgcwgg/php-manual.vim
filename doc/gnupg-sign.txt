@@ -1,4 +1,4 @@
-*gnupg_sign* -- Signs a given text
+gnupg_sign -- Signs a given text
 
   string gnupg_sign(resource identifier, string plaintext)~
 

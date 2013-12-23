@@ -1,4 +1,4 @@
-*ldap_get_dn* -- Get the DN of a result entry
+ldap_get_dn -- Get the DN of a result entry
 
   string ldap_get_dn(resource link_identifier, resource result_entry_identifier)~
 

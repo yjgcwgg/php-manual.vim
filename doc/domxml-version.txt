@@ -1,4 +1,4 @@
-*domxml_version* -- Gets the XML library version
+domxml_version -- Gets the XML library version
 
   string domxml_version()~
 

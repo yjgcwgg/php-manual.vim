@@ -1,4 +1,4 @@
-*bson_decode* -- Deserializes a BSON object into a PHP array
+bson_decode -- Deserializes a BSON object into a PHP array
 
   array bson_decode(string bson)~
 

@@ -1,4 +1,4 @@
-*yp_order* -- Returns the order number for a map
+yp_order -- Returns the order number for a map
 
   int yp_order(string domain, string map)~
 

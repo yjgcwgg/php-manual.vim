@@ -1,4 +1,4 @@
-*newt_form_add_hot_key* --
+newt_form_add_hot_key --
 
   void newt_form_add_hot_key(resource form, int key)~
 

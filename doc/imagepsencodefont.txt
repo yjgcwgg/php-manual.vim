@@ -1,4 +1,4 @@
-*imagepsencodefont* -- Change the character encoding vector of a font
+imagepsencodefont -- Change the character encoding vector of a font
 
   bool imagepsencodefont(resource font_index, string encodingfile)~
 

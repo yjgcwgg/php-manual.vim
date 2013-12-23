@@ -1,4 +1,4 @@
-*ps_scale* -- Sets scaling factor
+ps_scale -- Sets scaling factor
 
   bool ps_scale(resource psdoc, float x, float y)~
 

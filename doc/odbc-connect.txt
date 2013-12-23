@@ -1,4 +1,4 @@
-*odbc_connect* -- Connect to a datasource
+odbc_connect -- Connect to a datasource
 
   resource odbc_connect(string dsn, string user, string password [, int cursor_type])~
 
@@ -31,7 +31,7 @@ SQL_CUR_USE_ODBC
 
 SQL_CUR_USE_DRIVER
 
-Returns an ODBC connection id or 0 (FALSE) on error.
+Returns an ODBC connection or (FALSE) on error.
 
 DSN-less connections
 

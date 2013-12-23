@@ -1,4 +1,4 @@
-*pg_send_query* -- Sends asynchronous query
+pg_send_query -- Sends asynchronous query
 
   bool pg_send_query(resource connection, string query)~
 

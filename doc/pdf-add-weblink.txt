@@ -1,4 +1,4 @@
-*PDF_add_weblink* -- Add weblink for current page [deprecated]
+PDF_add_weblink -- Add weblink for current page [deprecated]
 
   bool PDF_add_weblink(resource pdfdoc, float lowerleftx, float lowerlefty, float upperrightx, float upperrighty, string url)~
 

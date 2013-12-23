@@ -1,4 +1,4 @@
-*JDDayOfWeek* -- Returns the day of the week
+JDDayOfWeek -- Returns the day of the week
 
   mixed jddayofweek(int julianday [, int mode])~
 

@@ -1,4 +1,4 @@
-*runkit_class_adopt* -- Convert a base class to an inherited class, add
+runkit_class_adopt -- Convert a base class to an inherited class, add
 ancestral methods when appropriate
 
   bool runkit_class_adopt(string classname, string parentname)~

@@ -1,4 +1,4 @@
-*msession_set_array* -- Set msession variables from an array
+msession_set_array -- Set msession variables from an array
 
   void msession_set_array(string session, array tuples)~
 

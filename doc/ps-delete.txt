@@ -1,4 +1,4 @@
-*ps_delete* -- Deletes all resources of a PostScript document
+ps_delete -- Deletes all resources of a PostScript document
 
   bool ps_delete(resource psdoc)~
 

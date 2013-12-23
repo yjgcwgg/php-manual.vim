@@ -1,4 +1,4 @@
-*openssl_public_decrypt* -- Decrypts data with public key
+openssl_public_decrypt -- Decrypts data with public key
 
   bool openssl_public_decrypt(string data, string decrypted, mixed key [, int padding])~
 

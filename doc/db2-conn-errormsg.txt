@@ -1,4 +1,4 @@
-*db2_conn_errormsg* -- Returns the last connection error message and SQLCODE
+db2_conn_errormsg -- Returns the last connection error message and SQLCODE
 value
 
   string db2_conn_errormsg([resource connection])~

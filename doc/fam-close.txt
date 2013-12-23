@@ -1,4 +1,4 @@
-*fam_close* -- Close FAM connection
+fam_close -- Close FAM connection
 
   void fam_close(resource fam)~
 

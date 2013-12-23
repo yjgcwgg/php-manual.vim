@@ -1,4 +1,4 @@
-*swf_shapefillbitmapclip* -- Set current fill mode to clipped bitmap
+swf_shapefillbitmapclip -- Set current fill mode to clipped bitmap
 
   void swf_shapefillbitmapclip(int bitmapid)~
 

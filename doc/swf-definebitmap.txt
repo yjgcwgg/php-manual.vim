@@ -1,4 +1,4 @@
-*swf_definebitmap* -- Define a bitmap
+swf_definebitmap -- Define a bitmap
 
   void swf_definebitmap(int objid, string image_name)~
 

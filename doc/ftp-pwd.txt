@@ -1,4 +1,4 @@
-*ftp_pwd* -- Returns the current directory name
+ftp_pwd -- Returns the current directory name
 
   string ftp_pwd(resource ftp_stream)~
 

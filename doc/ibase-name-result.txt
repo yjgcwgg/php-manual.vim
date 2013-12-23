@@ -1,4 +1,4 @@
-*ibase_name_result* -- Assigns a name to a result set
+ibase_name_result -- Assigns a name to a result set
 
   bool ibase_name_result(resource result, string name)~
 

@@ -1,4 +1,4 @@
-*constant* -- Returns the value of a constant
+constant -- Returns the value of a constant
 
   mixed constant(string name)~
 

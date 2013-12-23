@@ -1,6 +1,6 @@
-*xml_set_character_data_handler* -- Set up character data handler
+xml_set_character_data_handler -- Set up character data handler
 
-  bool xml_set_character_data_handler(resource parser, callback handler)~
+  bool xml_set_character_data_handler(resource parser, callable handler)~
 
 Sets the character data handler function for the XML parser {parser}.
 
@@ -10,7 +10,7 @@ function.
 {handler} {handler} is a string containing the name of a function that must
 exist when |xml_parse| is called for {parser}.
 
-  bool (resource parser, callback handler, resource parser, string data)~
+  bool (resource parser, callable handler, resource parser, string data)~
 
 The function named by {handler} must accept two parameters: {parser} The first
 parameter, parser, is a reference to the XML parser calling the handler.

@@ -1,4 +1,4 @@
-*socket_shutdown* -- Shuts down a socket for receiving, sending, or both
+socket_shutdown -- Shuts down a socket for receiving, sending, or both
 
   bool socket_shutdown(resource socket [, int how])~
 

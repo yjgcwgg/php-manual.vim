@@ -1,4 +1,4 @@
-*newt_refresh* -- Updates modified portions of the screen
+newt_refresh -- Updates modified portions of the screen
 
   void newt_refresh()~
 

@@ -1,4 +1,4 @@
-*ncurses_wrefresh* -- Refresh window on terminal screen
+ncurses_wrefresh -- Refresh window on terminal screen
 
   int ncurses_wrefresh(resource window)~
 

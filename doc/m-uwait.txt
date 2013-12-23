@@ -1,4 +1,4 @@
-*m_uwait* -- Wait x microsecs
+m_uwait -- Wait x microsecs
 
   int m_uwait(int microsecs)~
 

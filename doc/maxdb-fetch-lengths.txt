@@ -1,4 +1,4 @@
-*maxdb_result->lengths* -- Returns the lengths of the columns of the current row
+maxdb_result::lengths -- Returns the lengths of the columns of the current row
 in the result set
 
 Procedural style

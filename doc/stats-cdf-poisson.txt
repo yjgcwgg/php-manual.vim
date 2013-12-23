@@ -1,4 +1,4 @@
-*stats_cdf_poisson* -- Calculates any one parameter of the Poisson distribution
+stats_cdf_poisson -- Calculates any one parameter of the Poisson distribution
 given values for the others.
 
   float stats_cdf_poisson(float par1, float par2, int which)~

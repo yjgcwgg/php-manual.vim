@@ -1,8 +1,8 @@
-*XMLWriter::writeComment* -- Write full comment tag
+xmlwriter_write_comment -- Write full comment tag
 
 Object oriented style
 
-  bool writeComment(string content)~
+  bool XMLWriter::writeComment(string content)~
 
 Procedural style
 

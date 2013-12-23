@@ -1,4 +1,4 @@
-*pg_lo_read_all* -- Reads an entire large object and send straight to browser
+pg_lo_read_all -- Reads an entire large object and send straight to browser
 
   int pg_lo_read_all(resource large_object)~
 

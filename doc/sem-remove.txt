@@ -1,4 +1,4 @@
-*sem_remove* -- Remove a semaphore
+sem_remove -- Remove a semaphore
 
   bool sem_remove(resource sem_identifier)~
 

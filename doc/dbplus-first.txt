@@ -1,4 +1,4 @@
-*dbplus_first* -- Get first tuple from relation
+dbplus_first -- Get first tuple from relation
 
   int dbplus_first(resource relation, array tuple)~
 

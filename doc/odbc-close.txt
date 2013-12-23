@@ -1,4 +1,4 @@
-*odbc_close* -- Close an ODBC connection
+odbc_close -- Close an ODBC connection
 
   void odbc_close(resource connection_id)~
 

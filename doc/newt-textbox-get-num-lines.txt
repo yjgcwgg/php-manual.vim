@@ -1,4 +1,4 @@
-*newt_textbox_get_num_lines* --
+newt_textbox_get_num_lines --
 
   int newt_textbox_get_num_lines(resource textbox)~
 

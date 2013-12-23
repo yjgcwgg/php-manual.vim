@@ -1,4 +1,4 @@
-*array_sum* -- Calculate the sum of values in an array
+array_sum -- Calculate the sum of values in an array
 
   number array_sum(array array)~
 

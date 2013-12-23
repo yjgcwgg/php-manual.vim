@@ -1,4 +1,4 @@
-*pg_convert* -- Convert associative array values into suitable for SQL statement
+pg_convert -- Convert associative array values into suitable for SQL statement
 
   array pg_convert(resource connection, string table_name, array assoc_array [, int options])~
 

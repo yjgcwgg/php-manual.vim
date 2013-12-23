@@ -1,4 +1,4 @@
-*call_user_method* -- Call a user method on an specific object [deprecated]
+call_user_method -- Call a user method on an specific object [deprecated]
 
   mixed call_user_method(string method_name, object obj [, mixed parameter [, mixed ...]])~
 

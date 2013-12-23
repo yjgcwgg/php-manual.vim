@@ -1,4 +1,4 @@
-*imagecolorresolvealpha* -- Get the index of the specified color + alpha or its
+imagecolorresolvealpha -- Get the index of the specified color + alpha or its
 closest possible alternative
 
   int imagecolorresolvealpha(resource image, int red, int green, int blue, int alpha)~

@@ -1,4 +1,4 @@
-*ldap_first_entry* -- Return first result id
+ldap_first_entry -- Return first result id
 
   resource ldap_first_entry(resource link_identifier, resource result_identifier)~
 

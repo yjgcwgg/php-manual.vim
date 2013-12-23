@@ -1,4 +1,4 @@
-*ncurses_del_panel* -- Remove panel from the stack and delete it (but not the
+ncurses_del_panel -- Remove panel from the stack and delete it (but not the
 associated window)
 
   bool ncurses_del_panel(resource panel)~

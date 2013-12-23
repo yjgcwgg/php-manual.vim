@@ -1,4 +1,4 @@
-*yp_cat* -- Return an array containing the entire map
+yp_cat -- Return an array containing the entire map
 
   array yp_cat(string domain, string map)~
 

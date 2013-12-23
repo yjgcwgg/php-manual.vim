@@ -1,4 +1,4 @@
-*maxdb_stmt::close_long_data* -- Ends a sequence of maxdb_stmt_send_long_data
+maxdb_stmt::close_long_data -- Ends a sequence of maxdb_stmt_send_long_data
 
 Procedural style
 

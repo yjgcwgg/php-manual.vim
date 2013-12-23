@@ -1,4 +1,4 @@
-*ssh2_publickey_init* -- Initialize Publickey subsystem
+ssh2_publickey_init -- Initialize Publickey subsystem
 
   resource ssh2_publickey_init(resource session)~
 

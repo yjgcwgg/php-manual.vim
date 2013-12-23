@@ -1,4 +1,4 @@
-*ldap_mod_add* -- Add attribute values to current attributes
+ldap_mod_add -- Add attribute values to current attributes
 
   bool ldap_mod_add(resource link_identifier, string dn, array entry)~
 

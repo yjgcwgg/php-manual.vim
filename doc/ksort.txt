@@ -1,4 +1,4 @@
-*ksort* -- Sort an array by key
+ksort -- Sort an array by key
 
   bool ksort(array array [, int sort_flags])~
 

@@ -1,4 +1,4 @@
-*ps_setlinejoin* -- Sets how contected lines are joined
+ps_setlinejoin -- Sets how contected lines are joined
 
   bool ps_setlinejoin(resource psdoc, int type)~
 

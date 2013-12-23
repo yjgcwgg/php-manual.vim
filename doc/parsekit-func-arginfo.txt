@@ -1,4 +1,4 @@
-*parsekit_func_arginfo* -- Return information regarding function argument(s)
+parsekit_func_arginfo -- Return information regarding function argument(s)
 
   array parsekit_func_arginfo(mixed function)~
 

@@ -1,4 +1,4 @@
-*ftp_nb_continue* -- Continues retrieving/sending a file (non-blocking)
+ftp_nb_continue -- Continues retrieving/sending a file (non-blocking)
 
   int ftp_nb_continue(resource ftp_stream)~
 

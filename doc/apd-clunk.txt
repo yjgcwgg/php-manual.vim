@@ -1,4 +1,4 @@
-*apd_clunk* -- Throw a warning and a callstack
+apd_clunk -- Throw a warning and a callstack
 
   void apd_clunk(string warning [, string delimiter])~
 

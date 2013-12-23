@@ -1,4 +1,4 @@
-*ps_add_pdflink* -- Adds link to a page in a second pdf document
+ps_add_pdflink -- Adds link to a page in a second pdf document
 
   bool ps_add_pdflink(resource psdoc, float llx, float lly, float urx, float ury, string filename, int page, string dest)~
 

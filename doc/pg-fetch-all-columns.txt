@@ -1,4 +1,4 @@
-*pg_fetch_all_columns* -- Fetches all rows in a particular result column as an
+pg_fetch_all_columns -- Fetches all rows in a particular result column as an
 array
 
   array pg_fetch_all_columns(resource result [, int column])~
@@ -24,13 +24,13 @@ result, or on any other error.
 <?php >
   $conn = pg_pconnect("dbname=publisher");
   if (!$conn) {
-    echo "An error occured.\n";
+    echo "An error occurred.\n";
     exit;
   }
   
   $result = pg_query($conn, "SELECT title, name, address FROM authors");
   if (!$result) {
-    echo "An error occured.\n";
+    echo "An error occurred.\n";
     exit;
   }
   

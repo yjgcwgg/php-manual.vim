@@ -1,4 +1,4 @@
-*ps_circle* -- Draws a circle
+ps_circle -- Draws a circle
 
   bool ps_circle(resource psdoc, float x, float y, float radius)~
 

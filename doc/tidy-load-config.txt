@@ -1,4 +1,4 @@
-*tidy_load_config* -- Load an ASCII Tidy configuration file with the specified
+tidy_load_config -- Load an ASCII Tidy configuration file with the specified
 encoding
 
   void tidy_load_config(string filename, string encoding)~

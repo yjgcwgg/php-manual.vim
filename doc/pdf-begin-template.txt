@@ -1,4 +1,4 @@
-*PDF_begin_template* -- Start template definition [deprecated]
+PDF_begin_template -- Start template definition [deprecated]
 
   int PDF_begin_template(resource pdfdoc, float width, float height)~
 

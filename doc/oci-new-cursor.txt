@@ -1,4 +1,4 @@
-*oci_new_cursor* -- Allocates and returns a new cursor (statement handle)
+oci_new_cursor -- Allocates and returns a new cursor (statement handle)
 
   resource oci_new_cursor(resource connection)~
 

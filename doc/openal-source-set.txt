@@ -1,4 +1,4 @@
-*openal_source_set* -- Set source property
+openal_source_set -- Set source property
 
   bool openal_source_set(resource source, int property, mixed setting)~
 

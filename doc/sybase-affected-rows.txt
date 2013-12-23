@@ -1,4 +1,4 @@
-*sybase_affected_rows* -- Gets number of affected rows in last query
+sybase_affected_rows -- Gets number of affected rows in last query
 
   int sybase_affected_rows([resource link_identifier])~
 

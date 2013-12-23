@@ -1,4 +1,4 @@
-*ibase_db_info* -- Request statistics about a database
+ibase_db_info -- Request statistics about a database
 
   string ibase_db_info(resource service_handle, string db, int action [, int argument])~
 

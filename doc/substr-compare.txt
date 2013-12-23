@@ -1,4 +1,4 @@
-*substr_compare* -- Binary safe comparison of two strings from an offset, up to
+substr_compare -- Binary safe comparison of two strings from an offset, up to
 length characters
 
   int substr_compare(string main_str, string str, int offset [, int length [, bool case_insensitivity]])~

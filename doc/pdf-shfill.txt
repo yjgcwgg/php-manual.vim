@@ -1,4 +1,4 @@
-*PDF_shfill* -- Fill area with shading
+PDF_shfill -- Fill area with shading
 
   bool PDF_shfill(resource pdfdoc, int shading)~
 

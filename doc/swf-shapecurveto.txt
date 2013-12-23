@@ -1,4 +1,4 @@
-*swf_shapecurveto* -- Draw a quadratic bezier curve between two points
+swf_shapecurveto -- Draw a quadratic bezier curve between two points
 
   void swf_shapecurveto(float x1, float y1, float x2, float y2)~
 

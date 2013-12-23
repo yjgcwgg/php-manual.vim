@@ -1,4 +1,4 @@
-*ps_new* -- Creates a new PostScript document object
+ps_new -- Creates a new PostScript document object
 
   resource ps_new()~
 

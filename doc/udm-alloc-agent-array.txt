@@ -1,4 +1,4 @@
-*udm_alloc_agent_array* -- Allocate mnoGoSearch session
+udm_alloc_agent_array -- Allocate mnoGoSearch session
 
   resource udm_alloc_agent_array(array databases)~
 

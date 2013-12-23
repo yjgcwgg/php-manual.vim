@@ -1,4 +1,4 @@
-*is_null* -- Finds whether a variable is NULL
+is_null -- Finds whether a variable is NULL
 
   bool is_null(mixed var)~
 

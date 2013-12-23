@@ -1,4 +1,4 @@
-*ncurses_vidattr* -- Display the string on the terminal in the video attribute
+ncurses_vidattr -- Display the string on the terminal in the video attribute
 mode
 
   int ncurses_vidattr(int intarg)~

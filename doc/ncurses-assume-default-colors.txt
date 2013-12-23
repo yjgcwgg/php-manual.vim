@@ -1,4 +1,4 @@
-*ncurses_assume_default_colors* -- Define default colors for color 0
+ncurses_assume_default_colors -- Define default colors for color 0
 
   int ncurses_assume_default_colors(int fg, int bg)~
 

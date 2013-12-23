@@ -1,4 +1,4 @@
-*dbplus_rzap* -- Remove all tuples from relation
+dbplus_rzap -- Remove all tuples from relation
 
   int dbplus_rzap(resource relation)~
 

@@ -1,4 +1,4 @@
-*swf_polarview* -- Define the viewer's position with polar coordinates
+swf_polarview -- Define the viewer's position with polar coordinates
 
   void swf_polarview(float dist, float azimuth, float incidence, float twist)~
 

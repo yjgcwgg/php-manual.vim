@@ -1,4 +1,4 @@
-*ibase_num_params* -- Return the number of parameters in a prepared query
+ibase_num_params -- Return the number of parameters in a prepared query
 
   int ibase_num_params(resource query)~
 

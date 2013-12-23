@@ -1,4 +1,4 @@
-*is_object* -- Finds whether a variable is an object
+is_object -- Finds whether a variable is an object
 
   bool is_object(mixed var)~
 

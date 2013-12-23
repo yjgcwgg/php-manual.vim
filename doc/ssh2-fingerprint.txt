@@ -1,4 +1,4 @@
-*ssh2_fingerprint* -- Retrieve fingerprint of remote server
+ssh2_fingerprint -- Retrieve fingerprint of remote server
 
   string ssh2_fingerprint(resource session [, int flags])~
 

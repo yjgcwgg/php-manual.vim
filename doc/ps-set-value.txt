@@ -1,4 +1,4 @@
-*ps_set_value* -- Sets certain values
+ps_set_value -- Sets certain values
 
   bool ps_set_value(resource psdoc, string name, float value)~
 

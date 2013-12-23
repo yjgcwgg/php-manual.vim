@@ -1,4 +1,4 @@
-*filepro* -- Read and verify the map file
+filepro -- Read and verify the map file
 
   bool filepro(string directory)~
 

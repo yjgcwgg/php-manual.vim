@@ -1,4 +1,4 @@
-*stats_dens_weibull* -- Not documented
+stats_dens_weibull -- Not documented
 
   float stats_dens_weibull(float x, float a, float b)~
 

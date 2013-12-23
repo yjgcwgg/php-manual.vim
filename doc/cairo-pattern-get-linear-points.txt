@@ -1,4 +1,4 @@
-*cairo_pattern_get_linear_points* -- Description
+cairo_pattern_get_linear_points -- Description
 
   array cairo_pattern_get_linear_points(CairoLinearGradient pattern)~
 

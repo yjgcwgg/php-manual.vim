@@ -1,4 +1,4 @@
-*imagegrabwindow* -- Captures a window
+imagegrabwindow -- Captures a window
 
   resource imagegrabwindow(int window_handle [, int client_area])~
 

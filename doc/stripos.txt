@@ -1,29 +1,34 @@
-*stripos* -- Find position of first occurrence of a case-insensitive string
+stripos -- Find the position of the first occurrence of a case-insensitive
+substring in a string
 
   int stripos(string haystack, string needle [, int offset])~
 
-Returns the numeric position of the first occurrence of {needle} in the
+Find the numeric position of the first occurrence of {needle} in the
 {haystack} string.
 
-Unlike |strpos|, |stripos| is case-insensitive.
+Unlike the |strpos|, |stripos| is case-insensitive.
 
-{haystack} The string to search in
+{haystack} The string to search in.
 
 {needle} Note that the {needle} may be a string of one or more characters.
 
 If {needle} is not a string, it is converted to an integer and applied as the
 ordinal value of a character.
 
-{offset} The optional {offset} parameter allows you to specify which character
-in {haystack} to start searching. The position returned is still relative to
-the beginning of {haystack}.
+{offset} If specified, search will start this number of characters counted
+from the beginning of the string. Unlike |strrpos| and |strripos|, the offset
+cannot be negative.
 
-If {needle} is not found, |stripos| will return boolean FALSE.
+Returns the position of where the needle exists relative to the beginnning of
+the {haystack} string (independent of offset). Also note that string positions
+start at 0, and not 1.
+
+Returns FALSE if the needle was not found.
 
 This function may return Boolean FALSE, but may also return a non-Boolean
-value which evaluates to FALSE, such as 0 or "". Please read the section on
-Booleans for more information. Use the === operator for testing the return
-value of this function.
+value which evaluates to FALSE. Please read the section on Booleans for more
+information. Use the === operator for testing the return value of this
+function.
 
 |stripos| examples
 
@@ -53,7 +58,6 @@ value of this function.
 
 This function is binary-safe.
 
-|strpos| |strrpos| |strrchr| |substr| |stristr| |strstr| |strripos|
-|str_ireplace|
+|strpos| |strrpos| |strripos| |stristr| |substr| |str_ireplace|
 
 vim:ft=help:

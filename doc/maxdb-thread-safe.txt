@@ -1,4 +1,4 @@
-*maxdb_thread_safe* -- Returns whether thread safety is given or not
+maxdb_thread_safe -- Returns whether thread safety is given or not
 
   bool maxdb_thread_safe()~
 

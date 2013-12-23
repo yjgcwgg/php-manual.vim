@@ -1,4 +1,4 @@
-*md5_file* -- Calculates the md5 hash of a given file
+md5_file -- Calculates the md5 hash of a given file
 
   string md5_file(string filename [, bool raw_output])~
 
@@ -13,9 +13,9 @@ of 16.
 
 Returns a string on success, FALSE otherwise.
 
-Version Description 5.0.0 Added the {raw_output} parameter 5.1.0 Changed the
-function to use the streams API. It means that you can use it with wrappers,
-like md5_file('http://example.com/..')
+Version Description 5.1.0 Changed the function to use the streams API. It
+means that you can use it with wrappers, like
+md5_file('http://example.com/..') 5.0.0 Added the {raw_output} parameter
 
 Usage example of |md5_file|
 

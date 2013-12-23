@@ -1,4 +1,4 @@
-*xmlrpc_server_destroy* -- Destroys server resources
+xmlrpc_server_destroy -- Destroys server resources
 
   int xmlrpc_server_destroy(resource server)~
 

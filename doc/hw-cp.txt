@@ -1,4 +1,4 @@
-*hw_cp* -- Copies objects
+hw_cp -- Copies objects
 
   int hw_cp(int connection, array object_id_array, int destination_id)~
 

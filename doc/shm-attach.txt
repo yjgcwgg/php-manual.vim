@@ -1,4 +1,4 @@
-*shm_attach* -- Creates or open a shared memory segment
+shm_attach -- Creates or open a shared memory segment
 
   resource shm_attach(int key [, int memsize [, int perm]])~
 

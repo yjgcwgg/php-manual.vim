@@ -1,4 +1,4 @@
-*get_defined_constants* -- Returns an associative array with the names of all
+get_defined_constants -- Returns an associative array with the names of all
 the constants and their values
 
   array get_defined_constants([bool categorize])~
@@ -55,9 +55,10 @@ The above example will output something similar to:
   
   )
 
+Returns an array of constant name => constant value array, optionally groupped
+by extension name registering the constant.
 
-
-Version Description 5.3.1 Windows only : Core constants are categorized under
+Version Description 5.3.1 Windows only: Core constants are categorized under
 Core, previously mhash. 5.3.0 Core constants are categorized under Core,
 previously internal. On Windows, the Core Constants are categorized under
 mhash. 5.2.11 The {categorize} parameter now operates appropriately.

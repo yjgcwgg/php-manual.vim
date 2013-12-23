@@ -1,4 +1,4 @@
-*mb_strripos* -- Finds position of last occurrence of a string within another,
+mb_strripos -- Finds position of last occurrence of a string within another,
 case insensitive
 
   int mb_strripos(string haystack, string needle [, int offset [, string encoding]])~

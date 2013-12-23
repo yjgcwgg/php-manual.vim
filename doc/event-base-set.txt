@@ -1,4 +1,4 @@
-*event_base_set* -- Associate event base with an event
+event_base_set -- Associate event base with an event
 
   bool event_base_set(resource event, resource event_base)~
 

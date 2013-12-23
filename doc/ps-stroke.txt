@@ -1,4 +1,4 @@
-*ps_stroke* -- Draws the current path
+ps_stroke -- Draws the current path
 
   bool ps_stroke(resource psdoc)~
 

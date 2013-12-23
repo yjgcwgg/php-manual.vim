@@ -1,4 +1,4 @@
-*ncurses_color_content* -- Retrieves RGB components of a color
+ncurses_color_content -- Retrieves RGB components of a color
 
   int ncurses_color_content(int color, int r, int g, int b)~
 

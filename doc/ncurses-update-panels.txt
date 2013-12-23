@@ -1,4 +1,4 @@
-*ncurses_update_panels* -- Refreshes the virtual screen to reflect the relations
+ncurses_update_panels -- Refreshes the virtual screen to reflect the relations
 between panels in the stack
 
   void ncurses_update_panels()~

@@ -1,4 +1,4 @@
-*newt_listitem_set* --
+newt_listitem_set --
 
   void newt_listitem_set(resource item, string text)~
 

@@ -1,4 +1,4 @@
-*runkit_function_add* -- Add a new function, similar to create_function
+runkit_function_add -- Add a new function, similar to create_function
 
   bool runkit_function_add(string funcname, string arglist, string code)~
 

@@ -1,4 +1,4 @@
-*gupnp_root_device_set_available* -- Set whether or not root_device is available
+gupnp_root_device_set_available -- Set whether or not root_device is available
 
   bool gupnp_root_device_set_available(resource root_device, bool available)~
 

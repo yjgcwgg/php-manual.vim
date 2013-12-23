@@ -1,7 +1,7 @@
-*ldap_set_rebind_proc* -- Set a callback function to do re-binds on referral
+ldap_set_rebind_proc -- Set a callback function to do re-binds on referral
 chasing
 
-  bool ldap_set_rebind_proc(resource link, callback callback)~
+  bool ldap_set_rebind_proc(resource link, callable callback)~
 
 This function is currently not documented; only its argument list is
 available.

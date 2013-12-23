@@ -1,4 +1,4 @@
-*stream_socket_accept* -- Accept a connection on a socket created by
+stream_socket_accept -- Accept a connection on a socket created by
 stream_socket_server
 
   resource stream_socket_accept(resource server_socket [, float timeout [, string peername]])~

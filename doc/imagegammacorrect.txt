@@ -1,4 +1,4 @@
-*imagegammacorrect* -- Apply a gamma correction to a GD image
+imagegammacorrect -- Apply a gamma correction to a GD image
 
   bool imagegammacorrect(resource image, float inputgamma, float outputgamma)~
 

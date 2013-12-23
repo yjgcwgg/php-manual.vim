@@ -1,4 +1,4 @@
-*stream_socket_recvfrom* -- Receives data from a socket, connected or not
+stream_socket_recvfrom -- Receives data from a socket, connected or not
 
   string stream_socket_recvfrom(resource socket, int length [, int flags [, string address]])~
 

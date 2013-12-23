@@ -1,4 +1,4 @@
-*cairo_scaled_font_glyph_extents* -- Description
+cairo_scaled_font_glyph_extents -- Description
 
   array cairo_scaled_font_glyph_extents(CairoScaledFont scaledfont, array glyphs)~
 

@@ -1,4 +1,4 @@
-*ssh2_auth_none* -- Authenticate as "none"
+ssh2_auth_none -- Authenticate as "none"
 
   mixed ssh2_auth_none(resource session, string username)~
 

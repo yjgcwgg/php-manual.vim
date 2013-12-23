@@ -1,4 +1,4 @@
-*newt_form_add_components* -- Add several components to the form
+newt_form_add_components -- Add several components to the form
 
   void newt_form_add_components(resource form, array components)~
 

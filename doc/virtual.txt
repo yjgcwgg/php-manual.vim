@@ -1,4 +1,4 @@
-*virtual* -- Perform an Apache sub-request
+virtual -- Perform an Apache sub-request
 
   bool virtual(string filename)~
 
@@ -17,8 +17,11 @@ This function is only supported when PHP is installed as an Apache module.
 
 Performs the virtual command on success, or returns FALSE on failure.
 
-Version Description 4.0.6 This function may be used on PHP files. However, it
-is typically better to use |include| or |require| for PHP files.
+Version Description 4.3.3 As of PHP 4.3.3 you can use this function with the
+NSAPI server module in Netscape/iPlanet/SunONE webservers, too.
+
+4.0.6 This function may be used on PHP files. However, it is typically better
+to use |include| or |require| for PHP files.
 
 See |apache_note| for an example.
 
@@ -29,9 +32,6 @@ requested file will not be listed in the Apache access log.
 
 Environment variables set in the requested file are not visible to the calling
 script.
-
-As of PHP 4.3.3 you can use this function with the NSAPI server module in
-Netscape/iPlanet/SunONE webservers, too.
 
 |apache_note|
 

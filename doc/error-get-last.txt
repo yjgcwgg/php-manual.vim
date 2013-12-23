@@ -1,4 +1,4 @@
-*error_get_last* -- Get the last occurred error
+error_get_last -- Get the last occurred error
 
   array error_get_last()~
 

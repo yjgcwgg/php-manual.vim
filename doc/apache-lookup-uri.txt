@@ -1,4 +1,4 @@
-*apache_lookup_uri* -- Perform a partial request for the specified URI and
+apache_lookup_uri -- Perform a partial request for the specified URI and
 return all info about it
 
   object apache_lookup_uri(string filename)~

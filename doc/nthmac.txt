@@ -1,4 +1,4 @@
-*nthmac* -- Obtain a nthmac key (needs 2 arguments)
+nthmac -- Obtain a nthmac key (needs 2 arguments)
 
   string nthmac(string clent, string data)~
 

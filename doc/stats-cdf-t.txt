@@ -1,4 +1,4 @@
-*stats_cdf_t* -- Calculates any one parameter of the T distribution given values
+stats_cdf_t -- Calculates any one parameter of the T distribution given values
 for the others.
 
   float stats_cdf_t(float par1, float par2, int which)~

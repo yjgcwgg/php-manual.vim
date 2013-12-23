@@ -1,4 +1,4 @@
-*dbplus_freealllocks* -- Free all locks held by this client
+dbplus_freealllocks -- Free all locks held by this client
 
   int dbplus_freealllocks()~
 

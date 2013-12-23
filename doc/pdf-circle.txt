@@ -1,4 +1,4 @@
-*PDF_circle* -- Draw a circle
+PDF_circle -- Draw a circle
 
   bool PDF_circle(resource pdfdoc, float x, float y, float r)~
 

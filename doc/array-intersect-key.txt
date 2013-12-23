@@ -1,4 +1,4 @@
-*array_intersect_key* -- Computes the intersection of arrays using keys for
+array_intersect_key -- Computes the intersection of arrays using keys for
 comparison
 
   array array_intersect_key(array array1, array array2 [, array ...])~
@@ -10,7 +10,7 @@ which have keys that are present in all the arguments.
 
 {array2} An array to compare keys against.
 
-{array} A variable list of arrays to compare.
+{...} A variable list of arrays to compare.
 
 Returns an associative array containing all the entries of {array1} which have
 keys that are present in all arguments.

@@ -1,4 +1,4 @@
-*ncurses_slk_clear* -- Clears soft labels from screen
+ncurses_slk_clear -- Clears soft labels from screen
 
   bool ncurses_slk_clear()~
 

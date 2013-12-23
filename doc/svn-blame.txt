@@ -1,4 +1,4 @@
-*svn_blame* -- Get the SVN blame for a file
+svn_blame -- Get the SVN blame for a file
 
   array svn_blame(string repository_url [, int revision_no])~
 

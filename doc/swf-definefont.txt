@@ -1,4 +1,4 @@
-*swf_definefont* -- Defines a font
+swf_definefont -- Defines a font
 
   void swf_definefont(int fontid, string fontname)~
 

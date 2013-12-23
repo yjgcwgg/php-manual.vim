@@ -1,4 +1,4 @@
-*db2_result* -- Returns a single column from a row in the result set
+db2_result -- Returns a single column from a row in the result set
 
   mixed db2_result(resource stmt, mixed column)~
 

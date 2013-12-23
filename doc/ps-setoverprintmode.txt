@@ -1,4 +1,4 @@
-*ps_setoverprintmode* -- Sets overprint mode
+ps_setoverprintmode -- Sets overprint mode
 
   bool ps_setoverprintmode(resource psdoc, int mode)~
 

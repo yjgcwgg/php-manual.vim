@@ -1,4 +1,4 @@
-*imap_gc* -- Clears IMAP cache
+imap_gc -- Clears IMAP cache
 
   bool imap_gc(resource imap_stream, int caches)~
 

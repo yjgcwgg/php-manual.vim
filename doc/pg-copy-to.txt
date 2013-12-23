@@ -1,4 +1,4 @@
-*pg_copy_to* -- Copy a table to an array
+pg_copy_to -- Copy a table to an array
 
   array pg_copy_to(resource connection, string table_name [, string delimiter [, string null_as]])~
 

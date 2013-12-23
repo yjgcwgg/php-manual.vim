@@ -1,4 +1,4 @@
-*bccomp* -- Compare two arbitrary precision numbers
+bccomp -- Compare two arbitrary precision numbers
 
   int bccomp(string left_operand, string right_operand [, int scale])~
 

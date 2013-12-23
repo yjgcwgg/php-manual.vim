@@ -1,4 +1,4 @@
-*mqseries_disc* -- MQSeries MQDISC
+mqseries_disc -- MQSeries MQDISC
 
   void mqseries_disc(resource hconn, resource compCode, resource reason)~
 

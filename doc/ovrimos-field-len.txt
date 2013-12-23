@@ -1,4 +1,4 @@
-*ovrimos_field_len* -- Returns the length of the output column
+ovrimos_field_len -- Returns the length of the output column
 
   int ovrimos_field_len(int result_id, int field_number)~
 

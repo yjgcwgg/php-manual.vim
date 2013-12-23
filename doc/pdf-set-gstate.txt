@@ -1,4 +1,4 @@
-*PDF_set_gstate* -- Activate graphics state object
+PDF_set_gstate -- Activate graphics state object
 
   bool PDF_set_gstate(resource pdfdoc, int gstate)~
 

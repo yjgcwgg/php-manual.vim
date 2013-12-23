@@ -1,4 +1,4 @@
-*cairo_scaled_font_get_ctm* -- Description
+cairo_scaled_font_get_ctm -- Description
 
   CairoMatrix cairo_scaled_font_get_ctm(CairoScaledFont scaledfont)~
 

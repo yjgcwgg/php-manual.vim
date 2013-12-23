@@ -1,4 +1,4 @@
-*get_resource_type* -- Returns the resource type
+get_resource_type -- Returns the resource type
 
   string get_resource_type(resource handle)~
 
@@ -20,7 +20,7 @@ resource.
   $c = mysql_connect();
   echo get_resource_type($c) . "\n";
   
-  // prints: file
+  // prints: stream
   $fp = fopen("foo", "w");
   echo get_resource_type($fp) . "\n";
   

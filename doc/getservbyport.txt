@@ -1,4 +1,4 @@
-*getservbyport* -- Get Internet service which corresponds to port and protocol
+getservbyport -- Get Internet service which corresponds to port and protocol
 
   string getservbyport(int port, string protocol)~
 

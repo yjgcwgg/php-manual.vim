@@ -1,4 +1,4 @@
-*ncurses_getyx* -- Returns the current cursor position for a window
+ncurses_getyx -- Returns the current cursor position for a window
 
   void ncurses_getyx(resource window, int y, int x)~
 

@@ -1,4 +1,4 @@
-*msql_num_rows* -- Get number of rows in result
+msql_num_rows -- Get number of rows in result
 
   int msql_num_rows(resource query_identifier)~
 

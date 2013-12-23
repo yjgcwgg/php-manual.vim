@@ -1,4 +1,4 @@
-*mcrypt_enc_get_algorithms_name* -- Returns the name of the opened algorithm
+mcrypt_enc_get_algorithms_name -- Returns the name of the opened algorithm
 
   string mcrypt_enc_get_algorithms_name(resource td)~
 

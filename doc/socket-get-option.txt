@@ -1,4 +1,4 @@
-*socket_get_option* -- Gets socket options for the socket
+socket_get_option -- Gets socket options for the socket
 
   mixed socket_get_option(resource socket, int level, int optname)~
 
@@ -52,7 +52,51 @@ being sent. array. The array will contain two keys: sec which is the seconds
 part on the timeout value and usec which is the microsecond part of the
 timeout value. SO_SNDLOWAT Reports the minimum number of bytes to process for
 {socket} output operations. int TCP_NODELAY Reports whether the Nagle TCP
-algorithm is disabled. int
+algorithm is disabled. int MCAST_JOIN_GROUP Joins a multicast group. (added in
+PHP 5.4) array with keys "group", specifying a string with an IPv4 or IPv6
+multicast address and "interface", specifying either an interface number (type
+int) or a string with the interface name, like "eth0". 0 can be specified to
+indicate the interface should be selected using routing rules. (can only be
+used in |socket_set_option|) MCAST_LEAVE_GROUP Leaves a multicast group.
+(added in PHP 5.4) array. See MCAST_JOIN_GROUP for more information. (can only
+be used in |socket_set_option|) MCAST_BLOCK_SOURCE Blocks packets arriving
+from a specific source to a specific multicast group, which must have been
+previously joined. (added in PHP 5.4) array with the same keys as
+MCAST_JOIN_GROUP, plus one extra key, source, which maps to a string
+specifying an IPv4 or IPv6 address of the source to be blocked. (can only be
+used in |socket_set_option|) MCAST_UNBLOCK_SOURCE Unblocks (start receiving
+again) packets arriving from a specific source address to a specific multicast
+group, which must have been previously joined. (added in PHP 5.4) array with
+the same format as MCAST_BLOCK_SOURCE. (can only be used in
+|socket_set_option|) MCAST_JOIN_SOURCE_GROUP Receive packets destined to a
+specific multicast group whose source address matches a specific value. (added
+in PHP 5.4) array with the same format as MCAST_BLOCK_SOURCE. (can only be
+used in |socket_set_option|) MCAST_LEAVE_SOURCE_GROUP Stop receiving packets
+destined to a specific multicast group whose soure address matches a specific
+value. (added in PHP 5.4) array with the same format as MCAST_BLOCK_SOURCE.
+(can only be used in |socket_set_option|) IP_MULTICAST_IF The outgoing
+interface for IPv4 multicast packets. (added in PHP 5.4) Either int specifying
+the interface number or a string with an interface name, like eth0. The value
+0 can be used to indicate the routing table is to used in the interface
+selection. The function |socket_get_option| returns an interface index. Note
+that, unlike the C API, this option does NOT take an IP address. This
+eliminates the interface difference between IP_MULTICAST_IF and
+IPV6_MULTICAST_IF. IPV6_MULTICAST_IF The outgoing interface for IPv6 multicast
+packets. (added in PHP 5.4) The same as IP_MULTICAST_IF. IP_MULTICAST_LOOP The
+multicast loopback policy for IPv4 packets, which determines whether multicast
+packets sent by this socket also reach receivers in the same host that have
+joined the same multicast group on the outgoing interface used by this socket.
+This is the case by default. (added in PHP 5.4) int (either 0 or 1). For
+|socket_set_option| any value will be accepted and will be converted to a
+boolean following the usual PHP rules. IPV6_MULTICAST_LOOP Analogous to
+IP_MULTICAST_LOOP, but for IPv6. (added in PHP 5.4) int. See
+IP_MULTICAST_LOOP. IP_MULTICAST_TTL The time-to-live of outgoing IPv4
+multicast packets. This should be a value between 0 (don't leave the
+interface) and 255. The default value is 1 (only the local network is
+reached). (added in PHP 5.4) int between 0 and 255. IPV6_MULTICAST_HOPS
+Analogous to IP_MULTICAST_TTL, but for IPv6 packets. The value -1 is also
+accepted, meaning the route default should be used. (added in PHP 5.4) int
+between -1 and 255.
 
 Returns the value of the given option, or FALSE on errors.
 

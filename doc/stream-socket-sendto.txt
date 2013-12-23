@@ -1,4 +1,4 @@
-*stream_socket_sendto* -- Sends a message to a socket, whether it is connected
+stream_socket_sendto -- Sends a message to a socket, whether it is connected
 or not
 
   int stream_socket_sendto(resource socket, string data [, int flags [, string address]])~

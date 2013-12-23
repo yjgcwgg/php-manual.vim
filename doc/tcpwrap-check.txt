@@ -1,4 +1,4 @@
-*tcpwrap_check* -- Performs a tcpwrap check
+tcpwrap_check -- Performs a tcpwrap check
 
   bool tcpwrap_check(string daemon, string address [, string user [, bool nodns]])~
 

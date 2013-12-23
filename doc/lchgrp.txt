@@ -1,4 +1,4 @@
-*lchgrp* -- Changes group ownership of symlink
+lchgrp -- Changes group ownership of symlink
 
   bool lchgrp(string filename, mixed group)~
 

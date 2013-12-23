@@ -1,4 +1,4 @@
-*cairo_pattern_get_color_stop_count* -- Description
+cairo_pattern_get_color_stop_count -- Description
 
   int cairo_pattern_get_color_stop_count(CairoGradientPattern pattern)~
 

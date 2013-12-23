@@ -1,4 +1,4 @@
-*lchown* -- Changes user ownership of symlink
+lchown -- Changes user ownership of symlink
 
   bool lchown(string filename, mixed user)~
 

@@ -1,4 +1,4 @@
-*php_sapi_name* -- Returns the type of interface between web server and PHP
+php_sapi_name -- Returns the type of interface between web server and PHP
 
   string php_sapi_name()~
 

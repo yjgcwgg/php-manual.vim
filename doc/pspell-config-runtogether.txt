@@ -1,4 +1,4 @@
-*pspell_config_runtogether* -- Consider run-together words as valid compounds
+pspell_config_runtogether -- Consider run-together words as valid compounds
 
   bool pspell_config_runtogether(int dictionary_link, bool flag)~
 

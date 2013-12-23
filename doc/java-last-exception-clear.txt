@@ -1,4 +1,4 @@
-*java_last_exception_clear* -- Clear last Java exception
+java_last_exception_clear -- Clear last Java exception
 
   void java_last_exception_clear()~
 

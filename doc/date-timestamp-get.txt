@@ -1,4 +1,4 @@
-*date_timestamp_get* -- Alias of DateTime::getTimestamp
+date_timestamp_get -- Alias of DateTime::getTimestamp
 
 This function is an alias of: DateTime::getTimestamp
 

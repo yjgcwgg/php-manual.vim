@@ -1,4 +1,4 @@
-*variant_idiv* -- Converts variants to integers and then returns the result from
+variant_idiv -- Converts variants to integers and then returns the result from
 dividing them
 
   mixed variant_idiv(mixed left, mixed right)~

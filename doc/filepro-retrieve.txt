@@ -1,4 +1,4 @@
-*filepro_retrieve* -- Retrieves data from a filePro database
+filepro_retrieve -- Retrieves data from a filePro database
 
   string filepro_retrieve(int row_number, int field_number)~
 

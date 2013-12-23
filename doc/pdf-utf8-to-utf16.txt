@@ -1,4 +1,4 @@
-*PDF_utf8_to_utf16* -- Convert string from UTF-8 to UTF-16
+PDF_utf8_to_utf16 -- Convert string from UTF-8 to UTF-16
 
   string PDF_utf8_to_utf16(resource pdfdoc, string utf8string, string ordering)~
 

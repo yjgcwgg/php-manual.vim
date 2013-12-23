@@ -1,4 +1,4 @@
-*iconv_substr* -- Cut out part of a string
+iconv_substr -- Cut out part of a string
 
   string iconv_substr(string str, int offset [, int length [, string charset]])~
 

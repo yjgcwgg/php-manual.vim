@@ -1,4 +1,4 @@
-*pg_lo_unlink* -- Delete a large object
+pg_lo_unlink -- Delete a large object
 
   bool pg_lo_unlink(resource connection, int oid)~
 

@@ -1,4 +1,4 @@
-*pcntl_wait* -- Waits on or returns the status of a forked child
+pcntl_wait -- Waits on or returns the status of a forked child
 
   int pcntl_wait(int status [, int options])~
 

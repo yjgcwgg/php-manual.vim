@@ -1,4 +1,4 @@
-*stats_stat_noncentral_t* -- Calculates any one parameter of the noncentral t
+stats_stat_noncentral_t -- Calculates any one parameter of the noncentral t
 distribution give values for the others.
 
   float stats_stat_noncentral_t(float par1, float par2, float par3, int which)~

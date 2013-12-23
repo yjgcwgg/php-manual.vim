@@ -1,4 +1,4 @@
-*printer_draw_bmp* -- Draw a bmp
+printer_draw_bmp -- Draw a bmp
 
   bool printer_draw_bmp(resource printer_handle, string filename, int x, int y [, int width, int height])~
 

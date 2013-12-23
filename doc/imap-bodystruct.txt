@@ -1,4 +1,4 @@
-*imap_bodystruct* -- Read the structure of a specified body section of a
+imap_bodystruct -- Read the structure of a specified body section of a
 specific message
 
   object imap_bodystruct(resource imap_stream, int msg_number, string section)~

@@ -1,4 +1,4 @@
-*putenv* -- Sets the value of an environment variable
+putenv -- Sets the value of an environment variable
 
   bool putenv(string setting)~
 

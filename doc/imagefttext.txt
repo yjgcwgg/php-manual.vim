@@ -1,4 +1,4 @@
-*imagefttext* -- Write text to the image using fonts using FreeType 2
+imagefttext -- Write text to the image using fonts using FreeType 2
 
   array imagefttext(resource image, float size, float angle, int x, int y, int color, string fontfile, string text [, array extrainfo])~
 

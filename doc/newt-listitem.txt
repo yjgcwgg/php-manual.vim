@@ -1,4 +1,4 @@
-*newt_listitem* --
+newt_listitem --
 
   resource newt_listitem(int left, int top, string text, bool is_default, resouce prev_item, mixed data [, int flags])~
 

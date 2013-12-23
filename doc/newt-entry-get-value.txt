@@ -1,4 +1,4 @@
-*newt_entry_get_value* --
+newt_entry_get_value --
 
   string newt_entry_get_value(resource entry)~
 

@@ -1,4 +1,4 @@
-*stream_wrapper_restore* -- Restores a previously unregistered built-in wrapper
+stream_wrapper_restore -- Restores a previously unregistered built-in wrapper
 
   bool stream_wrapper_restore(string protocol)~
 

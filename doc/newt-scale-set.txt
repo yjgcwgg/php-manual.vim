@@ -1,4 +1,4 @@
-*newt_scale_set* --
+newt_scale_set --
 
   void newt_scale_set(resource scale, int amount)~
 

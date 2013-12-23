@@ -1,4 +1,4 @@
-*tidy_get_output* -- Return a string representing the parsed tidy markup
+tidy_get_output -- Return a string representing the parsed tidy markup
 
   string tidy_get_output(tidy object)~
 

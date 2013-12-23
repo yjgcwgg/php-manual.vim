@@ -1,4 +1,4 @@
-*hwapi_hgcsp* -- Returns object of class hw_api
+hwapi_hgcsp -- Returns object of class hw_api
 
   HW_API hwapi_hgcsp(string hostname [, int port])~
 

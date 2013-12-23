@@ -1,4 +1,4 @@
-*jdtojewish* -- Converts a Julian day count to a Jewish calendar date
+jdtojewish -- Converts a Julian day count to a Jewish calendar date
 
   string jdtojewish(int juliandaycount [, bool hebrew [, int fl]])~
 

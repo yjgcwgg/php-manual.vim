@@ -1,4 +1,4 @@
-*memcache_debug* -- Turn debug output on/off
+memcache_debug -- Turn debug output on/off
 
   bool memcache_debug(bool on_off)~
 

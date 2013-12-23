@@ -1,4 +1,4 @@
-*msql_fetch_field* -- Get field information
+msql_fetch_field -- Get field information
 
   object msql_fetch_field(resource result [, int field_offset])~
 

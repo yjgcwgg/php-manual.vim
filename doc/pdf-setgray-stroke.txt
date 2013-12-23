@@ -1,4 +1,4 @@
-*PDF_setgray_stroke* -- Set stroke color to gray [deprecated]
+PDF_setgray_stroke -- Set stroke color to gray [deprecated]
 
   bool PDF_setgray_stroke(resource p, float g)~
 

@@ -1,4 +1,4 @@
-*hw_InsertDocument* -- Upload any document
+hw_InsertDocument -- Upload any document
 
   int hw_insertdocument(int connection, int parent_id, int hw_document)~
 

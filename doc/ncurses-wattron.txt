@@ -1,4 +1,4 @@
-*ncurses_wattron* -- Turns on attributes for a window
+ncurses_wattron -- Turns on attributes for a window
 
   int ncurses_wattron(resource window, int attrs)~
 

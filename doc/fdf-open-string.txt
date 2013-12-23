@@ -1,4 +1,4 @@
-*fdf_open_string* -- Read a FDF document from a string
+fdf_open_string -- Read a FDF document from a string
 
   resource fdf_open_string(string fdf_data)~
 

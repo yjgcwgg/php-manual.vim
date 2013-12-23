@@ -1,4 +1,4 @@
-*posix_getgrgid* -- Return info about a group by group id
+posix_getgrgid -- Return info about a group by group id
 
   array posix_getgrgid(int gid)~
 

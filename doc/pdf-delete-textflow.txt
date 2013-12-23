@@ -1,4 +1,4 @@
-*PDF_delete_textflow* -- Delete textflow object
+PDF_delete_textflow -- Delete textflow object
 
   bool PDF_delete_textflow(resource pdfdoc, int textflow)~
 

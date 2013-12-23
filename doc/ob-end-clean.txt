@@ -1,4 +1,4 @@
-*ob_end_clean* -- Clean (erase) the output buffer and turn off output buffering
+ob_end_clean -- Clean (erase) the output buffer and turn off output buffering
 
   bool ob_end_clean()~
 

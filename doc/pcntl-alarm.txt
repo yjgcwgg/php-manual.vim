@@ -1,4 +1,4 @@
-*pcntl_alarm* -- Set an alarm clock for delivery of a signal
+pcntl_alarm -- Set an alarm clock for delivery of a signal
 
   int pcntl_alarm(int seconds)~
 

@@ -1,4 +1,4 @@
-*ssh2_sftp_symlink* -- Create a symlink
+ssh2_sftp_symlink -- Create a symlink
 
   bool ssh2_sftp_symlink(resource sftp, string target, string link)~
 

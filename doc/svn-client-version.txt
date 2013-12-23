@@ -1,4 +1,4 @@
-*svn_client_version* -- Returns the version of the SVN client libraries
+svn_client_version -- Returns the version of the SVN client libraries
 
   string svn_client_version()~
 

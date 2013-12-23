@@ -1,4 +1,4 @@
-*stream_context_get_params* -- Retrieves parameters from a context
+stream_context_get_params -- Retrieves parameters from a context
 
   array stream_context_get_params(resource stream_or_context)~
 

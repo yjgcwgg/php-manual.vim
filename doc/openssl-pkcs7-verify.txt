@@ -1,4 +1,4 @@
-*openssl_pkcs7_verify* -- Verifies the signature of an S/MIME signed message
+openssl_pkcs7_verify -- Verifies the signature of an S/MIME signed message
 
   mixed openssl_pkcs7_verify(string filename, int flags [, string outfilename [, array cainfo [, string extracerts [, string content]]]])~
 

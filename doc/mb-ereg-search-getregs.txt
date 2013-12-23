@@ -1,4 +1,4 @@
-*mb_ereg_search_getregs* -- Retrieve the result from the last multibyte regular
+mb_ereg_search_getregs -- Retrieve the result from the last multibyte regular
 expression match
 
   array mb_ereg_search_getregs()~

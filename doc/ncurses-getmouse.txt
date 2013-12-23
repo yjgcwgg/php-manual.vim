@@ -1,4 +1,4 @@
-*ncurses_getmouse* -- Reads mouse event
+ncurses_getmouse -- Reads mouse event
 
   bool ncurses_getmouse(array mevent)~
 

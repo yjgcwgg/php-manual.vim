@@ -1,4 +1,4 @@
-*PDF_fit_textline* -- Place single line of text
+PDF_fit_textline -- Place single line of text
 
   bool PDF_fit_textline(resource pdfdoc, string text, float x, float y, string optlist)~
 

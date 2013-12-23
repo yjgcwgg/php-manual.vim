@@ -1,4 +1,4 @@
-*pg_lo_tell* -- Returns current seek position a of large object
+pg_lo_tell -- Returns current seek position a of large object
 
   int pg_lo_tell(resource large_object)~
 

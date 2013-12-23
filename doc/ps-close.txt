@@ -1,4 +1,4 @@
-*ps_close* -- Closes a PostScript document
+ps_close -- Closes a PostScript document
 
   bool ps_close(resource psdoc)~
 

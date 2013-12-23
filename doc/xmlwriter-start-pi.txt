@@ -1,8 +1,8 @@
-*XMLWriter::startPI* -- Create start PI tag
+xmlwriter_start_pi -- Create start PI tag
 
 Object oriented style
 
-  bool startPI(string target)~
+  bool XMLWriter::startPI(string target)~
 
 Procedural style
 

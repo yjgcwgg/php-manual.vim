@@ -1,4 +1,4 @@
-*odbc_field_len* -- Get the length (precision) of a field
+odbc_field_len -- Get the length (precision) of a field
 
   int odbc_field_len(resource result_id, int field_number)~
 

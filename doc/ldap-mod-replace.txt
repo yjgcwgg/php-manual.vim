@@ -1,4 +1,4 @@
-*ldap_mod_replace* -- Replace attribute values with new ones
+ldap_mod_replace -- Replace attribute values with new ones
 
   bool ldap_mod_replace(resource link_identifier, string dn, array entry)~
 

@@ -1,4 +1,4 @@
-*px_delete_record* -- Deletes record from paradox database
+px_delete_record -- Deletes record from paradox database
 
   bool px_delete_record(resource pxdoc, int num)~
 

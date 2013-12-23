@@ -1,4 +1,4 @@
-*mb_ereg_search* -- Multibyte regular expression match for predefined multibyte
+mb_ereg_search -- Multibyte regular expression match for predefined multibyte
 string
 
   bool mb_ereg_search([string pattern [, string option]])~

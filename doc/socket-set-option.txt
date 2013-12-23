@@ -1,4 +1,4 @@
-*socket_set_option* -- Sets socket options for the socket
+socket_set_option -- Sets socket options for the socket
 
   bool socket_set_option(resource socket, int level, int optname, mixed optval)~
 

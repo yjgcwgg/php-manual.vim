@@ -1,4 +1,4 @@
-*ps_symbol_width* -- Gets width of a glyph
+ps_symbol_width -- Gets width of a glyph
 
   float ps_symbol_width(resource psdoc, int ord [, int fontid [, float size]])~
 

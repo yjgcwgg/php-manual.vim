@@ -1,4 +1,4 @@
-*ibase_fetch_object* -- Get an object from a InterBase database
+ibase_fetch_object -- Get an object from a InterBase database
 
   object ibase_fetch_object(resource result_id [, int fetch_flag])~
 

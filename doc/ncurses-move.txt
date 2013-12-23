@@ -1,4 +1,4 @@
-*ncurses_move* -- Move output position
+ncurses_move -- Move output position
 
   int ncurses_move(int y, int x)~
 

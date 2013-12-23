@@ -1,8 +1,9 @@
-*stristr* -- Case-insensitive strstr
+stristr -- Case-insensitive strstr
 
   string stristr(string haystack, mixed needle [, bool before_needle])~
 
-Returns all of {haystack} from the first occurrence of {needle} to the end.
+Returns all of {haystack} starting from and including the first occurrence of
+{needle} to the end.
 
 {haystack} The string to search in
 
@@ -10,7 +11,7 @@ Returns all of {haystack} from the first occurrence of {needle} to the end.
 applied as the ordinal value of a character.
 
 {before_needle} If TRUE, |stristr| returns the part of the {haystack} before
-the first occurrence of the {needle}.
+the first occurrence of the {needle} (excluding needle).
 
 {needle} and {haystack} are examined in a case-insensitive manner.
 
@@ -59,6 +60,6 @@ Using a non "string" needle
 
 This function is binary-safe.
 
-|strstr| |strrchr| |substr| |preg_match|
+|strstr| |strrchr| |stripos| |strpbrk| |preg_match|
 
 vim:ft=help:

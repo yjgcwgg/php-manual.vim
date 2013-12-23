@@ -1,4 +1,4 @@
-*main* -- Dummy for main
+main -- Dummy for main
 
 There is no function named |main| except in the PHP source. In PHP 4.3.0, a
 new type of error handling in the PHP source (php_error_docref) was

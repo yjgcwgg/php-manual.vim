@@ -1,4 +1,4 @@
-*variant_fix* -- Returns the integer portion of a variant
+variant_fix -- Returns the integer portion of a variant
 
   mixed variant_fix(mixed variant)~
 

@@ -1,4 +1,4 @@
-*ps_continue_text* -- Continue text in next line
+ps_continue_text -- Continue text in next line
 
   bool ps_continue_text(resource psdoc, string text)~
 

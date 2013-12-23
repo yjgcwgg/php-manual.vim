@@ -1,4 +1,4 @@
-*fdf_get_version* -- Gets version number for FDF API or file
+fdf_get_version -- Gets version number for FDF API or file
 
   string fdf_get_version([resource fdf_document])~
 

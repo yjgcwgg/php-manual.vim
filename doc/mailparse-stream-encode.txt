@@ -1,4 +1,4 @@
-*mailparse_stream_encode* -- Streams data from source file pointer, apply
+mailparse_stream_encode -- Streams data from source file pointer, apply
 encoding and write to destfp
 
   bool mailparse_stream_encode(resource sourcefp, resource destfp, string encoding)~

@@ -1,4 +1,4 @@
-*stream_wrapper_register* -- Register a URL wrapper implemented as a PHP class
+stream_wrapper_register -- Register a URL wrapper implemented as a PHP class
 
   bool stream_wrapper_register(string protocol, string classname [, int flags])~
 

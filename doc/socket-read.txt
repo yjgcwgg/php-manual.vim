@@ -1,4 +1,4 @@
-*socket_read* -- Reads a maximum of length bytes from a socket
+socket_read -- Reads a maximum of length bytes from a socket
 
   string socket_read(resource socket, int length [, int type])~
 

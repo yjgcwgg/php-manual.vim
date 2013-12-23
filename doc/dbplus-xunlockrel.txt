@@ -1,4 +1,4 @@
-*dbplus_xunlockrel* -- Free exclusive lock on relation
+dbplus_xunlockrel -- Free exclusive lock on relation
 
   int dbplus_xunlockrel(resource relation)~
 

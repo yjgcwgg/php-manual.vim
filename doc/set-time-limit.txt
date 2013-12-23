@@ -1,4 +1,4 @@
-*set_time_limit* -- Limits the maximum execution time
+set_time_limit -- Limits the maximum execution time
 
   void set_time_limit(int seconds)~
 

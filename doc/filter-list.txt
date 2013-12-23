@@ -1,4 +1,4 @@
-*filter_list* -- Returns a list of all supported filters
+filter_list -- Returns a list of all supported filters
 
   array filter_list()~
 

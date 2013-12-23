@@ -1,4 +1,4 @@
-*vpopmail_error* -- Get text message for last vpopmail error
+vpopmail_error -- Get text message for last vpopmail error
 
   string vpopmail_error()~
 

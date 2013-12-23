@@ -1,4 +1,4 @@
-*sybase_deadlock_retry_count* -- Sets the deadlock retry count
+sybase_deadlock_retry_count -- Sets the deadlock retry count
 
   void sybase_deadlock_retry_count(int retry_count)~
 

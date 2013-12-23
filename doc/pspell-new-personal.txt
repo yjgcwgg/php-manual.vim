@@ -1,4 +1,4 @@
-*pspell_new_personal* -- Load a new dictionary with personal wordlist
+pspell_new_personal -- Load a new dictionary with personal wordlist
 
   int pspell_new_personal(string personal, string language [, string spelling [, string jargon [, string encoding [, int mode]]]])~
 

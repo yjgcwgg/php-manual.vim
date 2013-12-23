@@ -1,4 +1,4 @@
-*linkinfo* -- Gets information about a link
+linkinfo -- Gets information about a link
 
   int linkinfo(string path)~
 

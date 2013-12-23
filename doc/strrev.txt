@@ -1,4 +1,4 @@
-*strrev* -- Reverse a string
+strrev -- Reverse a string
 
   string strrev(string string)~
 

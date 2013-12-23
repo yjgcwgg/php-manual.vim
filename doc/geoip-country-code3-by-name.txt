@@ -1,4 +1,4 @@
-*geoip_country_code3_by_name* -- Get the three letter country code
+geoip_country_code3_by_name -- Get the three letter country code
 
   string geoip_country_code3_by_name(string hostname)~
 

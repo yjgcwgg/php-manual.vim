@@ -1,4 +1,4 @@
-*geoip_db_avail* -- Determine if GeoIP Database is available
+geoip_db_avail -- Determine if GeoIP Database is available
 
   bool geoip_db_avail(int database)~
 

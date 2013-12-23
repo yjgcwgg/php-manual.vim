@@ -1,4 +1,4 @@
-*apd_dump_persistent_resources* -- Return all persistent resources as an array
+apd_dump_persistent_resources -- Return all persistent resources as an array
 
   array apd_dump_persistent_resources()~
 

@@ -1,4 +1,4 @@
-*ob_get_level* -- Return the nesting level of the output buffering mechanism
+ob_get_level -- Return the nesting level of the output buffering mechanism
 
   int ob_get_level()~
 

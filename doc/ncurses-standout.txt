@@ -1,4 +1,4 @@
-*ncurses_standout* -- Start using 'standout' attribute
+ncurses_standout -- Start using 'standout' attribute
 
   int ncurses_standout()~
 

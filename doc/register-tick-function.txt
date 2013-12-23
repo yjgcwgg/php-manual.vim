@@ -1,6 +1,6 @@
-*register_tick_function* -- Register a function for execution on each tick
+register_tick_function -- Register a function for execution on each tick
 
-  bool register_tick_function(callback function [, mixed arg [, mixed ...]])~
+  bool register_tick_function(callable function [, mixed arg [, mixed ...]])~
 
 Registers the given {function} to be executed when a tick is called.
 
@@ -16,6 +16,8 @@ Returns TRUE on success or &false; on failure.
 |register_tick_function| example
 
 <?php >
+  declare(ticks=1);
+  
   // using a function as the callback
   register_tick_function('my_function', true);
   

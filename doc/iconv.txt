@@ -1,4 +1,4 @@
-*iconv* -- Convert string to requested character encoding
+iconv -- Convert string to requested character encoding
 
   string iconv(string in_charset, string out_charset, string str)~
 

@@ -1,4 +1,4 @@
-*long2ip* -- Converts an (IPv4) Internet network address into a string in
+long2ip -- Converts an (IPv4) Internet network address into a string in
 Internet standard dotted format
 
   string long2ip(string proper_address)~

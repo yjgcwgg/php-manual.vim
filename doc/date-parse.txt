@@ -1,4 +1,4 @@
-*date_parse* -- Returns associative array with detailed info about given date
+date_parse -- Returns associative array with detailed info about given date
 
   array date_parse(string date)~
 

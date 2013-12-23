@@ -1,4 +1,4 @@
-*m_completeauthorizations* -- Number of complete authorizations in queue,
+m_completeauthorizations -- Number of complete authorizations in queue,
 returning an array of their identifiers
 
   int m_completeauthorizations(resource conn, int array)~

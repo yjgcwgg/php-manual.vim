@@ -1,4 +1,4 @@
-*gmp_jacobi* -- Jacobi symbol
+gmp_jacobi -- Jacobi symbol
 
   int gmp_jacobi(resource a, resource p)~
 

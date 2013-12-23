@@ -1,4 +1,4 @@
-*fam_pending* -- Check for pending FAM events
+fam_pending -- Check for pending FAM events
 
   int fam_pending(resource fam)~
 

@@ -1,4 +1,4 @@
-*ncurses_typeahead* -- Specify different filedescriptor for typeahead checking
+ncurses_typeahead -- Specify different filedescriptor for typeahead checking
 
   int ncurses_typeahead(int fd)~
 

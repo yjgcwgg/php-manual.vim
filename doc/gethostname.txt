@@ -1,4 +1,4 @@
-*gethostname* -- Gets the host name
+gethostname -- Gets the host name
 
   string gethostname()~
 

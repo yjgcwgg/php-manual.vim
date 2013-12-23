@@ -1,4 +1,4 @@
-*swf_enddoaction* -- End the current action
+swf_enddoaction -- End the current action
 
   void swf_enddoaction()~
 

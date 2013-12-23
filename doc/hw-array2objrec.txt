@@ -1,4 +1,4 @@
-*hw_Array2Objrec* -- Convert attributes from object array to object record
+hw_Array2Objrec -- Convert attributes from object array to object record
 
   string hw_array2objrec(array object_array)~
 

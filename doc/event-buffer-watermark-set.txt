@@ -1,4 +1,4 @@
-*event_buffer_watermark_set* -- Set the watermarks for read and write events
+event_buffer_watermark_set -- Set the watermarks for read and write events
 
   void event_buffer_watermark_set(resource bevent, int events, int lowmark, int highmark)~
 

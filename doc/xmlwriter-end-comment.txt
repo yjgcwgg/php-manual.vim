@@ -1,8 +1,8 @@
-*XMLWriter::endComment* -- Create end comment
+xmlwriter_end_comment -- Create end comment
 
 Object oriented style
 
-  bool endComment()~
+  bool XMLWriter::endComment()~
 
 Procedural style
 

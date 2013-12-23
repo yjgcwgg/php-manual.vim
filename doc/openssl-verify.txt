@@ -1,4 +1,4 @@
-*openssl_verify* -- Verify signature
+openssl_verify -- Verify signature
 
   int openssl_verify(string data, string signature, mixed pub_key_id [, int signature_alg])~
 

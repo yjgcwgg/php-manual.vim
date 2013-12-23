@@ -1,4 +1,4 @@
-*ovrimos_rollback* -- Rolls back the transaction
+ovrimos_rollback -- Rolls back the transaction
 
   bool ovrimos_rollback(int connection_id)~
 

@@ -1,4 +1,4 @@
-*ncurses_flash* -- Flash terminal screen (visual bell)
+ncurses_flash -- Flash terminal screen (visual bell)
 
   bool ncurses_flash()~
 

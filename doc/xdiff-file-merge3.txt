@@ -1,4 +1,4 @@
-*xdiff_file_merge3* -- Merge 3 files into one
+xdiff_file_merge3 -- Merge 3 files into one
 
   mixed xdiff_file_merge3(string old_file, string new_file1, string new_file2, string dest)~
 

@@ -1,4 +1,4 @@
-*enchant_broker_dict_exists* -- Whether a dictionary exists or not. Using
+enchant_broker_dict_exists -- Whether a dictionary exists or not. Using
 non-empty tag
 
   bool enchant_broker_dict_exists(resource broker, string tag)~

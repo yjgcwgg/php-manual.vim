@@ -1,4 +1,4 @@
-*ps_set_border_color* -- Sets color of border for annotations
+ps_set_border_color -- Sets color of border for annotations
 
   bool ps_set_border_color(resource psdoc, float red, float green, float blue)~
 

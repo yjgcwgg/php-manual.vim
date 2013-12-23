@@ -1,4 +1,4 @@
-*hw_GetChildColl* -- Object ids of child collections
+hw_GetChildColl -- Object ids of child collections
 
   array hw_getchildcoll(int connection, int objectID)~
 

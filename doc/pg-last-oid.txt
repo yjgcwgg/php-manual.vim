@@ -1,4 +1,4 @@
-*pg_last_oid* -- Returns the last row's OID
+pg_last_oid -- Returns the last row's OID
 
   string pg_last_oid(resource result)~
 

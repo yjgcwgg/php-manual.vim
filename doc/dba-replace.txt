@@ -1,4 +1,4 @@
-*dba_replace* -- Replace or insert entry
+dba_replace -- Replace or insert entry
 
   bool dba_replace(string key, string value, resource handle)~
 

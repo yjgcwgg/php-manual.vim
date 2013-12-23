@@ -1,4 +1,4 @@
-*time* -- Return current Unix timestamp
+time -- Return current Unix timestamp
 
   int time()~
 

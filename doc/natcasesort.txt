@@ -1,4 +1,4 @@
-*natcasesort* -- Sort an array using a case insensitive "natural order"
+natcasesort -- Sort an array using a case insensitive "natural order"
 algorithm
 
   bool natcasesort(array array)~

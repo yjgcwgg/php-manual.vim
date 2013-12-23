@@ -1,4 +1,4 @@
-*stats_skew* -- Computes the skewness of the data in the array
+stats_skew -- Computes the skewness of the data in the array
 
   float stats_skew(array a)~
 

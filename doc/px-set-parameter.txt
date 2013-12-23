@@ -1,4 +1,4 @@
-*px_set_parameter* -- Sets a parameter
+px_set_parameter -- Sets a parameter
 
   bool px_set_parameter(resource pxdoc, string name, string value)~
 

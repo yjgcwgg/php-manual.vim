@@ -1,4 +1,4 @@
-*imagecolorclosestalpha* -- Get the index of the closest color to the specified
+imagecolorclosestalpha -- Get the index of the closest color to the specified
 color + alpha
 
   int imagecolorclosestalpha(resource image, int red, int green, int blue, int alpha)~

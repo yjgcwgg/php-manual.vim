@@ -1,4 +1,4 @@
-*msession_get_array* -- Get array of msession variables
+msession_get_array -- Get array of msession variables
 
   array msession_get_array(string session)~
 

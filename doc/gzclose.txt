@@ -1,4 +1,4 @@
-*gzclose* -- Close an open gz-file pointer
+gzclose -- Close an open gz-file pointer
 
   bool gzclose(resource zp)~
 

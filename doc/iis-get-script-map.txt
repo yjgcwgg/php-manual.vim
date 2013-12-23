@@ -1,4 +1,4 @@
-*iis_get_script_map* -- Gets script mapping on a virtual directory for a
+iis_get_script_map -- Gets script mapping on a virtual directory for a
 specific extension
 
   string iis_get_script_map(int server_instance, string virtual_path, string script_extension)~

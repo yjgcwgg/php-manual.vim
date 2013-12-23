@@ -1,4 +1,4 @@
-*radius_cvt_string* -- Converts raw data to string
+radius_cvt_string -- Converts raw data to string
 
   string radius_cvt_string(string data)~
 

@@ -1,4 +1,4 @@
-*mhash_keygen_s2k* -- Generates a key
+mhash_keygen_s2k -- Generates a key
 
   string mhash_keygen_s2k(int hash, string password, string salt, int bytes)~
 

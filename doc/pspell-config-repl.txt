@@ -1,4 +1,4 @@
-*pspell_config_repl* -- Set a file that contains replacement pairs
+pspell_config_repl -- Set a file that contains replacement pairs
 
   bool pspell_config_repl(int dictionary_link, string file)~
 

@@ -1,4 +1,4 @@
-*stats_rand_gen_chisquare* -- Generates random deviate from the distribution of
+stats_rand_gen_chisquare -- Generates random deviate from the distribution of
 a chisquare with "df" degrees of freedom random variable.
 
   float stats_rand_gen_chisquare(float df)~

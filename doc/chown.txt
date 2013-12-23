@@ -1,4 +1,4 @@
-*chown* -- Changes file owner
+chown -- Changes file owner
 
   bool chown(string filename, mixed user)~
 

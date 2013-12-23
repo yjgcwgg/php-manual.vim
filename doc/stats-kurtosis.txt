@@ -1,4 +1,4 @@
-*stats_kurtosis* -- Computes the kurtosis of the data in the array
+stats_kurtosis -- Computes the kurtosis of the data in the array
 
   float stats_kurtosis(array a)~
 

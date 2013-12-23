@@ -1,4 +1,4 @@
-*mqseries_cmit* -- MQSeries MQCMIT
+mqseries_cmit -- MQSeries MQCMIT
 
   void mqseries_cmit(resource hconn, resource compCode, resource reason)~
 

@@ -1,4 +1,4 @@
-*maxdb::commit* -- Commits the current transaction
+maxdb::commit -- Commits the current transaction
 
 Procedural style
 

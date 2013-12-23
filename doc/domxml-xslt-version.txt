@@ -1,4 +1,4 @@
-*domxml_xslt_version* -- Gets the XSLT library version
+domxml_xslt_version -- Gets the XSLT library version
 
   int domxml_xslt_version()~
 

@@ -1,4 +1,4 @@
-*cairo_font_options_get_hint_style* -- Description
+cairo_font_options_get_hint_style -- Description
 
   int cairo_font_options_get_hint_style(CairoFontOptions options)~
 

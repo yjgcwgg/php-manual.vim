@@ -1,4 +1,4 @@
-*ps_moveto* -- Sets current point
+ps_moveto -- Sets current point
 
   bool ps_moveto(resource psdoc, float x, float y)~
 

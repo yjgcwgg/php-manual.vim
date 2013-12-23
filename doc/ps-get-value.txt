@@ -1,4 +1,4 @@
-*ps_get_value* -- Gets certain values
+ps_get_value -- Gets certain values
 
   float ps_get_value(resource psdoc, string name [, float modifier])~
 

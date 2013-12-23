@@ -1,4 +1,4 @@
-*posix_getgid* -- Return the real group ID of the current process
+posix_getgid -- Return the real group ID of the current process
 
   int posix_getgid()~
 

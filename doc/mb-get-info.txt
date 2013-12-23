@@ -1,4 +1,4 @@
-*mb_get_info* -- Get internal settings of mbstring
+mb_get_info -- Get internal settings of mbstring
 
   mixed mb_get_info([string type])~
 

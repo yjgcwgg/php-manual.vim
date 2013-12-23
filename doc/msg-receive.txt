@@ -1,4 +1,4 @@
-*msg_receive* -- Receive a message from a message queue
+msg_receive -- Receive a message from a message queue
 
   bool msg_receive(resource queue, int desiredmsgtype, int msgtype, int maxsize, mixed message [, bool unserialize [, int flags [, int errorcode]]])~
 

@@ -1,4 +1,4 @@
-*swf_getframe* -- Get the frame number of the current frame
+swf_getframe -- Get the frame number of the current frame
 
   int swf_getframe()~
 

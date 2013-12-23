@@ -1,4 +1,4 @@
-*PDF_add_launchlink* -- Add launch annotation for current page [deprecated]
+PDF_add_launchlink -- Add launch annotation for current page [deprecated]
 
   bool PDF_add_launchlink(resource pdfdoc, float llx, float lly, float urx, float ury, string filename)~
 

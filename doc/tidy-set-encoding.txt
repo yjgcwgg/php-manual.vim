@@ -1,4 +1,4 @@
-*tidy_set_encoding* -- Set the input/output character encoding for parsing
+tidy_set_encoding -- Set the input/output character encoding for parsing
 markup
 
   bool tidy_set_encoding(string encoding)~

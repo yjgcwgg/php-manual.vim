@@ -1,4 +1,4 @@
-*newt_entry_set* --
+newt_entry_set --
 
   void newt_entry_set(resource entry, string value [, bool cursor_at_end])~
 

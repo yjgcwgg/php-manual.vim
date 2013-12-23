@@ -1,4 +1,4 @@
-*cyrus_bind* -- Bind callbacks to a Cyrus IMAP connection
+cyrus_bind -- Bind callbacks to a Cyrus IMAP connection
 
   bool cyrus_bind(resource connection, array callbacks)~
 

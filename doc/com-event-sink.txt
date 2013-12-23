@@ -1,4 +1,4 @@
-*com_event_sink* -- Connect events from a COM object to a PHP object
+com_event_sink -- Connect events from a COM object to a PHP object
 
   bool com_event_sink(variant comobject, object sinkobject [, mixed sinkinterface])~
 

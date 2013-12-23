@@ -1,4 +1,4 @@
-*mcrypt_generic_init* -- This function initializes all buffers needed for
+mcrypt_generic_init -- This function initializes all buffers needed for
 encryption
 
   int mcrypt_generic_init(resource td, string key, string iv)~

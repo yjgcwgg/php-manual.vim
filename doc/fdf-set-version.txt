@@ -1,4 +1,4 @@
-*fdf_set_version* -- Sets version number for a FDF file
+fdf_set_version -- Sets version number for a FDF file
 
   bool fdf_set_version(resource fdf_document, string version)~
 

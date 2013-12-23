@@ -1,4 +1,4 @@
-*ncurses_can_change_color* -- Checks if terminal color definitions can be
+ncurses_can_change_color -- Checks if terminal color definitions can be
 changed
 
   bool ncurses_can_change_color()~

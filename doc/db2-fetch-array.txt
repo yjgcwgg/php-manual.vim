@@ -1,4 +1,4 @@
-*db2_fetch_array* -- Returns an array, indexed by column position, representing
+db2_fetch_array -- Returns an array, indexed by column position, representing
 a row in a result set
 
   array db2_fetch_array(resource stmt [, int row_number])~

@@ -1,4 +1,4 @@
-*PDF_setlinewidth* -- Set line width
+PDF_setlinewidth -- Set line width
 
   bool PDF_setlinewidth(resource p, float width)~
 

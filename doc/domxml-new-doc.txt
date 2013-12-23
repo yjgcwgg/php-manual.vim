@@ -1,4 +1,4 @@
-*domxml_new_doc* -- Creates new empty XML document
+domxml_new_doc -- Creates new empty XML document
 
   DomDocument domxml_new_doc(string version)~
 

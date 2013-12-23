@@ -1,4 +1,4 @@
-*msession_connect* -- Connect to msession server
+msession_connect -- Connect to msession server
 
   bool msession_connect(string host, string port)~
 

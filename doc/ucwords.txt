@@ -1,4 +1,4 @@
-*ucwords* -- Uppercase the first character of each word in a string
+ucwords -- Uppercase the first character of each word in a string
 
   string ucwords(string str)~
 

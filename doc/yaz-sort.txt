@@ -1,4 +1,4 @@
-*yaz_sort* -- Sets sorting criteria
+yaz_sort -- Sets sorting criteria
 
   void yaz_sort(resource id, string criteria)~
 

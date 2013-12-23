@@ -1,4 +1,4 @@
-*ncurses_addchstr* -- Add attributed string at current position
+ncurses_addchstr -- Add attributed string at current position
 
   int ncurses_addchstr(string s)~
 

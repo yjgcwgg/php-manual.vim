@@ -1,4 +1,4 @@
-*mb_send_mail* -- Send encoded mail
+mb_send_mail -- Send encoded mail
 
   bool mb_send_mail(string to, string subject, string message [, string additional_headers [, string additional_parameter]])~
 

@@ -1,4 +1,4 @@
-*apc_bin_dump* -- Get a binary dump of the given files and user variables
+apc_bin_dump -- Get a binary dump of the given files and user variables
 
   string apc_bin_dump([array files [, array user_vars]])~
 

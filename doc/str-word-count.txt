@@ -1,4 +1,4 @@
-*str_word_count* -- Return information about words used in a string
+str_word_count -- Return information about words used in a string
 
   mixed str_word_count(string string [, int format [, string charlist]])~
 

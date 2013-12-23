@@ -1,4 +1,4 @@
-*ncurses_baudrate* -- Returns baudrate of terminal
+ncurses_baudrate -- Returns baudrate of terminal
 
   int ncurses_baudrate()~
 

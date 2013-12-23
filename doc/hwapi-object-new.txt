@@ -1,6 +1,6 @@
-*hw_api_object* -- Creates a new instance of class hw_api_object
+hwapi_object_new -- Creates a new instance of class hwapi_object_new
 
-  hw_api_object hw_api_object(array parameter)~
+  hw_api_object hwapi_object_new(array parameter)~
 
 Creates a new instance of the class hw_api_object.
 

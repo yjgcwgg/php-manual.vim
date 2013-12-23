@@ -1,4 +1,4 @@
-*svn_ls* -- Returns list of directory contents in repository URL, optionally at
+svn_ls -- Returns list of directory contents in repository URL, optionally at
 revision number
 
   array svn_ls(string repos_url [, int revision_no [, bool recurse [, bool peg]]])~

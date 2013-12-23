@@ -1,4 +1,4 @@
-*imap_num_recent* -- Gets the number of recent messages in current mailbox
+imap_num_recent -- Gets the number of recent messages in current mailbox
 
   int imap_num_recent(resource imap_stream)~
 

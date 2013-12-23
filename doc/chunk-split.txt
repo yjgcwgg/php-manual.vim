@@ -1,4 +1,4 @@
-*chunk_split* -- Split a string into smaller chunks
+chunk_split -- Split a string into smaller chunks
 
   string chunk_split(string body [, int chunklen [, string end]])~
 

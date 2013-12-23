@@ -1,4 +1,4 @@
-*hw_GetObjectByQueryColl* -- Search object in collection
+hw_GetObjectByQueryColl -- Search object in collection
 
   array hw_getobjectbyquerycoll(int connection, int objectID, string query, int max_hits)~
 

@@ -1,4 +1,4 @@
-*openssl_pkcs7_decrypt* -- Decrypts an S/MIME encrypted message
+openssl_pkcs7_decrypt -- Decrypts an S/MIME encrypted message
 
   bool openssl_pkcs7_decrypt(string infilename, string outfilename, mixed recipcert [, mixed recipkey])~
 

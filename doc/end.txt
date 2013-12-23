@@ -1,4 +1,4 @@
-*end* -- Set the internal pointer of an array to its last element
+end -- Set the internal pointer of an array to its last element
 
   mixed end(array array)~
 

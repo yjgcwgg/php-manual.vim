@@ -1,4 +1,4 @@
-*socket_accept* -- Accepts a connection on a socket
+socket_accept -- Accepts a connection on a socket
 
   resource socket_accept(resource socket)~
 

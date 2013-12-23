@@ -1,4 +1,4 @@
-*newt_pop_window* -- Removes the top window from the display
+newt_pop_window -- Removes the top window from the display
 
   void newt_pop_window()~
 

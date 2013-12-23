@@ -1,12 +1,12 @@
-*rrd_restore* -- Restore the RRD file from XML dump.
+rrd_restore -- Restores the RRD file from XML dump.
 
   bool rrd_restore(string xml_file, string rrd_file [, array options])~
 
 Restores the RRD file from the XML dump.
 
-XML filename for the dump of original RRD database file.
+XML filename with the dump of the original RRD database file.
 
-Filename for the RRD file, which will be restored.
+Restored RRD database file name.
 
 Array of options for restoring. See man page for rrd restore.
 

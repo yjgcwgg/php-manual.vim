@@ -1,4 +1,4 @@
-*vpopmail_alias_del_domain* -- Deletes all virtual aliases of a domain
+vpopmail_alias_del_domain -- Deletes all virtual aliases of a domain
 
   bool vpopmail_alias_del_domain(string domain)~
 

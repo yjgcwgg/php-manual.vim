@@ -1,4 +1,4 @@
-*posix_access* -- Determine accessibility of a file
+posix_access -- Determine accessibility of a file
 
   bool posix_access(string file [, int mode])~
 

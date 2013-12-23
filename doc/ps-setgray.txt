@@ -1,4 +1,4 @@
-*ps_setgray* -- Sets gray value
+ps_setgray -- Sets gray value
 
   bool ps_setgray(resource psdoc, float gray)~
 

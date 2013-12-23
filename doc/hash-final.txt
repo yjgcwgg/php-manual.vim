@@ -1,4 +1,4 @@
-*hash_final* -- Finalize an incremental hash and return resulting digest
+hash_final -- Finalize an incremental hash and return resulting digest
 
   string hash_final(resource context [, bool raw_output])~
 

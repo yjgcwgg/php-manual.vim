@@ -1,4 +1,4 @@
-*msql_numfields* -- Alias of msql_num_fields
+msql_numfields -- Alias of msql_num_fields
 
 This function is an alias of |msql_num_fields|.
 

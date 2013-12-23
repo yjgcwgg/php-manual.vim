@@ -1,4 +1,4 @@
-*mailparse_msg_free* -- Frees a MIME resource
+mailparse_msg_free -- Frees a MIME resource
 
   bool mailparse_msg_free(resource mimemail)~
 

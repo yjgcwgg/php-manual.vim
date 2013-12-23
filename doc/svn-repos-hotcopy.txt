@@ -1,4 +1,4 @@
-*svn_repos_hotcopy* -- Make a hot-copy of the repos at repospath; copy it to
+svn_repos_hotcopy -- Make a hot-copy of the repos at repospath; copy it to
 destpath
 
   bool svn_repos_hotcopy(string repospath, string destpath, bool cleanlogs)~

@@ -1,4 +1,4 @@
-*runkit_lint_file* -- Check the PHP syntax of the specified file
+runkit_lint_file -- Check the PHP syntax of the specified file
 
   bool runkit_lint_file(string filename)~
 

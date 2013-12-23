@@ -1,4 +1,4 @@
-*mcrypt_enc_self_test* -- Runs a self test on the opened module
+mcrypt_enc_self_test -- Runs a self test on the opened module
 
   int mcrypt_enc_self_test(resource td)~
 

@@ -1,4 +1,4 @@
-*hw_GetParents* -- Object ids of parents
+hw_GetParents -- Object ids of parents
 
   array hw_getparents(int connection, int objectID)~
 

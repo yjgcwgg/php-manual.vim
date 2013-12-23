@@ -1,4 +1,4 @@
-*spl_autoload_functions* -- Return all registered __autoload() functions
+spl_autoload_functions -- Return all registered __autoload() functions
 
   array spl_autoload_functions()~
 

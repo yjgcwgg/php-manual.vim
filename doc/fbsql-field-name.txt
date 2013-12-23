@@ -1,4 +1,4 @@
-*fbsql_field_name* -- Get the name of the specified field in a result
+fbsql_field_name -- Get the name of the specified field in a result
 
   string fbsql_field_name(resource result [, int field_index])~
 

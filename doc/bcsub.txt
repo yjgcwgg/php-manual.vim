@@ -1,4 +1,4 @@
-*bcsub* -- Subtract one arbitrary precision number from another
+bcsub -- Subtract one arbitrary precision number from another
 
   string bcsub(string left_operand, string right_operand [, int scale])~
 

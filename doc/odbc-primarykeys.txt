@@ -1,4 +1,4 @@
-*odbc_primarykeys* -- Gets the primary keys for a table
+odbc_primarykeys -- Gets the primary keys for a table
 
   resource odbc_primarykeys(resource connection_id, string qualifier, string owner, string table)~
 

@@ -1,4 +1,4 @@
-*pcntl_signal_dispatch* -- Calls signal handlers for pending signals
+pcntl_signal_dispatch -- Calls signal handlers for pending signals
 
   bool pcntl_signal_dispatch()~
 

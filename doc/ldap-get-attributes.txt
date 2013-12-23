@@ -1,4 +1,4 @@
-*ldap_get_attributes* -- Get attributes from a search result entry
+ldap_get_attributes -- Get attributes from a search result entry
 
   array ldap_get_attributes(resource link_identifier, resource result_entry_identifier)~
 

@@ -1,4 +1,4 @@
-*PDF_open_file* -- Create PDF file [deprecated]
+PDF_open_file -- Create PDF file [deprecated]
 
   bool PDF_open_file(resource p, string filename)~
 

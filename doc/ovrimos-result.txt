@@ -1,4 +1,4 @@
-*ovrimos_result* -- Retrieves the output column
+ovrimos_result -- Retrieves the output column
 
   string ovrimos_result(int result_id, mixed field)~
 

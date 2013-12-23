@@ -1,4 +1,4 @@
-*vpopmail_add_alias_domain_ex* -- Add alias to an existing virtual domain
+vpopmail_add_alias_domain_ex -- Add alias to an existing virtual domain
 
   bool vpopmail_add_alias_domain_ex(string olddomain, string newdomain)~
 

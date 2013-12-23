@@ -1,4 +1,4 @@
-*ncurses_panel_window* -- Returns the window associated with panel
+ncurses_panel_window -- Returns the window associated with panel
 
   resource ncurses_panel_window(resource panel)~
 

@@ -1,4 +1,4 @@
-*imageantialias* -- Should antialias functions be used or not
+imageantialias -- Should antialias functions be used or not
 
   bool imageantialias(resource image, bool enabled)~
 

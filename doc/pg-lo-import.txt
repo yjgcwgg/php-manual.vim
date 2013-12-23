@@ -1,4 +1,4 @@
-*pg_lo_import* -- Import a large object from file
+pg_lo_import -- Import a large object from file
 
   int pg_lo_import([resource connection, string pathname [, mixed object_id]])~
 

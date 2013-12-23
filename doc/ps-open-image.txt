@@ -1,4 +1,4 @@
-*ps_open_image* -- Reads an image for later placement
+ps_open_image -- Reads an image for later placement
 
   int ps_open_image(resource psdoc, string type, string source, string data, int lenght, int width, int height, int components, int bpc, string params)~
 

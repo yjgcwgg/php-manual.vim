@@ -1,4 +1,4 @@
-*ibase_errmsg* -- Return error messages
+ibase_errmsg -- Return error messages
 
   string ibase_errmsg()~
 

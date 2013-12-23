@@ -1,4 +1,4 @@
-*hw_GetSrcByDestObj* -- Returns anchors pointing at object
+hw_GetSrcByDestObj -- Returns anchors pointing at object
 
   array hw_getsrcbydestobj(int connection, int objectID)~
 

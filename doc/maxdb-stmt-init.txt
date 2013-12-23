@@ -1,4 +1,4 @@
-*maxdb->stmt_init* -- Initializes a statement and returns an resource for use
+maxdb::stmt_init -- Initializes a statement and returns an resource for use
 with maxdb_stmt_prepare
 
 Procedural style
@@ -7,7 +7,7 @@ Procedural style
 
 Object oriented style
 
-  object stmt_init(resource link)~
+  object maxdb::stmt_init(resource link)~
 
 Allocates and initializes a statement resource suitable for
 |maxdb_stmt_prepare|.

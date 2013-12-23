@@ -1,4 +1,4 @@
-*stream_get_wrappers* -- Retrieve list of registered streams
+stream_get_wrappers -- Retrieve list of registered streams
 
   array stream_get_wrappers()~
 

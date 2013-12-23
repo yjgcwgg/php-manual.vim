@@ -1,10 +1,10 @@
-*mcrypt_generic* -- This function encrypts data
+mcrypt_generic -- This function encrypts data
 
   string mcrypt_generic(resource td, string data)~
 
 This function encrypts data. The data is padded with "\0" to make sure the
 length of the data is n * blocksize. This function returns the encrypted data.
-Note that the length of the returned string can in fact be longer then the
+Note that the length of the returned string can in fact be longer than the
 input, due to the padding of the data.
 
 If you want to store the encrypted data in a database make sure to store the

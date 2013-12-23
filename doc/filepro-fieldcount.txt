@@ -1,4 +1,4 @@
-*filepro_fieldcount* -- Find out how many fields are in a filePro database
+filepro_fieldcount -- Find out how many fields are in a filePro database
 
   int filepro_fieldcount()~
 

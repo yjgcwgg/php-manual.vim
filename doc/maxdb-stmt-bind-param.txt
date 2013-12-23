@@ -1,4 +1,4 @@
-*maxdb_stmt::bind_param* -- Binds variables to a prepared statement as
+maxdb_stmt::bind_param -- Binds variables to a prepared statement as
 parameters
 
 Procedural style

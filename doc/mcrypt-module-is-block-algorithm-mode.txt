@@ -1,4 +1,4 @@
-*mcrypt_module_is_block_algorithm_mode* -- Returns if the specified module is a
+mcrypt_module_is_block_algorithm_mode -- Returns if the specified module is a
 block algorithm or not
 
   bool mcrypt_module_is_block_algorithm_mode(string mode [, string lib_dir])~

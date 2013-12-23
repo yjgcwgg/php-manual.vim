@@ -1,4 +1,4 @@
-*mb_strimwidth* -- Get truncated string with specified width
+mb_strimwidth -- Get truncated string with specified width
 
   string mb_strimwidth(string str, int start, int width [, string trimmarker [, string encoding]])~
 

@@ -1,4 +1,4 @@
-*fdf_open* -- Open a FDF document
+fdf_open -- Open a FDF document
 
   resource fdf_open(string filename)~
 

@@ -1,4 +1,4 @@
-*mb_strtoupper* -- Make a string uppercase
+mb_strtoupper -- Make a string uppercase
 
   string mb_strtoupper(string str [, string encoding])~
 
@@ -17,7 +17,7 @@ http://www.unicode.org/unicode/reports/tr21/.
 By contrast to |strtoupper|, 'alphabetic' is determined by the Unicode
 character properties. Thus the behaviour of this function is not affected by
 locale settings and it can convert any characters that have 'alphabetic'
-property, such as a-umlaut (&auml;).
+property, such as a-umlaut (ä).
 
 |mb_strtoupper| example
 

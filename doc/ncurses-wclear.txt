@@ -1,4 +1,4 @@
-*ncurses_wclear* -- Clears window
+ncurses_wclear -- Clears window
 
   int ncurses_wclear(resource window)~
 

@@ -1,4 +1,4 @@
-*oci_num_rows* -- Returns number of rows affected during statement execution
+oci_num_rows -- Returns number of rows affected during statement execution
 
   int oci_num_rows(resource statement)~
 

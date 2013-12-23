@@ -1,4 +1,4 @@
-*db2_connect* -- Returns a connection to a database
+db2_connect -- Returns a connection to a database
 
   resource db2_connect(string database, string username, string password [, array options])~
 

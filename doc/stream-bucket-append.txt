@@ -1,4 +1,4 @@
-*stream_bucket_append* -- Append bucket to brigade
+stream_bucket_append -- Append bucket to brigade
 
   void stream_bucket_append(resource brigade, resource bucket)~
 

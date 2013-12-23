@@ -1,4 +1,4 @@
-*swf_labelframe* -- Label the current frame
+swf_labelframe -- Label the current frame
 
   void swf_labelframe(string name)~
 

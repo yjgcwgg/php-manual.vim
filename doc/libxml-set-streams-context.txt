@@ -1,4 +1,4 @@
-*libxml_set_streams_context* -- Set the streams context for the next libxml
+libxml_set_streams_context -- Set the streams context for the next libxml
 document load or write
 
   void libxml_set_streams_context(resource streams_context)~

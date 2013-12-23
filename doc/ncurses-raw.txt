@@ -1,4 +1,4 @@
-*ncurses_raw* -- Switch terminal into raw mode
+ncurses_raw -- Switch terminal into raw mode
 
   bool ncurses_raw()~
 

@@ -1,4 +1,4 @@
-*imagepsloadfont* -- Load a PostScript Type 1 font from file
+imagepsloadfont -- Load a PostScript Type 1 font from file
 
   resource imagepsloadfont(string filename)~
 

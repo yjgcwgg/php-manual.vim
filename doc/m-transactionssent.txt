@@ -1,4 +1,4 @@
-*m_transactionssent* -- Check to see if outgoing buffer is clear
+m_transactionssent -- Check to see if outgoing buffer is clear
 
   int m_transactionssent(resource conn)~
 

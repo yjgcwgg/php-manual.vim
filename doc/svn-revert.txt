@@ -1,4 +1,4 @@
-*svn_revert* -- Revert changes to the working copy
+svn_revert -- Revert changes to the working copy
 
   bool svn_revert(string path [, bool recursive])~
 

@@ -1,7 +1,7 @@
-*sybase_set_message_handler* -- Sets the handler called when a server message is
+sybase_set_message_handler -- Sets the handler called when a server message is
 raised
 
-  bool sybase_set_message_handler(callback handler [, resource connection])~
+  bool sybase_set_message_handler(callable handler [, resource link_identifier])~
 
 |sybase_set_message_handler| sets a user function to handle messages generated
 by the server. You may specify the name of a global function, or use an array
@@ -12,11 +12,12 @@ number, severity, state, line number and description. The first four are
 integers. The last is a string. If the function returns FALSE, PHP generates
 an ordinary error message.
 
-{connection}
+{link_identifier} If the link identifier isn't specified, the last opened link
+is assumed.
 
 Returns TRUE on success or &false; on failure.
 
-Version Description 4.3.5 The {connection} parameter was added.
+Version Description 4.3.5 The {link_identifier} parameter was added.
 
 |sybase_set_message_handler| callback function
 

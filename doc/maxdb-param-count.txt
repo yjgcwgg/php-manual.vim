@@ -1,4 +1,4 @@
-*maxdb_param_count* -- Alias of maxdb_stmt_param_count
+maxdb_param_count -- Alias of maxdb_stmt_param_count
 
 This function is an alias of: |maxdb_stmt_param_count|.
 

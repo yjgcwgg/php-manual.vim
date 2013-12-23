@@ -1,4 +1,4 @@
-*bzdecompress* -- Decompresses bzip2 encoded data
+bzdecompress -- Decompresses bzip2 encoded data
 
   mixed bzdecompress(string source [, int small])~
 
@@ -12,7 +12,7 @@ works at roughly half the speed.
 
 See the bzip2 documentation for more information about this feature.
 
-The decompressed string or number of error in case of error.
+The decompressed string, or an error number if an error occurred.
 
 Decompressing a String
 

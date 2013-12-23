@@ -1,4 +1,4 @@
-*maxdb::auto_commit* -- Turns on or off auto-commiting database modifications
+maxdb::auto_commit -- Turns on or off auto-commiting database modifications
 
 Procedural style
 

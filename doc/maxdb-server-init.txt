@@ -1,4 +1,4 @@
-*maxdb_server_init* -- Initialize embedded server
+maxdb_server_init -- Initialize embedded server
 
   bool maxdb_server_init([array server [, array groups]])~
 

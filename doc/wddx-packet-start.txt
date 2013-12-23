@@ -1,4 +1,4 @@
-*wddx_packet_start* -- Starts a new WDDX packet with structure inside it
+wddx_packet_start -- Starts a new WDDX packet with structure inside it
 
   resource wddx_packet_start([string comment])~
 

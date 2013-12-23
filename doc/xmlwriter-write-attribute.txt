@@ -1,8 +1,8 @@
-*XMLWriter::writeAttribute* -- Write full attribute
+xmlwriter_write_attribute -- Write full attribute
 
 Object oriented style
 
-  bool writeAttribute(string name, string value)~
+  bool XMLWriter::writeAttribute(string name, string value)~
 
 Procedural style
 

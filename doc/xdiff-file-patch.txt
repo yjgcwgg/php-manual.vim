@@ -1,4 +1,4 @@
-*xdiff_file_patch* -- Patch a file with an unified diff
+xdiff_file_patch -- Patch a file with an unified diff
 
   mixed xdiff_file_patch(string file, string patch, string dest [, int flags])~
 

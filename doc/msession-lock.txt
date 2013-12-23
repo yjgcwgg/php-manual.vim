@@ -1,4 +1,4 @@
-*msession_lock* -- Lock a session
+msession_lock -- Lock a session
 
   int msession_lock(string name)~
 

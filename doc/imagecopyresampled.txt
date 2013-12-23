@@ -1,4 +1,4 @@
-*imagecopyresampled* -- Copy and resize part of an image with resampling
+imagecopyresampled -- Copy and resize part of an image with resampling
 
   bool imagecopyresampled(resource dst_image, resource src_image, int dst_x, int dst_y, int src_x, int src_y, int dst_w, int dst_h, int src_w, int src_h)~
 
@@ -6,7 +6,7 @@
 image, smoothly interpolating pixel values so that, in particular, reducing
 the size of an image still retains a great deal of clarity.
 
-In other words, |imagecopyresampled| will take an rectangular area from
+In other words, |imagecopyresampled| will take a rectangular area from
 {src_image} of width {src_w} and height {src_h} at position ({src_x},{src_y})
 and place it in a rectangular area of {dst_image} of width {dst_w} and height
 {dst_h} at position ({dst_x},{dst_y}).
@@ -47,7 +47,7 @@ Simple example This example will resample an image to half its original size.
   $percent = 0.5;
   
   // Content type
-  header('Content-type: image/jpeg');
+  header('Content-Type: image/jpeg');
   
   // Get new dimensions
   list($width, $height) = getimagesize($filename);
@@ -81,7 +81,7 @@ maximum width, or height, of 200 pixels.
   $height = 200;
   
   // Content type
-  header('Content-type: image/jpeg');
+  header('Content-Type: image/jpeg');
   
   // Get new dimensions
   list($width_orig, $height_orig) = getimagesize($filename);

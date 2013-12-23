@@ -1,4 +1,4 @@
-*pg_affected_rows* -- Returns number of affected records (tuples)
+pg_affected_rows -- Returns number of affected records (tuples)
 
   int pg_affected_rows(resource result)~
 

@@ -1,4 +1,4 @@
-*log10* -- Base-10 logarithm
+log10 -- Base-10 logarithm
 
   float log10(float arg)~
 

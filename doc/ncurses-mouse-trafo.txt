@@ -1,4 +1,4 @@
-*ncurses_mouse_trafo* -- Transforms coordinates
+ncurses_mouse_trafo -- Transforms coordinates
 
   bool ncurses_mouse_trafo(int y, int x, bool toscreen)~
 

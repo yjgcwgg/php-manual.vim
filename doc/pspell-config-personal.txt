@@ -1,4 +1,4 @@
-*pspell_config_personal* -- Set a file that contains personal wordlist
+pspell_config_personal -- Set a file that contains personal wordlist
 
   bool pspell_config_personal(int dictionary_link, string file)~
 

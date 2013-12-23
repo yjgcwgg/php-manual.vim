@@ -1,4 +1,4 @@
-*gettimeofday* -- Get current time
+gettimeofday -- Get current time
 
   mixed gettimeofday([bool return_float])~
 

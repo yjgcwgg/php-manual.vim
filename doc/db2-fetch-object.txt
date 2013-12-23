@@ -1,4 +1,4 @@
-*db2_fetch_object* -- Returns an object with properties representing columns in
+db2_fetch_object -- Returns an object with properties representing columns in
 the fetched row
 
   object db2_fetch_object(resource stmt [, int row_number])~

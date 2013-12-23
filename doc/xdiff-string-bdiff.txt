@@ -1,4 +1,4 @@
-*xdiff_string_bdiff* -- Make binary diff of two strings
+xdiff_string_bdiff -- Make binary diff of two strings
 
   string xdiff_string_bdiff(string old_data, string new_data)~
 

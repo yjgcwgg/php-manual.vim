@@ -1,4 +1,4 @@
-*swf_oncondition* -- Describe a transition used to trigger an action list
+swf_oncondition -- Describe a transition used to trigger an action list
 
   void swf_oncondition(int transition)~
 

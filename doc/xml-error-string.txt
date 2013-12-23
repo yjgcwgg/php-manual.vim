@@ -1,4 +1,4 @@
-*xml_error_string* -- Get XML parser error string
+xml_error_string -- Get XML parser error string
 
   string xml_error_string(int code)~
 

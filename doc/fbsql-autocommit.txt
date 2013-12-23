@@ -1,4 +1,4 @@
-*fbsql_autocommit* -- Enable or disable autocommit
+fbsql_autocommit -- Enable or disable autocommit
 
   bool fbsql_autocommit(resource link_identifier [, bool OnOff])~
 

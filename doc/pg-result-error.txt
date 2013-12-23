@@ -1,4 +1,4 @@
-*pg_result_error* -- Get error message associated with result
+pg_result_error -- Get error message associated with result
 
   string pg_result_error(resource result)~
 

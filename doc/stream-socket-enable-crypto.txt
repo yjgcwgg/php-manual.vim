@@ -1,4 +1,4 @@
-*stream_socket_enable_crypto* -- Turns encryption on/off on an already connected
+stream_socket_enable_crypto -- Turns encryption on/off on an already connected
 socket
 
   mixed stream_socket_enable_crypto(resource stream, bool enable [, int crypto_type [, resource session_stream]])~

@@ -1,4 +1,4 @@
-*xmlrpc_decode_request* -- Decodes XML into native PHP types
+xmlrpc_decode_request -- Decodes XML into native PHP types
 
   mixed xmlrpc_decode_request(string xml, string method [, string encoding])~
 

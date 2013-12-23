@@ -1,4 +1,4 @@
-*fbsql_list_dbs* -- List databases available on a FrontBase server
+fbsql_list_dbs -- List databases available on a FrontBase server
 
   resource fbsql_list_dbs([resource link_identifier])~
 

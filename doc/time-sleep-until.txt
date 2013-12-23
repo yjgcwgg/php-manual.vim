@@ -1,4 +1,4 @@
-*time_sleep_until* -- Make the script sleep until the specified time
+time_sleep_until -- Make the script sleep until the specified time
 
   bool time_sleep_until(float timestamp)~
 

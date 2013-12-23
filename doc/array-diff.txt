@@ -1,4 +1,4 @@
-*array_diff* -- Computes the difference of arrays
+array_diff -- Computes the difference of arrays
 
   array array_diff(array array1, array array2 [, array ...])~
 

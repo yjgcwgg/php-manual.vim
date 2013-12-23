@@ -1,4 +1,4 @@
-*stomp_version* -- Gets the current stomp extension version
+stomp_version -- Gets the current stomp extension version
 
   string stomp_version()~
 

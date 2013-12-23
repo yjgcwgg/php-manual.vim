@@ -1,4 +1,4 @@
-*gzgetss* -- Get line from gz-file pointer and strip HTML tags
+gzgetss -- Get line from gz-file pointer and strip HTML tags
 
   string gzgetss(resource zp, int length [, string allowable_tags])~
 

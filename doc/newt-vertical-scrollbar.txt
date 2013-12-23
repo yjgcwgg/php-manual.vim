@@ -1,4 +1,4 @@
-*newt_vertical_scrollbar* --
+newt_vertical_scrollbar --
 
   resource newt_vertical_scrollbar(int left, int top, int height [, int normal_colorset [, int thumb_colorset]])~
 

@@ -1,4 +1,4 @@
-*proc_nice* -- Change the priority of the current process
+proc_nice -- Change the priority of the current process
 
   bool proc_nice(int increment)~
 

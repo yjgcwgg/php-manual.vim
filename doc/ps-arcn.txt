@@ -1,4 +1,4 @@
-*ps_arcn* -- Draws an arc clockwise
+ps_arcn -- Draws an arc clockwise
 
   bool ps_arcn(resource psdoc, float x, float y, float radius, float alpha, float beta)~
 

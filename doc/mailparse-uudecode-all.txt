@@ -1,4 +1,4 @@
-*mailparse_uudecode_all* -- Scans the data from fp and extract each embedded
+mailparse_uudecode_all -- Scans the data from fp and extract each embedded
 uuencoded file
 
   array mailparse_uudecode_all(resource fp)~

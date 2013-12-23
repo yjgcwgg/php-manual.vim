@@ -1,4 +1,4 @@
-*dcgettext* -- Overrides the domain for a single lookup
+dcgettext -- Overrides the domain for a single lookup
 
   string dcgettext(string domain, string message, int category)~
 

@@ -1,4 +1,4 @@
-*PDF_setpolydash* -- Set complicated dash pattern [deprecated]
+PDF_setpolydash -- Set complicated dash pattern [deprecated]
 
 This function is deprecated since PDFlib version 5, use |PDF_setdashpattern|
 instead.

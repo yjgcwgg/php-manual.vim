@@ -1,4 +1,4 @@
-*msession_inc* -- Increment value in session
+msession_inc -- Increment value in session
 
   string msession_inc(string session, string name)~
 

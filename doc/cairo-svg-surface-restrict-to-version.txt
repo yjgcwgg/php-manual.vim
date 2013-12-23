@@ -1,4 +1,4 @@
-*cairo_svg_surface_restrict_to_version* -- Description
+cairo_svg_surface_restrict_to_version -- Description
 
   void cairo_svg_surface_restrict_to_version(CairoSvgSurface surface, int version)~
 

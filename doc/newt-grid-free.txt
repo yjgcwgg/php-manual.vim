@@ -1,4 +1,4 @@
-*newt_grid_free* --
+newt_grid_free --
 
   void newt_grid_free(resource grid, bool recurse)~
 

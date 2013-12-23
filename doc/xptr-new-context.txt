@@ -1,4 +1,4 @@
-*xptr_new_context* -- Create new XPath Context
+xptr_new_context -- Create new XPath Context
 
   XPathContext xptr_new_context()~
 

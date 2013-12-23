@@ -1,4 +1,4 @@
-*mcrypt_module_close* -- Closes the mcrypt module
+mcrypt_module_close -- Closes the mcrypt module
 
   bool mcrypt_module_close(resource td)~
 

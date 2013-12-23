@@ -1,4 +1,4 @@
-*runkit_return_value_used* -- Determines if the current functions return value
+runkit_return_value_used -- Determines if the current functions return value
 will be used
 
   bool runkit_return_value_used()~

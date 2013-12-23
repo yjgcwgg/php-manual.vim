@@ -1,4 +1,4 @@
-*zip_entry_compressedsize* -- Retrieve the compressed size of a directory entry
+zip_entry_compressedsize -- Retrieve the compressed size of a directory entry
 
   int zip_entry_compressedsize(resource zip_entry)~
 

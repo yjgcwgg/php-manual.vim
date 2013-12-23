@@ -1,4 +1,9 @@
-*mysql_query* -- Send a MySQL query
+mysql_query -- Send a MySQL query
+
+This extension is deprecated as of PHP 5.5.0, and will be removed in the
+future. Instead, the MySQLi or PDO_MySQL extension should be used. See also
+MySQL: choosing an API guide and related FAQ for more information.
+Alternatives to this function include:
 
   resource mysql_query(string query [, resource link_identifier])~
 
@@ -55,7 +60,8 @@ Valid Query The following query is valid, so |mysql_query| returns a resource.
   // Formulate Query
   // This is the best way to perform an SQL query
   // For more examples, see mysql_real_escape_string()
-  $query = sprintf("SELECT firstname, lastname, address, age FROM friends WHERE firstname='%s' AND lastname='%s'",
+  $query = sprintf("SELECT firstname, lastname, address, age FROM friends 
+      WHERE firstname='%s' AND lastname='%s'",
       mysql_real_escape_string($firstname),
       mysql_real_escape_string($lastname));
   

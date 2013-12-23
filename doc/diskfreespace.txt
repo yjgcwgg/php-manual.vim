@@ -1,4 +1,4 @@
-*diskfreespace* -- Alias of disk_free_space
+diskfreespace -- Alias of disk_free_space
 
 This function is an alias of: |disk_free_space|.
 

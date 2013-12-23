@@ -1,4 +1,4 @@
-*udm_get_doc_count* -- Get total number of documents in database
+udm_get_doc_count -- Get total number of documents in database
 
   int udm_get_doc_count(resource agent)~
 

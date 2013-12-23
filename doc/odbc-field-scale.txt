@@ -1,4 +1,4 @@
-*odbc_field_scale* -- Get the scale of a field
+odbc_field_scale -- Get the scale of a field
 
   int odbc_field_scale(resource result_id, int field_number)~
 

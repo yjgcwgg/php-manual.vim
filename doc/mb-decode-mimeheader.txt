@@ -1,4 +1,4 @@
-*mb_decode_mimeheader* -- Decode string in MIME header field
+mb_decode_mimeheader -- Decode string in MIME header field
 
   string mb_decode_mimeheader(string str)~
 

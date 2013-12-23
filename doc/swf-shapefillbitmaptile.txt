@@ -1,4 +1,4 @@
-*swf_shapefillbitmaptile* -- Set current fill mode to tiled bitmap
+swf_shapefillbitmaptile -- Set current fill mode to tiled bitmap
 
   void swf_shapefillbitmaptile(int bitmapid)~
 

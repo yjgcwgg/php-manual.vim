@@ -1,4 +1,4 @@
-*pg_last_error* -- Get the last error message string of a connection
+pg_last_error -- Get the last error message string of a connection
 
   string pg_last_error([resource connection])~
 

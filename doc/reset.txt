@@ -1,4 +1,4 @@
-*reset* -- Set the internal pointer of an array to its first element
+reset -- Set the internal pointer of an array to its first element
 
   mixed reset(array array)~
 

@@ -1,4 +1,4 @@
-*chop* -- Alias of rtrim
+chop -- Alias of rtrim
 
 This function is an alias of: |rtrim|.
 

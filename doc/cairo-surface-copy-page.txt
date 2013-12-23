@@ -1,4 +1,4 @@
-*cairo_surface_copy_page* -- Description
+cairo_surface_copy_page -- Description
 
   void cairo_surface_copy_page(CairoSurface surface)~
 

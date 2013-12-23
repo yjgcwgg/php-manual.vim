@@ -1,4 +1,4 @@
-*PDF_create_field* -- Create form field
+PDF_create_field -- Create form field
 
   bool PDF_create_field(resource pdfdoc, float llx, float lly, float urx, float ury, string name, string type, string optlist)~
 

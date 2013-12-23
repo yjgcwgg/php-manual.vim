@@ -1,4 +1,4 @@
-*array_combine* -- Creates an array by using one array for keys and another for
+array_combine -- Creates an array by using one array for keys and another for
 its values
 
   array array_combine(array keys, array values)~
@@ -12,10 +12,13 @@ string.
 {values} Array of values to be used
 
 Returns the combined array, FALSE if the number of elements for each array
-isn't equal or if the arrays are empty.
+isn't equal.
 
-Throws E_WARNING if {keys} and {values} are either empty or the number of
-elements does not match.
+Throws E_WARNING if the number of elements in {keys} and {values} does not
+match.
+
+Version Description 5.4.0 Previous versions issued E_WARNING and returned
+FALSE for empty arrays.
 
 A simple |array_combine| example
 

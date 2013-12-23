@@ -1,4 +1,4 @@
-*PDF_attach_file* -- Add file attachment for current page [deprecated]
+PDF_attach_file -- Add file attachment for current page [deprecated]
 
   bool PDF_attach_file(resource pdfdoc, float llx, float lly, float urx, float ury, string filename, string description, string author, string mimetype, string icon)~
 

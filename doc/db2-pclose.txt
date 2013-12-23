@@ -1,4 +1,4 @@
-*db2_pclose* -- Closes a persistent database connection
+db2_pclose -- Closes a persistent database connection
 
   bool db2_pclose(resource resource)~
 

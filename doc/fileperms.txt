@@ -1,4 +1,4 @@
-*fileperms* -- Gets file permissions
+fileperms -- Gets file permissions
 
   int fileperms(string filename)~
 
@@ -6,7 +6,18 @@ Gets permissions for the given file.
 
 {filename} Path to the file.
 
-Returns the permissions on the file, or FALSE on failure.
+Returns the file's permissions as a numeric mode. Lower bits of this mode are
+the same as the permissions expected by |chmod|, however on most platforms the
+return value will also include information on the type of file given as
+{filename}. The examples below demonstrate how to test the return value for
+specific permissions and file types on POSIX systems, including Linux and Mac
+OS X.
+
+For local files, the specific return value is that of the st_mode member of
+the structure returned by the C library's |stat| function. Exactly which bits
+are set can vary from platform to platform, and looking up your specific
+platform's documentation is recommended if parsing the non-permission bits of
+the return value is required.
 
 Display permissions as an octal value
 
@@ -87,7 +98,7 @@ The results of this function are cached. See |clearstatcache| for more
 details.
 
 As of PHP 5.0.0, this function can also be used with some URL wrappers. Refer
-to for a listing of which wrappers support |stat| family of functionality.
+to to determine which wrappers support |stat| family of functionality.
 
 |chmod| |is_readable| |stat|
 

@@ -1,4 +1,4 @@
-*php_ini_scanned_files* -- Return a list of .ini files parsed from the
+php_ini_scanned_files -- Return a list of .ini files parsed from the
 additional ini dir
 
   string php_ini_scanned_files()~

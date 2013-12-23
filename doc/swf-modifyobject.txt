@@ -1,4 +1,4 @@
-*swf_modifyobject* -- Modify an object
+swf_modifyobject -- Modify an object
 
   void swf_modifyobject(int depth, int how)~
 

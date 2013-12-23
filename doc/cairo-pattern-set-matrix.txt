@@ -1,4 +1,4 @@
-*cairo_pattern_set_matrix* -- Description
+cairo_pattern_set_matrix -- Description
 
   void cairo_pattern_set_matrix(CairoPattern pattern, CairoMatrix matrix)~
 

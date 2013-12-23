@@ -1,4 +1,4 @@
-*pspell_add_to_personal* -- Add the word to a personal wordlist
+pspell_add_to_personal -- Add the word to a personal wordlist
 
   bool pspell_add_to_personal(int dictionary_link, string word)~
 

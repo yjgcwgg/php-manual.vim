@@ -1,4 +1,4 @@
-*ps_clip* -- Clips drawing to current path
+ps_clip -- Clips drawing to current path
 
   bool ps_clip(resource psdoc)~
 

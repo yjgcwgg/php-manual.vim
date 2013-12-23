@@ -1,4 +1,4 @@
-*ps_findfont* -- Loads a font
+ps_findfont -- Loads a font
 
   int ps_findfont(resource psdoc, string fontname, string encoding [, bool embed])~
 

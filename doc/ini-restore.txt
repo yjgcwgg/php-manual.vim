@@ -1,4 +1,4 @@
-*ini_restore* -- Restores the value of a configuration option
+ini_restore -- Restores the value of a configuration option
 
   void ini_restore(string varname)~
 

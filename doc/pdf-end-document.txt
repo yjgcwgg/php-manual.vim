@@ -1,4 +1,4 @@
-*PDF_end_document* -- Close PDF file
+PDF_end_document -- Close PDF file
 
   bool PDF_end_document(resource pdfdoc, string optlist)~
 

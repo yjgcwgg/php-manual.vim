@@ -1,4 +1,4 @@
-*ifx_affected_rows* -- Get number of rows affected by a query
+ifx_affected_rows -- Get number of rows affected by a query
 
   int ifx_affected_rows(resource result_id)~
 

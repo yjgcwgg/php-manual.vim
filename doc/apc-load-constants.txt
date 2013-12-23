@@ -1,4 +1,4 @@
-*apc_load_constants* -- Loads a set of constants from the cache
+apc_load_constants -- Loads a set of constants from the cache
 
   bool apc_load_constants(string key [, bool case_sensitive])~
 

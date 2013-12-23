@@ -1,4 +1,4 @@
-*mb_convert_variables* -- Convert character code in variable(s)
+mb_convert_variables -- Convert character code in variable(s)
 
   string mb_convert_variables(string to_encoding, mixed from_encoding, mixed vars [, mixed ...])~
 

@@ -1,4 +1,4 @@
-*key* -- Fetch a key from an array
+key -- Fetch a key from an array
 
   mixed key(array array)~
 

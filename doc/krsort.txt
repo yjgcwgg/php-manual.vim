@@ -1,4 +1,4 @@
-*krsort* -- Sort an array by key in reverse order
+krsort -- Sort an array by key in reverse order
 
   bool krsort(array array [, int sort_flags])~
 

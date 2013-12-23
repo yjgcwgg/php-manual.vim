@@ -1,4 +1,4 @@
-*notes_unread* -- Returns the unread note id's for the current User user_name
+notes_unread -- Returns the unread note id's for the current User user_name
 
   array notes_unread(string database_name, string user_name)~
 

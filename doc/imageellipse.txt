@@ -1,4 +1,4 @@
-*imageellipse* -- Draw an ellipse
+imageellipse -- Draw an ellipse
 
   bool imageellipse(resource image, int cx, int cy, int width, int height, int color)~
 

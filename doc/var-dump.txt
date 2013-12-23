@@ -1,6 +1,6 @@
-*var_dump* -- Dumps information about a variable
+var_dump -- Dumps information about a variable
 
-  void var_dump(mixed expression [, mixed expression [, mixed ...]])~
+  void var_dump(mixed expression [, mixed ...])~
 
 This function displays structured information about one or more expressions
 that includes its type and value. Arrays and objects are explored recursively
@@ -13,7 +13,7 @@ As with anything that outputs its result directly to the browser, the
 output-control functions can be used to capture the output of this function,
 and save it in a string (for example).
 
-{expression} The variable you want to export.
+{expression} The variable you want to dump.
 
 No value is returned.
 
@@ -55,6 +55,6 @@ The above example will output:
 
 
 
-|var_export| |print_r|
+|print_r| |debug_zval_dump| |var_export|
 
 vim:ft=help:

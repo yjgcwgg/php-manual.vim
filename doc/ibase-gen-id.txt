@@ -1,4 +1,4 @@
-*ibase_gen_id* -- Increments the named generator and returns its new value
+ibase_gen_id -- Increments the named generator and returns its new value
 
   mixed ibase_gen_id(string generator [, int increment [, resource link_identifier]])~
 

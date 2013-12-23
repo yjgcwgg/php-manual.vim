@@ -1,4 +1,4 @@
-*stream_socket_client* -- Open Internet or Unix domain socket connection
+stream_socket_client -- Open Internet or Unix domain socket connection
 
   resource stream_socket_client(string remote_socket [, int errno [, string errstr [, float timeout [, int flags [, resource context]]]]])~
 

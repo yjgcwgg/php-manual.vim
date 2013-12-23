@@ -1,4 +1,4 @@
-*xml_parse* -- Start parsing an XML document
+xml_parse -- Start parsing an XML document
 
   int xml_parse(resource parser, string data [, bool is_final])~
 

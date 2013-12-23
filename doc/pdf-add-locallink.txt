@@ -1,4 +1,4 @@
-*PDF_add_locallink* -- Add link annotation for current page [deprecated]
+PDF_add_locallink -- Add link annotation for current page [deprecated]
 
   bool PDF_add_locallink(resource pdfdoc, float lowerleftx, float lowerlefty, float upperrightx, float upperrighty, int page, string dest)~
 

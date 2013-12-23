@@ -1,4 +1,4 @@
-*imagecolorsforindex* -- Get the colors for an index
+imagecolorsforindex -- Get the colors for an index
 
   array imagecolorsforindex(resource image, int index)~
 

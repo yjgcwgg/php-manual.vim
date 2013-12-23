@@ -1,4 +1,4 @@
-*chr* -- Return a specific character
+chr -- Return a specific character
 
   string chr(int ascii)~
 

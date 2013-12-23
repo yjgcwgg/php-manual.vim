@@ -1,4 +1,4 @@
-*substr* -- Return part of a string
+substr -- Return part of a string
 
   string substr(string string, int start [, int length])~
 
@@ -55,7 +55,8 @@ Using a negative {length}
 
 
 
-Returns the extracted part of string, or FALSE on failure or an empty string.
+Returns the extracted part of string; or FALSE on failure, or an empty
+{string}.
 
 Version Description 5.2.2 - 5.2.6 If the {start} parameter indicates the
 position of a negative truncation or beyond, false is returned. Other versions

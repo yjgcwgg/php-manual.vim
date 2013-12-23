@@ -1,4 +1,4 @@
-*mb_http_output* -- Set/Get HTTP output character encoding
+mb_http_output -- Set/Get HTTP output character encoding
 
   mixed mb_http_output([string encoding])~
 

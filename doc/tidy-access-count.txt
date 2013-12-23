@@ -1,4 +1,4 @@
-*tidy_access_count* -- Returns the Number of Tidy accessibility warnings
+tidy_access_count -- Returns the Number of Tidy accessibility warnings
 encountered for specified document
 
   int tidy_access_count(tidy object)~

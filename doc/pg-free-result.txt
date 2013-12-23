@@ -1,4 +1,4 @@
-*pg_free_result* -- Free result memory
+pg_free_result -- Free result memory
 
   bool pg_free_result(resource result)~
 

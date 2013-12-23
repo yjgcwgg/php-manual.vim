@@ -1,4 +1,4 @@
-*maxdb_result::fetch_array* -- Fetch a result row as an associative, a numeric
+maxdb_result::fetch_array -- Fetch a result row as an associative, a numeric
 array, or both
 
 Procedural style

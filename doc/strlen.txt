@@ -1,4 +1,4 @@
-*strlen* -- Get string length
+strlen -- Get string length
 
   int strlen(string string)~
 
@@ -21,6 +21,9 @@ A |strlen| example
 
 
 
+
+|strlen| returns the number of bytes rather than the number of characters in a
+string.
 
 |strlen| returns NULL when executed on arrays, and an E_WARNING level error is
 emitted.

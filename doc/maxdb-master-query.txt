@@ -1,4 +1,4 @@
-*maxdb_master_query* -- Enforce execution of a query on the master in a
+maxdb_master_query -- Enforce execution of a query on the master in a
 master/slave setup
 
   bool maxdb_master_query(resource link, string query)~

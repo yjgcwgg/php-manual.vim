@@ -1,4 +1,4 @@
-*bcadd* -- Add two arbitrary precision numbers
+bcadd -- Add two arbitrary precision numbers
 
   string bcadd(string left_operand, string right_operand [, int scale])~
 

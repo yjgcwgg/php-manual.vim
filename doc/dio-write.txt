@@ -1,4 +1,4 @@
-*dio_write* -- Writes data to fd with optional truncation at length
+dio_write -- Writes data to fd with optional truncation at length
 
   int dio_write(resource fd, string data [, int len])~
 

@@ -1,4 +1,4 @@
-*pg_lo_write* -- Write to a large object
+pg_lo_write -- Write to a large object
 
   int pg_lo_write(resource large_object, string data [, int len])~
 

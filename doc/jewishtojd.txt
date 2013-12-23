@@ -1,4 +1,4 @@
-*JewishToJD* -- Converts a date in the Jewish Calendar to Julian Day Count
+JewishToJD -- Converts a date in the Jewish Calendar to Julian Day Count
 
   int jewishtojd(int month, int day, int year)~
 

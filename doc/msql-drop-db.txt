@@ -1,4 +1,4 @@
-*msql_drop_db* -- Drop (delete) mSQL database
+msql_drop_db -- Drop (delete) mSQL database
 
   bool msql_drop_db(string database_name [, resource link_identifier])~
 

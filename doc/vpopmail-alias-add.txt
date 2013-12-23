@@ -1,4 +1,4 @@
-*vpopmail_alias_add* -- Insert a virtual alias
+vpopmail_alias_add -- Insert a virtual alias
 
   bool vpopmail_alias_add(string user, string domain, string alias)~
 

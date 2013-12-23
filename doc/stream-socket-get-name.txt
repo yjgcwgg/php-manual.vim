@@ -1,4 +1,4 @@
-*stream_socket_get_name* -- Retrieve the name of the local or remote sockets
+stream_socket_get_name -- Retrieve the name of the local or remote sockets
 
   string stream_socket_get_name(resource handle, bool want_peer)~
 

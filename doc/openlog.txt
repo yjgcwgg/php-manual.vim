@@ -1,4 +1,4 @@
-*openlog* -- Open connection to system logger
+openlog -- Open connection to system logger
 
   bool openlog(string ident, int option, int facility)~
 

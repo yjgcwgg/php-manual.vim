@@ -1,4 +1,4 @@
-*socket_clear_error* -- Clears the error on the socket or the last error code
+socket_clear_error -- Clears the error on the socket or the last error code
 
   void socket_clear_error([resource socket])~
 

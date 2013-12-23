@@ -1,4 +1,4 @@
-*ftp_nb_fput* -- Stores a file from an open file to the FTP server
+ftp_nb_fput -- Stores a file from an open file to the FTP server
 (non-blocking)
 
   int ftp_nb_fput(resource ftp_stream, string remote_file, resource handle, int mode [, int startpos])~

@@ -1,4 +1,4 @@
-*sqlite_has_more* -- Finds whether or not more rows are available
+sqlite_has_more -- Finds whether or not more rows are available
 
   bool sqlite_has_more(resource result)~
 

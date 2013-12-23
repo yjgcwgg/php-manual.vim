@@ -1,4 +1,4 @@
-*stats_den_uniform* -- Not documented
+stats_den_uniform -- Not documented
 
   float stats_den_uniform(float x, float a, float b)~
 

@@ -1,4 +1,4 @@
-*cubrid_move_cursor* -- Move the cursor in the result
+cubrid_move_cursor -- Move the cursor in the result
 
   int cubrid_move_cursor(resource req_identifier, int offset [, int origin])~
 
@@ -23,16 +23,14 @@ cursor will move to 11th place and return CUBRID_NO_MORE_DATA.
 {origin} Location where you want to move the cursor from CUBRID_CURSOR_FIRST,
 CUBRID_CURSOR_CURRENT, CUBRID_CURSOR_LAST.
 
-CUBRID_CURSOR_SUCCESS, when process is successful.
+TRUE, when process is successful.
 
-CUBRID_NO_MORE_DATA, when it is not a valid cursor location.
-
-CUBRID_CURSOR_ERROR, in case of error.
+FALSE, when process is unsucceful.
 
 |cubrid_move_cursor| example
 
 <?php >
-  $conn = cubrid_connect("127.0.0.1", 33000, "demodb");
+  $conn = cubrid_connect("127.0.0.1", 33000, "demodb", "dba");
   
   $req = cubrid_execute($conn, "SELECT * FROM code");
   cubrid_move_cursor($req, 1, CUBRID_CURSOR_LAST);

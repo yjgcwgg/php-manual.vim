@@ -1,4 +1,4 @@
-*cairo_matrix_transform_distance* -- Description
+cairo_matrix_transform_distance -- Description
 
   array cairo_matrix_transform_distance(CairoMatrix matrix, float dx, float dy)~
 

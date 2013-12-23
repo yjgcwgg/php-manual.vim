@@ -1,4 +1,4 @@
-*ncurses_savetty* -- Saves terminal state
+ncurses_savetty -- Saves terminal state
 
   bool ncurses_savetty()~
 

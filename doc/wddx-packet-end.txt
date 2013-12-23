@@ -1,4 +1,4 @@
-*wddx_packet_end* -- Ends a WDDX packet with the specified ID
+wddx_packet_end -- Ends a WDDX packet with the specified ID
 
   string wddx_packet_end(resource packet_id)~
 

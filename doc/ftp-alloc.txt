@@ -1,4 +1,4 @@
-*ftp_alloc* -- Allocates space for a file to be uploaded
+ftp_alloc -- Allocates space for a file to be uploaded
 
   bool ftp_alloc(resource ftp_stream, int filesize [, string result])~
 

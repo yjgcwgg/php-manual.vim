@@ -1,4 +1,4 @@
-*hw_setlinkroot* -- Set the id to which links are calculated
+hw_setlinkroot -- Set the id to which links are calculated
 
   int hw_setlinkroot(int link, int rootid)~
 

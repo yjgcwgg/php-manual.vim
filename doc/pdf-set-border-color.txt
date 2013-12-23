@@ -1,4 +1,4 @@
-*PDF_set_border_color* -- Set border color of annotations [deprecated]
+PDF_set_border_color -- Set border color of annotations [deprecated]
 
   bool PDF_set_border_color(resource p, float red, float green, float blue)~
 

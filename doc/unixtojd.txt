@@ -1,4 +1,4 @@
-*unixtojd* -- Convert Unix timestamp to Julian Day
+unixtojd -- Convert Unix timestamp to Julian Day
 
   int unixtojd([int timestamp])~
 

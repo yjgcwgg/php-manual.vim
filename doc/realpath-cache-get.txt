@@ -1,4 +1,4 @@
-*realpath_cache_get* -- Get realpath cache entries
+realpath_cache_get -- Get realpath cache entries
 
   array realpath_cache_get()~
 

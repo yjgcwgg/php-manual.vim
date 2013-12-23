@@ -1,4 +1,4 @@
-*newt_draw_root_text* -- Displays the string text at the position indicated
+newt_draw_root_text -- Displays the string text at the position indicated
 
   void newt_draw_root_text(int left, int top, string text)~
 

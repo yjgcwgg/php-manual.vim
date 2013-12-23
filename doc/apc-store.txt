@@ -1,4 +1,4 @@
-*apc_store* -- Cache a variable in the data store
+apc_store -- Cache a variable in the data store
 
   bool apc_store(string key, mixed var [, int ttl])~
 

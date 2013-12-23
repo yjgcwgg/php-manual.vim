@@ -1,4 +1,4 @@
-*gnupg_verify* -- Verifies a signed text
+gnupg_verify -- Verifies a signed text
 
   array gnupg_verify(resource identifier, string signed_text, string signature [, string plaintext])~
 

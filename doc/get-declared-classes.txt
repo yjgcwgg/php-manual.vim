@@ -1,4 +1,4 @@
-*get_declared_classes* -- Returns an array with the name of the defined classes
+get_declared_classes -- Returns an array with the name of the defined classes
 
   array get_declared_classes()~
 

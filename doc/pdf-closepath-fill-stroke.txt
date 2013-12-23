@@ -1,4 +1,4 @@
-*PDF_closepath_fill_stroke* -- Close, fill and stroke current path
+PDF_closepath_fill_stroke -- Close, fill and stroke current path
 
   bool PDF_closepath_fill_stroke(resource p)~
 

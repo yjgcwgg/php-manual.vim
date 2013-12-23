@@ -1,4 +1,4 @@
-*m_transnew* -- Start a new transaction
+m_transnew -- Start a new transaction
 
   int m_transnew(resource conn)~
 

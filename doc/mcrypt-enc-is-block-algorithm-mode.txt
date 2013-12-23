@@ -1,4 +1,4 @@
-*mcrypt_enc_is_block_algorithm_mode* -- Checks whether the encryption of the
+mcrypt_enc_is_block_algorithm_mode -- Checks whether the encryption of the
 opened mode works on blocks
 
   bool mcrypt_enc_is_block_algorithm_mode(resource td)~

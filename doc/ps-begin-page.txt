@@ -1,4 +1,4 @@
-*ps_begin_page* -- Start a new page
+ps_begin_page -- Start a new page
 
   bool ps_begin_page(resource psdoc, float width, float height)~
 

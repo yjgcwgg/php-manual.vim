@@ -1,4 +1,4 @@
-*define_syslog_variables* -- Initializes all syslog related variables
+define_syslog_variables -- Initializes all syslog related variables
 
   void define_syslog_variables()~
 
@@ -6,8 +6,7 @@ Initializes all variables used in the syslog functions.
 
 No value is returned.
 
-This function has been DEPRECATED as of PHP 5.3.0. Relying on this feature is
-highly discouraged.
+This function has been DEPRECATED as of PHP 5.3.0 and REMOVED as of PHP 5.4.0.
 
 |define_syslog_variables| example
 

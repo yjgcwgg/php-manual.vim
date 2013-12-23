@@ -1,4 +1,4 @@
-*cubrid_free_result* -- Free the memory occupied by the result data
+cubrid_free_result -- Free the memory occupied by the result data
 
   bool cubrid_free_result(resource req_identifier)~
 

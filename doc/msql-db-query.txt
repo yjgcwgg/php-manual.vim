@@ -1,4 +1,4 @@
-*msql_db_query* -- Send mSQL query
+msql_db_query -- Send mSQL query
 
   resource msql_db_query(string database, string query [, resource link_identifier])~
 

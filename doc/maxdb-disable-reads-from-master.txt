@@ -1,4 +1,4 @@
-*maxdb::disable_reads_from_master* -- Disable reads from master
+maxdb::disable_reads_from_master -- Disable reads from master
 
 Procedural style
 

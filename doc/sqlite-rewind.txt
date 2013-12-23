@@ -1,10 +1,10 @@
-*SQLiteResult->rewind* -- Seek to the first row number
+SQLiteResult::rewind -- Seek to the first row number
 
   bool sqlite_rewind(resource result)~
 
 Object oriented style (method):
 
-  bool rewind(resource result)~
+  bool SQLiteResult::rewind(resource result)~
 
 |sqlite_rewind| seeks back to the first row in the given result set.
 

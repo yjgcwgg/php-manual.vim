@@ -1,4 +1,4 @@
-*ibase_blob_open* -- Open blob for retrieving data parts
+ibase_blob_open -- Open blob for retrieving data parts
 
   resource ibase_blob_open(resource link_identifier, string blob_id)~
 

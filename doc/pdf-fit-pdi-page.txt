@@ -1,4 +1,4 @@
-*PDF_fit_pdi_page* -- Place imported PDF page
+PDF_fit_pdi_page -- Place imported PDF page
 
   bool PDF_fit_pdi_page(resource pdfdoc, int page, float x, float y, string optlist)~
 

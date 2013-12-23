@@ -1,4 +1,4 @@
-*maxdb->sqlstate* -- Returns the SQLSTATE error from previous MaxDB operation
+maxdb::sqlstate -- Returns the SQLSTATE error from previous MaxDB operation
 
 Procedural style
 

@@ -1,4 +1,4 @@
-*swf_setframe* -- Switch to a specified frame
+swf_setframe -- Switch to a specified frame
 
   void swf_setframe(int framenumber)~
 

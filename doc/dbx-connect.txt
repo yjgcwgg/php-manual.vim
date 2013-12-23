@@ -1,4 +1,4 @@
-*dbx_connect* -- Open a connection/database
+dbx_connect -- Open a connection/database
 
   object dbx_connect(mixed module, string host, string database, string username, string password [, int persistent])~
 

@@ -1,4 +1,4 @@
-*ovrimos_commit* -- Commits the transaction
+ovrimos_commit -- Commits the transaction
 
   bool ovrimos_commit(int connection_id)~
 

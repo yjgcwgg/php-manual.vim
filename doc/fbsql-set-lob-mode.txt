@@ -1,4 +1,4 @@
-*fbsql_set_lob_mode* -- Set the LOB retrieve mode for a FrontBase result set
+fbsql_set_lob_mode -- Set the LOB retrieve mode for a FrontBase result set
 
   bool fbsql_set_lob_mode(resource result, int lob_mode)~
 

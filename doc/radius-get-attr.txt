@@ -1,4 +1,4 @@
-*radius_get_attr* -- Extracts an attribute
+radius_get_attr -- Extracts an attribute
 
   mixed radius_get_attr(resource radius_handle)~
 

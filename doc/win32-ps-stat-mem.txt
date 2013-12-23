@@ -1,4 +1,4 @@
-*win32_ps_stat_mem* -- Stat memory utilization
+win32_ps_stat_mem -- Stat memory utilization
 
   array win32_ps_stat_mem()~
 

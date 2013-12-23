@@ -1,4 +1,4 @@
-*filter_var* -- Filters a variable with a specified filter
+filter_var -- Filters a variable with a specified filter
 
   mixed filter_var(mixed variable [, int filter [, mixed options]])~
 
@@ -9,7 +9,7 @@ filters.
 
 {options} Associative array of options or bitwise disjunction of flags. If
 filter accepts options, flags can be provided in "flags" field of array. For
-the "callback" filter, callback type should be passed. The callback must
+the "callback" filter, callable type should be passed. The callback must
 accept one argument, the value to be filtered, and return the value after
 filtering/sanitizing it.
 
@@ -32,15 +32,21 @@ filtering/sanitizing it.
   $var = filter_var('oops', FILTER_VALIDATE_BOOLEAN,
                     array('flags' => FILTER_NULL_ON_FAILURE));
   
-  // callback filter
+  // callback validate filter
   function foo($value)
   {
-      $ret = new stdClass;
-      $ret->value = filter_var($value, FILTER_VALIDATE_BOOLEAN,
-                               array('flags' => FILTER_NULL_ON_FAILURE));
-      return $ret;
+      // Expected format: Surname, GivenNames
+      if (strpos($value, ", ") === false) return false;
+      list($surname, $givennames) = explode(", ", $value, 2);
+      $empty = (empty($surname) || empty($givennames));
+      $notstrings = (!is_string($surname) || !is_string($givennames));
+      if ($empty || $notstrings) {
+          return false;
+      } else {
+          return $value;
+      }
   }
-  $var = filter_var('yes', FILTER_CALLBACK, array('options' => 'foo'));
+  $var = filter_var('Doe, Jane Sue', FILTER_CALLBACK, array('options' => 'foo'));
 ?>
 
 Returns the filtered data, or FALSE if the filter fails.
@@ -49,7 +55,7 @@ A |filter_var| example
 
 <?php >
   var_dump(filter_var('bob@example.com', FILTER_VALIDATE_EMAIL));
-  var_dump(filter_var('example.com', FILTER_VALIDATE_URL, FILTER_FLAG_SCHEME_REQUIRED));
+  var_dump(filter_var('http://example.com', FILTER_VALIDATE_URL, FILTER_FLAG_PATH_REQUIRED));
 ?>
 
 The above example will output:

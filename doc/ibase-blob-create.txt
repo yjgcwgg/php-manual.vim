@@ -1,4 +1,4 @@
-*ibase_blob_create* -- Create a new blob for adding data
+ibase_blob_create -- Create a new blob for adding data
 
   resource ibase_blob_create([resource link_identifier])~
 

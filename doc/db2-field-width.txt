@@ -1,4 +1,4 @@
-*db2_field_width* -- Returns the width of the current value of the indicated
+db2_field_width -- Returns the width of the current value of the indicated
 column in a result set
 
   int db2_field_width(resource stmt, mixed column)~

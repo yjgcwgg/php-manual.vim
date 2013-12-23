@@ -1,4 +1,4 @@
-*fflush* -- Flushes the output to a file
+fflush -- Flushes the output to a file
 
   bool fflush(resource handle)~
 

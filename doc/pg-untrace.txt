@@ -1,4 +1,4 @@
-*pg_untrace* -- Disable tracing of a PostgreSQL connection
+pg_untrace -- Disable tracing of a PostgreSQL connection
 
   bool pg_untrace([resource connection])~
 

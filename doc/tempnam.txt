@@ -1,4 +1,4 @@
-*tempnam* -- Create file with unique file name
+tempnam -- Create file with unique file name
 
   string tempnam(string dir, string prefix)~
 

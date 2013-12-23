@@ -1,4 +1,4 @@
-*variant_set_type* -- Convert a variant into another type "in-place"
+variant_set_type -- Convert a variant into another type "in-place"
 
   void variant_set_type(variant variant, int type)~
 

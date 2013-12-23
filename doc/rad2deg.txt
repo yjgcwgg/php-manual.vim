@@ -1,4 +1,4 @@
-*rad2deg* -- Converts the radian number to the equivalent number in degrees
+rad2deg -- Converts the radian number to the equivalent number in degrees
 
   float rad2deg(float number)~
 

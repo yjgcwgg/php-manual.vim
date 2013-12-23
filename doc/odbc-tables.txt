@@ -1,4 +1,4 @@
-*odbc_tables* -- Get the list of table names stored in a specific data source
+odbc_tables -- Get the list of table names stored in a specific data source
 
   resource odbc_tables(resource connection_id [, string qualifier [, string owner [, string name [, string types]]]])~
 

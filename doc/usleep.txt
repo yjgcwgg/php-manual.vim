@@ -1,4 +1,4 @@
-*usleep* -- Delay execution in microseconds
+usleep -- Delay execution in microseconds
 
   void usleep(int micro_seconds)~
 

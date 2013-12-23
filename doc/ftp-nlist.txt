@@ -1,4 +1,4 @@
-*ftp_nlist* -- Returns a list of files in the given directory
+ftp_nlist -- Returns a list of files in the given directory
 
   array ftp_nlist(resource ftp_stream, string directory)~
 

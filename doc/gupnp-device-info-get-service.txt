@@ -1,4 +1,4 @@
-*gupnp_device_info_get_service* -- Get the service with type
+gupnp_device_info_get_service -- Get the service with type
 
   resource gupnp_device_info_get_service(resource root_device, string type)~
 

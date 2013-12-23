@@ -1,4 +1,4 @@
-*msession_get_data* -- Get data session unstructured data
+msession_get_data -- Get data session unstructured data
 
   string msession_get_data(string session)~
 

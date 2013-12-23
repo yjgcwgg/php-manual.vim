@@ -1,4 +1,4 @@
-*get_class_methods* -- Gets the class methods' names
+get_class_methods -- Gets the class methods' names
 
   array get_class_methods(mixed class_name)~
 

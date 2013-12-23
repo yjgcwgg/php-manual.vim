@@ -1,4 +1,4 @@
-*px_create_fp* -- Create a new paradox database
+px_create_fp -- Create a new paradox database
 
   bool px_create_fp(resource pxdoc, resource file, array fielddesc)~
 

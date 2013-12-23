@@ -1,4 +1,4 @@
-*fbsql_free_result* -- Free result memory
+fbsql_free_result -- Free result memory
 
   bool fbsql_free_result(resource result)~
 

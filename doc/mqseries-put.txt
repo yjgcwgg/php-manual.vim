@@ -1,4 +1,4 @@
-*mqseries_put* -- MQSeries MQPUT
+mqseries_put -- MQSeries MQPUT
 
   void mqseries_put(resource hConn, resource hObj, array md, array pmo, string message, resource compCode, resource reason)~
 

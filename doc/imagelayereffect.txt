@@ -1,4 +1,4 @@
-*imagelayereffect* -- Set the alpha blending flag to use the bundled libgd
+imagelayereffect -- Set the alpha blending flag to use the bundled libgd
 layering effects
 
   bool imagelayereffect(resource image, int effect)~

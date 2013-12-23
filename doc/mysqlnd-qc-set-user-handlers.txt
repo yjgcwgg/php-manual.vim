@@ -1,4 +1,4 @@
-*mysqlnd_qc_set_user_handlers* -- Sets the callback functions for a user-defined
+mysqlnd_qc_set_user_handlers -- Sets the callback functions for a user-defined
 procedural storage handler
 
   bool mysqlnd_qc_set_user_handlers(string get_hash, string find_query_in_cache, string return_to_cache, string add_query_to_cache_if_not_exists, string query_is_select, string update_query_run_time_stats, string get_stats, string clear_cache)~

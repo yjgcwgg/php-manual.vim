@@ -1,4 +1,4 @@
-*cairo_pattern_get_radial_circles* -- Description
+cairo_pattern_get_radial_circles -- Description
 
   array cairo_pattern_get_radial_circles(CairoRadialGradient pattern)~
 

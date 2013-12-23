@@ -1,4 +1,4 @@
-*domxml_open_mem* -- Creates a DOM object of an XML document
+domxml_open_mem -- Creates a DOM object of an XML document
 
   DomDocument domxml_open_mem(string str [, int mode [, array error]])~
 

@@ -1,4 +1,4 @@
-*printer_delete_dc* -- Delete a device context
+printer_delete_dc -- Delete a device context
 
   bool printer_delete_dc(resource printer_handle)~
 

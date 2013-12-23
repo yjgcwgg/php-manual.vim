@@ -1,4 +1,4 @@
-*m_getheader* -- Get the name of the column in a comma-delimited response
+m_getheader -- Get the name of the column in a comma-delimited response
 
   string m_getheader(resource conn, int identifier, int column_num)~
 

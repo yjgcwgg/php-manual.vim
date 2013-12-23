@@ -1,4 +1,4 @@
-*db2_stmt_error* -- Returns a string containing the SQLSTATE returned by an SQL
+db2_stmt_error -- Returns a string containing the SQLSTATE returned by an SQL
 statement
 
   string db2_stmt_error([resource stmt])~

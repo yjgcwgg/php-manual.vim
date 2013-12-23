@@ -1,4 +1,4 @@
-*PDF_end_item* -- Close structure element or other content item
+PDF_end_item -- Close structure element or other content item
 
   bool PDF_end_item(resource pdfdoc, int id)~
 

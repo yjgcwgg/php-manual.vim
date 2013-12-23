@@ -1,4 +1,4 @@
-*ps_setdash* -- Sets appearance of a dashed line
+ps_setdash -- Sets appearance of a dashed line
 
   bool ps_setdash(resource psdoc, float on, float off)~
 

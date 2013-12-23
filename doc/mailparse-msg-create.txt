@@ -1,4 +1,4 @@
-*mailparse_msg_create* -- Create a mime mail resource
+mailparse_msg_create -- Create a mime mail resource
 
   resource mailparse_msg_create()~
 

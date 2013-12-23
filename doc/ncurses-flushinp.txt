@@ -1,4 +1,4 @@
-*ncurses_flushinp* -- Flush keyboard input buffer
+ncurses_flushinp -- Flush keyboard input buffer
 
   bool ncurses_flushinp()~
 

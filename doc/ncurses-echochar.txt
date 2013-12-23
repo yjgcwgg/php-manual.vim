@@ -1,4 +1,4 @@
-*ncurses_echochar* -- Single character output including refresh
+ncurses_echochar -- Single character output including refresh
 
   int ncurses_echochar(int character)~
 

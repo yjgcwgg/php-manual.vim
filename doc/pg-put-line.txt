@@ -1,4 +1,4 @@
-*pg_put_line* -- Send a NULL-terminated string to PostgreSQL backend
+pg_put_line -- Send a NULL-terminated string to PostgreSQL backend
 
   bool pg_put_line([resource connection, string data])~
 

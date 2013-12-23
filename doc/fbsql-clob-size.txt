@@ -1,4 +1,4 @@
-*fbsql_clob_size* -- Get the size of a CLOB
+fbsql_clob_size -- Get the size of a CLOB
 
   int fbsql_clob_size(string clob_handle [, resource link_identifier])~
 

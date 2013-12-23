@@ -1,4 +1,4 @@
-*imap_clearflag_full* -- Clears flags on messages
+imap_clearflag_full -- Clears flags on messages
 
   bool imap_clearflag_full(resource imap_stream, string sequence, string flag [, int options])~
 

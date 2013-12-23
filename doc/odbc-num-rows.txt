@@ -1,4 +1,4 @@
-*odbc_num_rows* -- Number of rows in a result
+odbc_num_rows -- Number of rows in a result
 
   int odbc_num_rows(resource result_id)~
 

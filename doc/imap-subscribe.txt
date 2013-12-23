@@ -1,4 +1,4 @@
-*imap_subscribe* -- Subscribe to a mailbox
+imap_subscribe -- Subscribe to a mailbox
 
   bool imap_subscribe(resource imap_stream, string mailbox)~
 

@@ -1,4 +1,4 @@
-*imagecreatefromgd2* -- Create a new image from GD2 file or URL
+imagecreatefromgd2 -- Create a new image from GD2 file or URL
 
   resource imagecreatefromgd2(string filename)~
 
@@ -21,7 +21,7 @@ Returns an image resource identifier on success, FALSE on errors.
   $im = imagecreatefromgd2('./test.gd2');
   
   // Apply an effect on the image, in this 
-  // case negate the image if PHP5+
+  // case negate the image if PHP 5+
   if(function_exists('imagefilter'))
   {
       imagefilter($im, IMG_FILTER_NEGATE);

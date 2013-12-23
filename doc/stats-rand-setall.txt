@@ -1,4 +1,4 @@
-*stats_rand_setall* -- Not documented
+stats_rand_setall -- Not documented
 
   void stats_rand_setall(int iseed1, int iseed2)~
 

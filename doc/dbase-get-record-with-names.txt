@@ -1,4 +1,4 @@
-*dbase_get_record_with_names* -- Gets a record from a database as an associative
+dbase_get_record_with_names -- Gets a record from a database as an associative
 array
 
   array dbase_get_record_with_names(int dbase_identifier, int record_number)~

@@ -1,4 +1,4 @@
-*gnupg_import* -- Imports a key
+gnupg_import -- Imports a key
 
   array gnupg_import(resource identifier, string keydata)~
 

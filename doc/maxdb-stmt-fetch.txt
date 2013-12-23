@@ -1,4 +1,4 @@
-*maxdb_stmt::fetch* -- Fetch results from a prepared statement into the bound
+maxdb_stmt::fetch -- Fetch results from a prepared statement into the bound
 variables
 
 Procedural style

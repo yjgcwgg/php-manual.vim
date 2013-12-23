@@ -1,4 +1,4 @@
-*checkdate* -- Validate a Gregorian date
+checkdate -- Validate a Gregorian date
 
   bool checkdate(int month, int day, int year)~
 

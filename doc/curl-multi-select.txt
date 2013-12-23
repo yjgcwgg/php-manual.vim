@@ -1,4 +1,4 @@
-*curl_multi_select* -- Wait for activity on any curl_multi connection
+curl_multi_select -- Wait for activity on any curl_multi connection
 
   int curl_multi_select(resource mh [, float timeout])~
 
@@ -8,7 +8,7 @@ Blocks until there is activity on any of the curl_multi connections.
 
 {timeout} Time, in seconds, to wait for a response.
 
-On success, returns the number of descriptors contained in, the descriptor
+On success, returns the number of descriptors contained in the descriptor
 sets. On failure, this function will return -1 on a select failure or timeout
 (from the underlying select system call).
 

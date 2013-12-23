@@ -1,4 +1,4 @@
-*hw_EditText* -- Retrieve text document
+hw_EditText -- Retrieve text document
 
   bool hw_edittext(int connection, int hw_document)~
 

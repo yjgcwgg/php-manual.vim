@@ -1,4 +1,4 @@
-*sybase_min_message_severity* -- Sets minimum message severity
+sybase_min_message_severity -- Sets minimum message severity
 
   void sybase_min_message_severity(int severity)~
 

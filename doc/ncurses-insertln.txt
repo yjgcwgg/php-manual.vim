@@ -1,4 +1,4 @@
-*ncurses_insertln* -- Insert a line, move rest of screen down
+ncurses_insertln -- Insert a line, move rest of screen down
 
   int ncurses_insertln()~
 

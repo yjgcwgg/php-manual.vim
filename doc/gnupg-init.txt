@@ -1,4 +1,4 @@
-*gnupg_init* -- Initialize a connection
+gnupg_init -- Initialize a connection
 
   resource gnupg_init()~
 

@@ -1,4 +1,4 @@
-*wincache_rplist_meminfo* -- Retrieves information about memory usage by the
+wincache_rplist_meminfo -- Retrieves information about memory usage by the
 resolve file path cache
 
   array wincache_rplist_meminfo()~

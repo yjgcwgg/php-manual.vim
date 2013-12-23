@@ -1,4 +1,4 @@
-*rpm_is_valid* -- Tests a filename for validity as an RPM file
+rpm_is_valid -- Tests a filename for validity as an RPM file
 
   bool rpm_is_valid(string filename)~
 

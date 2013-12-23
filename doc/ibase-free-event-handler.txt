@@ -1,4 +1,4 @@
-*ibase_free_event_handler* -- Cancels a registered event handler
+ibase_free_event_handler -- Cancels a registered event handler
 
   bool ibase_free_event_handler(resource event)~
 

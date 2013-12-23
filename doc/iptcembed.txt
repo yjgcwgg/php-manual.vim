@@ -1,4 +1,4 @@
-*iptcembed* -- Embeds binary IPTC data into a JPEG image
+iptcembed -- Embeds binary IPTC data into a JPEG image
 
   mixed iptcembed(string iptcdata, string jpeg_file_name [, int spool])~
 

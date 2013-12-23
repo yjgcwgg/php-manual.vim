@@ -1,4 +1,4 @@
-*zip_entry_filesize* -- Retrieve the actual file size of a directory entry
+zip_entry_filesize -- Retrieve the actual file size of a directory entry
 
   int zip_entry_filesize(resource zip_entry)~
 

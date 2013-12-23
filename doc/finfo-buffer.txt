@@ -1,4 +1,4 @@
-*finfo_buffer* -- Return information about a string buffer
+finfo::buffer -- Return information about a string buffer
 
 Procedural style
 
@@ -6,7 +6,7 @@ Procedural style
 
 Object oriented style
 
-  string buffer(resource finfo, string string [, int options [, resource context, string string [, int options [, resource context]]]])~
+  string finfo::buffer(resource finfo, string string [, int options [, resource context, string string [, int options [, resource context]]]])~
 
 This function is used to get information about binary data in a string.
 

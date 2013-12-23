@@ -1,4 +1,4 @@
-*vpopmail_add_domain_ex* -- Add a new virtual domain
+vpopmail_add_domain_ex -- Add a new virtual domain
 
   bool vpopmail_add_domain_ex(string domain, string passwd [, string quota [, string bounce [, bool apop]]])~
 

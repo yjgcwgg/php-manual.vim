@@ -1,4 +1,4 @@
-*db2_procedure_columns* -- Returns a result set listing stored procedure
+db2_procedure_columns -- Returns a result set listing stored procedure
 parameters
 
   resource db2_procedure_columns(resource connection, string qualifier, string schema, string procedure, string parameter)~

@@ -1,4 +1,4 @@
-*fam_next_event* -- Get next pending FAM event
+fam_next_event -- Get next pending FAM event
 
   array fam_next_event(resource fam)~
 

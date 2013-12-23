@@ -1,6 +1,6 @@
-*isset* -- Determine if a variable is set and is not NULL
+isset -- Determine if a variable is set and is not NULL
 
-  bool isset(mixed var [, mixed var [, mixed ...]])~
+  bool isset(mixed var [, mixed ...])~
 
 Determine if a variable is set and is not NULL.
 
@@ -14,11 +14,12 @@ soon as an unset variable is encountered.
 
 {var} The variable to be checked.
 
-{var} Another variable ..
-
-{...}
+{...} Another variable ...
 
 Returns TRUE if {var} exists and has value other than NULL, FALSE otherwise.
+
+Version Description 5.4.0 Checking non-numeric offsets of strings now returns
+FALSE.
 
 |isset| Examples
 
@@ -55,7 +56,7 @@ Returns TRUE if {var} exists and has value other than NULL, FALSE otherwise.
 This also work for elements in arrays:
 
 <?php >
-  $a = array ('test' => 1, 'hello' => NULL);
+  $a = array ('test' => 1, 'hello' => NULL, 'pie' => array('a' => 'apple'));
   
   var_dump(isset($a['test']));            // TRUE
   var_dump(isset($a['foo']));             // FALSE
@@ -64,18 +65,54 @@ This also work for elements in arrays:
   // The key 'hello' equals NULL so is considered unset
   // If you want to check for NULL key values then try: 
   var_dump(array_key_exists('hello', $a)); // TRUE
+  
+  // Checking deeper array values
+  var_dump(isset($a['pie']['a']));        // TRUE
+  var_dump(isset($a['pie']['b']));        // FALSE
+  var_dump(isset($a['cake']['a']['b']));  // FALSE
 ?>
+
+|isset| on String Offsets PHP 5.4 changes how |isset| behaves when passed
+string offsets.
+
+<?php >
+  $expected_array_got_string = 'somestring';
+  var_dump(isset($expected_array_got_string['some_key']));
+  var_dump(isset($expected_array_got_string[0]));
+  var_dump(isset($expected_array_got_string['0']));
+  var_dump(isset($expected_array_got_string[0.5]));
+  var_dump(isset($expected_array_got_string['0.5']));
+  var_dump(isset($expected_array_got_string['0 Mostel']));
+?>
+
+Output of the above example in PHP 5.3:
+
+  bool(true)
+  bool(true)
+  bool(true)
+  bool(true)
+  bool(true)
+  bool(true)
+
+Output of the above example in PHP 5.4:
+
+  bool(false)
+  bool(true)
+  bool(true)
+  bool(true)
+  bool(false)
+  bool(false)
 
 |isset| only works with variables as passing anything else will result in a
 parse error. For checking if constants are set use the |defined| function.
 
 Because this is a language construct and not a function, it cannot be called
-using variable functions
+using variable functions.
 
-When using |isset| on inaccessible object properties, the __isset overloading
-method will be called, if declared.
+When using |isset| on inaccessible object properties, the __isset()
+overloading method will be called, if declared.
 
-|empty| __isset |unset| |defined| the type comparison tables
+|empty| __isset() |unset| |defined| the type comparison tables
 |array_key_exists| |is_null| the error control @ operator
 
 vim:ft=help:

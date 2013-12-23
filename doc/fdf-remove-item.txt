@@ -1,4 +1,4 @@
-*fdf_remove_item* -- Sets target frame for form
+fdf_remove_item -- Sets target frame for form
 
   bool fdf_remove_item(resource fdf_document, string fieldname, int item)~
 

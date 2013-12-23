@@ -1,4 +1,4 @@
-*radius_demangle_mppe_key* -- Derives mppe-keys from mangled data
+radius_demangle_mppe_key -- Derives mppe-keys from mangled data
 
   string radius_demangle_mppe_key(resource radius_handle, string mangled)~
 

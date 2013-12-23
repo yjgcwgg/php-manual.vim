@@ -1,4 +1,4 @@
-*pg_last_notice* -- Returns the last notice message from PostgreSQL server
+pg_last_notice -- Returns the last notice message from PostgreSQL server
 
   string pg_last_notice(resource connection)~
 

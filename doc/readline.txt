@@ -1,4 +1,4 @@
-*readline* -- Reads a line
+readline -- Reads a line
 
   string readline([string prompt])~
 

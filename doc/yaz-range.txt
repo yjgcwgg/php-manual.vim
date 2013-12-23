@@ -1,4 +1,4 @@
-*yaz_range* -- Specifies a range of records to retrieve
+yaz_range -- Specifies a range of records to retrieve
 
   void yaz_range(resource id, int start, int number)~
 

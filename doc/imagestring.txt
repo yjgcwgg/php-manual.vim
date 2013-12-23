@@ -1,4 +1,4 @@
-*imagestring* -- Draw a string horizontally
+imagestring -- Draw a string horizontally
 
   bool imagestring(resource image, int font, int x, int y, string string, int color)~
 

@@ -1,4 +1,4 @@
-*ncurses_nocbreak* -- Switch terminal to cooked mode
+ncurses_nocbreak -- Switch terminal to cooked mode
 
   bool ncurses_nocbreak()~
 

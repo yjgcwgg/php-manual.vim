@@ -1,4 +1,4 @@
-*headers_list* -- Returns a list of response headers sent (or ready to send)
+headers_list -- Returns a list of response headers sent (or ready to send)
 
   array headers_list()~
 
@@ -40,6 +40,10 @@ The above example will output:
 
 
 
+Headers will only be accessible and output when a SAPI that supports them is
+in use.
+
 |headers_sent| |header| |setcookie| |apache_response_headers|
+|http_response_code|
 
 vim:ft=help:

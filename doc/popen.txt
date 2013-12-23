@@ -1,4 +1,4 @@
-*popen* -- Opens process file pointer
+popen -- Opens process file pointer
 
   resource popen(string command, string mode)~
 

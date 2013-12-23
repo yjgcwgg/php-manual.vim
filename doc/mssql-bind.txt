@@ -1,4 +1,4 @@
-*mssql_bind* -- Adds a parameter to a stored procedure or a remote stored
+mssql_bind -- Adds a parameter to a stored procedure or a remote stored
 procedure
 
   bool mssql_bind(resource stmt, string param_name, mixed var, int type [, bool is_output [, bool is_null [, int maxlen]]])~

@@ -1,4 +1,4 @@
-*cairo_ps_surface_set_eps* -- Description
+cairo_ps_surface_set_eps -- Description
 
   void cairo_ps_surface_set_eps(CairoPsSurface surface, bool level)~
 

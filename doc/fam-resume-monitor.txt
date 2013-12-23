@@ -1,4 +1,4 @@
-*fam_resume_monitor* -- Resume suspended monitoring
+fam_resume_monitor -- Resume suspended monitoring
 
   bool fam_resume_monitor(resource fam, resource fam_monitor)~
 

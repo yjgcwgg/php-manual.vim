@@ -1,4 +1,4 @@
-*dba_sync* -- Synchronize database
+dba_sync -- Synchronize database
 
   bool dba_sync(resource handle)~
 

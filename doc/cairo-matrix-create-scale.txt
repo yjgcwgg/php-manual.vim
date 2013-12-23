@@ -1,4 +1,4 @@
-*cairo_matrix_create_scale* -- Alias of CairoMatrix::initScale
+cairo_matrix_create_scale -- Alias of CairoMatrix::initScale
 
 This function is an alias of: CairoMatrix::initScale.
 

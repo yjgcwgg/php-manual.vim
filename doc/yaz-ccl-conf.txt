@@ -1,4 +1,4 @@
-*yaz_ccl_conf* -- Configure CCL parser
+yaz_ccl_conf -- Configure CCL parser
 
   void yaz_ccl_conf(resource id, array config)~
 

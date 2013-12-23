@@ -1,4 +1,4 @@
-*session_module_name* -- Get and/or set the current session module
+session_module_name -- Get and/or set the current session module
 
   string session_module_name([string module])~
 

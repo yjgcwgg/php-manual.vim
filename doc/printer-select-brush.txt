@@ -1,4 +1,4 @@
-*printer_select_brush* -- Select a brush
+printer_select_brush -- Select a brush
 
   void printer_select_brush(resource printer_handle, resource brush_handle)~
 

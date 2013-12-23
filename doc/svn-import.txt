@@ -1,4 +1,4 @@
-*svn_import* -- Imports an unversioned path into a repository
+svn_import -- Imports an unversioned path into a repository
 
   bool svn_import(string path, string url, bool nonrecursive)~
 

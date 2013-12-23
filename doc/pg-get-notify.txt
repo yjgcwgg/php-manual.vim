@@ -1,4 +1,4 @@
-*pg_get_notify* -- Gets SQL NOTIFY message
+pg_get_notify -- Gets SQL NOTIFY message
 
   array pg_get_notify(resource connection [, int result_type])~
 
@@ -22,7 +22,7 @@ PostgreSQL NOTIFY message
 <?php >
   $conn = pg_pconnect("dbname=publisher");
   if (!$conn) {
-    echo "An error occured.\n";
+    echo "An error occurred.\n";
     exit;
   }
   

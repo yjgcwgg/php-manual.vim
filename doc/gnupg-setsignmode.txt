@@ -1,4 +1,4 @@
-*gnupg_setsignmode* -- Sets the mode for signing
+gnupg_setsignmode -- Sets the mode for signing
 
   bool gnupg_setsignmode(resource identifier, int signmode)~
 

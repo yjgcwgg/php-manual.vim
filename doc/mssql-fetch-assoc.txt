@@ -1,4 +1,4 @@
-*mssql_fetch_assoc* -- Returns an associative array of the current row in the
+mssql_fetch_assoc -- Returns an associative array of the current row in the
 result
 
   array mssql_fetch_assoc(resource result_id)~

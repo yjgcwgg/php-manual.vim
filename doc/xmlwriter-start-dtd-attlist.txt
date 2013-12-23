@@ -1,8 +1,8 @@
-*XMLWriter::startDTDAttlist* -- Create start DTD AttList
+xmlwriter_start_dtd_attlist -- Create start DTD AttList
 
 Object oriented style
 
-  bool startDTDAttlist(string name)~
+  bool XMLWriter::startDTDAttlist(string name)~
 
 Procedural style
 

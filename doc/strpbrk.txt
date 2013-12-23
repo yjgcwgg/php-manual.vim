@@ -1,4 +1,4 @@
-*strpbrk* -- Search a string for any of a set of characters
+strpbrk -- Search a string for any of a set of characters
 
   string strpbrk(string haystack, string char_list)~
 
@@ -26,5 +26,7 @@ found.
 
 
 
+
+|strpos| |strstr| |preg_match|
 
 vim:ft=help:

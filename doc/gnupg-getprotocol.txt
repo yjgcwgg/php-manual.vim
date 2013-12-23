@@ -1,4 +1,4 @@
-*gnupg_getprotocol* -- Returns the currently active protocol for all operations
+gnupg_getprotocol -- Returns the currently active protocol for all operations
 
   int gnupg_getprotocol(resource identifier)~
 

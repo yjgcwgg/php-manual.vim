@@ -1,4 +1,4 @@
-*maxdb::ssl_set* -- Used for establishing secure connections using SSL
+maxdb::ssl_set -- Used for establishing secure connections using SSL
 
 Procedural style
 

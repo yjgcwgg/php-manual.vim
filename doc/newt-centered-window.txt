@@ -1,4 +1,4 @@
-*newt_centered_window* -- Open a centered window of the specified size
+newt_centered_window -- Open a centered window of the specified size
 
   int newt_centered_window(int width, int height [, string title])~
 

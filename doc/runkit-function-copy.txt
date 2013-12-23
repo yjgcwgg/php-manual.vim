@@ -1,4 +1,4 @@
-*runkit_function_copy* -- Copy a function to a new function name
+runkit_function_copy -- Copy a function to a new function name
 
   bool runkit_function_copy(string funcname, string targetname)~
 

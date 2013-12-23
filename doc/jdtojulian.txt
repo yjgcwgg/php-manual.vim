@@ -1,4 +1,4 @@
-*JDToJulian* -- Converts a Julian Day Count to a Julian Calendar Date
+JDToJulian -- Converts a Julian Day Count to a Julian Calendar Date
 
   string jdtojulian(int julianday)~
 

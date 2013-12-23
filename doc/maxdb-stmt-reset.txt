@@ -1,4 +1,4 @@
-*maxdb_stmt::reset* -- Resets a prepared statement
+maxdb_stmt::reset -- Resets a prepared statement
 
 Procedural style
 

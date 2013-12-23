@@ -1,4 +1,4 @@
-*ps_makespotcolor* -- Create spot color
+ps_makespotcolor -- Create spot color
 
   int ps_makespotcolor(resource psdoc, string name [, int reserved])~
 

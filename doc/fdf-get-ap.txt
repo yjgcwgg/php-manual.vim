@@ -1,4 +1,4 @@
-*fdf_get_ap* -- Get the appearance of a field
+fdf_get_ap -- Get the appearance of a field
 
   bool fdf_get_ap(resource fdf_document, string field, int face, string filename)~
 

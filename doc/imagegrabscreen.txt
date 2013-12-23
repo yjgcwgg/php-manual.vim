@@ -1,4 +1,4 @@
-*imagegrabscreen* -- Captures the whole screen
+imagegrabscreen -- Captures the whole screen
 
   resource imagegrabscreen()~
 

@@ -1,4 +1,4 @@
-*newt_init* -- Initialize newt
+newt_init -- Initialize newt
 
   int newt_init()~
 

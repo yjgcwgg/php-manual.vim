@@ -1,4 +1,4 @@
-*pg_set_error_verbosity* -- Determines the verbosity of messages returned by
+pg_set_error_verbosity -- Determines the verbosity of messages returned by
 pg_last_error and pg_result_error.
 
   int pg_set_error_verbosity([resource connection, int verbosity])~

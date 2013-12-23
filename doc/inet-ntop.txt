@@ -1,4 +1,4 @@
-*inet_ntop* -- Converts a packed internet address to a human readable
+inet_ntop -- Converts a packed internet address to a human readable
 representation
 
   string inet_ntop(string in_addr)~

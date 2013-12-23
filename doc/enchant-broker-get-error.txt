@@ -1,4 +1,4 @@
-*enchant_broker_get_error* -- Returns the last error of the broker
+enchant_broker_get_error -- Returns the last error of the broker
 
   string enchant_broker_get_error(resource broker)~
 

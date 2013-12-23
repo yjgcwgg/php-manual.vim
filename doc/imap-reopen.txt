@@ -1,4 +1,4 @@
-*imap_reopen* -- Reopen IMAP stream to new mailbox
+imap_reopen -- Reopen IMAP stream to new mailbox
 
   bool imap_reopen(resource imap_stream, string mailbox [, int options [, int n_retries]])~
 

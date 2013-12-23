@@ -1,4 +1,4 @@
-*session_cache_limiter* -- Get and/or set the current cache limiter
+session_cache_limiter -- Get and/or set the current cache limiter
 
   string session_cache_limiter([string cache_limiter])~
 
@@ -15,6 +15,9 @@ In private mode, the Expire header sent to the client may cause confusion for
 some browsers, including Mozilla. You can avoid this problem by using
 private_no_expire mode. The Expire header is never sent to the client in this
 mode.
+
+Setting the cache limiter to '' will turn off automatic sending of cache
+headers entirely.
 
 The cache limiter is reset to the default value stored in
 session.cache_limiter at request startup time. Thus, you need to call

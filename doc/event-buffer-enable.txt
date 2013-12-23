@@ -1,4 +1,4 @@
-*event_buffer_enable* -- Enable a buffered event
+event_buffer_enable -- Enable a buffered event
 
   bool event_buffer_enable(resource bevent, int events)~
 

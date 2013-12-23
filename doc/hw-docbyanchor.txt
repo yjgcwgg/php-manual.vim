@@ -1,4 +1,4 @@
-*hw_DocByAnchor* -- Object id object belonging to anchor
+hw_DocByAnchor -- Object id object belonging to anchor
 
   int hw_docbyanchor(int connection, int anchorID)~
 

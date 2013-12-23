@@ -1,4 +1,4 @@
-*maxdb_stmt->errno* -- Returns the error code for the most recent statement call
+maxdb_stmt::errno -- Returns the error code for the most recent statement call
 
 Procedural style
 

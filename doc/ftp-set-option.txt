@@ -1,4 +1,4 @@
-*ftp_set_option* -- Set miscellaneous runtime FTP options
+ftp_set_option -- Set miscellaneous runtime FTP options
 
   bool ftp_set_option(resource ftp_stream, int option, mixed value)~
 

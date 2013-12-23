@@ -1,4 +1,4 @@
-*ldap_err2str* -- Convert LDAP error number into string error message
+ldap_err2str -- Convert LDAP error number into string error message
 
   string ldap_err2str(int errno)~
 

@@ -1,4 +1,4 @@
-*fbsql_rollback* -- Rollback a transaction to the database
+fbsql_rollback -- Rollback a transaction to the database
 
   bool fbsql_rollback([resource link_identifier])~
 

@@ -1,4 +1,4 @@
-*ip2long* -- Converts a string containing an (IPv4) Internet Protocol dotted
+ip2long -- Converts a string containing an (IPv4) Internet Protocol dotted
 address into a proper address
 
   int ip2long(string ip_address)~
@@ -46,19 +46,6 @@ address with the |printf| function in both PHP 4 and PHP 5:
       echo $long . "\n";           // -1073732954
       printf("%u\n", ip2long($ip)); // 3221234342
   }
-?>
-
-
-
-IP validation |ip2long| should not be used as the sole form of IP validation.
-Combine it with |long2ip|:
-
-<?php >
-  // make sure IPs are valid. also converts a non-complete IP into
-  // a proper dotted quad as explained below.
-  $ip = long2ip(ip2long("127.0.0.1")); // "127.0.0.1"
-  $ip = long2ip(ip2long("10.0.0")); // "10.0.0.0"
-  $ip = long2ip(ip2long("10.0.256")); // "10.0.1.0"
 ?>
 
 

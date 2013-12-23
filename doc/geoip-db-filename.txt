@@ -1,4 +1,4 @@
-*geoip_db_filename* -- Returns the filename of the corresponding GeoIP Database
+geoip_db_filename -- Returns the filename of the corresponding GeoIP Database
 
   string geoip_db_filename(int database)~
 

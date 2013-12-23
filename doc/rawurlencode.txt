@@ -1,4 +1,4 @@
-*rawurlencode* -- URL-encode according to RFC 3986
+rawurlencode -- URL-encode according to RFC 3986
 
   string rawurlencode(string str)~
 

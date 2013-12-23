@@ -1,4 +1,4 @@
-*stream_socket_server* -- Create an Internet or Unix domain server socket
+stream_socket_server -- Create an Internet or Unix domain server socket
 
   resource stream_socket_server(string local_socket [, int errno [, string errstr [, int flags [, resource context]]]])~
 

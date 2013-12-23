@@ -1,4 +1,4 @@
-*odbc_exec* -- Prepare and execute an SQL statement
+odbc_exec -- Prepare and execute an SQL statement
 
   resource odbc_exec(resource connection_id, string query_string [, int flags])~
 

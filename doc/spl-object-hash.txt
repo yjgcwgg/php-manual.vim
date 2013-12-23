@@ -1,4 +1,4 @@
-*spl_object_hash* -- Return hash id for given object
+spl_object_hash -- Return hash id for given object
 
   string spl_object_hash(object obj)~
 

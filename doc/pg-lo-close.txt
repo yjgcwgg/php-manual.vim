@@ -1,4 +1,4 @@
-*pg_lo_close* -- Close a large object
+pg_lo_close -- Close a large object
 
   bool pg_lo_close(resource large_object)~
 

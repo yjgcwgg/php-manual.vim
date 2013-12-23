@@ -1,4 +1,4 @@
-*apache_reset_timeout* -- Reset the Apache write timer
+apache_reset_timeout -- Reset the Apache write timer
 
   bool apache_reset_timeout()~
 

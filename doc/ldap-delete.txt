@@ -1,4 +1,4 @@
-*ldap_delete* -- Delete an entry from a directory
+ldap_delete -- Delete an entry from a directory
 
   bool ldap_delete(resource link_identifier, string dn)~
 

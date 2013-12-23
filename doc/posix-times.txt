@@ -1,4 +1,4 @@
-*posix_times* -- Get process times
+posix_times -- Get process times
 
   array posix_times()~
 

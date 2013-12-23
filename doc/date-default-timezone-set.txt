@@ -1,4 +1,4 @@
-*date_default_timezone_set* -- Sets the default timezone used by all date/time
+date_default_timezone_set -- Sets the default timezone used by all date/time
 functions in a script
 
   bool date_default_timezone_set(string timezone_identifier)~
@@ -38,7 +38,7 @@ Getting the default timezone
 
 
 
-Version Description 5.3.0 Now throws E_WARNING rather then E_STRICT. 5.1.2 The
+Version Description 5.3.0 Now throws E_WARNING rather than E_STRICT. 5.1.2 The
 function started to validate the {timezone_identifier} parameter.
 
 |date_default_timezone_get|

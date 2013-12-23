@@ -1,4 +1,4 @@
-*dba_popen* -- Open database persistently
+dba_popen -- Open database persistently
 
   resource dba_popen(string path, string mode [, string handler [, mixed ...]])~
 

@@ -1,4 +1,4 @@
-*ssh2_sftp_mkdir* -- Create a directory
+ssh2_sftp_mkdir -- Create a directory
 
   bool ssh2_sftp_mkdir(resource sftp, string dirname [, int mode [, bool recursive]])~
 

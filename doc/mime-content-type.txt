@@ -1,4 +1,4 @@
-*mime_content_type* -- Detect MIME Content-type for a file (deprecated)
+mime_content_type -- Detect MIME Content-type for a file (deprecated)
 
   string mime_content_type(string filename)~
 

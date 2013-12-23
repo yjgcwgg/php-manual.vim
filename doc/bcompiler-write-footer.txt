@@ -1,4 +1,4 @@
-*bcompiler_write_footer* -- Writes the single character \x00 to indicate End of
+bcompiler_write_footer -- Writes the single character \x00 to indicate End of
 compiled data
 
   bool bcompiler_write_footer(resource filehandle)~

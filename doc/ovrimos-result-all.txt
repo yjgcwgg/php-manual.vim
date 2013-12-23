@@ -1,4 +1,4 @@
-*ovrimos_result_all* -- Prints the whole result set as an HTML table
+ovrimos_result_all -- Prints the whole result set as an HTML table
 
   int ovrimos_result_all(int result_id [, string format])~
 

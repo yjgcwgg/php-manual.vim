@@ -1,4 +1,4 @@
-*PDF_lineto* -- Draw a line
+PDF_lineto -- Draw a line
 
   bool PDF_lineto(resource p, float x, float y)~
 

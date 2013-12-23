@@ -1,4 +1,4 @@
-*sql_regcase* -- Make regular expression for case insensitive match
+sql_regcase -- Make regular expression for case insensitive match
 
   string sql_regcase(string string)~
 

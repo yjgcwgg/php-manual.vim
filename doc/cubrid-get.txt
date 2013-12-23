@@ -1,4 +1,4 @@
-*cubrid_get* -- Get a column using OID
+cubrid_get -- Get a column using OID
 
   mixed cubrid_get(resource conn_identifier, string oid [, mixed attr])~
 

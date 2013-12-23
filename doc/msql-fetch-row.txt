@@ -1,4 +1,4 @@
-*msql_fetch_row* -- Get row as enumerated array
+msql_fetch_row -- Get row as enumerated array
 
   array msql_fetch_row(resource result)~
 

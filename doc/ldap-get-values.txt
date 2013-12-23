@@ -1,4 +1,4 @@
-*ldap_get_values* -- Get all values from a result entry
+ldap_get_values -- Get all values from a result entry
 
   array ldap_get_values(resource link_identifier, resource result_entry_identifier, string attribute)~
 

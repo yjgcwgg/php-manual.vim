@@ -1,4 +1,4 @@
-*dngettext* -- Plural version of dgettext
+dngettext -- Plural version of dgettext
 
   string dngettext(string domain, string msgid1, string msgid2, int n)~
 

@@ -1,4 +1,4 @@
-*sem_release* -- Release a semaphore
+sem_release -- Release a semaphore
 
   bool sem_release(resource sem_identifier)~
 

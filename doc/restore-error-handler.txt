@@ -1,4 +1,4 @@
-*restore_error_handler* -- Restores the previous error handler function
+restore_error_handler -- Restores the previous error handler function
 
   bool restore_error_handler()~
 
@@ -28,8 +28,6 @@ The above example will output:
   Invalid serialized value.
 
 
-
-Calling |restore_error_handler| from the error_handler function is ignored.
 
 |error_reporting| |set_error_handler| |restore_exception_handler|
 |trigger_error|

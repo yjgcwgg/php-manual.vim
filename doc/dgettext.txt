@@ -1,4 +1,4 @@
-*dgettext* -- Override the current domain
+dgettext -- Override the current domain
 
   string dgettext(string domain, string message)~
 

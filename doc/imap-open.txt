@@ -1,4 +1,4 @@
-*imap_open* -- Open an IMAP stream to a mailbox
+imap_open -- Open an IMAP stream to a mailbox
 
   resource imap_open(string mailbox, string username, string password [, int options [, int n_retries [, array params]]])~
 

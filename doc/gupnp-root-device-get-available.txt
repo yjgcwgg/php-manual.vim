@@ -1,4 +1,4 @@
-*gupnp_root_device_get_available* -- Check whether root device is available
+gupnp_root_device_get_available -- Check whether root device is available
 
   bool gupnp_root_device_get_available(resource root_device)~
 

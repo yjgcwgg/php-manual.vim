@@ -1,4 +1,4 @@
-*gzpassthru* -- Output all remaining data on a gz-file pointer
+gzpassthru -- Output all remaining data on a gz-file pointer
 
   int gzpassthru(resource zp)~
 

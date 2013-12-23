@@ -1,4 +1,4 @@
-*ncurses_newwin* -- Create a new window
+ncurses_newwin -- Create a new window
 
   resource ncurses_newwin(int rows, int cols, int y, int x)~
 

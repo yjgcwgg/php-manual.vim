@@ -1,4 +1,4 @@
-*apc_sma_info* -- Retrieves APC's Shared Memory Allocation information
+apc_sma_info -- Retrieves APC's Shared Memory Allocation information
 
   array apc_sma_info([bool limited])~
 

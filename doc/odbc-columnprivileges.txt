@@ -1,4 +1,4 @@
-*odbc_columnprivileges* -- Lists columns and associated privileges for the given
+odbc_columnprivileges -- Lists columns and associated privileges for the given
 table
 
   resource odbc_columnprivileges(resource connection_id, string qualifier, string owner, string table_name, string column_name)~

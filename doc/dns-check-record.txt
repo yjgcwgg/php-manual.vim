@@ -1,4 +1,4 @@
-*dns_check_record* -- Alias of checkdnsrr
+dns_check_record -- Alias of checkdnsrr
 
 This function is an alias of: |checkdnsrr|.
 

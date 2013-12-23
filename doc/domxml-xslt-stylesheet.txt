@@ -1,4 +1,4 @@
-*domxml_xslt_stylesheet* -- Creates a DomXsltStylesheet object from an XSL
+domxml_xslt_stylesheet -- Creates a DomXsltStylesheet object from an XSL
 document in a string
 
   DomXsltStylesheet domxml_xslt_stylesheet(string xsl_buf)~

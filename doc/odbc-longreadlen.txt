@@ -1,4 +1,4 @@
-*odbc_longreadlen* -- Handling of LONG columns
+odbc_longreadlen -- Handling of LONG columns
 
   bool odbc_longreadlen(resource result_id, int length)~
 

@@ -1,11 +1,11 @@
-*ssh2_sftp_lstat* -- Stat a symbolic link
+ssh2_sftp_lstat -- Stat a symbolic link
 
   array ssh2_sftp_lstat(resource sftp, string path)~
 
 Stats a symbolic link on the remote filesystem without following the link.
 
 This function is similar to using the |lstat| function with the ssh2.sftp://
-wrapper in PHP5 and returns the same values.
+wrapper in PHP 5 and returns the same values.
 
 {sftp}
 

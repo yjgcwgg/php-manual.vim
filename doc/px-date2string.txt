@@ -1,4 +1,4 @@
-*px_date2string* -- Converts a date into a string.
+px_date2string -- Converts a date into a string.
 
   string px_date2string(resource pxdoc, int value, string format)~
 

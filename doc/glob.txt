@@ -1,4 +1,4 @@
-*glob* -- Find pathnames matching a pattern
+glob -- Find pathnames matching a pattern
 
   array glob(string pattern [, int flags])~
 

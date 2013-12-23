@@ -1,4 +1,4 @@
-*cubrid_col_size* -- Get the number of elements in collection type column using
+cubrid_col_size -- Get the number of elements in collection type column using
 OID
 
   int cubrid_col_size(resource conn_identifier, string oid, string attr_name)~
@@ -22,7 +22,7 @@ return false, not -1.
 |cubrid_col_size| example
 
 <?php >
-  $conn = cubrid_connect("localhost", 33000, "demodb");
+  $conn = cubrid_connect("localhost", 33000, "demodb", "dba");
   
   @cubrid_execute($conn, "DROP TABLE foo");
   cubrid_execute($conn, "CREATE TABLE foo(a int AUTO_INCREMENT, b set(int), c list(int), d char(10))");

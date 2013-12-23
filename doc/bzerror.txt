@@ -1,4 +1,4 @@
-*bzerror* -- Returns the bzip2 error number and error string in an array
+bzerror -- Returns the bzip2 error number and error string in an array
 
   array bzerror(resource bz)~
 

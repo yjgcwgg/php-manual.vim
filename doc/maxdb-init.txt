@@ -1,4 +1,4 @@
-*maxdb_init* -- Initializes MaxDB and returns an resource for use with
+maxdb_init -- Initializes MaxDB and returns an resource for use with
 maxdb_real_connect
 
   resource maxdb_init()~

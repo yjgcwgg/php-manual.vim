@@ -1,13 +1,13 @@
-*array_diff_ukey* -- Computes the difference of arrays using a callback function
+array_diff_ukey -- Computes the difference of arrays using a callback function
 on the keys for comparison
 
-  array array_diff_ukey(array array1, array array2 [, array ..., callback key_compare_func])~
+  array array_diff_ukey(array array1, array array2 [, array ..., callable key_compare_func])~
 
 Compares the keys from {array1} against the keys from {array2} and returns the
 difference. This function is like |array_diff| except the comparison is done
 on the keys instead of the values.
 
-Unlike |array_diff_key| an user supplied callback function is used for the
+Unlike |array_diff_key| a user supplied callback function is used for the
 indices comparison, not internal function.
 
 {array1} The array to compare from
@@ -16,9 +16,11 @@ indices comparison, not internal function.
 
 {...} More arrays to compare against
 
-{key_compare_func} callback function to use. The callback function must return
-an integer less than, equal to, or greater than zero if the first argument is
-considered to be respectively less than, equal to, or greater than the second.
+{key_compare_func} The comparison function must return an integer less than,
+equal to, or greater than zero if the first argument is considered to be
+respectively less than, equal to, or greater than the second.
+
+  int (array array1, array array2 [, array ..., callable key_compare_func, mixed a, mixed b])~
 
 Returns an array containing all the entries from {array1} that are not present
 in any of the other arrays.

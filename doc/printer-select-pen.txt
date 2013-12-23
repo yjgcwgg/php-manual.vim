@@ -1,4 +1,4 @@
-*printer_select_pen* -- Select a pen
+printer_select_pen -- Select a pen
 
   void printer_select_pen(resource printer_handle, resource pen_handle)~
 

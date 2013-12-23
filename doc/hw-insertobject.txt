@@ -1,4 +1,4 @@
-*hw_InsertObject* -- Inserts an object record
+hw_InsertObject -- Inserts an object record
 
   int hw_insertobject(int connection, string object_rec, string parameter)~
 

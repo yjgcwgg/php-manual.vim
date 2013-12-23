@@ -1,4 +1,4 @@
-*stream_context_get_options* -- Retrieve options for a stream/wrapper/context
+stream_context_get_options -- Retrieve options for a stream/wrapper/context
 
   array stream_context_get_options(resource stream_or_context)~
 

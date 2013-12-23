@@ -1,4 +1,4 @@
-*w32api_deftype* -- Defines a type for use with other w32api_functions
+w32api_deftype -- Defines a type for use with other w32api_functions
 
   bool w32api_deftype(string typename, string member1_type, string member1_name [, string ... [, string ...]])~
 

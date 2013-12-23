@@ -1,4 +1,4 @@
-*maxdb_stmt_sqlstate* -- Returns SQLSTATE error from previous statement
+maxdb_stmt_sqlstate -- Returns SQLSTATE error from previous statement
 operation
 
   string maxdb_stmt_sqlstate(resource stmt)~

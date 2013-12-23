@@ -1,4 +1,4 @@
-*ps_rect* -- Draws a rectangle
+ps_rect -- Draws a rectangle
 
   bool ps_rect(resource psdoc, float x, float y, float width, float height)~
 

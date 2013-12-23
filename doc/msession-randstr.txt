@@ -1,4 +1,4 @@
-*msession_randstr* -- Get random string
+msession_randstr -- Get random string
 
   string msession_randstr(int param)~
 

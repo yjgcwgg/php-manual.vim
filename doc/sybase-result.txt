@@ -1,4 +1,4 @@
-*sybase_result* -- Get result data
+sybase_result -- Get result data
 
   string sybase_result(resource result, int row, mixed field)~
 

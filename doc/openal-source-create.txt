@@ -1,4 +1,4 @@
-*openal_source_create* -- Generate a source resource
+openal_source_create -- Generate a source resource
 
   resource openal_source_create()~
 

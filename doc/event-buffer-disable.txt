@@ -1,4 +1,4 @@
-*event_buffer_disable* -- Disable a buffered event
+event_buffer_disable -- Disable a buffered event
 
   bool event_buffer_disable(resource bevent, int events)~
 

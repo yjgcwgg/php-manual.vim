@@ -1,4 +1,4 @@
-*xslt_create* -- Create a new XSLT processor
+xslt_create -- Create a new XSLT processor
 
   resource xslt_create()~
 

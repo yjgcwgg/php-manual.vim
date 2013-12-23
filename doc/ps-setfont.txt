@@ -1,4 +1,4 @@
-*ps_setfont* -- Sets font to use for following output
+ps_setfont -- Sets font to use for following output
 
   bool ps_setfont(resource psdoc, int fontid, float size)~
 

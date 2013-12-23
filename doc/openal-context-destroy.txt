@@ -1,4 +1,4 @@
-*openal_context_destroy* -- Destroys a context
+openal_context_destroy -- Destroys a context
 
   bool openal_context_destroy(resource context)~
 

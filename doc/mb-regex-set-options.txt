@@ -1,4 +1,4 @@
-*mb_regex_set_options* -- Set/Get the default options for mbregex functions
+mb_regex_set_options -- Set/Get the default options for mbregex functions
 
   string mb_regex_set_options([string options])~
 

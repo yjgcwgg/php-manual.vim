@@ -1,4 +1,4 @@
-*db2_close* -- Closes a database connection
+db2_close -- Closes a database connection
 
   bool db2_close(resource connection)~
 

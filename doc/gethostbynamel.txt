@@ -1,4 +1,4 @@
-*gethostbynamel* -- Get a list of IPv4 addresses corresponding to a given
+gethostbynamel -- Get a list of IPv4 addresses corresponding to a given
 Internet host name
 
   array gethostbynamel(string hostname)~

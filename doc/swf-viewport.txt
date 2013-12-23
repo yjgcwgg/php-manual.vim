@@ -1,4 +1,4 @@
-*swf_viewport* -- Select an area for future drawing
+swf_viewport -- Select an area for future drawing
 
   void swf_viewport(float xmin, float xmax, float ymin, float ymax)~
 

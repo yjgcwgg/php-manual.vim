@@ -1,4 +1,4 @@
-*timezone_identifiers_list* -- Alias of DateTimeZone::listIdentifiers
+timezone_identifiers_list -- Alias of DateTimeZone::listIdentifiers
 
 This function is an alias of: DateTimeZone::listIdentifiers
 

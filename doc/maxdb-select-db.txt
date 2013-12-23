@@ -1,4 +1,4 @@
-*maxdb->select_db* -- Selects the default database for database queries
+maxdb::select_db -- Selects the default database for database queries
 
   bool maxdb_select_db(resource link, string dbname)~
 

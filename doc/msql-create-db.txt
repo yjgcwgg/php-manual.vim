@@ -1,4 +1,4 @@
-*msql_create_db* -- Create mSQL database
+msql_create_db -- Create mSQL database
 
   bool msql_create_db(string database_name [, resource link_identifier])~
 

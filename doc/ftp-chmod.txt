@@ -1,4 +1,4 @@
-*ftp_chmod* -- Set permissions on a file via FTP
+ftp_chmod -- Set permissions on a file via FTP
 
   int ftp_chmod(resource ftp_stream, int mode, string filename)~
 

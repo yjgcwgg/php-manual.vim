@@ -1,4 +1,4 @@
-*method_exists* -- Checks if the class method exists
+method_exists -- Checks if the class method exists
 
   bool method_exists(mixed object, string method_name)~
 

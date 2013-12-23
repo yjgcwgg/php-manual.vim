@@ -1,4 +1,4 @@
-*imagepng* -- Output a PNG image to either the browser or a file
+imagepng -- Output a PNG image to either the browser or a file
 
   bool imagepng(resource image [, string filename [, int quality [, int filters]]])~
 
@@ -27,7 +27,7 @@ Version Description 5.1.3 Added the {filters} parameter. 5.1.2 Added the
 <?php >
   $im = imagecreatefrompng("test.png");
   
-  header('Content-type: image/png');
+  header('Content-Type: image/png');
   
   imagepng($im);
   imagedestroy($im);

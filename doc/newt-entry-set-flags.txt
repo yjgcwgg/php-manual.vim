@@ -1,4 +1,4 @@
-*newt_entry_set_flags* --
+newt_entry_set_flags --
 
   void newt_entry_set_flags(resource entry, int flags, int sense)~
 

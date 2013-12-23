@@ -1,4 +1,4 @@
-*iconv_strlen* -- Returns the character count of string
+iconv_strlen -- Returns the character count of string
 
   int iconv_strlen(string str [, string charset])~
 

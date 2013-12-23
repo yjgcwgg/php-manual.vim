@@ -1,4 +1,4 @@
-*ncurses_delch* -- Delete character at current position, move rest of line left
+ncurses_delch -- Delete character at current position, move rest of line left
 
   bool ncurses_delch()~
 

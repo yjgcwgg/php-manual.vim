@@ -1,4 +1,4 @@
-*ldap_compare* -- Compare value of attribute found in entry specified with DN
+ldap_compare -- Compare value of attribute found in entry specified with DN
 
   mixed ldap_compare(resource link_identifier, string dn, string attribute, string value)~
 

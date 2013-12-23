@@ -1,4 +1,4 @@
-*openssl_pkey_new* -- Generates a new private key
+openssl_pkey_new -- Generates a new private key
 
   resource openssl_pkey_new([array configargs])~
 

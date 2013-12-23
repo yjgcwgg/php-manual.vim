@@ -1,4 +1,4 @@
-*ldap_mod_del* -- Delete attribute values from current attributes
+ldap_mod_del -- Delete attribute values from current attributes
 
   bool ldap_mod_del(resource link_identifier, string dn, array entry)~
 

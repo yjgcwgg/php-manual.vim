@@ -1,4 +1,4 @@
-*win32_stop_service* -- Stops a service
+win32_stop_service -- Stops a service
 
   int win32_stop_service(string servicename [, string machine])~
 

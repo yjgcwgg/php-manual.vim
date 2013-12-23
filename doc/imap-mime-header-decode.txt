@@ -1,4 +1,4 @@
-*imap_mime_header_decode* -- Decode MIME header elements
+imap_mime_header_decode -- Decode MIME header elements
 
   array imap_mime_header_decode(string text)~
 

@@ -1,4 +1,4 @@
-*posix_getsid* -- Get the current sid of the process
+posix_getsid -- Get the current sid of the process
 
   int posix_getsid(int pid)~
 

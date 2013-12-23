@@ -1,4 +1,4 @@
-*ovrimos_close* -- Closes the connection to ovrimos
+ovrimos_close -- Closes the connection to ovrimos
 
   void ovrimos_close(int connection)~
 

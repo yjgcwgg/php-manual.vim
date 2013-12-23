@@ -1,4 +1,4 @@
-*ncurses_scr_init* -- Initialize screen from file dump
+ncurses_scr_init -- Initialize screen from file dump
 
   int ncurses_scr_init(string filename)~
 

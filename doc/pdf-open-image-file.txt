@@ -1,4 +1,4 @@
-*PDF_open_image_file* -- Read image from file [deprecated]
+PDF_open_image_file -- Read image from file [deprecated]
 
   int PDF_open_image_file(resource p, string imagetype, string filename, string stringparam, int intparam)~
 

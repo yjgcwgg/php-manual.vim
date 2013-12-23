@@ -1,4 +1,4 @@
-*newt_radiobutton* --
+newt_radiobutton --
 
   resource newt_radiobutton(int left, int top, string text, bool is_default [, resource prev_button])~
 

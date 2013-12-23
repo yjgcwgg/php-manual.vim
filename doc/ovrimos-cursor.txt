@@ -1,4 +1,4 @@
-*ovrimos_cursor* -- Returns the name of the cursor
+ovrimos_cursor -- Returns the name of the cursor
 
   string ovrimos_cursor(int result_id)~
 

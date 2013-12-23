@@ -1,4 +1,4 @@
-*fbsql_fetch_row* -- Get a result row as an enumerated array
+fbsql_fetch_row -- Get a result row as an enumerated array
 
   array fbsql_fetch_row(resource result)~
 

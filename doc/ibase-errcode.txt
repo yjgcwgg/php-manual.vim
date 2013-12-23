@@ -1,4 +1,4 @@
-*ibase_errcode* -- Return an error code
+ibase_errcode -- Return an error code
 
   int ibase_errcode()~
 

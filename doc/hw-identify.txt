@@ -1,4 +1,4 @@
-*hw_Identify* -- Identifies as user
+hw_Identify -- Identifies as user
 
   string hw_identify(int link, string username, string password)~
 

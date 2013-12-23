@@ -1,4 +1,4 @@
-*yaz_get_option* -- Returns value of option for connection
+yaz_get_option -- Returns value of option for connection
 
   string yaz_get_option(resource id, string name)~
 

@@ -1,4 +1,4 @@
-*dbplus_open* -- Open relation file
+dbplus_open -- Open relation file
 
   resource dbplus_open(string name)~
 

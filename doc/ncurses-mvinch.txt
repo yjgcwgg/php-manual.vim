@@ -1,4 +1,4 @@
-*ncurses_mvinch* -- Move position and get attributed character at new position
+ncurses_mvinch -- Move position and get attributed character at new position
 
   int ncurses_mvinch(int y, int x)~
 

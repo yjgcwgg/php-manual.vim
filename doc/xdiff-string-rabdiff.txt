@@ -1,4 +1,4 @@
-*xdiff_string_rabdiff* -- Make binary diff of two strings using the Rabin's
+xdiff_string_rabdiff -- Make binary diff of two strings using the Rabin's
 polynomial fingerprinting algorithm
 
   string xdiff_string_bdiff(string old_data, string new_data)~

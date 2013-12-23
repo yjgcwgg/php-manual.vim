@@ -1,4 +1,4 @@
-*PDF_fill_stroke* -- Fill and stroke path
+PDF_fill_stroke -- Fill and stroke path
 
   bool PDF_fill_stroke(resource p)~
 

@@ -1,4 +1,4 @@
-*mb_ereg_replace* -- Replace regular expression with multibyte support
+mb_ereg_replace -- Replace regular expression with multibyte support
 
   string mb_ereg_replace(string pattern, string replacement, string string [, string option])~
 

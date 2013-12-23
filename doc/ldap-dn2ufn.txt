@@ -1,4 +1,4 @@
-*ldap_dn2ufn* -- Convert DN to User Friendly Naming format
+ldap_dn2ufn -- Convert DN to User Friendly Naming format
 
   string ldap_dn2ufn(string dn)~
 

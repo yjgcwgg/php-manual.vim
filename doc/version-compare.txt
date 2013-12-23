@@ -1,4 +1,4 @@
-*version_compare* -- Compares two "PHP-standardized" version number strings
+version_compare -- Compares two "PHP-standardized" version number strings
 
   mixed version_compare(string version1, string version2 [, string operator])~
 

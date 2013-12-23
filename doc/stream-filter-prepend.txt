@@ -1,4 +1,4 @@
-*stream_filter_prepend* -- Attach a filter to a stream
+stream_filter_prepend -- Attach a filter to a stream
 
   resource stream_filter_prepend(resource stream, string filtername [, int read_write [, mixed params]])~
 

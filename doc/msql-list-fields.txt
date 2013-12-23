@@ -1,4 +1,4 @@
-*msql_list_fields* -- List result fields
+msql_list_fields -- List result fields
 
   resource msql_list_fields(string database, string tablename [, resource link_identifier])~
 

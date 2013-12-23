@@ -1,4 +1,4 @@
-*pg_insert* -- Insert array into table
+pg_insert -- Insert array into table
 
   mixed pg_insert(resource connection, string table_name, array assoc_array [, int options])~
 
@@ -41,6 +41,9 @@ PGSQL_DML_STRING is passed via {options}.
 
 
 
+
+Version Description 5.5.3/5.4.19 Direct SQL injection to {table_name} and
+Indirect SQL injection to identifiers are fixed.
 
 |pg_convert|
 

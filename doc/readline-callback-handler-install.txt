@@ -1,7 +1,7 @@
-*readline_callback_handler_install* -- Initializes the readline callback
+readline_callback_handler_install -- Initializes the readline callback
 interface and terminal, prints the prompt and returns immediately
 
-  bool readline_callback_handler_install(string prompt, callback callback)~
+  bool readline_callback_handler_install(string prompt, callable callback)~
 
 Sets up a readline callback interface then prints {prompt} and immediately
 returns. Calling this function twice without removing the previous callback

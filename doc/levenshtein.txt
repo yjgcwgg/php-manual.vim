@@ -1,4 +1,4 @@
-*levenshtein* -- Calculate Levenshtein distance between two strings
+levenshtein -- Calculate Levenshtein distance between two strings
 
   int levenshtein(string str1, string str2)~
 

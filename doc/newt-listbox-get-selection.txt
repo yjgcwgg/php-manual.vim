@@ -1,4 +1,4 @@
-*newt_listbox_get_selection* --
+newt_listbox_get_selection --
 
   array newt_listbox_get_selection(resource listbox)~
 

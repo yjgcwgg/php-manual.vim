@@ -1,4 +1,4 @@
-*socket_create* -- Create a socket (endpoint for communication)
+socket_create -- Create a socket (endpoint for communication)
 
   resource socket_create(int domain, int type, int protocol)~
 

@@ -1,4 +1,4 @@
-*odbc_field_type* -- Datatype of a field
+odbc_field_type -- Datatype of a field
 
   string odbc_field_type(resource result_id, int field_number)~
 

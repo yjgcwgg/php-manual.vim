@@ -1,4 +1,4 @@
-*unpack* -- Unpack data from binary string
+unpack -- Unpack data from binary string
 
   array unpack(string format, string data)~
 
@@ -14,6 +14,17 @@ number behind the given name.
 {data} The packed data.
 
 Returns an associative array containing unpacked elements of binary string.
+
+Version Description 5.5.0 Changes were made to bring this function into line
+with Perl:
+
+The "a" code now retains trailing NULL bytes.
+
+The "A" code now strips all trailing ASCII whitespace (spaces, tabs, newlines,
+carriage returns, and NULL bytes).
+
+The "Z" code was added for NULL-padded strings, and removes trailing NULL
+bytes.
 
 |unpack| example
 

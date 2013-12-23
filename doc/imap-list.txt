@@ -1,4 +1,4 @@
-*imap_list* -- Read the list of mailboxes
+imap_list -- Read the list of mailboxes
 
   array imap_list(resource imap_stream, string ref, string pattern)~
 

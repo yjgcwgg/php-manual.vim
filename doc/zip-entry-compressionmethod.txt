@@ -1,4 +1,4 @@
-*zip_entry_compressionmethod* -- Retrieve the compression method of a directory
+zip_entry_compressionmethod -- Retrieve the compression method of a directory
 entry
 
   string zip_entry_compressionmethod(resource zip_entry)~

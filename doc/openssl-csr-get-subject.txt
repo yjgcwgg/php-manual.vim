@@ -1,4 +1,4 @@
-*openssl_csr_get_subject* -- Returns the subject of a CERT
+openssl_csr_get_subject -- Returns the subject of a CERT
 
   array openssl_csr_get_subject(mixed csr [, bool use_shortnames])~
 

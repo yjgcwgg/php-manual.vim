@@ -1,4 +1,4 @@
-*ncurses_resetty* -- Restores saved terminal state
+ncurses_resetty -- Restores saved terminal state
 
   bool ncurses_resetty()~
 

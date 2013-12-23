@@ -1,4 +1,4 @@
-*maxdb_stmt::execute* -- Executes a prepared Query
+maxdb_stmt::execute -- Executes a prepared Query
 
 Procedural style
 

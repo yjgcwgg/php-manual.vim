@@ -1,4 +1,4 @@
-*stats_standard_deviation* -- Returns the standard deviation
+stats_standard_deviation -- Returns the standard deviation
 
   float stats_standard_deviation(array a [, bool sample])~
 

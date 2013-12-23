@@ -1,4 +1,4 @@
-*printer_delete_font* -- Delete a font
+printer_delete_font -- Delete a font
 
   void printer_delete_font(resource font_handle)~
 

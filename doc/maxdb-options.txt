@@ -1,4 +1,4 @@
-*maxdb::options* -- Set options
+maxdb::options -- Set options
 
 Procedural style
 

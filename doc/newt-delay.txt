@@ -1,4 +1,4 @@
-*newt_delay* --
+newt_delay --
 
   void newt_delay(int microseconds)~
 

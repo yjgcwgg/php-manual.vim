@@ -1,4 +1,4 @@
-*ncurses_insdelln* -- Insert lines before current line scrolling down (negative
+ncurses_insdelln -- Insert lines before current line scrolling down (negative
 numbers delete and scroll up)
 
   int ncurses_insdelln(int count)~

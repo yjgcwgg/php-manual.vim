@@ -1,4 +1,4 @@
-*dbase_add_record* -- Adds a record to a database
+dbase_add_record -- Adds a record to a database
 
   bool dbase_add_record(int dbase_identifier, array record)~
 

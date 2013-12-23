@@ -1,4 +1,4 @@
-*ncurses_bkgdset* -- Control screen background
+ncurses_bkgdset -- Control screen background
 
   void ncurses_bkgdset(int attrchar)~
 

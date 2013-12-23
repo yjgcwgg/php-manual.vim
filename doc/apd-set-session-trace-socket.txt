@@ -1,4 +1,4 @@
-*apd_set_session_trace_socket* -- Starts the remote session debugging
+apd_set_session_trace_socket -- Starts the remote session debugging
 
   bool apd_set_session_trace_socket(string tcp_server, int socket_type, int port, int debug_level)~
 

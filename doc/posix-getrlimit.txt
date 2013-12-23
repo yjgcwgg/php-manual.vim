@@ -1,4 +1,4 @@
-*posix_getrlimit* -- Return info about system resource limits
+posix_getrlimit -- Return info about system resource limits
 
   array posix_getrlimit()~
 

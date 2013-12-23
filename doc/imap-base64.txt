@@ -1,4 +1,4 @@
-*imap_base64* -- Decode BASE64 encoded text
+imap_base64 -- Decode BASE64 encoded text
 
   string imap_base64(string text)~
 

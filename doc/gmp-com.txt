@@ -1,4 +1,4 @@
-*gmp_com* -- Calculates one's complement
+gmp_com -- Calculates one's complement
 
   resource gmp_com(resource a)~
 

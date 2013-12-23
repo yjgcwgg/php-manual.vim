@@ -1,4 +1,4 @@
-*gupnp_service_action_set* -- Sets the specified action return values
+gupnp_service_action_set -- Sets the specified action return values
 
   bool gupnp_service_action_set(resource action, string name, int type, mixed value)~
 

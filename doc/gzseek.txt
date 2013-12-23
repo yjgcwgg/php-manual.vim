@@ -1,4 +1,4 @@
-*gzseek* -- Seek on a gz-file pointer
+gzseek -- Seek on a gz-file pointer
 
   int gzseek(resource zp, int offset [, int whence])~
 

@@ -1,4 +1,4 @@
-*event_buffer_new* -- Create new buffered event
+event_buffer_new -- Create new buffered event
 
   resource event_buffer_new(resource stream, mixed readcb, mixed writecb, mixed errorcb [, mixed arg])~
 

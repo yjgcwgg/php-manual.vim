@@ -1,4 +1,4 @@
-*ldap_errno* -- Return the LDAP error number of the last LDAP command
+ldap_errno -- Return the LDAP error number of the last LDAP command
 
   int ldap_errno(resource link_identifier)~
 

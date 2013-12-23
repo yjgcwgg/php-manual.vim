@@ -1,4 +1,4 @@
-*oci_field_type* -- Returns field's data type
+oci_field_type -- Returns field's data type
 
   mixed oci_field_type(resource statement, int field)~
 

@@ -1,4 +1,4 @@
-*stream_set_blocking* -- Set blocking/non-blocking mode on a stream
+stream_set_blocking -- Set blocking/non-blocking mode on a stream
 
   bool stream_set_blocking(resource stream, int mode)~
 

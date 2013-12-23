@@ -1,4 +1,4 @@
-*db2_column_privileges* -- Returns a result set listing the columns and
+db2_column_privileges -- Returns a result set listing the columns and
 associated privileges for a table
 
   resource db2_column_privileges(resource connection [, string qualifier [, string schema [, string table-name [, string column-name]]]])~

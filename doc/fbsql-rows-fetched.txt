@@ -1,4 +1,4 @@
-*fbsql_rows_fetched* -- Get the number of rows affected by the last statement
+fbsql_rows_fetched -- Get the number of rows affected by the last statement
 
   int fbsql_rows_fetched(resource result)~
 

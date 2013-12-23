@@ -1,4 +1,4 @@
-*maxdb::store_result* -- Transfers a result set from the last query
+maxdb::store_result -- Transfers a result set from the last query
 
 Procedural style
 

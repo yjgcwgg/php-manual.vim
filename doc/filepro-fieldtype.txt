@@ -1,4 +1,4 @@
-*filepro_fieldtype* -- Gets the type of a field
+filepro_fieldtype -- Gets the type of a field
 
   string filepro_fieldtype(int field_number)~
 

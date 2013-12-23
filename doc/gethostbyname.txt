@@ -1,4 +1,4 @@
-*gethostbyname* -- Get the IPv4 address corresponding to a given Internet host
+gethostbyname -- Get the IPv4 address corresponding to a given Internet host
 name
 
   string gethostbyname(string hostname)~

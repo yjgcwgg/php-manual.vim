@@ -1,4 +1,4 @@
-*gmp_scan1* -- Scan for 1
+gmp_scan1 -- Scan for 1
 
   int gmp_scan1(resource a, int start)~
 

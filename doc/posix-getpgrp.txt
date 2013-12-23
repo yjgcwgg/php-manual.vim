@@ -1,4 +1,4 @@
-*posix_getpgrp* -- Return the current process group identifier
+posix_getpgrp -- Return the current process group identifier
 
   int posix_getpgrp()~
 

@@ -1,4 +1,4 @@
-*cairo_pattern_set_extend* -- Description
+cairo_pattern_set_extend -- Description
 
   void cairo_pattern_set_extend(string pattern, string extend)~
 

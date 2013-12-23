@@ -1,4 +1,4 @@
-*win32_delete_service* -- Deletes a service entry from the SCM database
+win32_delete_service -- Deletes a service entry from the SCM database
 
   mixed win32_delete_service(string servicename [, string machine])~
 

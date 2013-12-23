@@ -1,4 +1,4 @@
-*db2_field_scale* -- Returns the scale of the indicated column in a result set
+db2_field_scale -- Returns the scale of the indicated column in a result set
 
   int db2_field_scale(resource stmt, mixed column)~
 

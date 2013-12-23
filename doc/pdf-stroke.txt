@@ -1,4 +1,4 @@
-*PDF_stroke* -- Stroke path
+PDF_stroke -- Stroke path
 
   bool PDF_stroke(resource p)~
 

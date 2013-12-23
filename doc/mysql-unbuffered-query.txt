@@ -1,5 +1,10 @@
-*mysql_unbuffered_query* -- Send an SQL query to MySQL without fetching and
+mysql_unbuffered_query -- Send an SQL query to MySQL without fetching and
 buffering the result rows.
+
+This extension is deprecated as of PHP 5.5.0, and will be removed in the
+future. Instead, the MySQLi or PDO_MySQL extension should be used. See also
+MySQL: choosing an API guide and related FAQ for more information.
+Alternatives to this function include:
 
   resource mysql_unbuffered_query(string query [, resource link_identifier])~
 
@@ -30,8 +35,9 @@ For other type of SQL statements, UPDATE, DELETE, DROP, etc,
 
 The benefits of |mysql_unbuffered_query| come at a cost: you cannot use
 |mysql_num_rows| and |mysql_data_seek| on a result set returned from
-|mysql_unbuffered_query|. You also have to fetch all result rows from an
-unbuffered SQL query before you can send a new SQL query to MySQL.
+|mysql_unbuffered_query|, until all rows are fetched. You also have to fetch
+all result rows from an unbuffered SQL query before you can send a new SQL
+query to MySQL, using the same {link_identifier}.
 
 |mysql_query|
 

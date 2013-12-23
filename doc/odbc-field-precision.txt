@@ -1,4 +1,4 @@
-*odbc_field_precision* -- Alias of odbc_field_len
+odbc_field_precision -- Alias of odbc_field_len
 
 This function is an alias of: |odbc_field_len|.
 

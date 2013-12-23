@@ -1,4 +1,4 @@
-*printer_create_pen* -- Create a new pen
+printer_create_pen -- Create a new pen
 
   resource printer_create_pen(int style, int width, string color)~
 

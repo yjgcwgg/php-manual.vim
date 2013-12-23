@@ -1,4 +1,4 @@
-*imap_close* -- Close an IMAP stream
+imap_close -- Close an IMAP stream
 
   bool imap_close(resource imap_stream [, int flag])~
 

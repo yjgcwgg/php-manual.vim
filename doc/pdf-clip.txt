@@ -1,4 +1,4 @@
-*PDF_clip* -- Clip to current path
+PDF_clip -- Clip to current path
 
   bool PDF_clip(resource p)~
 

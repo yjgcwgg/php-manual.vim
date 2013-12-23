@@ -1,4 +1,4 @@
-*printer_create_dc* -- Create a new device context
+printer_create_dc -- Create a new device context
 
   void printer_create_dc(resource printer_handle)~
 

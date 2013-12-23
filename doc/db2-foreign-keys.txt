@@ -1,4 +1,4 @@
-*db2_foreign_keys* -- Returns a result set listing the foreign keys for a table
+db2_foreign_keys -- Returns a result set listing the foreign keys for a table
 
   resource db2_foreign_keys(resource connection, string qualifier, string schema, string table-name)~
 

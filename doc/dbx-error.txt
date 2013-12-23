@@ -1,4 +1,4 @@
-*dbx_error* -- Report the error message of the latest function call in the
+dbx_error -- Report the error message of the latest function call in the
 module
 
   string dbx_error(object link_identifier)~

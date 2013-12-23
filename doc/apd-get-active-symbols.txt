@@ -1,4 +1,4 @@
-*apd_get_active_symbols* -- Get an array of the current variables names in the
+apd_get_active_symbols -- Get an array of the current variables names in the
 local scope
 
   array apd_get_active_symbols()~

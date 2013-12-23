@@ -1,4 +1,4 @@
-*gopher_parsedir* -- Translate a gopher formatted directory entry into an
+gopher_parsedir -- Translate a gopher formatted directory entry into an
 associative array.
 
   array gopher_parsedir(string dirent)~

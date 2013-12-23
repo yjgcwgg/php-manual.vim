@@ -1,4 +1,4 @@
-*udm_hash32* -- Return Hash32 checksum of gived string
+udm_hash32 -- Return Hash32 checksum of gived string
 
   int udm_hash32(resource agent, string str)~
 

@@ -1,4 +1,4 @@
-*fbsql_errno* -- Returns the error number from previous operation
+fbsql_errno -- Returns the error number from previous operation
 
   int fbsql_errno([resource link_identifier])~
 

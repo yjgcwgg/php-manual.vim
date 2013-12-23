@@ -1,4 +1,4 @@
-*fbsql_change_user* -- Change logged in user of the active connection
+fbsql_change_user -- Change logged in user of the active connection
 
   bool fbsql_change_user(string user, string password [, string database [, resource link_identifier]])~
 

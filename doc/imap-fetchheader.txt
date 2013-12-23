@@ -1,4 +1,4 @@
-*imap_fetchheader* -- Returns header for a message
+imap_fetchheader -- Returns header for a message
 
   string imap_fetchheader(resource imap_stream, int msg_number [, int options])~
 

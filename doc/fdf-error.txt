@@ -1,4 +1,4 @@
-*fdf_error* -- Return error description for FDF error code
+fdf_error -- Return error description for FDF error code
 
   string fdf_error([int error_code])~
 

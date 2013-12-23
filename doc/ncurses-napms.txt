@@ -1,4 +1,4 @@
-*ncurses_napms* -- Sleep
+ncurses_napms -- Sleep
 
   int ncurses_napms(int milliseconds)~
 

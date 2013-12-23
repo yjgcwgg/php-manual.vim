@@ -1,4 +1,4 @@
-*mcrypt_enc_get_key_size* -- Returns the maximum supported keysize of the opened
+mcrypt_enc_get_key_size -- Returns the maximum supported keysize of the opened
 mode
 
   int mcrypt_enc_get_key_size(resource td)~

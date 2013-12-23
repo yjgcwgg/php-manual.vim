@@ -1,4 +1,4 @@
-*fbsql_insert_id* -- Get the id generated from the previous INSERT operation
+fbsql_insert_id -- Get the id generated from the previous INSERT operation
 
   int fbsql_insert_id([resource link_identifier])~
 

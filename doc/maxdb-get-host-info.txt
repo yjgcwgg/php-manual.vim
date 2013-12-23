@@ -1,4 +1,4 @@
-*maxdb->get_host_info* -- Returns a string representing the type of connection
+maxdb::get_host_info -- Returns a string representing the type of connection
 used
 
 Procedural style

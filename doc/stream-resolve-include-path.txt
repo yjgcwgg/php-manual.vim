@@ -1,14 +1,14 @@
-*stream_resolve_include_path* -- Resolve filename against the include path
+stream_resolve_include_path -- Resolve filename against the include path
 
   string stream_resolve_include_path(string filename)~
 
-Resolve filename against the include path according to the same rules as
-|fopen|/|include| does.
+Resolve {filename} against the include path according to the same rules as
+|fopen|/|include|.
 
-{string} The filename to resolve.
+{filename} The filename to resolve.
 
-On success, the resolved absolute filename is returned. On failure, FALSE is
-returned.
+Returns a string containing the resolved absolute filename, or FALSE on
+failure.
 
 |stream_resolve_include_path| example Basic usage example.
 
@@ -18,7 +18,7 @@ returned.
 
 The above example will output something similar to:
 
-  unicode(10) "/var/www/html/test.php"
+  string(22) "/var/www/html/test.php"
 
 
 

@@ -1,4 +1,4 @@
-*array* -- Create an array
+array -- Create an array
 
   array array([mixed ...])~
 

@@ -1,4 +1,4 @@
-*imagecopymergegray* -- Copy and merge part of an image with gray scale
+imagecopymergegray -- Copy and merge part of an image with gray scale
 
   bool imagecopymergegray(resource dst_im, resource src_im, int dst_x, int dst_y, int src_x, int src_y, int src_w, int src_h, int pct)~
 
@@ -29,8 +29,8 @@ scale before the copy operation.
 
 {pct} The {src_im} will be changed to grayscale according to {pct} where 0 is
 fully grayscale and 100 is unchanged. When {pct} = 100 this function behaves
-identically to |imagecopy| for pallete images, while it implements alpha
-transparency for true colour images.
+identically to |imagecopy| for pallete images, except for ignoring alpha
+components, while it implements alpha transparency for true colour images.
 
 Returns TRUE on success or &false; on failure.
 

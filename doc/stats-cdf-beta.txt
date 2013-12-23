@@ -1,4 +1,4 @@
-*stats_cdf_beta* -- CDF function for BETA Distribution. Calculates any one
+stats_cdf_beta -- CDF function for BETA Distribution. Calculates any one
 parameter of the beta distribution given values for the others.
 
   float stats_cdf_beta(float par1, float par2, float par3, int which)~

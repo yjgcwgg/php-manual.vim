@@ -1,4 +1,4 @@
-*svn_fs_delete* -- Deletes a file or a directory, return true if all is ok,
+svn_fs_delete -- Deletes a file or a directory, return true if all is ok,
 false otherwise
 
   bool svn_fs_delete(resource root, string path)~

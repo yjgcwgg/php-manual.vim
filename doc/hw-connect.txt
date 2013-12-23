@@ -1,4 +1,4 @@
-*hw_Connect* -- Opens a connection
+hw_Connect -- Opens a connection
 
   int hw_connect(string host, int port [, string username, string password])~
 

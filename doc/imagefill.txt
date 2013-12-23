@@ -1,4 +1,4 @@
-*imagefill* -- Flood fill
+imagefill -- Flood fill
 
   bool imagefill(resource image, int x, int y, int color)~
 

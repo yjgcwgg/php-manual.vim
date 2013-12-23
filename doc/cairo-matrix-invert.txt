@@ -1,4 +1,4 @@
-*cairo_matrix_invert* -- Description
+cairo_matrix_invert -- Description
 
   void cairo_matrix_invert(CairoMatrix matrix)~
 

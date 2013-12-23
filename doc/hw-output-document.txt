@@ -1,4 +1,4 @@
-*hw_Output_Document* -- Prints hw_document
+hw_Output_Document -- Prints hw_document
 
   bool hw_output_document(int hw_document)~
 

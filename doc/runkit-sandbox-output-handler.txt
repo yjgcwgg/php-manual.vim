@@ -1,4 +1,4 @@
-*runkit_sandbox_output_handler* -- Specify a function to capture and/or process
+runkit_sandbox_output_handler -- Specify a function to capture and/or process
 output from a runkit sandbox
 
   mixed runkit_sandbox_output_handler(object sandbox [, mixed callback])~

@@ -1,4 +1,4 @@
-*fam_open* -- Open connection to FAM daemon
+fam_open -- Open connection to FAM daemon
 
   resource fam_open([string appname])~
 

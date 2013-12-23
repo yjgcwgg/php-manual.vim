@@ -1,4 +1,4 @@
-*swf_definetext* -- Define a text string
+swf_definetext -- Define a text string
 
   void swf_definetext(int objid, string str, int docenter)~
 

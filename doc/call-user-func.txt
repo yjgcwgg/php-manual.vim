@@ -1,15 +1,13 @@
-*call_user_func* -- Call a user function given by the first parameter
+call_user_func -- Call the callback given by the first parameter
 
-  mixed call_user_func(callback function [, mixed parameter [, mixed ...]])~
+  mixed call_user_func(callable callback [, mixed parameter [, mixed ...]])~
 
-Call a user defined function given by the {function} parameter.
+Calls the {callback} given by the first parameter and passes the remaining
+parameters as arguments.
 
-{function} The function to be called. Class methods may also be invoked
-statically using this function by passing array($classname, $methodname) to
-this parameter. Additionally class methods of an object instance may be called
-by passing array($objectinstance, $methodname) to this parameter.
+{callback} The callable to be called.
 
-{parameter} Zero or more parameters to be passed to the function.
+{parameter} Zero or more parameters to be passed to the callback.
 
 Note that the parameters for |call_user_func| are not passed by reference.
 |call_user_func| example and references
@@ -36,7 +34,7 @@ The above example will output:
 
 
 
-Returns the function result, or FALSE on error.
+Returns the return value of the callback, or FALSE on error.
 
 Version Description 5.3.0 The interpretation of object oriented keywords like
 parent and self has changed. Previously, calling them using the double colon
@@ -121,5 +119,6 @@ Callbacks registered with functions such as |call_user_func| and
 thrown in a previous callback.
 
 |call_user_func_array| |is_callable| information about the callback type
+ReflectionFunction::invoke ReflectionMethod::invoke
 
 vim:ft=help:

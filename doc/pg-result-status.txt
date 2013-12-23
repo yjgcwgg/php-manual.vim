@@ -1,4 +1,4 @@
-*pg_result_status* -- Get status of query result
+pg_result_status -- Get status of query result
 
   mixed pg_result_status(resource result [, int type])~
 

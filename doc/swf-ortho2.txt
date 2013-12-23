@@ -1,4 +1,4 @@
-*swf_ortho2* -- Defines 2D orthographic mapping of user coordinates onto the
+swf_ortho2 -- Defines 2D orthographic mapping of user coordinates onto the
 current viewport
 
   void swf_ortho2(float xmin, float xmax, float ymin, float ymax)~

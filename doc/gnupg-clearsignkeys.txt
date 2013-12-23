@@ -1,4 +1,4 @@
-*gnupg_clearsignkeys* -- Removes all keys which were set for signing before
+gnupg_clearsignkeys -- Removes all keys which were set for signing before
 
   bool gnupg_clearsignkeys(resource identifier)~
 

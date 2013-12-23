@@ -1,4 +1,4 @@
-*openssl_pkcs7_sign* -- Sign an S/MIME message
+openssl_pkcs7_sign -- Sign an S/MIME message
 
   bool openssl_pkcs7_sign(string infilename, string outfilename, mixed signcert, mixed privkey, array headers [, int flags [, string extracerts]])~
 

@@ -1,4 +1,4 @@
-*connection_timeout* -- Check if the script timed out
+connection_timeout -- Check if the script timed out
 
   int connection_timeout()~
 

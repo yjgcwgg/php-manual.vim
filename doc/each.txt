@@ -1,4 +1,4 @@
-*each* -- Return the current key and value pair from an array and advance the
+each -- Return the current key and value pair from an array and advance the
 array cursor
 
   array each(array array)~

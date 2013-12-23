@@ -1,4 +1,4 @@
-*mqseries_open* -- MQSeries MQOPEN
+mqseries_open -- MQSeries MQOPEN
 
   void mqseries_open(resource hconn, array objDesc, int option, resource hobj, resource compCode, resource reason)~
 

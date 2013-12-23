@@ -1,4 +1,4 @@
-*dbplus_find* -- Set a constraint on a relation
+dbplus_find -- Set a constraint on a relation
 
   int dbplus_find(resource relation, array constraints, mixed tuple)~
 

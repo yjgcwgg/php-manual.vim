@@ -1,4 +1,4 @@
-*gupnp_service_proxy_send_action* -- Send action with multiple parameters
+gupnp_service_proxy_send_action -- Send action with multiple parameters
 synchronously
 
   array gupnp_service_proxy_send_action(resource proxy, string action, array in_params, array out_params)~

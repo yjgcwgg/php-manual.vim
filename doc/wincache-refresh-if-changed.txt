@@ -1,4 +1,4 @@
-*wincache_refresh_if_changed* -- Refreshes the cache entries for the cached
+wincache_refresh_if_changed -- Refreshes the cache entries for the cached
 files
 
   bool wincache_refresh_if_changed([array files])~

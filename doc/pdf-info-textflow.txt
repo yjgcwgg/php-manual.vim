@@ -1,4 +1,4 @@
-*PDF_info_textflow* -- Query textflow state
+PDF_info_textflow -- Query textflow state
 
   float PDF_info_textflow(resource pdfdoc, int textflow, string keyword)~
 

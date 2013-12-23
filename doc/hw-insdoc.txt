@@ -1,4 +1,4 @@
-*hw_InsDoc* -- Insert document
+hw_InsDoc -- Insert document
 
   int hw_insdoc(resource connection, int parentID, string object_record [, string text])~
 

@@ -1,4 +1,4 @@
-*imagepalettecopy* -- Copy the palette from one image to another
+imagepalettecopy -- Copy the palette from one image to another
 
   void imagepalettecopy(resource destination, resource source)~
 

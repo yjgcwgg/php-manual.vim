@@ -1,4 +1,4 @@
-*ncurses_scr_set* -- Inherit screen from file dump
+ncurses_scr_set -- Inherit screen from file dump
 
   int ncurses_scr_set(string filename)~
 

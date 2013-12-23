@@ -1,4 +1,4 @@
-*db2_field_num* -- Returns the position of the named column in a result set
+db2_field_num -- Returns the position of the named column in a result set
 
   int db2_field_num(resource stmt, mixed column)~
 

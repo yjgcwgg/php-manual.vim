@@ -1,4 +1,4 @@
-*filter_id* -- Returns the filter ID belonging to a named filter
+filter_id -- Returns the filter ID belonging to a named filter
 
   int filter_id(string filtername)~
 

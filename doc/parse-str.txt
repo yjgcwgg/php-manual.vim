@@ -1,4 +1,4 @@
-*parse_str* -- Parses the string into variables
+parse_str -- Parses the string into variables
 
   void parse_str(string str [, array arr])~
 

@@ -1,4 +1,4 @@
-*openssl_csr_get_public_key* -- Returns the public key of a CERT
+openssl_csr_get_public_key -- Returns the public key of a CERT
 
   resource openssl_csr_get_public_key(mixed csr [, bool use_shortnames])~
 

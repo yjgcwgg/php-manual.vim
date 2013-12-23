@@ -1,4 +1,4 @@
-*touch* -- Sets access and modification time of file
+touch -- Sets access and modification time of file
 
   bool touch(string filename [, int time [, int atime]])~
 
@@ -14,7 +14,8 @@ If the file does not exist, it will be created.
 used.
 
 {atime} If present, the access time of the given filename is set to the value
-of {atime}. Otherwise, it is set to {time}.
+of {atime}. Otherwise, it is set to the value passed to the {time} parameter.
+If neither are present, the current system time is used.
 
 Returns TRUE on success or &false; on failure.
 

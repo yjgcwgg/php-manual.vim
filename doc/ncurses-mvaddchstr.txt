@@ -1,4 +1,4 @@
-*ncurses_mvaddchstr* -- Move position and add attributed string
+ncurses_mvaddchstr -- Move position and add attributed string
 
   int ncurses_mvaddchstr(int y, int x, string s)~
 

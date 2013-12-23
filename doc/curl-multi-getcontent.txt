@@ -1,4 +1,4 @@
-*curl_multi_getcontent* -- Return the content of a cURL handle if
+curl_multi_getcontent -- Return the content of a cURL handle if
 CURLOPT_RETURNTRANSFER is set
 
   string curl_multi_getcontent(resource ch)~

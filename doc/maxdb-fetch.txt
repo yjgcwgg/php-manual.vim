@@ -1,4 +1,4 @@
-*maxdb_fetch* -- Alias of maxdb_stmt_fetch
+maxdb_fetch -- Alias of maxdb_stmt_fetch
 
 This function is an alias of: |maxdb_stmt_fetch|.
 

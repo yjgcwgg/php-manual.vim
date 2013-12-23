@@ -1,4 +1,4 @@
-*bbcode_create* -- Create a BBCode Resource
+bbcode_create -- Create a BBCode Resource
 
   resource bbcode_create([array bbcode_initial_tags])~
 

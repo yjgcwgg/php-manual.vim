@@ -1,4 +1,4 @@
-*imagecharup* -- Draw a character vertically
+imagecharup -- Draw a character vertically
 
   bool imagecharup(resource image, int font, int x, int y, string c, int color)~
 

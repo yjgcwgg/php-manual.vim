@@ -1,4 +1,4 @@
-*PDF_delete_pvf* -- Delete PDFlib virtual file
+PDF_delete_pvf -- Delete PDFlib virtual file
 
   int PDF_delete_pvf(resource pdfdoc, string filename)~
 

@@ -1,4 +1,4 @@
-*msql_list_dbs* -- List mSQL databases on server
+msql_list_dbs -- List mSQL databases on server
 
   resource msql_list_dbs([resource link_identifier])~
 

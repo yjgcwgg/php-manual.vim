@@ -1,4 +1,4 @@
-*variant_date_to_timestamp* -- Converts a variant date/time value to Unix
+variant_date_to_timestamp -- Converts a variant date/time value to Unix
 timestamp
 
   int variant_date_to_timestamp(variant variant)~

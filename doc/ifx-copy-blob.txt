@@ -1,4 +1,4 @@
-*ifx_copy_blob* -- Duplicates the given blob object
+ifx_copy_blob -- Duplicates the given blob object
 
   int ifx_copy_blob(int bid)~
 

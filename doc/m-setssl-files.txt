@@ -1,4 +1,4 @@
-*m_setssl_files* -- Set certificate key files and certificates if server
+m_setssl_files -- Set certificate key files and certificates if server
 requires client certificate verification
 
   int m_setssl_files(resource conn, string sslkeyfile, string sslcertfile)~

@@ -1,4 +1,4 @@
-*classkit_method_copy* -- Copies a method from class to another
+classkit_method_copy -- Copies a method from class to another
 
   bool classkit_method_copy(string dClass, string dMethod, string sClass [, string sMethod])~
 

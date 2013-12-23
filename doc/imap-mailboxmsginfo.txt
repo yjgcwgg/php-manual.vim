@@ -1,4 +1,4 @@
-*imap_mailboxmsginfo* -- Get information about the current mailbox
+imap_mailboxmsginfo -- Get information about the current mailbox
 
   object imap_mailboxmsginfo(resource imap_stream)~
 

@@ -1,4 +1,4 @@
-*ord* -- Return ASCII value of character
+ord -- Return ASCII value of character
 
   int ord(string string)~
 

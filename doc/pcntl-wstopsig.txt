@@ -1,4 +1,4 @@
-*pcntl_wstopsig* -- Returns the signal which caused the child to stop
+pcntl_wstopsig -- Returns the signal which caused the child to stop
 
   int pcntl_wstopsig(int status)~
 

@@ -1,4 +1,4 @@
-*swf_textwidth* -- Get the width of a string
+swf_textwidth -- Get the width of a string
 
   float swf_textwidth(string str)~
 

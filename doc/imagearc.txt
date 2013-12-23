@@ -1,4 +1,4 @@
-*imagearc* -- Draws an arc
+imagearc -- Draws an arc
 
   bool imagearc(resource image, int cx, int cy, int width, int height, int start, int end, int color)~
 

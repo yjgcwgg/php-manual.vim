@@ -1,4 +1,4 @@
-*sqlite_popen* -- Opens a persistent handle to an SQLite database and create the
+sqlite_popen -- Opens a persistent handle to an SQLite database and create the
 database if it does not exist
 
   resource sqlite_popen(string filename [, int mode [, string error_message]])~

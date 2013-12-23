@@ -1,4 +1,4 @@
-*crack_check* -- Performs an obscure check with the given password
+crack_check -- Performs an obscure check with the given password
 
   bool crack_check(resource dictionary, string password)~
 

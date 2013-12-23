@@ -1,4 +1,4 @@
-*fbsql_connect* -- Open a connection to a FrontBase Server
+fbsql_connect -- Open a connection to a FrontBase Server
 
   resource fbsql_connect([string hostname [, string username [, string password]]])~
 

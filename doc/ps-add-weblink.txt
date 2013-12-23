@@ -1,4 +1,4 @@
-*ps_add_weblink* -- Adds link to a web location
+ps_add_weblink -- Adds link to a web location
 
   bool ps_add_weblink(resource psdoc, float llx, float lly, float urx, float ury, string url)~
 

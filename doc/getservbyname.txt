@@ -1,4 +1,4 @@
-*getservbyname* -- Get port number associated with an Internet service and
+getservbyname -- Get port number associated with an Internet service and
 protocol
 
   int getservbyname(string service, string protocol)~

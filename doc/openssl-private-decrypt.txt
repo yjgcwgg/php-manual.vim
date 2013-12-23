@@ -1,4 +1,4 @@
-*openssl_private_decrypt* -- Decrypts data with private key
+openssl_private_decrypt -- Decrypts data with private key
 
   bool openssl_private_decrypt(string data, string decrypted, mixed key [, int padding])~
 

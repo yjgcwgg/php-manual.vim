@@ -1,4 +1,4 @@
-*imap_unsubscribe* -- Unsubscribe from a mailbox
+imap_unsubscribe -- Unsubscribe from a mailbox
 
   bool imap_unsubscribe(resource imap_stream, string mailbox)~
 

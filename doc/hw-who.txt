@@ -1,4 +1,4 @@
-*hw_Who* -- List of currently logged in users
+hw_Who -- List of currently logged in users
 
   array hw_who(int connection)~
 

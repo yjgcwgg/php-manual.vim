@@ -1,4 +1,4 @@
-*dbplus_close* -- Close a relation
+dbplus_close -- Close a relation
 
   mixed dbplus_close(resource relation)~
 

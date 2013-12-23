@@ -1,4 +1,4 @@
-*PDF_restore* -- Restore graphics state
+PDF_restore -- Restore graphics state
 
   bool PDF_restore(resource p)~
 

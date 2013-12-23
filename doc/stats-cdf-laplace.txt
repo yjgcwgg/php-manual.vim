@@ -1,4 +1,4 @@
-*stats_cdf_laplace* -- Not documented
+stats_cdf_laplace -- Not documented
 
   float stats_cdf_laplace(float par1, float par2, float par3, int which)~
 

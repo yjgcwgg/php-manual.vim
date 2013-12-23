@@ -1,4 +1,4 @@
-*dbplus_freelock* -- Release write lock on tuple
+dbplus_freelock -- Release write lock on tuple
 
   int dbplus_freelock(resource relation, string tuple)~
 

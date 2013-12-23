@@ -1,4 +1,4 @@
-*snmpwalk* -- Fetch all the SNMP objects from an agent
+snmpwalk -- Fetch all the SNMP objects from an agent
 
   array snmpwalk(string hostname, string community, string object_id [, int timeout [, int retries]])~
 
@@ -17,7 +17,7 @@ returned.
 
 {timeout} The number of microseconds until the first timeout.
 
-{retries} The number of retries in case timeouts occur.
+{retries} The number of times to retry if timeouts occur.
 
 Returns an array of SNMP object values starting from the {object_id} as root
 or FALSE on error.

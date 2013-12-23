@@ -1,4 +1,4 @@
-*gzrewind* -- Rewind the position of a gz-file pointer
+gzrewind -- Rewind the position of a gz-file pointer
 
   bool gzrewind(resource zp)~
 

@@ -1,4 +1,4 @@
-*sqlite_libversion* -- Returns the version of the linked SQLite library
+sqlite_libversion -- Returns the version of the linked SQLite library
 
   string sqlite_libversion()~
 

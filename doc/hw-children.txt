@@ -1,4 +1,4 @@
-*hw_Children* -- Object ids of children
+hw_Children -- Object ids of children
 
   array hw_children(int connection, int objectID)~
 

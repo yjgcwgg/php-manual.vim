@@ -1,4 +1,4 @@
-*cairo_image_surface_create* -- Description
+cairo_image_surface_create -- Description
 
   CairoImageSurface cairo_image_surface_create(int format, int width, int height)~
 

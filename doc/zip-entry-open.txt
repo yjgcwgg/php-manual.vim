@@ -1,4 +1,4 @@
-*zip_entry_open* -- Open a directory entry for reading
+zip_entry_open -- Open a directory entry for reading
 
   bool zip_entry_open(resource zip, resource zip_entry [, string mode])~
 

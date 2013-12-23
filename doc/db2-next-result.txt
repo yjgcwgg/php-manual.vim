@@ -1,4 +1,4 @@
-*db2_next_result* -- Requests the next result set from a stored procedure
+db2_next_result -- Requests the next result set from a stored procedure
 
   resource db2_next_result(resource stmt)~
 

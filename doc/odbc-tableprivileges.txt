@@ -1,4 +1,4 @@
-*odbc_tableprivileges* -- Lists tables and the privileges associated with each
+odbc_tableprivileges -- Lists tables and the privileges associated with each
 table
 
   resource odbc_tableprivileges(resource connection_id, string qualifier, string owner, string name)~

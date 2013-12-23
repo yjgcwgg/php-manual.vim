@@ -1,4 +1,4 @@
-*shmop_delete* -- Delete shared memory block
+shmop_delete -- Delete shared memory block
 
   bool shmop_delete(int shmid)~
 

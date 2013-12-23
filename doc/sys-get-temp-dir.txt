@@ -1,4 +1,4 @@
-*sys_get_temp_dir* -- Returns directory path used for temporary files
+sys_get_temp_dir -- Returns directory path used for temporary files
 
   string sys_get_temp_dir()~
 

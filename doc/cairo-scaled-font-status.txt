@@ -1,4 +1,4 @@
-*cairo_scaled_font_status* -- Description
+cairo_scaled_font_status -- Description
 
   int cairo_scaled_font_status(CairoScaledFont scaledfont)~
 

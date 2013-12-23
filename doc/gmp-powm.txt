@@ -1,4 +1,4 @@
-*gmp_powm* -- Raise number into power with modulo
+gmp_powm -- Raise number into power with modulo
 
   resource gmp_powm(resource base, resource exp, resource mod)~
 

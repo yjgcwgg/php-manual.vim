@@ -1,4 +1,4 @@
-*rewind* -- Rewind the position of a file pointer
+rewind -- Rewind the position of a file pointer
 
   bool rewind(resource handle)~
 

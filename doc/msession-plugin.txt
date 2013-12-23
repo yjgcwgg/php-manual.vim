@@ -1,4 +1,4 @@
-*msession_plugin* -- Call an escape function within the msession personality
+msession_plugin -- Call an escape function within the msession personality
 plugin
 
   string msession_plugin(string session, string val [, string param])~

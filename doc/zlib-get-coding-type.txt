@@ -1,4 +1,4 @@
-*zlib_get_coding_type* -- Returns the coding type used for output compression
+zlib_get_coding_type -- Returns the coding type used for output compression
 
   string zlib_get_coding_type()~
 

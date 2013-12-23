@@ -1,4 +1,4 @@
-*gupnp_service_introspection_get_state_variable* -- Returns the state variable
+gupnp_service_introspection_get_state_variable -- Returns the state variable
 data
 
   array gupnp_service_introspection_get_state_variable(resource introspection, string variable_name)~

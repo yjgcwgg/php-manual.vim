@@ -1,4 +1,4 @@
-*yp_match* -- Returns the matched line
+yp_match -- Returns the matched line
 
   string yp_match(string domain, string map, string key)~
 

@@ -1,4 +1,4 @@
-*imap_check* -- Check current mailbox
+imap_check -- Check current mailbox
 
   object imap_check(resource imap_stream)~
 

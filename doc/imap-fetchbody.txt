@@ -1,4 +1,4 @@
-*imap_fetchbody* -- Fetch a particular section of the body of the message
+imap_fetchbody -- Fetch a particular section of the body of the message
 
   string imap_fetchbody(resource imap_stream, int msg_number, string section [, int options])~
 

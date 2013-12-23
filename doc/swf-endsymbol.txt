@@ -1,4 +1,4 @@
-*swf_endsymbol* -- End the definition of a symbol
+swf_endsymbol -- End the definition of a symbol
 
   void swf_endsymbol()~
 

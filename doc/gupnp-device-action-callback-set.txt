@@ -1,4 +1,4 @@
-*gupnp_device_action_callback_set* -- Set device callback function
+gupnp_device_action_callback_set -- Set device callback function
 
   bool gupnp_device_action_callback_set(resource root_device, int signal, string action_name, mixed callback [, mixed arg])~
 

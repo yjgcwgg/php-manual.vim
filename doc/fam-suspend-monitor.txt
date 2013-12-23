@@ -1,4 +1,4 @@
-*fam_suspend_monitor* -- Temporarily suspend monitoring
+fam_suspend_monitor -- Temporarily suspend monitoring
 
   bool fam_suspend_monitor(resource fam, resource fam_monitor)~
 

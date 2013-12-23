@@ -1,4 +1,4 @@
-*ftp_rename* -- Renames a file or a directory on the FTP server
+ftp_rename -- Renames a file or a directory on the FTP server
 
   bool ftp_rename(resource ftp_stream, string oldname, string newname)~
 

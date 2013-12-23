@@ -1,9 +1,17 @@
-*mysql_list_dbs* -- List databases available on a MySQL server
+mysql_list_dbs -- List databases available on a MySQL server
+
+This extension is deprecated as of PHP 5.5.0, and will be removed in the
+future. Instead, the MySQLi or PDO_MySQL extension should be used. See also
+MySQL: choosing an API guide and related FAQ for more information.
+Alternatives to this function include:
 
   resource mysql_list_dbs([resource link_identifier])~
 
 Returns a result pointer containing the databases available from the current
 mysql daemon.
+
+This function has been DEPRECATED as of PHP 5.4.0. Relying on this function is
+highly discouraged.
 
 { link_identifier}The MySQL connection. If the link identifier is not
 specified, the last link opened by |mysql_connect| is assumed. If no such link
@@ -18,6 +26,15 @@ for result tables, such as |mysql_fetch_array|.
 |mysql_list_dbs| example
 
 <?php >
+  // Usage without mysql_list_dbs()
+  $link = mysql_connect('localhost', 'mysql_user', 'mysql_password');
+  $res = mysql_query("SHOW DATABASES");
+  
+  while ($row = mysql_fetch_assoc($res)) {
+      echo $row['Database'] . "\n";
+  }
+  
+  // Deprecated as of PHP 5.4.0
   $link = mysql_connect('localhost', 'mysql_user', 'mysql_password');
   $db_list = mysql_list_dbs($link);
   

@@ -1,4 +1,4 @@
-*msession_find* -- Find all sessions with name and value
+msession_find -- Find all sessions with name and value
 
   array msession_find(string name, string value)~
 

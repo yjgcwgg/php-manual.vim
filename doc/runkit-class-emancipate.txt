@@ -1,4 +1,4 @@
-*runkit_class_emancipate* -- Convert an inherited class to a base class, removes
+runkit_class_emancipate -- Convert an inherited class to a base class, removes
 any method whose scope is ancestral
 
   bool runkit_class_emancipate(string classname)~

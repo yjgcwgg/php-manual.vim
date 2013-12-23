@@ -1,4 +1,4 @@
-*__halt_compiler* -- Halts the compiler execution
+__halt_compiler -- Halts the compiler execution
 
   void __halt_compiler()~
 

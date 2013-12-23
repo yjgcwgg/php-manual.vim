@@ -1,4 +1,4 @@
-*ps_set_info* -- Sets information fields of document
+ps_set_info -- Sets information fields of document
 
   bool ps_set_info(resource p, string key, string val)~
 

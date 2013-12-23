@@ -1,4 +1,4 @@
-*user_error* -- Alias of trigger_error
+user_error -- Alias of trigger_error
 
 This function is an alias of: |trigger_error|.
 

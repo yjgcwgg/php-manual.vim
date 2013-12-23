@@ -1,4 +1,4 @@
-*PDF_get_pdi_parameter* -- Get PDI string parameter [deprecated]
+PDF_get_pdi_parameter -- Get PDI string parameter [deprecated]
 
   string PDF_get_pdi_parameter(resource p, string key, int doc, int page, int reserved)~
 

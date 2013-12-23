@@ -1,4 +1,4 @@
-*id3_get_tag* -- Get all information stored in an ID3 tag
+id3_get_tag -- Get all information stored in an ID3 tag
 
   array id3_get_tag(string filename [, int version])~
 

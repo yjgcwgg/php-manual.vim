@@ -1,4 +1,4 @@
-*PDF_begin_page_ext* -- Start new page
+PDF_begin_page_ext -- Start new page
 
   bool PDF_begin_page_ext(resource pdfdoc, float width, float height, string optlist)~
 

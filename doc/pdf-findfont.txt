@@ -1,4 +1,4 @@
-*PDF_findfont* -- Prepare font for later use [deprecated]
+PDF_findfont -- Prepare font for later use [deprecated]
 
   int PDF_findfont(resource p, string fontname, string encoding, int embed)~
 

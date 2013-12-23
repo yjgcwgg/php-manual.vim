@@ -1,4 +1,4 @@
-*udm_clear_search_limits* -- Clear all mnoGoSearch search restrictions
+udm_clear_search_limits -- Clear all mnoGoSearch search restrictions
 
   bool udm_clear_search_limits(resource agent)~
 

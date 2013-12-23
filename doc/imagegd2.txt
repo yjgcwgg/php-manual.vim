@@ -1,4 +1,4 @@
-*imagegd2* -- Output GD2 image to browser or file
+imagegd2 -- Output GD2 image to browser or file
 
   bool imagegd2(resource image [, string filename [, int chunk_size [, int type]]])~
 

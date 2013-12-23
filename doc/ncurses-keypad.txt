@@ -1,4 +1,4 @@
-*ncurses_keypad* -- Turns keypad on or off
+ncurses_keypad -- Turns keypad on or off
 
   int ncurses_keypad(resource window, bool bf)~
 

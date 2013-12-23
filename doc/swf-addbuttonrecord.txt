@@ -1,4 +1,4 @@
-*swf_addbuttonrecord* -- Controls location, appearance and active area of the
+swf_addbuttonrecord -- Controls location, appearance and active area of the
 current button
 
   void swf_addbuttonrecord(int states, int shapeid, int depth)~

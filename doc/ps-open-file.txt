@@ -1,4 +1,4 @@
-*ps_open_file* -- Opens a file for output
+ps_open_file -- Opens a file for output
 
   bool ps_open_file(resource psdoc [, string filename])~
 

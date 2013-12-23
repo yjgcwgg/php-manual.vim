@@ -1,4 +1,4 @@
-*openal_source_stop* -- Stop playing the source
+openal_source_stop -- Stop playing the source
 
   bool openal_source_stop(resource source)~
 

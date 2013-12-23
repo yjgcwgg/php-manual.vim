@@ -1,4 +1,4 @@
-*qdom_error* -- Returns the error string from the last QDOM operation or FALSE
+qdom_error -- Returns the error string from the last QDOM operation or FALSE
 if no errors occurred
 
   string qdom_error()~

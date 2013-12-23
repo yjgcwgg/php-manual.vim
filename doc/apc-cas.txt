@@ -1,4 +1,4 @@
-*apc_cas* -- Updates an old value with a new value
+apc_cas -- Updates an old value with a new value
 
   bool apc_cas(string key, int old, int new)~
 

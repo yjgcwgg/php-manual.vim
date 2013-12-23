@@ -1,4 +1,4 @@
-*unicode_decode* -- Convert a binary string into a Unicode string
+unicode_decode -- Convert a binary string into a Unicode string
 
   unicode unicode_decode(string input, string encoding [, int errmode])~
 

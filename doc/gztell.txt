@@ -1,4 +1,4 @@
-*gztell* -- Tell gz-file pointer read/write position
+gztell -- Tell gz-file pointer read/write position
 
   int gztell(resource zp)~
 

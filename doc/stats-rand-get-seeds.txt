@@ -1,4 +1,4 @@
-*stats_rand_get_seeds* -- Not documented
+stats_rand_get_seeds -- Not documented
 
   array stats_rand_get_seeds()~
 

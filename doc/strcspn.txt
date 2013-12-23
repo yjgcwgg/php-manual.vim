@@ -1,4 +1,4 @@
-*strcspn* -- Find length of initial segment not matching mask
+strcspn -- Find length of initial segment not matching mask
 
   int strcspn(string str1, string str2 [, int start [, int length]])~
 

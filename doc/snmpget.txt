@@ -1,4 +1,4 @@
-*snmpget* -- Fetch an SNMP object
+snmpget -- Fetch an SNMP object
 
   string snmpget(string hostname, string community, string object_id [, int timeout [, int retries]])~
 
@@ -13,7 +13,7 @@ by the {object_id}.
 
 {timeout} The number of microseconds until the first timeout.
 
-{retries} The number of retries in case timeouts occur.
+{retries} The number of times to retry if timeouts occur.
 
 Returns SNMP object value on success or FALSE on error.
 

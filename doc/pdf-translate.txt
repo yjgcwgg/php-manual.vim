@@ -1,4 +1,4 @@
-*PDF_translate* -- Set origin of coordinate system
+PDF_translate -- Set origin of coordinate system
 
   bool PDF_translate(resource p, float tx, float ty)~
 

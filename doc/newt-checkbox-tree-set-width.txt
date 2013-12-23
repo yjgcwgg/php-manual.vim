@@ -1,4 +1,4 @@
-*newt_checkbox_tree_set_width* --
+newt_checkbox_tree_set_width --
 
   void newt_checkbox_tree_set_width(resource checkbox_tree, int width)~
 

@@ -1,4 +1,4 @@
-*yp_errno* -- Returns the error code of the previous operation
+yp_errno -- Returns the error code of the previous operation
 
   int yp_errno()~
 

@@ -1,4 +1,4 @@
-*id3_get_frame_short_name* -- Get the short name of an ID3v2 frame
+id3_get_frame_short_name -- Get the short name of an ID3v2 frame
 
   string id3_get_frame_short_name(string frameId)~
 

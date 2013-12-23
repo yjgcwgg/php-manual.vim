@@ -1,4 +1,4 @@
-*floor* -- Round fractions down
+floor -- Round fractions down
 
   float floor(float value)~
 

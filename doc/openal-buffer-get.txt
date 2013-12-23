@@ -1,4 +1,4 @@
-*openal_buffer_get* -- Retrieve an OpenAL buffer property
+openal_buffer_get -- Retrieve an OpenAL buffer property
 
   int openal_buffer_get(resource buffer, int property)~
 

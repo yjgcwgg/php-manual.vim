@@ -1,4 +1,4 @@
-*wincache_ucache_clear* -- Deletes entire content of the user cache
+wincache_ucache_clear -- Deletes entire content of the user cache
 
   bool wincache_ucache_clear()~
 

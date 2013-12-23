@@ -1,4 +1,4 @@
-*vpopmail_add_alias_domain* -- Add an alias for a virtual domain
+vpopmail_add_alias_domain -- Add an alias for a virtual domain
 
   bool vpopmail_add_alias_domain(string domain, string aliasdomain)~
 

@@ -1,4 +1,4 @@
-*imagecopyresized* -- Copy and resize part of an image
+imagecopyresized -- Copy and resize part of an image
 
   bool imagecopyresized(resource dst_image, resource src_image, int dst_x, int dst_y, int src_x, int src_y, int dst_w, int dst_h, int src_w, int src_h)~
 
@@ -47,7 +47,7 @@ Resizing an image This example will display the image at half size.
   $percent = 0.5;
   
   // Content type
-  header('Content-type: image/jpeg');
+  header('Content-Type: image/jpeg');
   
   // Get new sizes
   list($width, $height) = getimagesize($filename);

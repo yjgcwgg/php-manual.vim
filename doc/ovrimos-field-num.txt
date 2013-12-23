@@ -1,4 +1,4 @@
-*ovrimos_field_num* -- Returns the (1-based) index of the output column
+ovrimos_field_num -- Returns the (1-based) index of the output column
 
   int ovrimos_field_num(int result_id, string field_name)~
 

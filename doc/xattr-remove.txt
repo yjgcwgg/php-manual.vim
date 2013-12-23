@@ -1,4 +1,4 @@
-*xattr_remove* -- Remove an extended attribute
+xattr_remove -- Remove an extended attribute
 
   bool xattr_remove(string filename, string name [, int flags])~
 

@@ -1,4 +1,4 @@
-*ncurses_termname* -- Returns terminals (short)-name
+ncurses_termname -- Returns terminals (short)-name
 
   string ncurses_termname()~
 

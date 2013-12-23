@@ -1,4 +1,4 @@
-*pg_field_table* -- Returns the name or oid of the tables field
+pg_field_table -- Returns the name or oid of the tables field
 
   mixed pg_field_table(resource result, int field_number [, bool oid_only])~
 

@@ -1,4 +1,4 @@
-*classkit_import* -- Import new class method definitions from a file
+classkit_import -- Import new class method definitions from a file
 
   array classkit_import(string filename)~
 

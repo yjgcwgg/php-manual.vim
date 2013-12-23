@@ -1,8 +1,8 @@
-*XMLWriter::writeDTD* -- Write full DTD tag
+xmlwriter_write_dtd -- Write full DTD tag
 
 Object oriented style
 
-  bool writeDTD(string name [, string publicId [, string systemId [, string subset]]])~
+  bool XMLWriter::writeDTD(string name [, string publicId [, string systemId [, string subset]]])~
 
 Procedural style
 

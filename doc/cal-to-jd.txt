@@ -1,4 +1,4 @@
-*cal_to_jd* -- Converts from a supported calendar to Julian Day Count
+cal_to_jd -- Converts from a supported calendar to Julian Day Count
 
   int cal_to_jd(int calendar, int month, int day, int year)~
 

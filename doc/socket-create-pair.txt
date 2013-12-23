@@ -1,4 +1,4 @@
-*socket_create_pair* -- Creates a pair of indistinguishable sockets and stores
+socket_create_pair -- Creates a pair of indistinguishable sockets and stores
 them in an array
 
   bool socket_create_pair(int domain, int type, int protocol, array fd)~

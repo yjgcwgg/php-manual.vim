@@ -1,4 +1,4 @@
-*fbsql_get_autostart_info* --
+fbsql_get_autostart_info --
 
   array fbsql_get_autostart_info([resource link_identifier])~
 

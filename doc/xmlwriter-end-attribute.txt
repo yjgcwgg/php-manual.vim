@@ -1,8 +1,8 @@
-*XMLWriter::endAttribute* -- End attribute
+xmlwriter_end_attribute -- End attribute
 
 Object oriented style
 
-  bool endAttribute()~
+  bool XMLWriter::endAttribute()~
 
 Procedural style
 

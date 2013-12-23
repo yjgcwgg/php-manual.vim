@@ -1,4 +1,4 @@
-*filepro_fieldname* -- Gets the name of a field
+filepro_fieldname -- Gets the name of a field
 
   string filepro_fieldname(int field_number)~
 

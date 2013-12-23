@@ -1,8 +1,8 @@
-*XMLWriter::outputMemory* -- Returns current buffer
+xmlwriter_output_memory -- Returns current buffer
 
 Object oriented style
 
-  string outputMemory([bool flush])~
+  string XMLWriter::outputMemory([bool flush])~
 
 Procedural style
 
@@ -14,7 +14,7 @@ Returns the current buffer.
 modified. This resource comes from a call to |xmlwriter_open_uri| or
 |xmlwriter_open_memory|.
 
-{flush} Whether to flush the output buffer or no. Default is TRUE.
+{flush} Whether to flush the output buffer or not. Default is TRUE.
 
 Returns the current buffer as a string.
 

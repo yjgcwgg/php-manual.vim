@@ -1,4 +1,4 @@
-*str_rot13* -- Perform the rot13 transform on a string
+str_rot13 -- Perform the rot13 transform on a string
 
   string str_rot13(string str)~
 

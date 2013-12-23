@@ -1,4 +1,4 @@
-*swf_getfontinfo* -- Gets font information
+swf_getfontinfo -- Gets font information
 
   array swf_getfontinfo()~
 

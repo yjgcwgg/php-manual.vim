@@ -1,4 +1,4 @@
-*gnupg_keyinfo* -- Returns an array with information about all keys that matches
+gnupg_keyinfo -- Returns an array with information about all keys that matches
 the given pattern
 
   array gnupg_keyinfo(resource identifier, string pattern)~

@@ -1,4 +1,4 @@
-*PDF_add_textflow* -- Create Textflow or add text to existing Textflow
+PDF_add_textflow -- Create Textflow or add text to existing Textflow
 
   int PDF_add_textflow(resource pdfdoc, int textflow, string text, string optlist)~
 

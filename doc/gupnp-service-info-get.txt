@@ -1,4 +1,4 @@
-*gupnp_service_info_get* -- Get full info of service
+gupnp_service_info_get -- Get full info of service
 
   array gupnp_service_info_get(resource proxy)~
 

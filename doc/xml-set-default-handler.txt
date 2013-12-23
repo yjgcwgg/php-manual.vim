@@ -1,6 +1,6 @@
-*xml_set_default_handler* -- Set up default handler
+xml_set_default_handler -- Set up default handler
 
-  bool xml_set_default_handler(resource parser, callback handler)~
+  bool xml_set_default_handler(resource parser, callable handler)~
 
 Sets the default handler function for the XML parser {parser}.
 
@@ -9,7 +9,7 @@ Sets the default handler function for the XML parser {parser}.
 {handler} {handler} is a string containing the name of a function that must
 exist when |xml_parse| is called for {parser}.
 
-  bool (resource parser, callback handler, resource parser, string data)~
+  bool (resource parser, callable handler, resource parser, string data)~
 
 The function named by {handler} must accept two parameters: {parser} The first
 parameter, parser, is a reference to the XML parser calling the handler.

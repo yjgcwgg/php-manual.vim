@@ -1,4 +1,4 @@
-*swf_actionprevframe* -- Go backwards one frame
+swf_actionprevframe -- Go backwards one frame
 
   void swf_actionprevframe()~
 

@@ -1,4 +1,4 @@
-*readgzfile* -- Output a gz-file
+readgzfile -- Output a gz-file
 
   int readgzfile(string filename [, int use_include_path])~
 

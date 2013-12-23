@@ -1,4 +1,4 @@
-*newt_scrollbar_set* --
+newt_scrollbar_set --
 
   void newt_scrollbar_set(resource scrollbar, int where, int total)~
 

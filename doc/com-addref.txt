@@ -1,4 +1,4 @@
-*com_addref* -- Increases the components reference counter [deprecated]
+com_addref -- Increases the components reference counter [deprecated]
 
   void com_addref()~
 

@@ -1,4 +1,4 @@
-*urlencode* -- URL-encodes string
+urlencode -- URL-encodes string
 
   string urlencode(string str)~
 

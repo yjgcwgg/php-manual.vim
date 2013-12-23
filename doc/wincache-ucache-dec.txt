@@ -1,4 +1,4 @@
-*wincache_ucache_dec* -- Decrements the value associated with the key
+wincache_ucache_dec -- Decrements the value associated with the key
 
   mixed wincache_ucache_dec(string key [, int dec_by [, bool success]])~
 

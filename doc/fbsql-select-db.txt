@@ -1,4 +1,4 @@
-*fbsql_select_db* -- Select a FrontBase database
+fbsql_select_db -- Select a FrontBase database
 
   bool fbsql_select_db([string database_name [, resource link_identifier]])~
 

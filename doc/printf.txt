@@ -1,4 +1,4 @@
-*printf* -- Output a formatted string
+printf -- Output a formatted string
 
   int printf(string format [, mixed args [, mixed ...]])~
 

@@ -1,4 +1,4 @@
-*dbase_create* -- Creates a database
+dbase_create -- Creates a database
 
   int dbase_create(string filename, array fields)~
 

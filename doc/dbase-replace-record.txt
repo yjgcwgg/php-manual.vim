@@ -1,4 +1,4 @@
-*dbase_replace_record* -- Replaces a record in a database
+dbase_replace_record -- Replaces a record in a database
 
   bool dbase_replace_record(int dbase_identifier, array record, int record_number)~
 

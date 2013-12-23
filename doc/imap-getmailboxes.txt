@@ -1,4 +1,4 @@
-*imap_getmailboxes* -- Read the list of mailboxes, returning detailed
+imap_getmailboxes -- Read the list of mailboxes, returning detailed
 information on each one
 
   array imap_getmailboxes(resource imap_stream, string ref, string pattern)~

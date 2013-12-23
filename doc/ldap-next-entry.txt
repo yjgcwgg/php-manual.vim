@@ -1,4 +1,4 @@
-*ldap_next_entry* -- Get next result entry
+ldap_next_entry -- Get next result entry
 
   resource ldap_next_entry(resource link_identifier, resource result_entry_identifier)~
 

@@ -1,4 +1,4 @@
-*ifx_fieldproperties* -- List of SQL fieldproperties
+ifx_fieldproperties -- List of SQL fieldproperties
 
   array ifx_fieldproperties(resource result_id)~
 

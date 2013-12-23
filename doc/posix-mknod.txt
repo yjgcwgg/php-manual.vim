@@ -1,4 +1,4 @@
-*posix_mknod* -- Create a special or ordinary file (POSIX.1)
+posix_mknod -- Create a special or ordinary file (POSIX.1)
 
   bool posix_mknod(string pathname, int mode [, int major [, int minor]])~
 

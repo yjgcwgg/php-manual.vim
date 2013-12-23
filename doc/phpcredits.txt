@@ -1,4 +1,4 @@
-*phpcredits* -- Prints out the credits for PHP
+phpcredits -- Prints out the credits for PHP
 
   bool phpcredits([int flag])~
 
@@ -60,6 +60,8 @@ Printing all the credits
 
 
 
+
+|phpcredits| outputs plain text instead of HTML when using the CLI mode.
 
 |phpversion| |php_logo_guid| |phpinfo|
 

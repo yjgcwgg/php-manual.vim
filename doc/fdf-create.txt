@@ -1,4 +1,4 @@
-*fdf_create* -- Create a new FDF document
+fdf_create -- Create a new FDF document
 
   resource fdf_create()~
 

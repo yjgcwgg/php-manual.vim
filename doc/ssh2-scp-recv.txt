@@ -1,4 +1,4 @@
-*ssh2_scp_recv* -- Request a file via SCP
+ssh2_scp_recv -- Request a file via SCP
 
   bool ssh2_scp_recv(resource session, string remote_file, string local_file)~
 

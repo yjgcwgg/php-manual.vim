@@ -1,4 +1,4 @@
-*ps_string_geometry* -- Gets geometry of a string
+ps_string_geometry -- Gets geometry of a string
 
   array ps_string_geometry(resource psdoc, string text [, int fontid [, float size]])~
 

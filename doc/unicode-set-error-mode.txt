@@ -1,4 +1,4 @@
-*unicode_set_error_mode* -- Set the error mode for strings conversions
+unicode_set_error_mode -- Set the error mode for strings conversions
 
   bool unicode_set_error_mode(int direction, int mode)~
 

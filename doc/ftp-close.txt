@@ -1,4 +1,4 @@
-*ftp_close* -- Closes an FTP connection
+ftp_close -- Closes an FTP connection
 
   bool ftp_close(resource ftp_stream)~
 

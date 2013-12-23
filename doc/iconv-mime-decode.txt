@@ -1,4 +1,4 @@
-*iconv_mime_decode* -- Decodes a MIME header field
+iconv_mime_decode -- Decodes a MIME header field
 
   string iconv_mime_decode(string encoded_header [, int mode [, string charset]])~
 

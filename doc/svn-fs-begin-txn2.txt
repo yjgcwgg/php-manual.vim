@@ -1,4 +1,4 @@
-*svn_fs_begin_txn2* -- Create a new transaction
+svn_fs_begin_txn2 -- Create a new transaction
 
   resource svn_fs_begin_txn2(resource repos, int rev)~
 

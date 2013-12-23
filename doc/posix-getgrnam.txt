@@ -1,4 +1,4 @@
-*posix_getgrnam* -- Return info about a group by name
+posix_getgrnam -- Return info about a group by name
 
   array posix_getgrnam(string name)~
 

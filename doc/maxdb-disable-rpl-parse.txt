@@ -1,4 +1,4 @@
-*maxdb_disable_rpl_parse* -- Disable RPL parse
+maxdb_disable_rpl_parse -- Disable RPL parse
 
   bool maxdb_disable_rpl_parse(resource link)~
 

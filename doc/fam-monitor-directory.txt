@@ -1,4 +1,4 @@
-*fam_monitor_directory* -- Monitor a directory for changes
+fam_monitor_directory -- Monitor a directory for changes
 
   resource fam_monitor_directory(resource fam, string dirname)~
 

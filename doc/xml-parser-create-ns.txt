@@ -1,4 +1,4 @@
-*xml_parser_create_ns* -- Create an XML parser with namespace support
+xml_parser_create_ns -- Create an XML parser with namespace support
 
   resource xml_parser_create_ns([string encoding [, string separator]])~
 
@@ -16,7 +16,7 @@ ISO-8859-1, UTF-8 and US-ASCII.
 
 {separator} With a namespace aware parser tag parameters passed to the various
 handler functions will consist of namespace and tag name separated by the
-string specified in {seperator}.
+string specified in {separator}.
 
 Returns a resource handle for the new XML parser.
 

@@ -1,4 +1,4 @@
-*win32_start_service_ctrl_dispatcher* -- Registers the script with the SCM, so
+win32_start_service_ctrl_dispatcher -- Registers the script with the SCM, so
 that it can act as the service with the given name
 
   mixed win32_start_service_ctrl_dispatcher(string name)~

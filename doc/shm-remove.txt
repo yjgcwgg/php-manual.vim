@@ -1,4 +1,4 @@
-*shm_remove* -- Removes shared memory from Unix systems
+shm_remove -- Removes shared memory from Unix systems
 
   bool shm_remove(resource shm_identifier)~
 

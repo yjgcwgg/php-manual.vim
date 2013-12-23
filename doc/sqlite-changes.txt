@@ -1,11 +1,11 @@
-*SQLiteDatabase->changes* -- Returns the number of rows that were changed by the
+SQLiteDatabase::changes -- Returns the number of rows that were changed by the
 most recent SQL statement
 
   int sqlite_changes(resource dbhandle)~
 
 Object oriented style (method):
 
-  int changes(resource dbhandle)~
+  int SQLiteDatabase::changes(resource dbhandle)~
 
 Returns the numbers of rows that were changed by the most recent SQL statement
 executed against the {dbhandle} database handle.

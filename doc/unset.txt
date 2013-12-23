@@ -1,6 +1,6 @@
-*unset* -- Unset a given variable
+unset -- Unset a given variable
 
-  void unset(mixed var [, mixed var [, mixed ...]])~
+  void unset(mixed var [, mixed ...])~
 
 |unset| destroys the specified variables.
 
@@ -91,9 +91,7 @@ The above example will output:
 
 {var} The variable to be unset.
 
-{var} Another variable ..
-
-{...}
+{...} Another variable ...
 
 No value is returned.
 
@@ -114,28 +112,34 @@ Version Description 4.0.1 Added support for multiple arguments.
 
 
 
-Using (unset) casting
+Using (unset) casting (unset) casting is often confused with the |unset|
+function. (unset) casting serves only as a NULL-type cast, for completeness.
+It does not alter the variable it's casting.
 
 <?php >
   $name = 'Felipe';
   
   var_dump((unset) $name);
+  var_dump($name);
 ?>
 
+The above example will output:
 
+  NULL
+  string(6) "Felipe"
 
 
 
 Because this is a language construct and not a function, it cannot be called
-using variable functions
+using variable functions.
 
 It is possible to unset even object properties visible in current context.
 
 It is not possible to unset $this inside an object method since PHP 5.
 
-When using |unset| on inaccessible object properties, the __unset overloading
-method will be called, if declared.
+When using |unset| on inaccessible object properties, the __unset()
+overloading method will be called, if declared.
 
-|isset| |empty| __unset |array_splice|
+|isset| |empty| __unset() |array_splice|
 
 vim:ft=help:

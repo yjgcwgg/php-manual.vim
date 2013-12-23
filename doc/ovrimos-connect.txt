@@ -1,4 +1,4 @@
-*ovrimos_connect* -- Connect to the specified database
+ovrimos_connect -- Connect to the specified database
 
   int ovrimos_connect(string host, string dborport, string user, string password)~
 

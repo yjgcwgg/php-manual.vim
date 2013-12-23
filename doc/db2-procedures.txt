@@ -1,4 +1,4 @@
-*db2_procedures* -- Returns a result set listing the stored procedures
+db2_procedures -- Returns a result set listing the stored procedures
 registered in a database
 
   resource db2_procedures(resource connection, string qualifier, string schema, string procedure)~

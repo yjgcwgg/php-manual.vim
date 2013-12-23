@@ -1,4 +1,4 @@
-*mcrypt_list_algorithms* -- Gets an array of all supported ciphers
+mcrypt_list_algorithms -- Gets an array of all supported ciphers
 
   array mcrypt_list_algorithms([string lib_dir])~
 

@@ -1,4 +1,4 @@
-*oci_field_scale* -- Tell the scale of the field
+oci_field_scale -- Tell the scale of the field
 
   int oci_field_scale(resource statement, int field)~
 

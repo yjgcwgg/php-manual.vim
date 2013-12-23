@@ -1,4 +1,4 @@
-*yaz_es* -- Prepares for an Extended Service Request
+yaz_es -- Prepares for an Extended Service Request
 
   void yaz_es(resource id, string type, array args)~
 

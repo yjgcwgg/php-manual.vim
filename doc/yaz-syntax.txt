@@ -1,4 +1,4 @@
-*yaz_syntax* -- Specifies the preferred record syntax for retrieval
+yaz_syntax -- Specifies the preferred record syntax for retrieval
 
   void yaz_syntax(resource id, string syntax)~
 

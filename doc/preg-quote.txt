@@ -1,4 +1,4 @@
-*preg_quote* -- Quote regular expression characters
+preg_quote -- Quote regular expression characters
 
   string preg_quote(string str [, string delimiter])~
 

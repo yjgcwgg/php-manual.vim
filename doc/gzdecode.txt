@@ -1,4 +1,4 @@
-*gzdecode* -- Decodes a gzip compressed string
+gzdecode -- Decodes a gzip compressed string
 
   string gzdecode(string data [, int length])~
 

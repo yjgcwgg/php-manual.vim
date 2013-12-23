@@ -1,10 +1,10 @@
-*ps_add_note* -- Adds note to current page
+ps_add_note -- Adds note to current page
 
   bool ps_add_note(resource psdoc, float llx, float lly, float urx, float ury, string contents, string title, string icon, int open)~
 
 Adds a note at a certain position on the page. Notes are like little
 rectangular sheets with text on it, which can be placed anywhere on a page.
-They are shown either folded or unfolded. If unfolded, the specified icon is
+They are shown either folded or unfolded. If folded, the specified icon is
 used as a placeholder.
 
 The note will not be visible if the document is printed or viewed but it will

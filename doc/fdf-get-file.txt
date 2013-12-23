@@ -1,4 +1,4 @@
-*fdf_get_file* -- Get the value of the /F key
+fdf_get_file -- Get the value of the /F key
 
   string fdf_get_file(resource fdf_document)~
 

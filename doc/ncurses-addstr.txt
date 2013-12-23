@@ -1,4 +1,4 @@
-*ncurses_addstr* -- Output text at current position
+ncurses_addstr -- Output text at current position
 
   int ncurses_addstr(string text)~
 

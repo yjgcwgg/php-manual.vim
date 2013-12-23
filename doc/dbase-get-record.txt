@@ -1,4 +1,4 @@
-*dbase_get_record* -- Gets a record from a database as an indexed array
+dbase_get_record -- Gets a record from a database as an indexed array
 
   array dbase_get_record(int dbase_identifier, int record_number)~
 

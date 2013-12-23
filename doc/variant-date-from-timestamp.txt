@@ -1,4 +1,4 @@
-*variant_date_from_timestamp* -- Returns a variant date representation of a Unix
+variant_date_from_timestamp -- Returns a variant date representation of a Unix
 timestamp
 
   variant variant_date_from_timestamp(int timestamp)~

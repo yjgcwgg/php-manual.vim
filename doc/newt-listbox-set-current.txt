@@ -1,4 +1,4 @@
-*newt_listbox_set_current* --
+newt_listbox_set_current --
 
   void newt_listbox_set_current(resource listbox, int num)~
 

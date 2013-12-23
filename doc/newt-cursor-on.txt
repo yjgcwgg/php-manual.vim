@@ -1,4 +1,4 @@
-*newt_cursor_on* --
+newt_cursor_on --
 
   void newt_cursor_on()~
 

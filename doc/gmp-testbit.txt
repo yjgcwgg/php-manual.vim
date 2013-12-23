@@ -1,4 +1,4 @@
-*gmp_testbit* -- Tests if a bit is set
+gmp_testbit -- Tests if a bit is set
 
   bool gmp_testbit(resource a, int index)~
 
@@ -9,9 +9,10 @@ is possible to convert the latter to a number.
 
 {index} The bit to test
 
-Returns TRUE on success or &false; on failure.
+Returns TRUE if the bit is set in resource {$a}, otherwise FALSE.
 
-E_WARNING is issued when {index} is less than zero.
+An E_WARNING level error is issued when {index} is less than zero, and FALSE
+is returned.
 
 |gmp_testbit| example
 

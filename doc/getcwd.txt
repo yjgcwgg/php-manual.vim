@@ -1,4 +1,4 @@
-*getcwd* -- Gets the current working directory
+getcwd -- Gets the current working directory
 
   string getcwd()~
 

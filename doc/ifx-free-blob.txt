@@ -1,4 +1,4 @@
-*ifx_free_blob* -- Deletes the blob object
+ifx_free_blob -- Deletes the blob object
 
   bool ifx_free_blob(int bid)~
 

@@ -1,4 +1,4 @@
-*db2_server_info* -- Returns an object with properties that describe the DB2
+db2_server_info -- Returns an object with properties that describe the DB2
 database server
 
   object db2_server_info(resource connection)~

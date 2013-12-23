@@ -1,10 +1,10 @@
-*SQLiteResult->prev* -- Seek to the previous row number of a result set
+SQLiteResult::prev -- Seek to the previous row number of a result set
 
   bool sqlite_prev(resource result)~
 
 Object oriented style (method):
 
-  bool prev(resource result)~
+  bool SQLiteResult::prev(resource result)~
 
 |sqlite_prev| seeks back the {result} handle to the previous row.
 

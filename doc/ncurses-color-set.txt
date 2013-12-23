@@ -1,4 +1,4 @@
-*ncurses_color_set* -- Set active foreground and background colors
+ncurses_color_set -- Set active foreground and background colors
 
   int ncurses_color_set(int pair)~
 

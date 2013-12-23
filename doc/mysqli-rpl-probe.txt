@@ -1,4 +1,4 @@
-*mysqli_rpl_probe* -- RPL probe
+mysqli_rpl_probe -- RPL probe
 
   bool mysqli_rpl_probe(mysqli link)~
 

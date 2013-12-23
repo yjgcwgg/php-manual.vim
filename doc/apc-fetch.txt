@@ -1,4 +1,4 @@
-*apc_fetch* -- Fetch a stored variable from the cache
+apc_fetch -- Fetch a stored variable from the cache
 
   mixed apc_fetch(mixed key [, bool success])~
 

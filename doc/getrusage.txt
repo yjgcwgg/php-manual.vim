@@ -1,4 +1,4 @@
-*getrusage* -- Gets the current resource usages
+getrusage -- Gets the current resource usages
 
   array getrusage([int who])~
 

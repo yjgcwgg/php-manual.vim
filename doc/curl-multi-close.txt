@@ -1,4 +1,4 @@
-*curl_multi_close* -- Close a set of cURL handles
+curl_multi_close -- Close a set of cURL handles
 
   void curl_multi_close(resource mh)~
 

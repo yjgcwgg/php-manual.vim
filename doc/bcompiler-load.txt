@@ -1,4 +1,4 @@
-*bcompiler_load* -- Reads and creates classes from a bz compressed file
+bcompiler_load -- Reads and creates classes from a bz compressed file
 
   bool bcompiler_load(string filename)~
 

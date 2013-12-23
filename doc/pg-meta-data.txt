@@ -1,4 +1,4 @@
-*pg_meta_data* -- Get meta data for table
+pg_meta_data -- Get meta data for table
 
   array pg_meta_data(resource connection, string table_name)~
 

@@ -1,4 +1,4 @@
-*wincache_ucache_info* -- Retrieves information about data stored in the user
+wincache_ucache_info -- Retrieves information about data stored in the user
 cache
 
   array wincache_ucache_info([bool summaryonly [, string key]])~
@@ -10,7 +10,7 @@ about individual cache entries along with the user cache summary.
 
 {key} The key of an entry in the user cache. If specified then the returned
 array will contain information only about that cache entry. If not specified
-and {summaryonly} is set to false then the returned array will contain
+and {summaryonly} is set to FALSE then the returned array will contain
 information about all entries in the cache.
 
 Array of meta data about user cache or FALSE on failure

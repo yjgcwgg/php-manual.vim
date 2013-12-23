@@ -1,4 +1,4 @@
-*ncurses_wstandout* -- Enter standout mode for a window
+ncurses_wstandout -- Enter standout mode for a window
 
   int ncurses_wstandout(resource window)~
 

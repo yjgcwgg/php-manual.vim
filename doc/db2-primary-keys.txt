@@ -1,4 +1,4 @@
-*db2_primary_keys* -- Returns a result set listing primary keys for a table
+db2_primary_keys -- Returns a result set listing primary keys for a table
 
   resource db2_primary_keys(resource connection, string qualifier, string schema, string table-name)~
 

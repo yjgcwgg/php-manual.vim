@@ -1,4 +1,4 @@
-*variant_cmp* -- Compares two variants
+variant_cmp -- Compares two variants
 
   int variant_cmp(mixed left, mixed right [, int lcid [, int flags]])~
 

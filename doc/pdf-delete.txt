@@ -1,4 +1,4 @@
-*PDF_delete* -- Delete PDFlib object
+PDF_delete -- Delete PDFlib object
 
   bool PDF_delete(resource pdfdoc)~
 

@@ -1,4 +1,4 @@
-*openssl_pkey_export* -- Gets an exportable representation of a key into a
+openssl_pkey_export -- Gets an exportable representation of a key into a
 string
 
   bool openssl_pkey_export(mixed key, string out [, string passphrase [, array configargs]])~

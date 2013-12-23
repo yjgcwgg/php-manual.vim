@@ -1,4 +1,4 @@
-*runkit_method_redefine* -- Dynamically changes the code of the given method
+runkit_method_redefine -- Dynamically changes the code of the given method
 
   bool runkit_method_redefine(string classname, string methodname, string args, string code [, int flags])~
 

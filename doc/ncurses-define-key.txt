@@ -1,4 +1,4 @@
-*ncurses_define_key* -- Define a keycode
+ncurses_define_key -- Define a keycode
 
   int ncurses_define_key(string definition, int keycode)~
 

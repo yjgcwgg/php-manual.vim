@@ -1,4 +1,4 @@
-*msql_fetch_array* -- Fetch row as array
+msql_fetch_array -- Fetch row as array
 
   array msql_fetch_array(resource result [, int result_type])~
 

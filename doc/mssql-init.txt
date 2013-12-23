@@ -1,4 +1,4 @@
-*mssql_init* -- Initializes a stored procedure or a remote stored procedure
+mssql_init -- Initializes a stored procedure or a remote stored procedure
 
   resource mssql_init(string sp_name [, resource link_identifier])~
 

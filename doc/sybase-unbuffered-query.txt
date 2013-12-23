@@ -1,4 +1,4 @@
-*sybase_unbuffered_query* -- Send a Sybase query and do not block
+sybase_unbuffered_query -- Send a Sybase query and do not block
 
   resource sybase_unbuffered_query(string query, resource link_identifier [, bool store_result])~
 

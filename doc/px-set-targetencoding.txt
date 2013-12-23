@@ -1,4 +1,4 @@
-*px_set_targetencoding* -- Sets the encoding for character fields (deprecated)
+px_set_targetencoding -- Sets the encoding for character fields (deprecated)
 
   bool px_set_targetencoding(resource pxdoc, string encoding)~
 

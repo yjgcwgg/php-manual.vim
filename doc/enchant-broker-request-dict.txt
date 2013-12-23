@@ -1,4 +1,4 @@
-*enchant_broker_request_dict* -- create a new dictionary using a tag
+enchant_broker_request_dict -- create a new dictionary using a tag
 
   resource enchant_broker_request_dict(resource broker, string tag)~
 

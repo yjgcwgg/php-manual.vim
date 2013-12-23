@@ -1,4 +1,4 @@
-*ps_rotate* -- Sets rotation factor
+ps_rotate -- Sets rotation factor
 
   bool ps_rotate(resource psdoc, float rot)~
 

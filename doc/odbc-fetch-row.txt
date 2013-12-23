@@ -1,4 +1,4 @@
-*odbc_fetch_row* -- Fetch a row
+odbc_fetch_row -- Fetch a row
 
   bool odbc_fetch_row(resource result_id [, int row_number])~
 

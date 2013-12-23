@@ -1,4 +1,4 @@
-*db2_execute* -- Executes a prepared SQL statement
+db2_execute -- Executes a prepared SQL statement
 
   bool db2_execute(resource stmt [, array parameters])~
 

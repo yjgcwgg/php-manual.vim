@@ -1,4 +1,4 @@
-*maxdb_stmt::close* -- Closes a prepared statement
+maxdb_stmt::close -- Closes a prepared statement
 
 Procedural style
 

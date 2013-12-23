@@ -1,4 +1,4 @@
-*event_buffer_fd_set* -- Change a buffered event file descriptor
+event_buffer_fd_set -- Change a buffered event file descriptor
 
   void event_buffer_fd_set(resource bevent, resource fd)~
 

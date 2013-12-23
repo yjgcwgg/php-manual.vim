@@ -1,4 +1,4 @@
-*fbsql_num_fields* -- Get number of fields in result
+fbsql_num_fields -- Get number of fields in result
 
   int fbsql_num_fields(resource result)~
 

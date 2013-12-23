@@ -1,4 +1,4 @@
-*fbsql_stop_db* -- Stop a database on local or remote server
+fbsql_stop_db -- Stop a database on local or remote server
 
   bool fbsql_stop_db(string database_name [, resource link_identifier])~
 

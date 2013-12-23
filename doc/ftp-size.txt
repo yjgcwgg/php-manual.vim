@@ -1,4 +1,4 @@
-*ftp_size* -- Returns the size of the given file
+ftp_size -- Returns the size of the given file
 
   int ftp_size(resource ftp_stream, string remote_file)~
 

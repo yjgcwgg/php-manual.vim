@@ -1,4 +1,4 @@
-*m_getcommadelimited* -- Get the RAW comma delimited data returned from MCVE
+m_getcommadelimited -- Get the RAW comma delimited data returned from MCVE
 
   string m_getcommadelimited(resource conn, int identifier)~
 

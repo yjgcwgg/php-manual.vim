@@ -1,4 +1,4 @@
-*apache_get_modules* -- Get a list of loaded Apache modules
+apache_get_modules -- Get a list of loaded Apache modules
 
   array apache_get_modules()~
 

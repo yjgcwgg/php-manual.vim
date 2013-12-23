@@ -1,4 +1,4 @@
-*odbc_field_name* -- Get the columnname
+odbc_field_name -- Get the columnname
 
   string odbc_field_name(resource result_id, int field_number)~
 

@@ -1,4 +1,4 @@
-*maxdb_result::fetch_fields* -- Returns an array of resources representing the
+maxdb_result::fetch_fields -- Returns an array of resources representing the
 fields in a result set
 
 Procedural style

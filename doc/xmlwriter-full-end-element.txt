@@ -1,8 +1,8 @@
-*XMLWriter::fullEndElement* -- End current element
+xmlwriter_full_end_element -- End current element
 
 Object oriented style
 
-  bool fullEndElement()~
+  bool XMLWriter::fullEndElement()~
 
 Procedural style
 

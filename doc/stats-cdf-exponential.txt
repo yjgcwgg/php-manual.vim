@@ -1,4 +1,4 @@
-*stats_cdf_exponential* -- Not documented
+stats_cdf_exponential -- Not documented
 
   float stats_cdf_exponential(float par1, float par2, int which)~
 

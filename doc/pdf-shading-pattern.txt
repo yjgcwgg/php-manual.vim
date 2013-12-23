@@ -1,4 +1,4 @@
-*PDF_shading_pattern* -- Define shading pattern
+PDF_shading_pattern -- Define shading pattern
 
   int PDF_shading_pattern(resource pdfdoc, int shading, string optlist)~
 

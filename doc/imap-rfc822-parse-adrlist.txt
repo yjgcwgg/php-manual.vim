@@ -1,4 +1,4 @@
-*imap_rfc822_parse_adrlist* -- Parses an address string
+imap_rfc822_parse_adrlist -- Parses an address string
 
   array imap_rfc822_parse_adrlist(string address, string default_host)~
 

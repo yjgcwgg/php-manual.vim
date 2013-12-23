@@ -1,4 +1,4 @@
-*ncurses_filter* -- Set LINES for iniscr() and newterm() to 1
+ncurses_filter -- Set LINES for iniscr() and newterm() to 1
 
   void ncurses_filter()~
 

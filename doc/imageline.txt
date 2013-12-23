@@ -1,4 +1,4 @@
-*imageline* -- Draw a line
+imageline -- Draw a line
 
   bool imageline(resource image, int x1, int y1, int x2, int y2, int color)~
 

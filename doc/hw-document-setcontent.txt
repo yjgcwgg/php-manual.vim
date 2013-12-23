@@ -1,4 +1,4 @@
-*hw_Document_SetContent* -- Sets/replaces content of hw_document
+hw_Document_SetContent -- Sets/replaces content of hw_document
 
   bool hw_document_setcontent(int hw_document, string content)~
 

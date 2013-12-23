@@ -1,4 +1,4 @@
-*runkit_function_rename* -- Change a function's name
+runkit_function_rename -- Change a function's name
 
   bool runkit_function_rename(string funcname, string newname)~
 

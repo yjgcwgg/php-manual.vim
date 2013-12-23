@@ -1,4 +1,4 @@
-*ssh2_methods_negotiated* -- Return list of negotiated methods
+ssh2_methods_negotiated -- Return list of negotiated methods
 
   array ssh2_methods_negotiated(resource session)~
 

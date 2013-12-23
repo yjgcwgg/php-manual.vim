@@ -1,4 +1,4 @@
-*ps_begin_template* -- Start a new template
+ps_begin_template -- Start a new template
 
   int ps_begin_template(resource psdoc, float width, float height)~
 

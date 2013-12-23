@@ -1,4 +1,4 @@
-*wincache_ucache_cas* -- Compares the variable with old value and assigns new
+wincache_ucache_cas -- Compares the variable with old value and assigns new
 value to it
 
   bool wincache_ucache_cas(string key, int old_value, int new_value)~

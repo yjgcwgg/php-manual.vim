@@ -1,4 +1,4 @@
-*array_splice* -- Remove a portion of the array and replace it with something
+array_splice -- Remove a portion of the array and replace it with something
 else
 
   array array_splice(array input, int offset [, int length [, mixed replacement]])~

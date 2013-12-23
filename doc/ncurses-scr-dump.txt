@@ -1,4 +1,4 @@
-*ncurses_scr_dump* -- Dump screen content to file
+ncurses_scr_dump -- Dump screen content to file
 
   int ncurses_scr_dump(string filename)~
 

@@ -1,4 +1,4 @@
-*dotnet_load* -- Loads a DOTNET module
+dotnet_load -- Loads a DOTNET module
 
   int dotnet_load(string assembly_name [, string datatype_name [, int codepage]])~
 

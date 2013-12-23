@@ -1,4 +1,4 @@
-*radius_close* -- Frees all ressources
+radius_close -- Frees all ressources
 
   bool radius_close(resource radius_handle)~
 

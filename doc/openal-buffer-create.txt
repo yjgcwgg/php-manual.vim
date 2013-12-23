@@ -1,4 +1,4 @@
-*openal_buffer_create* -- Generate OpenAL buffer
+openal_buffer_create -- Generate OpenAL buffer
 
   resource openal_buffer_create()~
 

@@ -1,4 +1,4 @@
-*event_buffer_base_set* -- Associate buffered event with an event base
+event_buffer_base_set -- Associate buffered event with an event base
 
   bool event_buffer_base_set(resource bevent, resource event_base)~
 

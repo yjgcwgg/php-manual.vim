@@ -1,4 +1,4 @@
-*mysqli_disable_rpl_parse* -- Disable RPL parse
+mysqli_disable_rpl_parse -- Disable RPL parse
 
   bool mysqli_disable_rpl_parse(mysqli link)~
 

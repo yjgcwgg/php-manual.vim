@@ -1,4 +1,4 @@
-*crack_getlastmessage* -- Returns the message from the last obscure check
+crack_getlastmessage -- Returns the message from the last obscure check
 
   string crack_getlastmessage()~
 

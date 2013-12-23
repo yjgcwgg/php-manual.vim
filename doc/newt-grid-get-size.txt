@@ -1,4 +1,4 @@
-*newt_grid_get_size* --
+newt_grid_get_size --
 
   void newt_grid_get_size(resouce grid, int width, int height)~
 

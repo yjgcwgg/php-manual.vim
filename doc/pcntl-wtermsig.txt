@@ -1,4 +1,4 @@
-*pcntl_wtermsig* -- Returns the signal which caused the child to terminate
+pcntl_wtermsig -- Returns the signal which caused the child to terminate
 
   int pcntl_wtermsig(int status)~
 

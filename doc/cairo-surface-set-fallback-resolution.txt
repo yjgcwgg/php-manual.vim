@@ -1,4 +1,4 @@
-*cairo_surface_set_fallback_resolution* -- Description
+cairo_surface_set_fallback_resolution -- Description
 
   void cairo_surface_set_fallback_resolution(CairoSurface surface, float x, float y)~
 

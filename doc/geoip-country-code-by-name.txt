@@ -1,4 +1,4 @@
-*geoip_country_code_by_name* -- Get the two letter country code
+geoip_country_code_by_name -- Get the two letter country code
 
   string geoip_country_code_by_name(string hostname)~
 
@@ -25,6 +25,9 @@ The above example will output:
   This host is located in: US
 
 
+
+Please see http://www.maxmind.com/en/iso3166 for a complete list of possible
+return values, including special codes.
 
 |geoip_country_code3_by_name| |geoip_country_name_by_name|
 

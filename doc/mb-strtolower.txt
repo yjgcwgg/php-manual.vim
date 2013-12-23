@@ -1,4 +1,4 @@
-*mb_strtolower* -- Make a string lowercase
+mb_strtolower -- Make a string lowercase
 
   string mb_strtolower(string str [, string encoding])~
 
@@ -17,7 +17,7 @@ http://www.unicode.org/unicode/reports/tr21/.
 By contrast to |strtolower|, 'alphabetic' is determined by the Unicode
 character properties. Thus the behaviour of this function is not affected by
 locale settings and it can convert any characters that have 'alphabetic'
-property, such as A-umlaut (&Auml;).
+property, such as A-umlaut (Ä).
 
 |mb_strtolower| example
 

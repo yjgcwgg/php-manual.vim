@@ -1,4 +1,4 @@
-*yaz_error* -- Returns error description
+yaz_error -- Returns error description
 
   string yaz_error(resource id)~
 

@@ -1,4 +1,4 @@
-*ncurses_slk_init* -- Initializes soft label key functions
+ncurses_slk_init -- Initializes soft label key functions
 
   bool ncurses_slk_init(int format)~
 

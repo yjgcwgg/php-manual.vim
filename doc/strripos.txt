@@ -1,30 +1,33 @@
-*strripos* -- Find position of last occurrence of a case-insensitive string in a
-string
+strripos -- Find the position of the last occurrence of a case-insensitive
+substring in a string
 
   int strripos(string haystack, string needle [, int offset])~
 
-Find position of last occurrence of a case-insensitive string in a string.
-Unlike |strrpos|, |strripos| is case-insensitive.
+Find the numeric position of the last occurrence of {needle} in the {haystack}
+string.
 
-{haystack} The string to search in
+Unlike the |strrpos|, |strripos| is case-insensitive.
 
-{needle} Note that the {needle} may be a string of one or more characters.
+{haystack} The string to search in.
 
-{offset} The {offset} parameter may be specified to begin searching an
-arbitrary number of characters into the string.
+{needle} If {needle} is not a string, it is converted to an integer and
+applied as the ordinal value of a character.
 
-Negative offset values will start the search at {offset} characters from the
-start of the string.
+{offset} If specified, search will start this number of characters counted
+from the beginning of the string. If the value is negative, search will
+instead start from that many characters from the end of the string, searching
+backwards.
 
-Returns the numerical position of the last occurrence of {needle}. Also note
-that string positions start at 0, and not 1.
+Returns the position where the needle exists relative to the beginnning of the
+{haystack} string (independent of search direction or offset). Also note that
+string positions start at 0, and not 1.
 
-If {needle} is not found, FALSE is returned.
+Returns FALSE if the needle was not found.
 
 This function may return Boolean FALSE, but may also return a non-Boolean
-value which evaluates to FALSE, such as 0 or "". Please read the section on
-Booleans for more information. Use the === operator for testing the return
-value of this function.
+value which evaluates to FALSE. Please read the section on Booleans for more
+information. Use the === operator for testing the return value of this
+function.
 
 A simple |strripos| example
 
@@ -49,6 +52,6 @@ The above example will output:
 
 
 
-|strpos| |stripos| |strrchr| |substr| |stristr| |strstr|
+|strpos| |stripos| |strrpos| |strrchr| |stristr| |substr|
 
 vim:ft=help:

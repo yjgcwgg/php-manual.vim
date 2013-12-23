@@ -1,4 +1,4 @@
-*com_message_pump* -- Process COM messages, sleeping for up to timeoutms
+com_message_pump -- Process COM messages, sleeping for up to timeoutms
 milliseconds
 
   bool com_message_pump([int timeoutms])~

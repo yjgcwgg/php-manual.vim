@@ -1,4 +1,4 @@
-*jdtounix* -- Convert Julian Day to Unix timestamp
+jdtounix -- Convert Julian Day to Unix timestamp
 
   int jdtounix(int jday)~
 

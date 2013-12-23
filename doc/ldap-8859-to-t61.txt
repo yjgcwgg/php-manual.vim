@@ -1,4 +1,4 @@
-*ldap_8859_to_t61* -- Translate 8859 characters to t61 characters
+ldap_8859_to_t61 -- Translate 8859 characters to t61 characters
 
   string ldap_8859_to_t61(string value)~
 

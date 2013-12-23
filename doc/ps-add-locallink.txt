@@ -1,4 +1,4 @@
-*ps_add_locallink* -- Adds link to a page in the same document
+ps_add_locallink -- Adds link to a page in the same document
 
   bool ps_add_locallink(resource psdoc, float llx, float lly, float urx, float ury, int page, string dest)~
 

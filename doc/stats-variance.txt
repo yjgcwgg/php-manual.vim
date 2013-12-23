@@ -1,4 +1,4 @@
-*stats_variance* -- Returns the population variance
+stats_variance -- Returns the population variance
 
   float stats_variance(array a [, bool sample])~
 

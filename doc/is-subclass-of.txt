@@ -1,6 +1,6 @@
-*is_subclass_of* -- Checks if the object has this class as one of its parents
+is_subclass_of -- Checks if the object has this class as one of its parents
 
-  bool is_subclass_of(mixed object, string class_name)~
+  bool is_subclass_of(mixed object, string class_name [, bool allow_string])~
 
 Checks if the given {object} has the class {class_name} as one of its parents.
 
@@ -8,11 +8,16 @@ Checks if the given {object} has the class {class_name} as one of its parents.
 
 {class_name} The class name
 
+{allow_string} If this parameter set to false, string class name as {object}
+is not allowed. This also prevents from calling autoloader if the class
+doesn't exist.
+
 This function returns TRUE if the object {object}, belongs to a class which is
 a subclass of {class_name}, FALSE otherwise.
 
-Version Description 5.0.3 You may also specify the {object} parameter as a
-string (the name of the class)
+Version Description 5.3.9 Added {allow_string} parameter 5.3.7 Added support
+for {class_name} to work with interfaces 5.0.3 You may also specify the
+{object} parameter as a string (the name of the class)
 
 |is_subclass_of| example
 
@@ -63,9 +68,54 @@ The above example will output:
 
 
 
+|is_subclass_of| using interface example
+
+<?php >
+  // Define the Interface
+  interface MyInterface
+  {
+    public function MyFunction();
+  }
+  
+  // Define the class implementation of the interface
+  class MyClass implements MyInterface
+  {
+    public function MyFunction()
+    {
+      return "MyClass Implements MyInterface!";
+    }
+  }
+  
+  // Instantiate the object
+  $my_object = new MyClass;
+  
+  // Works since 5.3.7
+  
+  // Test using the object instance of the class
+  if (is_subclass_of($my_object, 'MyInterface')) {
+    echo "Yes, \$my_object is a subclass of MyInterface\n";
+  } else {
+    echo "No, \$my_object is not a subclass of MyInterface\n";
+  }
+  
+  // Test using a string of the class name
+  if (is_subclass_of('MyClass', 'MyInterface')) {
+    echo "Yes, MyClass is a subclass of MyInterface\n";
+  } else {
+    echo "No, MyClass is not a subclass of MyInterface\n";
+  }
+?>
+
+The above example will output:
+
+  Yes, $my_object is a subclass of MyInterface
+  Yes, MyClass is a subclass of MyInterface
+
+
+
 Using this function will use any registered autoloaders if the class is not
 already known.
 
-|get_class| |get_parent_class| |is_a|
+|get_class| |get_parent_class| |is_a| |class_parents|
 
 vim:ft=help:

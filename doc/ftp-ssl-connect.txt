@@ -1,4 +1,4 @@
-*ftp_ssl_connect* -- Opens an Secure SSL-FTP connection
+ftp_ssl_connect -- Opens an Secure SSL-FTP connection
 
   resource ftp_ssl_connect(string host [, int port [, int timeout]])~
 

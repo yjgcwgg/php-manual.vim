@@ -1,4 +1,4 @@
-*yaz_wait* -- Wait for Z39.50 requests to complete
+yaz_wait -- Wait for Z39.50 requests to complete
 
   mixed yaz_wait([array options])~
 

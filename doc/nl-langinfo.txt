@@ -1,4 +1,4 @@
-*nl_langinfo* -- Query language and locale information
+nl_langinfo -- Query language and locale information
 
   string nl_langinfo(int item)~
 

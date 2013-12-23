@@ -1,4 +1,4 @@
-*m_monitor* -- Perform communication with MCVE (send/receive data) Non-blocking
+m_monitor -- Perform communication with MCVE (send/receive data) Non-blocking
 
   int m_monitor(resource conn)~
 

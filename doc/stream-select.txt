@@ -1,4 +1,4 @@
-*stream_select* -- Runs the equivalent of the select() system call on the given
+stream_select -- Runs the equivalent of the select() system call on the given
 arrays of streams with a timeout specified by tv_sec and tv_usec
 
   int stream_select(array read, array write, array except, int tv_sec [, int tv_usec])~

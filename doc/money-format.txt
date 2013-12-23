@@ -1,4 +1,4 @@
-*money_format* -- Formats a number as a currency string
+money_format -- Formats a number as a currency string
 
   string money_format(string format, float number)~
 

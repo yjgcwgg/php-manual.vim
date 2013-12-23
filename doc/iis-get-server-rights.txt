@@ -1,4 +1,4 @@
-*iis_get_server_rights* -- Gets server rights
+iis_get_server_rights -- Gets server rights
 
   int iis_get_server_rights(int server_instance, string virtual_path)~
 

@@ -1,4 +1,4 @@
-*printer_set_option* -- Configure the printer connection
+printer_set_option -- Configure the printer connection
 
   bool printer_set_option(resource printer_handle, int option, mixed value)~
 

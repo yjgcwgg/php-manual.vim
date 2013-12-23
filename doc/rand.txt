@@ -1,4 +1,4 @@
-*rand* -- Generate a random integer
+rand -- Generate a random integer
 
   int rand()~
 
@@ -8,8 +8,8 @@ If called without the optional {min}, {max} arguments |rand| returns a
 pseudo-random integer between 0 and |getrandmax|. If you want a random number
 between 5 and 15 (inclusive), for example, use rand(5, 15).
 
-On some platforms (such as Windows), |getrandmax| is only 32768. If you
-require a range larger than 32768, specifying {min} and {max} will allow you
+On some platforms (such as Windows), |getrandmax| is only 32767. If you
+require a range larger than 32767, specifying {min} and {max} will allow you
 to create a range larger than this, or consider using |mt_rand| instead.
 
 {min} The lowest value to return (default: 0)
@@ -38,6 +38,10 @@ The above example will output something similar to:
 
 
 
-|srand| |getrandmax| |mt_rand|
+This function does not generate cryptographically secure values, and should
+not be used for cryptographic purposes. If you need a cryptographically secure
+value, consider using |openssl_random_pseudo_bytes| instead.
+
+|srand| |getrandmax| |mt_rand| |openssl_random_pseudo_bytes|
 
 vim:ft=help:

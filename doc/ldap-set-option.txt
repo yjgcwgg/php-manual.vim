@@ -1,4 +1,4 @@
-*ldap_set_option* -- Set the value of the given option
+ldap_set_option -- Set the value of the given option
 
   bool ldap_set_option(resource link_identifier, int option, mixed newval)~
 

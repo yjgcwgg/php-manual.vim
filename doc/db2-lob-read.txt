@@ -1,4 +1,4 @@
-*db2_lob_read* -- Gets a user defined size of LOB files with each invocation
+db2_lob_read -- Gets a user defined size of LOB files with each invocation
 
   string db2_lob_read(resource stmt, int colnum, int length)~
 

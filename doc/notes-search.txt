@@ -1,4 +1,4 @@
-*notes_search* -- Find notes that match keywords in database_name
+notes_search -- Find notes that match keywords in database_name
 
   array notes_search(string database_name, string keywords)~
 

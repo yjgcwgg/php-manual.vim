@@ -1,4 +1,4 @@
-*imagecreatefromgd2part* -- Create a new image from a given part of GD2 file or
+imagecreatefromgd2part -- Create a new image from a given part of GD2 file or
 URL
 
   resource imagecreatefromgd2part(string filename, int srcX, int srcY, int width, int height)~
@@ -34,7 +34,7 @@ Returns an image resource identifier on success, FALSE on errors.
   $im = imagecreatefromgd2part('./test.gd2', 4, 4, ($image[0] / 2) - 6, ($image[1] / 2) - 6);
   
   // Do an image operation, in this case we emboss the 
-  // image if PHP5+
+  // image if PHP 5+
   if(function_exists('imagefilter'))
   {
       imagefilter($im, IMG_FILTER_EMBOSS);

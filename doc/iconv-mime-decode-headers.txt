@@ -1,4 +1,4 @@
-*iconv_mime_decode_headers* -- Decodes multiple MIME header fields at once
+iconv_mime_decode_headers -- Decodes multiple MIME header fields at once
 
   array iconv_mime_decode_headers(string encoded_headers [, int mode [, string charset]])~
 

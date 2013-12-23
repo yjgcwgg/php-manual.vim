@@ -1,4 +1,4 @@
-*stream_get_contents* -- Reads remainder of a stream into a string
+stream_get_contents -- Reads remainder of a stream into a string
 
   string stream_get_contents(resource handle [, int maxlength [, int offset]])~
 

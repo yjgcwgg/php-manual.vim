@@ -1,4 +1,4 @@
-*newt_win_choice* --
+newt_win_choice --
 
   int newt_win_choice(string title, string button1_text, string button2_text, string format [, mixed args [, mixed ...]])~
 

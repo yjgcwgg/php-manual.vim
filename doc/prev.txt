@@ -1,4 +1,4 @@
-*prev* -- Rewind the internal array pointer
+prev -- Rewind the internal array pointer
 
   mixed prev(array array)~
 
@@ -28,9 +28,9 @@ Example use of |prev| and friends
 
 
 This function may return Boolean FALSE, but may also return a non-Boolean
-value which evaluates to FALSE, such as 0 or "". Please read the section on
-Booleans for more information. Use the === operator for testing the return
-value of this function.
+value which evaluates to FALSE. Please read the section on Booleans for more
+information. Use the === operator for testing the return value of this
+function.
 
 You won't be able to distinguish the beginning of an array from a boolean
 FALSE element. To properly traverse an array which may contain FALSE elements,

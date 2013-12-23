@@ -1,4 +1,4 @@
-*event_buffer_timeout_set* -- Set read and write timeouts for a buffered event
+event_buffer_timeout_set -- Set read and write timeouts for a buffered event
 
   void event_buffer_timeout_set(resource bevent, int read_timeout, int write_timeout)~
 

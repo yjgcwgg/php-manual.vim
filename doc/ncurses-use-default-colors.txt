@@ -1,4 +1,4 @@
-*ncurses_use_default_colors* -- Assign terminal default colors to color id -1
+ncurses_use_default_colors -- Assign terminal default colors to color id -1
 
   bool ncurses_use_default_colors()~
 

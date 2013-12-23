@@ -1,4 +1,4 @@
-*ps_setlinecap* -- Sets appearance of line ends
+ps_setlinecap -- Sets appearance of line ends
 
   bool ps_setlinecap(resource psdoc, int type)~
 

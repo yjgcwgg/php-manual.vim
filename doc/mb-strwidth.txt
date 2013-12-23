@@ -1,4 +1,4 @@
-*mb_strwidth* -- Return width of string
+mb_strwidth -- Return width of string
 
   int mb_strwidth(string str [, string encoding])~
 

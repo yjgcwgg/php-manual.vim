@@ -1,4 +1,4 @@
-*newt_checkbox_tree_get_multi_selection* --
+newt_checkbox_tree_get_multi_selection --
 
   array newt_checkbox_tree_get_multi_selection(resource checkboxtree, string seqnum)~
 

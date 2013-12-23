@@ -1,4 +1,4 @@
-*pspell_config_mode* -- Change the mode number of suggestions returned
+pspell_config_mode -- Change the mode number of suggestions returned
 
   bool pspell_config_mode(int dictionary_link, int mode)~
 

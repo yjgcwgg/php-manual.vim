@@ -1,4 +1,4 @@
-*PDF_fill_imageblock* -- Fill image block with variable data
+PDF_fill_imageblock -- Fill image block with variable data
 
   int PDF_fill_imageblock(resource pdfdoc, int page, string blockname, int image, string optlist)~
 

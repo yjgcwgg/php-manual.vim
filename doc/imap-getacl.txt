@@ -1,4 +1,4 @@
-*imap_getacl* -- Gets the ACL for a given mailbox
+imap_getacl -- Gets the ACL for a given mailbox
 
   array imap_getacl(resource imap_stream, string mailbox)~
 

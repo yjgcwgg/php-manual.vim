@@ -1,4 +1,4 @@
-*msession_set* -- Set value in session
+msession_set -- Set value in session
 
   bool msession_set(string session, string name, string value)~
 

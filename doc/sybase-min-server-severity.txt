@@ -1,4 +1,4 @@
-*sybase_min_server_severity* -- Sets minimum server severity
+sybase_min_server_severity -- Sets minimum server severity
 
   void sybase_min_server_severity(int severity)~
 

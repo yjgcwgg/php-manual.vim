@@ -1,4 +1,4 @@
-*swf_actionwaitforframe* -- Skip actions if a frame has not been loaded
+swf_actionwaitforframe -- Skip actions if a frame has not been loaded
 
   void swf_actionwaitforframe(int framenumber, int skipcount)~
 

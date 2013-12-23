@@ -1,4 +1,4 @@
-*stream_bucket_new* -- Create a new bucket for use on the current stream
+stream_bucket_new -- Create a new bucket for use on the current stream
 
   object stream_bucket_new(resource stream, string buffer)~
 

@@ -1,4 +1,4 @@
-*mailparse_determine_best_xfer_encoding* -- Gets the best way of encoding
+mailparse_determine_best_xfer_encoding -- Gets the best way of encoding
 
   string mailparse_determine_best_xfer_encoding(resource fp)~
 

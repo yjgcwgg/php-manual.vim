@@ -1,4 +1,4 @@
-*swf_pushmatrix* -- Push the current transformation matrix back onto the stack
+swf_pushmatrix -- Push the current transformation matrix back onto the stack
 
   void swf_pushmatrix()~
 

@@ -1,4 +1,4 @@
-*ncurses_slk_attr* -- Returns current soft label key attribute
+ncurses_slk_attr -- Returns current soft label key attribute
 
   int ncurses_slk_attr()~
 

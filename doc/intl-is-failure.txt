@@ -1,4 +1,4 @@
-*intl_is_failure* -- Check whether the given error code indicates failure
+intl_is_failure -- Check whether the given error code indicates failure
 
   bool intl_is_failure(int error_code)~
 

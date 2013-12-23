@@ -1,4 +1,4 @@
-*ifx_get_blob* -- Return the content of a blob object
+ifx_get_blob -- Return the content of a blob object
 
   string ifx_get_blob(int bid)~
 

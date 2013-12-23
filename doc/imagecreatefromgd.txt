@@ -1,4 +1,4 @@
-*imagecreatefromgd* -- Create a new image from GD file or URL
+imagecreatefromgd -- Create a new image from GD file or URL
 
   resource imagecreatefromgd(string filename)~
 

@@ -1,4 +1,4 @@
-*odbc_result_all* -- Print result as HTML table
+odbc_result_all -- Print result as HTML table
 
   int odbc_result_all(resource result_id [, string format])~
 

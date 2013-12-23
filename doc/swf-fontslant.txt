@@ -1,4 +1,4 @@
-*swf_fontslant* -- Set the font slant
+swf_fontslant -- Set the font slant
 
   void swf_fontslant(float slant)~
 

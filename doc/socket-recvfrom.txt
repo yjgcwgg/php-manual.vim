@@ -1,4 +1,4 @@
-*socket_recvfrom* -- Receives data from a socket whether or not it is
+socket_recvfrom -- Receives data from a socket whether or not it is
 connection-oriented
 
   int socket_recvfrom(resource socket, string buf, int len, int flags, string name [, int port])~

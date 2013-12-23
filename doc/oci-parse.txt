@@ -1,4 +1,4 @@
-*oci_parse* -- Prepares an Oracle statement for execution
+oci_parse -- Prepares an Oracle statement for execution
 
   resource oci_parse(resource connection, string sql_text)~
 
@@ -6,7 +6,7 @@ Prepares {sql_text} using {connection} and returns the statement identifier,
 which can be used with |oci_bind_by_name|, |oci_execute| and other functions.
 
 Statement identifiers can be freed with |oci_free_statement| or by setting the
-variable to null.
+variable to NULL.
 
 {connection} An Oracle connection identifier, returned by |oci_connect|,
 |oci_pconnect|, or |oci_new_connect|.
@@ -83,10 +83,6 @@ Returns a statement handle on success, or FALSE on error.
 
 This function does not validate {sql_text}. The only way to find out if
 {sql_text} is a valid SQL or PL/SQL statement is to execute it.
-
-In PHP versions before 5.0.0 use |ociparse| instead. The old function name can
-still be used in current versions, however it is deprecated and not
-recommended.
 
 |oci_execute| |oci_free_statement|
 

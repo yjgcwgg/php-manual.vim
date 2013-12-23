@@ -1,4 +1,4 @@
-*px_update_record* -- Updates record in paradox database
+px_update_record -- Updates record in paradox database
 
   bool px_update_record(resource pxdoc, array data, int num)~
 

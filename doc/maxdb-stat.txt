@@ -1,4 +1,4 @@
-*maxdb::stat* -- Gets the current system status
+maxdb::stat -- Gets the current system status
 
 Procedural style
 

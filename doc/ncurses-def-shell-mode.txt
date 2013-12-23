@@ -1,4 +1,4 @@
-*ncurses_def_shell_mode* -- Saves terminals (shell) mode
+ncurses_def_shell_mode -- Saves terminals (shell) mode
 
   bool ncurses_def_shell_mode()~
 

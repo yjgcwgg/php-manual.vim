@@ -1,4 +1,4 @@
-*ncurses_timeout* -- Set timeout for special key sequences
+ncurses_timeout -- Set timeout for special key sequences
 
   void ncurses_timeout(int millisec)~
 

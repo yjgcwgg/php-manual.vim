@@ -1,4 +1,4 @@
-*newt_listbox_item_count* --
+newt_listbox_item_count --
 
   int newt_listbox_item_count(resource listbox)~
 

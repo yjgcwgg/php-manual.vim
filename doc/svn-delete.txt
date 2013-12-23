@@ -1,4 +1,4 @@
-*svn_delete* -- Delete items from a working copy or repository.
+svn_delete -- Delete items from a working copy or repository.
 
   bool svn_delete(string path [, bool force])~
 

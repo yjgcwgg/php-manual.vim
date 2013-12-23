@@ -1,4 +1,4 @@
-*stats_stat_powersum* -- Not documented
+stats_stat_powersum -- Not documented
 
   float stats_stat_powersum(array arr, float power)~
 

@@ -1,4 +1,4 @@
-*com_isenum* -- Indicates if a COM object has an IEnumVariant interface for
+com_isenum -- Indicates if a COM object has an IEnumVariant interface for
 iteration [deprecated]
 
   bool com_isenum(variant com_module)~

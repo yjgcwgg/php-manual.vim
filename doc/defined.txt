@@ -1,4 +1,4 @@
-*defined* -- Checks whether a given named constant exists
+defined -- Checks whether a given named constant exists
 
   bool defined(string name)~
 

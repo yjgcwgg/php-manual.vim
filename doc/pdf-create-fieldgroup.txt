@@ -1,4 +1,4 @@
-*PDF_create_fieldgroup* -- Create form field group
+PDF_create_fieldgroup -- Create form field group
 
   bool PDF_create_fieldgroup(resource pdfdoc, string name, string optlist)~
 

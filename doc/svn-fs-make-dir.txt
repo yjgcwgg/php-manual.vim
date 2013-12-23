@@ -1,4 +1,4 @@
-*svn_fs_make_dir* -- Creates a new empty directory, returns true if all is ok,
+svn_fs_make_dir -- Creates a new empty directory, returns true if all is ok,
 false otherwise
 
   bool svn_fs_make_dir(resource root, string path)~

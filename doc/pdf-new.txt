@@ -1,4 +1,4 @@
-*PDF_new* -- Create PDFlib object
+PDF_new -- Create PDFlib object
 
   resource PDF_new()~
 

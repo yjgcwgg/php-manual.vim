@@ -1,4 +1,4 @@
-*ob_tidyhandler* -- ob_start callback function to repair the buffer
+ob_tidyhandler -- ob_start callback function to repair the buffer
 
   string ob_tidyhandler(string input [, int mode])~
 

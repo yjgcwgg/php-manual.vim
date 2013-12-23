@@ -1,4 +1,4 @@
-*bson_encode* -- Serializes a PHP variable into a BSON string
+bson_encode -- Serializes a PHP variable into a BSON string
 
   string bson_encode(mixed anything)~
 

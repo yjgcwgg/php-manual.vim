@@ -1,4 +1,4 @@
-*ssh2_sftp_rmdir* -- Remove a directory
+ssh2_sftp_rmdir -- Remove a directory
 
   bool ssh2_sftp_rmdir(resource sftp, string dirname)~
 

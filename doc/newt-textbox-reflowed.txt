@@ -1,4 +1,4 @@
-*newt_textbox_reflowed* --
+newt_textbox_reflowed --
 
   resource newt_textbox_reflowed(int left, int top, char *text, int width, int flex_down, int flex_up [, int flags])~
 

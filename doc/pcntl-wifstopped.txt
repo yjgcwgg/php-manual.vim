@@ -1,4 +1,4 @@
-*pcntl_wifstopped* -- Checks whether the child process is currently stopped
+pcntl_wifstopped -- Checks whether the child process is currently stopped
 
   bool pcntl_wifstopped(int status)~
 

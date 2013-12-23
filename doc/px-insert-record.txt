@@ -1,4 +1,4 @@
-*px_insert_record* -- Inserts record into paradox database
+px_insert_record -- Inserts record into paradox database
 
   int px_insert_record(resource pxdoc, array data)~
 

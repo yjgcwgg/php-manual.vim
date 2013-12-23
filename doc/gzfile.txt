@@ -1,4 +1,4 @@
-*gzfile* -- Read entire gz-file into an array
+gzfile -- Read entire gz-file into an array
 
   array gzfile(string filename [, int use_include_path])~
 

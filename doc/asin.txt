@@ -1,4 +1,4 @@
-*asin* -- Arc sine
+asin -- Arc sine
 
   float asin(float arg)~
 

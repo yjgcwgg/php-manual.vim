@@ -1,4 +1,4 @@
-*snmp_get_quick_print* -- Fetches the current value of the UCD library's
+snmp_get_quick_print -- Fetches the current value of the UCD library's
 quick_print setting
 
   bool snmp_get_quick_print()~

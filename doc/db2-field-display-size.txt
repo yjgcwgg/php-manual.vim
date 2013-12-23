@@ -1,4 +1,4 @@
-*db2_field_display_size* -- Returns the maximum number of bytes required to
+db2_field_display_size -- Returns the maximum number of bytes required to
 display a column
 
   int db2_field_display_size(resource stmt, mixed column)~

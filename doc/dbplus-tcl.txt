@@ -1,4 +1,4 @@
-*dbplus_tcl* -- Execute TCL code on server side
+dbplus_tcl -- Execute TCL code on server side
 
   string dbplus_tcl(int sid, string script)~
 

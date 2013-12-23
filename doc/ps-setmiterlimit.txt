@@ -1,4 +1,4 @@
-*ps_setmiterlimit* -- Sets the miter limit
+ps_setmiterlimit -- Sets the miter limit
 
   bool ps_setmiterlimit(resource psdoc, float value)~
 

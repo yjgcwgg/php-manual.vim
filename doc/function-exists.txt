@@ -1,4 +1,4 @@
-*function_exists* -- Return TRUE if the given function has been defined
+function_exists -- Return TRUE if the given function has been defined
 
   bool function_exists(string function_name)~
 
@@ -31,5 +31,6 @@ configuration or compiling options (with the image functions being an
 example).
 
 |method_exists| |is_callable| |get_defined_functions| |class_exists|
+|extension_loaded|
 
 vim:ft=help:

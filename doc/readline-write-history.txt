@@ -1,4 +1,4 @@
-*readline_write_history* -- Writes the history
+readline_write_history -- Writes the history
 
   bool readline_write_history([string filename])~
 

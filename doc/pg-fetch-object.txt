@@ -1,4 +1,4 @@
-*pg_fetch_object* -- Fetch a row as an object
+pg_fetch_object -- Fetch a row as an object
 
   object pg_fetch_object(resource result [, int row [, int result_type]])~
 

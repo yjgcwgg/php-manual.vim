@@ -1,4 +1,4 @@
-*gnupg_seterrormode* -- Sets the mode for error_reporting
+gnupg_seterrormode -- Sets the mode for error_reporting
 
   void gnupg_seterrormode(resource identifier, int errormode)~
 

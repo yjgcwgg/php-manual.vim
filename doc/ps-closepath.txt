@@ -1,4 +1,4 @@
-*ps_closepath* -- Closes path
+ps_closepath -- Closes path
 
   bool ps_closepath(resource psdoc)~
 

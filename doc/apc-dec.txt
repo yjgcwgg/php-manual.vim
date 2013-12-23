@@ -1,4 +1,4 @@
-*apc_dec* -- Decrease a stored number
+apc_dec -- Decrease a stored number
 
   int apc_dec(string key [, int step [, bool success]])~
 

@@ -1,4 +1,4 @@
-*swf_fontsize* -- Change the font size
+swf_fontsize -- Change the font size
 
   void swf_fontsize(float size)~
 

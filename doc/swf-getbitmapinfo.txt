@@ -1,4 +1,4 @@
-*swf_getbitmapinfo* -- Get information about a bitmap
+swf_getbitmapinfo -- Get information about a bitmap
 
   array swf_getbitmapinfo(int bitmapid)~
 

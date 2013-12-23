@@ -1,4 +1,4 @@
-*stats_rand_gen_iuniform* -- Generates integer uniformly distributed between LOW
+stats_rand_gen_iuniform -- Generates integer uniformly distributed between LOW
 (inclusive) and HIGH (inclusive)
 
   int stats_rand_gen_iuniform(int low, int high)~

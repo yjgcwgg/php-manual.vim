@@ -1,4 +1,4 @@
-*proc_get_status* -- Get information about a process opened by proc_open
+proc_get_status -- Get information about a process opened by proc_open
 
   array proc_get_status(resource process)~
 

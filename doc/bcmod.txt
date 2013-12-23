@@ -1,4 +1,4 @@
-*bcmod* -- Get modulus of an arbitrary precision number
+bcmod -- Get modulus of an arbitrary precision number
 
   string bcmod(string left_operand, string modulus)~
 

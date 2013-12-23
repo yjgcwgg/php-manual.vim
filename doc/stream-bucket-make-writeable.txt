@@ -1,4 +1,4 @@
-*stream_bucket_make_writeable* -- Return a bucket object from the brigade for
+stream_bucket_make_writeable -- Return a bucket object from the brigade for
 operating on
 
   object stream_bucket_make_writeable(resource brigade)~

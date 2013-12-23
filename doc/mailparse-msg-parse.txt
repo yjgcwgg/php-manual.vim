@@ -1,4 +1,4 @@
-*mailparse_msg_parse* -- Incrementally parse data into buffer
+mailparse_msg_parse -- Incrementally parse data into buffer
 
   bool mailparse_msg_parse(resource mimemail, string data)~
 

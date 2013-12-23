@@ -1,4 +1,4 @@
-*stream_is_local* -- Checks if a stream is a local stream
+stream_is_local -- Checks if a stream is a local stream
 
   bool stream_is_local(mixed stream_or_url)~
 

@@ -1,4 +1,4 @@
-*stats_stat_correlation* -- Not documented
+stats_stat_correlation -- Not documented
 
   float stats_stat_correlation(array arr1, array arr2)~
 

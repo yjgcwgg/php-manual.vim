@@ -1,4 +1,4 @@
-*SQLiteDatabase->exec* -- Executes a result-less query against a given database
+SQLiteDatabase::exec -- Executes a result-less query against a given database
 
   bool sqlite_exec(resource dbhandle, string query [, string error_msg])~
 
@@ -6,7 +6,7 @@
 
 Object oriented style (method):
 
-  bool queryExec(resource dbhandle, string query [, string error_msg, string query, resource dbhandle, string query [, string error_msg]])~
+  bool SQLiteDatabase::queryExec(resource dbhandle, string query [, string error_msg, string query, resource dbhandle, string query [, string error_msg]])~
 
 Executes an SQL statement given by the {query} against a given database handle
 (specified by the {dbhandle} parameter).

@@ -1,4 +1,4 @@
-*fbsql_num_rows* -- Get number of rows in result
+fbsql_num_rows -- Get number of rows in result
 
   int fbsql_num_rows(resource result)~
 

@@ -1,4 +1,4 @@
-*imagejpeg* -- Output image to browser or file
+imagejpeg -- Output image to browser or file
 
   bool imagejpeg(resource image [, string filename [, int quality]])~
 
@@ -27,7 +27,7 @@ Outputting a JPEG image
   imagestring($im, 1, 5, 5,  'A Simple Text String', $text_color);
   
   // Set the content type header - in this case image/jpeg
-  header('Content-type: image/jpeg');
+  header('Content-Type: image/jpeg');
   
   // Output the image
   imagejpeg($im);
@@ -70,7 +70,7 @@ Outputting the image at 75% quality
   imagestring($im, 1, 5, 5,  'A Simple Text String', $text_color);
   
   // Set the content type header - in this case image/jpeg
-  header('Content-type: image/jpeg');
+  header('Content-Type: image/jpeg');
   
   // Skip the filename parameter using NULL, then set the quality to 75%
   imagejpeg($im, NULL, 75);

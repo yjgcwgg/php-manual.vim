@@ -1,4 +1,4 @@
-*swf_actiongotoframe* -- Play a frame and then stop
+swf_actiongotoframe -- Play a frame and then stop
 
   void swf_actiongotoframe(int framenumber)~
 

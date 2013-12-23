@@ -1,4 +1,4 @@
-*ps_place_image* -- Places image on the page
+ps_place_image -- Places image on the page
 
   bool ps_place_image(resource psdoc, int imageid, float x, float y, float scale)~
 

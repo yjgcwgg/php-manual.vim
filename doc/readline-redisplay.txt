@@ -1,4 +1,4 @@
-*readline_redisplay* -- Redraws the display
+readline_redisplay -- Redraws the display
 
   void readline_redisplay()~
 

@@ -1,4 +1,4 @@
-*openssl_free_key* -- Free key resource
+openssl_free_key -- Free key resource
 
   void openssl_free_key(resource key_identifier)~
 

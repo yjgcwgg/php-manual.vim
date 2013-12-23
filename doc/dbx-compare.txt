@@ -1,4 +1,4 @@
-*dbx_compare* -- Compare two rows for sorting purposes
+dbx_compare -- Compare two rows for sorting purposes
 
   int dbx_compare(array row_a, array row_b, string column_key [, int flags])~
 

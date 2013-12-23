@@ -1,4 +1,4 @@
-*sybase_free_result* -- Frees result memory
+sybase_free_result -- Frees result memory
 
   bool sybase_free_result(resource result)~
 

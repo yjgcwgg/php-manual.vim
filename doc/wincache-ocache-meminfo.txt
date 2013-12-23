@@ -1,4 +1,4 @@
-*wincache_ocache_meminfo* -- Retrieves information about opcode cache memory
+wincache_ocache_meminfo -- Retrieves information about opcode cache memory
 usage
 
   array wincache_ocache_meminfo()~

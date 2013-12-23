@@ -1,4 +1,4 @@
-*msql_fetch_object* -- Fetch row as object
+msql_fetch_object -- Fetch row as object
 
   object msql_fetch_object(resource result)~
 

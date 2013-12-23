@@ -1,4 +1,4 @@
-*radius_cvt_int* -- Converts raw data to integer
+radius_cvt_int -- Converts raw data to integer
 
   int radius_cvt_int(string data)~
 

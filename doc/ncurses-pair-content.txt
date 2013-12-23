@@ -1,4 +1,4 @@
-*ncurses_pair_content* -- Retrieves foreground and background colors of a color
+ncurses_pair_content -- Retrieves foreground and background colors of a color
 pair
 
   int ncurses_pair_content(int pair, int f, int b)~

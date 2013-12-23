@@ -1,4 +1,4 @@
-*yaz_present* -- Prepares for retrieval (Z39.50 present)
+yaz_present -- Prepares for retrieval (Z39.50 present)
 
   bool yaz_present(resource id)~
 

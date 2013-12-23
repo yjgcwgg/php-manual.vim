@@ -1,4 +1,4 @@
-*xml_get_current_column_number* -- Get current column number for an XML parser
+xml_get_current_column_number -- Get current column number for an XML parser
 
   int xml_get_current_column_number(resource parser)~
 

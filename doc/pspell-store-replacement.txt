@@ -1,4 +1,4 @@
-*pspell_store_replacement* -- Store a replacement pair for a word
+pspell_store_replacement -- Store a replacement pair for a word
 
   bool pspell_store_replacement(int dictionary_link, string misspelled, string correct)~
 

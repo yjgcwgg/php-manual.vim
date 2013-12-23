@@ -1,4 +1,4 @@
-*cairo_ps_surface_dsc_begin_page_setup* -- Description
+cairo_ps_surface_dsc_begin_page_setup -- Description
 
   void cairo_ps_surface_dsc_begin_page_setup(CairoPsSurface surface)~
 

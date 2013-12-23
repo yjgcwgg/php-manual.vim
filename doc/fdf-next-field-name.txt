@@ -1,4 +1,4 @@
-*fdf_next_field_name* -- Get the next field name
+fdf_next_field_name -- Get the next field name
 
   string fdf_next_field_name(resource fdf_document [, string fieldname])~
 

@@ -1,4 +1,4 @@
-*session_id* -- Get and/or set the current session id
+session_id -- Get and/or set the current session id
 
   string session_id([string id])~
 

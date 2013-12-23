@@ -1,4 +1,4 @@
-*stream_wrapper_unregister* -- Unregister a URL wrapper
+stream_wrapper_unregister -- Unregister a URL wrapper
 
   bool stream_wrapper_unregister(string protocol)~
 

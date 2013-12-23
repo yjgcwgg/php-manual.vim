@@ -1,4 +1,4 @@
-*openal_context_create* -- Create an audio processing context
+openal_context_create -- Create an audio processing context
 
   resource openal_context_create(resource device)~
 

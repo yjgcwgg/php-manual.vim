@@ -1,4 +1,4 @@
-*ncurses_slk_attroff* -- Turn off the given attributes for soft function-key
+ncurses_slk_attroff -- Turn off the given attributes for soft function-key
 labels
 
   int ncurses_slk_attroff(int intarg)~

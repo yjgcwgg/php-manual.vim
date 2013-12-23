@@ -1,4 +1,4 @@
-*imagecolordeallocate* -- De-allocate a color for an image
+imagecolordeallocate -- De-allocate a color for an image
 
   bool imagecolordeallocate(resource image, int color)~
 

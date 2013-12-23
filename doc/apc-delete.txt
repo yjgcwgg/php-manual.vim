@@ -1,4 +1,4 @@
-*apc_delete* -- Removes a stored variable from the cache
+apc_delete -- Removes a stored variable from the cache
 
   mixed apc_delete(string key)~
 

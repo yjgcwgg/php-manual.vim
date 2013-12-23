@@ -1,4 +1,4 @@
-*udm_get_res_param* -- Get mnoGoSearch result parameters
+udm_get_res_param -- Get mnoGoSearch result parameters
 
   string udm_get_res_param(resource res, int param)~
 

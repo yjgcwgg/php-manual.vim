@@ -1,4 +1,4 @@
-*ncurses_attrset* -- Set given attributes
+ncurses_attrset -- Set given attributes
 
   int ncurses_attrset(int attributes)~
 

@@ -1,4 +1,4 @@
-*db2_num_rows* -- Returns the number of rows affected by an SQL statement
+db2_num_rows -- Returns the number of rows affected by an SQL statement
 
   int db2_num_rows(resource stmt)~
 

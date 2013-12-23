@@ -1,4 +1,4 @@
-*xmlrpc_encode_request* -- Generates XML for a method request
+xmlrpc_encode_request -- Generates XML for a method request
 
   string xmlrpc_encode_request(string method, mixed params [, array output_options])~
 

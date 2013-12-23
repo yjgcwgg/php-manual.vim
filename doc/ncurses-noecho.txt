@@ -1,4 +1,4 @@
-*ncurses_noecho* -- Switch off keyboard input echo
+ncurses_noecho -- Switch off keyboard input echo
 
   bool ncurses_noecho()~
 

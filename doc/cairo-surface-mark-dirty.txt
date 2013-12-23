@@ -1,4 +1,4 @@
-*cairo_surface_mark_dirty* -- Description
+cairo_surface_mark_dirty -- Description
 
   void cairo_surface_mark_dirty(CairoSurface surface)~
 

@@ -1,4 +1,4 @@
-*ncurses_keyok* -- Enable or disable a keycode
+ncurses_keyok -- Enable or disable a keycode
 
   int ncurses_keyok(int keycode, bool enable)~
 

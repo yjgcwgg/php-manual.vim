@@ -1,4 +1,4 @@
-*newt_listbox_delete_entry* --
+newt_listbox_delete_entry --
 
   void newt_listbox_delete_entry(resource listbox, mixed key)~
 

@@ -1,4 +1,4 @@
-*gmp_fact* -- Factorial
+gmp_fact -- Factorial
 
   resource gmp_fact(mixed a)~
 

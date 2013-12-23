@@ -1,4 +1,4 @@
-*getopt* -- Gets options from the command line argument list
+getopt -- Gets options from the command line argument list
 
   array getopt(string options [, array longopts])~
 
@@ -18,8 +18,6 @@ two hyphens (--).
 
 For example, an longopts element "opt" recognizes an option --opt.
 
-Prior to PHP5.3.0 this parameter was only available on few systems
-
 The {options} parameter may contain the following elements: Individual
 characters (do not accept values) Characters followed by a colon (parameter
 requires value) Characters followed by two colons (optional value) Option
@@ -29,7 +27,7 @@ separator.
 
 The format for the {options} and {longopts} is almost the same, the only
 difference is that {longopts} takes an array of options (where each element is
-the option) where as {options} takes a string (where each character is the
+the option) whereas {options} takes a string (where each character is the
 option).
 
 This function will return an array of option / argument pairs or FALSE on
@@ -39,8 +37,9 @@ The parsing of options will end at the first non-option found, anything that
 follows is discarded.
 
 Version Description 5.3.0 Added support for "=" as argument/value separator.
-5.3.0 Added support for optional values (specified with "::"). 5.3.0 This
-function is no longer system dependent and works on Windows too.
+5.3.0 Added support for optional values (specified with "::"). 5.3.0 Parameter
+{longopts} is available on all systems. 5.3.0 This function is no longer
+system dependent, and now works on Windows, too.
 
 |getopt| example
 
@@ -122,5 +121,7 @@ Running the above script with php script.php -aaac will output:
   }
 
 
+
+$argv
 
 vim:ft=help:

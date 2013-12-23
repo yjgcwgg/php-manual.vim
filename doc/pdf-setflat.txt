@@ -1,4 +1,4 @@
-*PDF_setflat* -- Set flatness
+PDF_setflat -- Set flatness
 
   bool PDF_setflat(resource pdfdoc, float flatness)~
 

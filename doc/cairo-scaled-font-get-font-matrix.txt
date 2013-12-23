@@ -1,4 +1,4 @@
-*cairo_scaled_font_get_font_matrix* -- Description
+cairo_scaled_font_get_font_matrix -- Description
 
   CairoFontOptions cairo_scaled_font_get_font_matrix(CairoScaledFont scaledfont)~
 

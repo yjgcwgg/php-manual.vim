@@ -1,4 +1,4 @@
-*swf_fonttracking* -- Set the current font tracking
+swf_fonttracking -- Set the current font tracking
 
   void swf_fonttracking(float tracking)~
 

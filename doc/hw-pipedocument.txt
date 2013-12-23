@@ -1,4 +1,4 @@
-*hw_PipeDocument* -- Retrieve any document
+hw_PipeDocument -- Retrieve any document
 
   int hw_pipedocument(int connection, int objectID [, array url_prefixes])~
 

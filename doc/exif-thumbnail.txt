@@ -1,4 +1,4 @@
-*exif_thumbnail* -- Retrieve the embedded thumbnail of a TIFF or JPEG image
+exif_thumbnail -- Retrieve the embedded thumbnail of a TIFF or JPEG image
 
   string exif_thumbnail(string filename [, int width [, int height [, int imagetype]]])~
 

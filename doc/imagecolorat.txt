@@ -1,4 +1,4 @@
-*imagecolorat* -- Get the index of the color of a pixel
+imagecolorat -- Get the index of the color of a pixel
 
   int imagecolorat(resource image, int x, int y)~
 
@@ -63,6 +63,6 @@ The above example will output something similar to:
 
 
 
-|imagecolorset| |imagecolorsforindex|
+|imagecolorset| |imagecolorsforindex| |imagesetpixel|
 
 vim:ft=help:

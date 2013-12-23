@@ -1,4 +1,4 @@
-*ftp_raw* -- Sends an arbitrary command to an FTP server
+ftp_raw -- Sends an arbitrary command to an FTP server
 
   array ftp_raw(resource ftp_stream, string command)~
 

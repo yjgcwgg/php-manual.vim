@@ -1,4 +1,4 @@
-*udm_free_ispell_data* -- Free memory allocated for ispell data
+udm_free_ispell_data -- Free memory allocated for ispell data
 
   bool udm_free_ispell_data(int agent)~
 

@@ -1,4 +1,4 @@
-*svn_fs_change_node_prop* -- Return true if everything is ok, false otherwise
+svn_fs_change_node_prop -- Return true if everything is ok, false otherwise
 
   bool svn_fs_change_node_prop(resource root, string path, string name, string value)~
 

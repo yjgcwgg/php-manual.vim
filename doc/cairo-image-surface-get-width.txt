@@ -1,4 +1,4 @@
-*cairo_image_surface_get_width* -- Description
+cairo_image_surface_get_width -- Description
 
   int cairo_image_surface_get_width(CairoImageSurface surface)~
 

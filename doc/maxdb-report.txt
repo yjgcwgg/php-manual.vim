@@ -1,4 +1,4 @@
-*maxdb_report* -- Enables or disables internal report functions
+maxdb_report -- Enables or disables internal report functions
 
   bool maxdb_report(int flags)~
 

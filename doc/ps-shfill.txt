@@ -1,4 +1,4 @@
-*ps_shfill* -- Fills an area with a shading
+ps_shfill -- Fills an area with a shading
 
   bool ps_shfill(resource psdoc, int shadingid)~
 

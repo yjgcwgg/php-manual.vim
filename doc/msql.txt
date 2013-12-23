@@ -1,4 +1,4 @@
-*msql* -- Alias of msql_db_query
+msql -- Alias of msql_db_query
 
 This function is an alias of |msql_db_query|.
 

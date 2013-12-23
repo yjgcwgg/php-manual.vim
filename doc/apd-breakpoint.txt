@@ -1,4 +1,4 @@
-*apd_breakpoint* -- Stops the interpreter and waits on a CR from the socket
+apd_breakpoint -- Stops the interpreter and waits on a CR from the socket
 
   bool apd_breakpoint(int debug_level)~
 

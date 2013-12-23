@@ -1,4 +1,4 @@
-*printer_delete_brush* -- Delete a brush
+printer_delete_brush -- Delete a brush
 
   void printer_delete_brush(resource brush_handle)~
 

@@ -1,4 +1,4 @@
-*newt_run_form* -- Runs a form
+newt_run_form -- Runs a form
 
   resource newt_run_form(resource form)~
 

@@ -1,4 +1,4 @@
-*ob_get_contents* -- Return the contents of the output buffer
+ob_get_contents -- Return the contents of the output buffer
 
   string ob_get_contents()~
 

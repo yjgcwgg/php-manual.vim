@@ -1,4 +1,4 @@
-*openssl_sign* -- Generate signature
+openssl_sign -- Generate signature
 
   bool openssl_sign(string data, string signature, mixed priv_key_id [, int signature_alg])~
 

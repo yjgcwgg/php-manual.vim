@@ -1,4 +1,4 @@
-*fbsql_field_table* -- Get name of the table the specified field is in
+fbsql_field_table -- Get name of the table the specified field is in
 
   string fbsql_field_table(resource result [, int field_offset])~
 

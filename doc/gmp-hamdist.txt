@@ -1,4 +1,4 @@
-*gmp_hamdist* -- Hamming distance
+gmp_hamdist -- Hamming distance
 
   int gmp_hamdist(resource a, resource b)~
 

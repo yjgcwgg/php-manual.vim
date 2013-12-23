@@ -1,8 +1,8 @@
-*XMLWriter::startCData* -- Create start CDATA tag
+xmlwriter_start_cdata -- Create start CDATA tag
 
 Object oriented style
 
-  bool startCData()~
+  bool XMLWriter::startCData()~
 
 Procedural style
 

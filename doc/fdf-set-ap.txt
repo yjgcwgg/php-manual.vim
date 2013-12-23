@@ -1,4 +1,4 @@
-*fdf_set_ap* -- Set the appearance of a field
+fdf_set_ap -- Set the appearance of a field
 
   bool fdf_set_ap(resource fdf_document, string field_name, int face, string filename, int page_number)~
 

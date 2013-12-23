@@ -1,4 +1,4 @@
-*ncurses_reset_shell_mode* -- Resets the shell mode saved by def_shell_mode
+ncurses_reset_shell_mode -- Resets the shell mode saved by def_shell_mode
 
   int ncurses_reset_shell_mode()~
 

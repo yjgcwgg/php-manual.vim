@@ -1,4 +1,4 @@
-*chgrp* -- Changes file group
+chgrp -- Changes file group
 
   bool chgrp(string filename, mixed group)~
 

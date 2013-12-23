@@ -1,4 +1,4 @@
-*xmlrpc_server_register_method* -- Register a PHP function to resource method
+xmlrpc_server_register_method -- Register a PHP function to resource method
 matching method_name
 
   bool xmlrpc_server_register_method(resource server, string method_name, string function)~

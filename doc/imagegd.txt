@@ -1,4 +1,4 @@
-*imagegd* -- Output GD image to browser or file
+imagegd -- Output GD image to browser or file
 
   bool imagegd(resource image [, string filename])~
 

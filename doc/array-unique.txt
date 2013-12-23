@@ -1,4 +1,4 @@
-*array_unique* -- Removes duplicate values from an array
+array_unique -- Removes duplicate values from an array
 
   array array_unique(array array [, int sort_flags])~
 
@@ -69,6 +69,8 @@ The above example will output:
   }
 
 
+
+|array_count_values|
 
 Note that |array_unique| is not intended to work on multi dimensional arrays.
 

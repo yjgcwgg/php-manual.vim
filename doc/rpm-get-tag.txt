@@ -1,4 +1,4 @@
-*rpm_get_tag* -- Retrieves a header tag from an RPM file
+rpm_get_tag -- Retrieves a header tag from an RPM file
 
   mixed rpm_get_tag(resource rpmr, int tagnum)~
 

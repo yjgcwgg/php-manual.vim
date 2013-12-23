@@ -1,4 +1,4 @@
-*odbc_errormsg* -- Get the last error message
+odbc_errormsg -- Get the last error message
 
   string odbc_errormsg([resource connection_id])~
 

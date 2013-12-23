@@ -1,4 +1,4 @@
-*notes_nav_create* -- Create a navigator name, in database_name
+notes_nav_create -- Create a navigator name, in database_name
 
   bool notes_nav_create(string database_name, string name)~
 

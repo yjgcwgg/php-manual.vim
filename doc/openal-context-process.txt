@@ -1,4 +1,4 @@
-*openal_context_process* -- Process the specified context
+openal_context_process -- Process the specified context
 
   bool openal_context_process(resource context)~
 

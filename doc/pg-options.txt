@@ -1,4 +1,4 @@
-*pg_options* -- Get the options associated with the connection
+pg_options -- Get the options associated with the connection
 
   string pg_options([resource connection])~
 

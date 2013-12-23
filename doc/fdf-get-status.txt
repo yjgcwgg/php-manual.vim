@@ -1,4 +1,4 @@
-*fdf_get_status* -- Get the value of the /STATUS key
+fdf_get_status -- Get the value of the /STATUS key
 
   string fdf_get_status(resource fdf_document)~
 

@@ -1,4 +1,4 @@
-*win32_pause_service* -- Pauses a service
+win32_pause_service -- Pauses a service
 
   int win32_pause_service(string servicename [, string machine])~
 

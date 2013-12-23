@@ -1,4 +1,4 @@
-*maxdb->protocol_version* -- Returns the version of the MaxDB protocol used
+maxdb::protocol_version -- Returns the version of the MaxDB protocol used
 
 Procedural style
 

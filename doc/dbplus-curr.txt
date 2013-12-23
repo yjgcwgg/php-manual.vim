@@ -1,4 +1,4 @@
-*dbplus_curr* -- Get current tuple from relation
+dbplus_curr -- Get current tuple from relation
 
   int dbplus_curr(resource relation, array tuple)~
 

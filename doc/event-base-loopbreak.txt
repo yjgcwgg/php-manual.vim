@@ -1,4 +1,4 @@
-*event_base_loopbreak* -- Abort event loop
+event_base_loopbreak -- Abort event loop
 
   bool event_base_loopbreak(resource event_base)~
 

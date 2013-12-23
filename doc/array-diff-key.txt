@@ -1,4 +1,4 @@
-*array_diff_key* -- Computes the difference of arrays using keys for comparison
+array_diff_key -- Computes the difference of arrays using keys for comparison
 
   array array_diff_key(array array1, array array2 [, array ...])~
 

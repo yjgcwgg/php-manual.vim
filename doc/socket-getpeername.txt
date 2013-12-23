@@ -1,4 +1,4 @@
-*socket_getpeername* -- Queries the remote side of the given socket which may
+socket_getpeername -- Queries the remote side of the given socket which may
 either result in host/port or in a Unix filesystem path, dependent on its type
 
   bool socket_getpeername(resource socket, string address [, int port])~

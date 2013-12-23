@@ -1,4 +1,4 @@
-*swf_endbutton* -- End the definition of the current button
+swf_endbutton -- End the definition of the current button
 
   void swf_endbutton()~
 

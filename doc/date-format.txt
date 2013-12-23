@@ -1,4 +1,4 @@
-*date_format* -- Alias of DateTime::format
+date_format -- Alias of DateTime::format
 
 This function is an alias of: DateTime::format
 

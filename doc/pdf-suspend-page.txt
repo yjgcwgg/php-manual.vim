@@ -1,4 +1,4 @@
-*PDF_suspend_page* -- Suspend page
+PDF_suspend_page -- Suspend page
 
   bool PDF_suspend_page(resource pdfdoc, string optlist)~
 

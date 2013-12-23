@@ -1,4 +1,4 @@
-*pg_port* -- Return the port number associated with the connection
+pg_port -- Return the port number associated with the connection
 
   int pg_port([resource connection])~
 

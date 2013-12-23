@@ -1,4 +1,4 @@
-*geoip_isp_by_name* -- Get the Internet Service Provider (ISP) name
+geoip_isp_by_name -- Get the Internet Service Provider (ISP) name
 
   string geoip_isp_by_name(string hostname)~
 

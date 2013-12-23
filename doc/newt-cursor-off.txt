@@ -1,4 +1,4 @@
-*newt_cursor_off* --
+newt_cursor_off --
 
   void newt_cursor_off()~
 

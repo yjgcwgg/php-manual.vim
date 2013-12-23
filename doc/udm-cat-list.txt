@@ -1,4 +1,4 @@
-*udm_cat_list* -- Get all the categories on the same level with the current one
+udm_cat_list -- Get all the categories on the same level with the current one
 
   array udm_cat_list(resource agent, string category)~
 

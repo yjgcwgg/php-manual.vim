@@ -1,8 +1,8 @@
-*XMLWriter::startAttribute* -- Create start attribute
+xmlwriter_start_attribute -- Create start attribute
 
 Object oriented style
 
-  bool startAttribute(string name)~
+  bool XMLWriter::startAttribute(string name)~
 
 Procedural style
 

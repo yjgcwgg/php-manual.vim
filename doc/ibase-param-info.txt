@@ -1,4 +1,4 @@
-*ibase_param_info* -- Return information about a parameter in a prepared query
+ibase_param_info -- Return information about a parameter in a prepared query
 
   array ibase_param_info(resource query, int param_number)~
 

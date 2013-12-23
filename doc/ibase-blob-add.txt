@@ -1,4 +1,4 @@
-*ibase_blob_add* -- Add data into a newly created blob
+ibase_blob_add -- Add data into a newly created blob
 
   void ibase_blob_add(resource blob_handle, string data)~
 

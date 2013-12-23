@@ -1,4 +1,4 @@
-*dbplus_savepos* -- Save position
+dbplus_savepos -- Save position
 
   int dbplus_savepos(resource relation)~
 

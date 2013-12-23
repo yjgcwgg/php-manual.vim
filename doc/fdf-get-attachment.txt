@@ -1,4 +1,4 @@
-*fdf_get_attachment* -- Extracts uploaded file embedded in the FDF
+fdf_get_attachment -- Extracts uploaded file embedded in the FDF
 
   array fdf_get_attachment(resource fdf_document, string fieldname, string savepath)~
 

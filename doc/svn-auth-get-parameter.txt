@@ -1,4 +1,4 @@
-*svn_auth_get_parameter* -- Retrieves authentication parameter
+svn_auth_get_parameter -- Retrieves authentication parameter
 
   string svn_auth_get_parameter(string key)~
 

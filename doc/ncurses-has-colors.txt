@@ -1,4 +1,4 @@
-*ncurses_has_colors* -- Checks if terminal has color capabilities
+ncurses_has_colors -- Checks if terminal has color capabilities
 
   bool ncurses_has_colors()~
 

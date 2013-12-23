@@ -1,4 +1,4 @@
-*dbase_delete_record* -- Deletes a record from a database
+dbase_delete_record -- Deletes a record from a database
 
   bool dbase_delete_record(int dbase_identifier, int record_number)~
 

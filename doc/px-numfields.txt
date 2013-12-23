@@ -1,4 +1,4 @@
-*px_numfields* -- Returns number of fields in a database
+px_numfields -- Returns number of fields in a database
 
   int px_numfields(resource pxdoc)~
 

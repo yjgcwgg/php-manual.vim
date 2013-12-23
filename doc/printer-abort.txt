@@ -1,4 +1,4 @@
-*printer_abort* -- Deletes the printer's spool file
+printer_abort -- Deletes the printer's spool file
 
   void printer_abort(resource printer_handle)~
 

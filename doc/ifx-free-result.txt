@@ -1,4 +1,4 @@
-*ifx_free_result* -- Releases resources for the query
+ifx_free_result -- Releases resources for the query
 
   bool ifx_free_result(resource result_id)~
 

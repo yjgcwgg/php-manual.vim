@@ -1,11 +1,11 @@
-*iconv_set_encoding* -- Set current setting for character encoding conversion
+iconv_set_encoding -- Set current setting for character encoding conversion
 
   bool iconv_set_encoding(string type, string charset)~
 
 Changes the value of the internal configuration variable specified by {type}
 to {charset}.
 
-{type} The value of {type} can be any one of those: input_encoding
+{type} The value of {type} can be any one of these: input_encoding
 output_encoding internal_encoding
 
 {charset} The character set.

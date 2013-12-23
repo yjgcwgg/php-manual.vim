@@ -1,4 +1,4 @@
-*ftp_rmdir* -- Removes a directory
+ftp_rmdir -- Removes a directory
 
   bool ftp_rmdir(resource ftp_stream, string directory)~
 

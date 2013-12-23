@@ -1,4 +1,4 @@
-*socket_strerror* -- Return a string describing a socket error
+socket_strerror -- Return a string describing a socket error
 
   string socket_strerror(int errno)~
 

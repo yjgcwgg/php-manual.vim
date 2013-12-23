@@ -1,4 +1,4 @@
-*cairo_svg_version_to_string* -- Description
+cairo_svg_version_to_string -- Description
 
   string cairo_svg_version_to_string(int version)~
 

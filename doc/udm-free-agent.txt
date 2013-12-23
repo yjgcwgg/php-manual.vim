@@ -1,4 +1,4 @@
-*udm_free_agent* -- Free mnoGoSearch session
+udm_free_agent -- Free mnoGoSearch session
 
   int udm_free_agent(resource agent)~
 

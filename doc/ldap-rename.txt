@@ -1,4 +1,4 @@
-*ldap_rename* -- Modify the name of an entry
+ldap_rename -- Modify the name of an entry
 
   bool ldap_rename(resource link_identifier, string dn, string newrdn, string newparent, bool deleteoldrdn)~
 

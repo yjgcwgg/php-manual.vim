@@ -1,4 +1,4 @@
-*dba_fetch* -- Fetch data specified by key
+dba_fetch -- Fetch data specified by key
 
   string dba_fetch(string key, resource handle)~
 
@@ -20,7 +20,7 @@ with the same name.
 
 Returns the associated string if the key/data pair is found, FALSE otherwise.
 
-Version Description 4.3 The {skip} parameter is available to support cdb's
+Version Description 4.3.0 The {skip} parameter is available to support cdb's
 capability of multiple keys having the same name.
 
 |dba_exists| |dba_delete| |dba_insert| |dba_replace| |dba_key_split|

@@ -1,4 +1,4 @@
-*swf_definepoly* -- Define a polygon
+swf_definepoly -- Define a polygon
 
   void swf_definepoly(int objid, array coords, int npoints, float width)~
 

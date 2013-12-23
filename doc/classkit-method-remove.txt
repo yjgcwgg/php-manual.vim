@@ -1,4 +1,4 @@
-*classkit_method_remove* -- Dynamically removes the given method
+classkit_method_remove -- Dynamically removes the given method
 
   bool classkit_method_remove(string classname, string methodname)~
 

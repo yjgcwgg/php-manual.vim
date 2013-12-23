@@ -1,4 +1,4 @@
-*wincache_fcache_meminfo* -- Retrieves information about file cache memory usage
+wincache_fcache_meminfo -- Retrieves information about file cache memory usage
 
   array wincache_fcache_meminfo()~
 

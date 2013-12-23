@@ -1,4 +1,4 @@
-*stream_set_write_buffer* -- Sets write file buffering on the given stream
+stream_set_write_buffer -- Sets write file buffering on the given stream
 
   int stream_set_write_buffer(resource stream, int buffer)~
 

@@ -1,4 +1,4 @@
-*stats_absolute_deviation* -- Returns the absolute deviation of an array of
+stats_absolute_deviation -- Returns the absolute deviation of an array of
 values
 
   float stats_absolute_deviation(array a)~

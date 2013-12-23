@@ -1,4 +1,4 @@
-*mssql_pconnect* -- Open persistent MS SQL connection
+mssql_pconnect -- Open persistent MS SQL connection
 
   resource mssql_pconnect([string servername [, string username [, string password [, bool new_link]]]])~
 

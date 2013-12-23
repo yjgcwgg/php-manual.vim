@@ -1,4 +1,4 @@
-*natsort* -- Sort an array using a "natural order" algorithm
+natsort -- Sort an array using a "natural order" algorithm
 
   bool natsort(array array)~
 

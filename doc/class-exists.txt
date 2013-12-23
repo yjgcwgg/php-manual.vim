@@ -1,4 +1,4 @@
-*class_exists* -- Checks if the class has been defined
+class_exists -- Checks if the class has been defined
 
   bool class_exists(string class_name [, bool autoload])~
 

@@ -1,4 +1,4 @@
-*ncurses_wattroff* -- Turns off attributes for a window
+ncurses_wattroff -- Turns off attributes for a window
 
   int ncurses_wattroff(resource window, int attrs)~
 

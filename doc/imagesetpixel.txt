@@ -1,4 +1,4 @@
-*imagesetpixel* -- Set a single pixel
+imagesetpixel -- Set a single pixel
 
   bool imagesetpixel(resource image, int x, int y, int color)~
 
@@ -46,6 +46,6 @@ Output of example : imagesetpixel()
 
 
 
-|imagecreatetruecolor| |imagecolorallocate|
+|imagecreatetruecolor| |imagecolorallocate| |imagecolorat|
 
 vim:ft=help:

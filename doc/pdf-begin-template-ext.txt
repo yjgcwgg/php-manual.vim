@@ -1,4 +1,4 @@
-*PDF_begin_template_ext* -- Start template definition
+PDF_begin_template_ext -- Start template definition
 
   int PDF_begin_template_ext(resource pdfdoc, float width, float height, string optlist)~
 

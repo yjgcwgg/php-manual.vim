@@ -1,4 +1,4 @@
-*imap_8bit* -- Convert an 8bit string to a quoted-printable string
+imap_8bit -- Convert an 8bit string to a quoted-printable string
 
   string imap_8bit(string string)~
 

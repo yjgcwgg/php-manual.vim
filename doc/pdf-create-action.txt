@@ -1,4 +1,4 @@
-*PDF_create_action* -- Create action for objects or events
+PDF_create_action -- Create action for objects or events
 
   int PDF_create_action(resource pdfdoc, string type, string optlist)~
 

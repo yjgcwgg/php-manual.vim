@@ -1,4 +1,4 @@
-*pcntl_wifexited* -- Checks if status code represents a normal exit
+pcntl_wifexited -- Checks if status code represents a normal exit
 
   bool pcntl_wifexited(int status)~
 

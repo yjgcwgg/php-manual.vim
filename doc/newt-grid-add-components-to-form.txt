@@ -1,4 +1,4 @@
-*newt_grid_add_components_to_form* --
+newt_grid_add_components_to_form --
 
   void newt_grid_add_components_to_form(resource grid, resource form, bool recurse)~
 

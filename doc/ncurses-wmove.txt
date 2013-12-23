@@ -1,4 +1,4 @@
-*ncurses_wmove* -- Moves windows output position
+ncurses_wmove -- Moves windows output position
 
   int ncurses_wmove(resource window, int y, int x)~
 

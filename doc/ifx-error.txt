@@ -1,4 +1,4 @@
-*ifx_error* -- Returns error code of last Informix call
+ifx_error -- Returns error code of last Informix call
 
   string ifx_error([resource link_identifier])~
 

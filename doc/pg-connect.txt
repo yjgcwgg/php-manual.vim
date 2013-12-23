@@ -1,4 +1,4 @@
-*pg_connect* -- Open a PostgreSQL connection
+pg_connect -- Open a PostgreSQL connection
 
   resource pg_connect(string connection_string [, int connect_type])~
 

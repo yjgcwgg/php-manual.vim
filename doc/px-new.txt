@@ -1,4 +1,4 @@
-*px_new* -- Create a new paradox object
+px_new -- Create a new paradox object
 
   resource px_new()~
 

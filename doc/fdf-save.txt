@@ -1,4 +1,4 @@
-*fdf_save* -- Save a FDF document
+fdf_save -- Save a FDF document
 
   bool fdf_save(resource fdf_document [, string filename])~
 

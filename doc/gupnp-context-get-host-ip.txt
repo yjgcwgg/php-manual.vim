@@ -1,4 +1,4 @@
-*gupnp_context_get_host_ip* -- Get the IP address
+gupnp_context_get_host_ip -- Get the IP address
 
   string gupnp_context_get_host_ip(resource context)~
 

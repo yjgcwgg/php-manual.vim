@@ -1,8 +1,8 @@
-*XMLWriter::endDTDEntity* -- End current DTD Entity
+xmlwriter_end_dtd_entity -- End current DTD Entity
 
 Object oriented style
 
-  bool endDTDEntity()~
+  bool XMLWriter::endDTDEntity()~
 
 Procedural style
 

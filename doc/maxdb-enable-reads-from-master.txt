@@ -1,4 +1,4 @@
-*maxdb_enable_reads_from_master* -- Enable reads from master
+maxdb_enable_reads_from_master -- Enable reads from master
 
   bool maxdb_enable_reads_from_master(resource link)~
 

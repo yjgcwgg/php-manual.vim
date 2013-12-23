@@ -1,4 +1,4 @@
-*newt_wait_for_key* -- Doesn't return until a key has been pressed
+newt_wait_for_key -- Doesn't return until a key has been pressed
 
   void newt_wait_for_key()~
 

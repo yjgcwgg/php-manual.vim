@@ -1,4 +1,4 @@
-*yaz_errno* -- Returns error number
+yaz_errno -- Returns error number
 
   int yaz_errno(resource id)~
 

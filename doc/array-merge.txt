@@ -1,6 +1,6 @@
-*array_merge* -- Merge one or more arrays
+array_merge -- Merge one or more arrays
 
-  array array_merge(array array1 [, array array2 [, array ...]])~
+  array array_merge(array array1 [, array ...])~
 
 Merges the elements of one or more arrays together so that the values of one
 are appended to the end of the previous one. It returns the resulting array.

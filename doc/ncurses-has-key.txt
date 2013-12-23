@@ -1,4 +1,4 @@
-*ncurses_has_key* -- Check for presence of a function key on terminal keyboard
+ncurses_has_key -- Check for presence of a function key on terminal keyboard
 
   int ncurses_has_key(int keycode)~
 

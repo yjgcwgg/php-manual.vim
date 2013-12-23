@@ -1,4 +1,4 @@
-*PDF_closepath* -- Close current path
+PDF_closepath -- Close current path
 
   bool PDF_closepath(resource p)~
 

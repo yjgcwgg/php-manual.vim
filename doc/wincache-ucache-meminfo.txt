@@ -1,4 +1,4 @@
-*wincache_ucache_meminfo* -- Retrieves information about user cache memory usage
+wincache_ucache_meminfo -- Retrieves information about user cache memory usage
 
   array wincache_ucache_meminfo()~
 

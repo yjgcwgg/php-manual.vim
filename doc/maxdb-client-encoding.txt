@@ -1,4 +1,4 @@
-*maxdb_client_encoding* -- Alias of maxdb_character_set_name
+maxdb_client_encoding -- Alias of maxdb_character_set_name
 
 This function is an alias of: |maxdb_character_set_name|.
 

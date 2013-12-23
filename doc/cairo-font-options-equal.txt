@@ -1,4 +1,4 @@
-*cairo_font_options_equal* -- Description
+cairo_font_options_equal -- Description
 
   bool cairo_font_options_equal(CairoFontOptions options, CairoFontOptions other)~
 

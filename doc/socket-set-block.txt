@@ -1,4 +1,4 @@
-*socket_set_block* -- Sets blocking mode on a socket resource
+socket_set_block -- Sets blocking mode on a socket resource
 
   bool socket_set_block(resource socket)~
 

@@ -1,4 +1,4 @@
-*dbplus_flush* -- Flush all changes made on a relation
+dbplus_flush -- Flush all changes made on a relation
 
   int dbplus_flush(resource relation)~
 

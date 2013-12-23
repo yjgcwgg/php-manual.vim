@@ -1,4 +1,4 @@
-*classkit_method_rename* -- Dynamically changes the name of the given method
+classkit_method_rename -- Dynamically changes the name of the given method
 
   bool classkit_method_rename(string classname, string methodname, string newname)~
 

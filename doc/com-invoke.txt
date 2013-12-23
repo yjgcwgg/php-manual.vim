@@ -1,4 +1,4 @@
-*com_invoke* -- Calls a COM component's method [deprecated]
+com_invoke -- Calls a COM component's method [deprecated]
 
   mixed com_invoke(resource com_object, string function_name [, mixed function_parameters])~
 

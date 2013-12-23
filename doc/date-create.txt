@@ -1,4 +1,4 @@
-*date_create* -- Alias of DateTime::__construct
+date_create -- Alias of DateTime::__construct
 
 This function is an alias of: DateTime::__construct
 

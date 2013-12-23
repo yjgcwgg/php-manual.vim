@@ -1,4 +1,4 @@
-*ftp_login* -- Logs in to an FTP connection
+ftp_login -- Logs in to an FTP connection
 
   bool ftp_login(resource ftp_stream, string username, string password)~
 

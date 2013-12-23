@@ -1,4 +1,4 @@
-*is_infinite* -- Finds whether a value is infinite
+is_infinite -- Finds whether a value is infinite
 
   bool is_infinite(float val)~
 

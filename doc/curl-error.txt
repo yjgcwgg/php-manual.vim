@@ -1,4 +1,4 @@
-*curl_error* -- Return a string containing the last error for the current
+curl_error -- Return a string containing the last error for the current
 session
 
   string curl_error(resource ch)~

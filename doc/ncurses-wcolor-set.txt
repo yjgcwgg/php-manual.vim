@@ -1,4 +1,4 @@
-*ncurses_wcolor_set* -- Sets windows color pairings
+ncurses_wcolor_set -- Sets windows color pairings
 
   int ncurses_wcolor_set(resource window, int color_pair)~
 

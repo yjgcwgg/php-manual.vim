@@ -1,4 +1,4 @@
-*cairo_pattern_add_color_stop_rgb* -- Description
+cairo_pattern_add_color_stop_rgb -- Description
 
   void cairo_pattern_add_color_stop_rgb(CairoGradientPattern pattern, float offset, float red, float green, float blue)~
 

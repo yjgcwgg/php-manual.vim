@@ -1,4 +1,4 @@
-*posix_uname* -- Get system name
+posix_uname -- Get system name
 
   array posix_uname()~
 

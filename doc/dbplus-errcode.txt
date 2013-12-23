@@ -1,4 +1,4 @@
-*dbplus_errcode* -- Get error string for given errorcode or last error
+dbplus_errcode -- Get error string for given errorcode or last error
 
   string dbplus_errcode([int errno])~
 

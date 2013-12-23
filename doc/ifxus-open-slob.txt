@@ -1,4 +1,4 @@
-*ifxus_open_slob* -- Opens an slob object
+ifxus_open_slob -- Opens an slob object
 
   int ifxus_open_slob(int bid, int mode)~
 

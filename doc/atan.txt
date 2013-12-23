@@ -1,4 +1,4 @@
-*atan* -- Arc tangent
+atan -- Arc tangent
 
   float atan(float arg)~
 

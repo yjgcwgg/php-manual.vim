@@ -1,4 +1,4 @@
-*aggregate_properties_by_list* -- Selective dynamic class properties aggregation
+aggregate_properties_by_list -- Selective dynamic class properties aggregation
 to an object
 
   void aggregate_properties_by_list(object object, string class_name, array properties_list [, bool exclude])~

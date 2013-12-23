@@ -1,8 +1,8 @@
-*XMLWriter::writeDTDAttlist* -- Write full DTD AttList tag
+xmlwriter_write_dtd_attlist -- Write full DTD AttList tag
 
 Object oriented style
 
-  bool writeDTDAttlist(string name, string content)~
+  bool XMLWriter::writeDTDAttlist(string name, string content)~
 
 Procedural style
 

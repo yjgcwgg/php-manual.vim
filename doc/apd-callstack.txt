@@ -1,4 +1,4 @@
-*apd_callstack* -- Returns the current call stack as an array
+apd_callstack -- Returns the current call stack as an array
 
   array apd_callstack()~
 

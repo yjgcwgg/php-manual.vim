@@ -1,4 +1,4 @@
-*gmp_divexact* -- Exact division of numbers
+gmp_divexact -- Exact division of numbers
 
   resource gmp_divexact(resource n, resource d)~
 

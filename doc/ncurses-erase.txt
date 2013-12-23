@@ -1,4 +1,4 @@
-*ncurses_erase* -- Erase terminal screen
+ncurses_erase -- Erase terminal screen
 
   bool ncurses_erase()~
 

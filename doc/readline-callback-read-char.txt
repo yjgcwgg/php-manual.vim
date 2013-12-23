@@ -1,4 +1,4 @@
-*readline_callback_read_char* -- Reads a character and informs the readline
+readline_callback_read_char -- Reads a character and informs the readline
 callback interface when a line is received
 
   void readline_callback_read_char()~

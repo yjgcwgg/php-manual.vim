@@ -1,4 +1,4 @@
-*ibase_drop_db* -- Drops a database
+ibase_drop_db -- Drops a database
 
   bool ibase_drop_db([resource connection])~
 

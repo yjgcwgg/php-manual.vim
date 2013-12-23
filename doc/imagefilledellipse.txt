@@ -1,4 +1,4 @@
-*imagefilledellipse* -- Draw a filled ellipse
+imagefilledellipse -- Draw a filled ellipse
 
   bool imagefilledellipse(resource image, int cx, int cy, int width, int height, int color)~
 

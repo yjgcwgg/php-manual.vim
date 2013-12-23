@@ -1,4 +1,4 @@
-*imageloadfont* -- Load a new font
+imageloadfont -- Load a new font
 
   int imageloadfont(string file)~
 

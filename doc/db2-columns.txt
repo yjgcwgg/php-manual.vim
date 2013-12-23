@@ -1,4 +1,4 @@
-*db2_columns* -- Returns a result set listing the columns and associated
+db2_columns -- Returns a result set listing the columns and associated
 metadata for a table
 
   resource db2_columns(resource connection [, string qualifier [, string schema [, string table-name [, string column-name]]]])~

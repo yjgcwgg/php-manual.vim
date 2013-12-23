@@ -1,4 +1,4 @@
-*pg_parameter_status* -- Looks up a current parameter setting of the server.
+pg_parameter_status -- Looks up a current parameter setting of the server.
 
   string pg_parameter_status([resource connection, string param_name])~
 

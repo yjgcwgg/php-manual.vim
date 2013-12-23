@@ -1,4 +1,4 @@
-*fdf_set_flags* -- Sets a flag of a field
+fdf_set_flags -- Sets a flag of a field
 
   bool fdf_set_flags(resource fdf_document, string fieldname, int whichFlags, int newFlags)~
 

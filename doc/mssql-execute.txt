@@ -1,4 +1,4 @@
-*mssql_execute* -- Executes a stored procedure on a MS SQL server database
+mssql_execute -- Executes a stored procedure on a MS SQL server database
 
   mixed mssql_execute(resource stmt [, bool skip_results])~
 

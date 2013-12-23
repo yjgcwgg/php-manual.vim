@@ -1,4 +1,4 @@
-*ps_symbol* -- Output a glyph
+ps_symbol -- Output a glyph
 
   bool ps_symbol(resource psdoc, int ord)~
 

@@ -1,4 +1,4 @@
-*pg_cancel_query* -- Cancel an asynchronous query
+pg_cancel_query -- Cancel an asynchronous query
 
   bool pg_cancel_query(resource connection)~
 

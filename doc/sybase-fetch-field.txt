@@ -1,4 +1,4 @@
-*sybase_fetch_field* -- Get field information from a result
+sybase_fetch_field -- Get field information from a result
 
   object sybase_fetch_field(resource result [, int field_offset])~
 

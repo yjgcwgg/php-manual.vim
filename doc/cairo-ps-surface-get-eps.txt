@@ -1,4 +1,4 @@
-*cairo_ps_surface_get_eps* -- Description
+cairo_ps_surface_get_eps -- Description
 
   bool cairo_ps_surface_get_eps(CairoPsSurface surface)~
 

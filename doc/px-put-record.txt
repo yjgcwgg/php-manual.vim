@@ -1,4 +1,4 @@
-*px_put_record* -- Stores record into paradox database
+px_put_record -- Stores record into paradox database
 
   bool px_put_record(resource pxdoc, array record [, int recpos])~
 

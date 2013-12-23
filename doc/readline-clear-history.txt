@@ -1,4 +1,4 @@
-*readline_clear_history* -- Clears the history
+readline_clear_history -- Clears the history
 
   bool readline_clear_history()~
 

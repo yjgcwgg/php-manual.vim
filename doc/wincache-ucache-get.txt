@@ -1,4 +1,4 @@
-*wincache_ucache_get* -- Gets a variable stored in the user cache
+wincache_ucache_get -- Gets a variable stored in the user cache
 
   mixed wincache_ucache_get(mixed key [, bool success])~
 

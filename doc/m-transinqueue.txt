@@ -1,4 +1,4 @@
-*m_transinqueue* -- Number of transactions in client-queue
+m_transinqueue -- Number of transactions in client-queue
 
   int m_transinqueue(resource conn)~
 

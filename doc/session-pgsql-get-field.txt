@@ -1,4 +1,4 @@
-*session_pgsql_get_field* -- Get custom field value
+session_pgsql_get_field -- Get custom field value
 
   string session_pgsql_get_field()~
 

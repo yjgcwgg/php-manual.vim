@@ -1,4 +1,4 @@
-*PDF_activate_item* -- Activate structure element or other content item
+PDF_activate_item -- Activate structure element or other content item
 
   bool PDF_activate_item(resource pdfdoc, int id)~
 

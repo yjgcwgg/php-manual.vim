@@ -1,4 +1,4 @@
-*sybase_fetch_array* -- Fetch row as array
+sybase_fetch_array -- Fetch row as array
 
   array sybase_fetch_array(resource result)~
 

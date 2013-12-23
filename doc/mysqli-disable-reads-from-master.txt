@@ -1,4 +1,4 @@
-*mysqli->disable_reads_from_master* -- Disable reads from master
+mysqli_disable_reads_from_master -- Disable reads from master
 
 Object oriented style
 

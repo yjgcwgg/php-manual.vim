@@ -1,4 +1,4 @@
-*svn_fs_abort_txn* -- Abort a transaction, returns true if everything is okay,
+svn_fs_abort_txn -- Abort a transaction, returns true if everything is okay,
 false otherwise
 
   bool svn_fs_abort_txn(resource txn)~

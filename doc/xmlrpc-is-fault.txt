@@ -1,4 +1,4 @@
-*xmlrpc_is_fault* -- Determines if an array value represents an XMLRPC fault
+xmlrpc_is_fault -- Determines if an array value represents an XMLRPC fault
 
   bool xmlrpc_is_fault(array arg)~
 

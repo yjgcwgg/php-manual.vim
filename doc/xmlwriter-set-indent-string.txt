@@ -1,8 +1,8 @@
-*XMLWriter::setIndentString* -- Set string used for indenting
+xmlwriter_set_indent_string -- Set string used for indenting
 
 Object oriented style
 
-  bool setIndentString(string indentString)~
+  bool XMLWriter::setIndentString(string indentString)~
 
 Procedural style
 

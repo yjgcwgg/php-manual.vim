@@ -1,4 +1,4 @@
-*cairo_surface_status* -- Description
+cairo_surface_status -- Description
 
   int cairo_surface_status(CairoSurface surface)~
 

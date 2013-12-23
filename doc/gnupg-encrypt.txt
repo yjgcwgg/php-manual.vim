@@ -1,4 +1,4 @@
-*gnupg_encrypt* -- Encrypts a given text
+gnupg_encrypt -- Encrypts a given text
 
   string gnupg_encrypt(resource identifier, string plaintext)~
 

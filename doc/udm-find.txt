@@ -1,4 +1,4 @@
-*udm_find* -- Perform search
+udm_find -- Perform search
 
   resource udm_find(resource agent, string query)~
 

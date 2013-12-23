@@ -1,4 +1,4 @@
-*imagepsslantfont* -- Slant a font
+imagepsslantfont -- Slant a font
 
   bool imagepsslantfont(resource font_index, float slant)~
 

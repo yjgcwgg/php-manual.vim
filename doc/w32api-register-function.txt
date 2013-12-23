@@ -1,4 +1,4 @@
-*w32api_register_function* -- Registers function function_name from library with
+w32api_register_function -- Registers function function_name from library with
 PHP
 
   bool w32api_register_function(string library, string function_name, string return_type)~

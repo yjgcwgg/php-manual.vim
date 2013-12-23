@@ -1,4 +1,4 @@
-*ssh2_sftp_realpath* -- Resolve the realpath of a provided path string
+ssh2_sftp_realpath -- Resolve the realpath of a provided path string
 
   string ssh2_sftp_realpath(resource sftp, string filename)~
 

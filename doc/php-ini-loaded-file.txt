@@ -1,4 +1,4 @@
-*php_ini_loaded_file* -- Retrieve a path to the loaded php.ini file
+php_ini_loaded_file -- Retrieve a path to the loaded php.ini file
 
   string php_ini_loaded_file()~
 

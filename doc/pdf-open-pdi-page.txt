@@ -1,4 +1,4 @@
-*PDF_open_pdi_page* -- Prepare a page
+PDF_open_pdi_page -- Prepare a page
 
   int PDF_open_pdi_page(resource p, int doc, int pagenumber, string optlist)~
 

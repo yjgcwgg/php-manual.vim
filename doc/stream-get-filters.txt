@@ -1,4 +1,4 @@
-*stream_get_filters* -- Retrieve list of registered filters
+stream_get_filters -- Retrieve list of registered filters
 
   array stream_get_filters()~
 

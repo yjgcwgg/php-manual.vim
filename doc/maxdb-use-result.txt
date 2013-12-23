@@ -1,4 +1,4 @@
-*maxdb::use_result* -- Initiate a result set retrieval
+maxdb::use_result -- Initiate a result set retrieval
 
 Procedural style
 

@@ -1,19 +1,20 @@
-*mb_strcut* -- Get part of string
+mb_strcut -- Get part of string
 
   string mb_strcut(string str, int start [, int length [, string encoding]])~
 
-|mb_strcut| performs equivalent operation as |mb_substr| with different
-method. If {start} position is multi-byte character's second byte or larger,
-it starts from first byte of multi-byte character.
-
-It subtracts string from {str} that is shorter than {length} AND character
-that is not part of multi-byte string or not being middle of shift sequence.
+|mb_strcut| extracts a substring from a string similarly to |mb_substr|, but
+operates on bytes instead of characters. If the cut position happens to be
+between two bytes of a multi-byte character, the cut is performed starting
+from the first byte of that character. This is also the difference to the
+|substr| function, which would simply cut the string between the bytes and
+thus result in a malformed byte sequence.
 
 {str} The string being cut.
 
-{start} The position that begins the cut.
+{start} Starting position in bytes.
 
-{length} The string being decoded.
+{length} Length in bytes. If omitted or NULL is passed, extract all bytes to
+the end of the string.
 
 {encoding} The {encoding} parameter is the character encoding. If it is
 omitted, the internal character encoding value will be used.

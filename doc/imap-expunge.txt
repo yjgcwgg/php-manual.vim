@@ -1,4 +1,4 @@
-*imap_expunge* -- Delete all messages marked for deletion
+imap_expunge -- Delete all messages marked for deletion
 
   bool imap_expunge(resource imap_stream)~
 

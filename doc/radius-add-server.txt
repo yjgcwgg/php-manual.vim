@@ -1,4 +1,4 @@
-*radius_add_server* -- Adds a server
+radius_add_server -- Adds a server
 
   bool radius_add_server(resource radius_handle, string hostname, int port, string secret, int timeout, int max_tries)~
 

@@ -1,4 +1,4 @@
-*rrd_error* -- Gets latest error message.
+rrd_error -- Gets latest error message.
 
   string rrd_error()~
 

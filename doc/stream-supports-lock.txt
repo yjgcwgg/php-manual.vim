@@ -1,4 +1,4 @@
-*stream_supports_lock* -- Tells whether the stream supports locking.
+stream_supports_lock -- Tells whether the stream supports locking.
 
   bool stream_supports_lock(resource stream)~
 

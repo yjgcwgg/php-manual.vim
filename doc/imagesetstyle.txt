@@ -1,4 +1,4 @@
-*imagesetstyle* -- Set the style for line drawing
+imagesetstyle -- Set the style for line drawing
 
   bool imagesetstyle(resource image, array style)~
 

@@ -1,4 +1,4 @@
-*pg_lo_export* -- Export a large object to file
+pg_lo_export -- Export a large object to file
 
   bool pg_lo_export([resource connection, int oid, string pathname])~
 

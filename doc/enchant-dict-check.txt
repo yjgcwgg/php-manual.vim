@@ -1,4 +1,4 @@
-*enchant_dict_check* -- Check whether a word is correctly spelled or not
+enchant_dict_check -- Check whether a word is correctly spelled or not
 
   bool enchant_dict_check(resource dict, string word)~
 

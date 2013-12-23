@@ -1,4 +1,4 @@
-*msql_field_seek* -- Set field offset
+msql_field_seek -- Set field offset
 
   bool msql_field_seek(resource result, int field_offset)~
 

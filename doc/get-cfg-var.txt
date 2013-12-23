@@ -1,4 +1,4 @@
-*get_cfg_var* -- Gets the value of a PHP configuration option
+get_cfg_var -- Gets the value of a PHP configuration option
 
   string get_cfg_var(string option)~
 

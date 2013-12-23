@@ -1,4 +1,4 @@
-*pg_host* -- Returns the host name associated with the connection
+pg_host -- Returns the host name associated with the connection
 
   string pg_host([resource connection])~
 

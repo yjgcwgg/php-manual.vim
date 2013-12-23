@@ -1,4 +1,4 @@
-*sybase_data_seek* -- Moves internal row pointer
+sybase_data_seek -- Moves internal row pointer
 
   bool sybase_data_seek(resource result_identifier, int row_number)~
 

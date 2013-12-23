@@ -1,4 +1,4 @@
-*locale_set_default* -- Set the default Locale
+locale_set_default -- Set the default Locale
 
   bool locale_set_default(string name)~
 

@@ -1,4 +1,4 @@
-*swf_closefile* -- Close the current Shockwave Flash file
+swf_closefile -- Close the current Shockwave Flash file
 
   void swf_closefile([int return_file])~
 

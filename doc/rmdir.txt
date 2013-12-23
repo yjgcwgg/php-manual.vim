@@ -1,4 +1,4 @@
-*rmdir* -- Removes directory
+rmdir -- Removes directory
 
   bool rmdir(string dirname [, resource context])~
 

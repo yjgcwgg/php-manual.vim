@@ -1,4 +1,4 @@
-*openal_context_current* -- Make the specified context current
+openal_context_current -- Make the specified context current
 
   bool openal_context_current(resource context)~
 

@@ -1,4 +1,4 @@
-*closedir* -- Close directory handle
+closedir -- Close directory handle
 
   void closedir([resource dir_handle])~
 

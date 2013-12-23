@@ -1,4 +1,4 @@
-*oci_bind_array_by_name* -- Binds a PHP array to an Oracle PL/SQL array
+oci_bind_array_by_name -- Binds a PHP array to an Oracle PL/SQL array
 parameter
 
   bool oci_bind_array_by_name(resource statement, string name, array var_array, int max_table_length [, int max_item_length [, int type]])~
@@ -101,7 +101,5 @@ Returns TRUE on success or &false; on failure.
 
 
 
-
-This function is available since OCI8 release 1.2.
 
 vim:ft=help:

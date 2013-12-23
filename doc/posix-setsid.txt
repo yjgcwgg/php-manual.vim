@@ -1,4 +1,4 @@
-*posix_setsid* -- Make the current process a session leader
+posix_setsid -- Make the current process a session leader
 
   int posix_setsid()~
 

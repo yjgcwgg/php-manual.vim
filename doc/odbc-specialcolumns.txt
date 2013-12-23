@@ -1,4 +1,4 @@
-*odbc_specialcolumns* -- Retrieves special columns
+odbc_specialcolumns -- Retrieves special columns
 
   resource odbc_specialcolumns(resource connection_id, int type, string qualifier, string owner, string table, int scope, int nullable)~
 

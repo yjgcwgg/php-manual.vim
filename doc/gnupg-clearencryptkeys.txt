@@ -1,4 +1,4 @@
-*gnupg_clearencryptkeys* -- Removes all keys which were set for encryption
+gnupg_clearencryptkeys -- Removes all keys which were set for encryption
 before
 
   bool gnupg_clearencryptkeys(resource identifier)~

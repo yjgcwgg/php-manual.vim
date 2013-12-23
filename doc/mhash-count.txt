@@ -1,4 +1,4 @@
-*mhash_count* -- Gets the highest available hash ID
+mhash_count -- Gets the highest available hash ID
 
   int mhash_count()~
 

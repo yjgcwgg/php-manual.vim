@@ -1,4 +1,4 @@
-*com_set* -- Assigns a value to a COM component's property
+com_set -- Assigns a value to a COM component's property
 
 Deprecated, use the OO syntax instead.
 

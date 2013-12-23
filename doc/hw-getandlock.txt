@@ -1,4 +1,4 @@
-*hw_GetAndLock* -- Return object record and lock object
+hw_GetAndLock -- Return object record and lock object
 
   string hw_getandlock(int connection, int objectID)~
 

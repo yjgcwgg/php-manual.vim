@@ -1,4 +1,4 @@
-*spl_autoload_extensions* -- Register and return default file extensions for
+spl_autoload_extensions -- Register and return default file extensions for
 spl_autoload
 
   string spl_autoload_extensions([string file_extensions])~

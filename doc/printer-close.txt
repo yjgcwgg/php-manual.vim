@@ -1,4 +1,4 @@
-*printer_close* -- Close an open printer connection
+printer_close -- Close an open printer connection
 
   void printer_close(resource printer_handle)~
 

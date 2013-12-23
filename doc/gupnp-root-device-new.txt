@@ -1,4 +1,4 @@
-*gupnp_root_device_new* -- Create a new root device
+gupnp_root_device_new -- Create a new root device
 
   resource gupnp_root_device_new(resource context, string location, string description_dir)~
 

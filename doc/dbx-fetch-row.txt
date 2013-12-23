@@ -1,4 +1,4 @@
-*dbx_fetch_row* -- Fetches rows from a query-result that had the
+dbx_fetch_row -- Fetches rows from a query-result that had the
 DBX_RESULT_UNBUFFERED flag set
 
   mixed dbx_fetch_row(object result_identifier)~

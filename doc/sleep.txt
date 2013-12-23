@@ -1,4 +1,4 @@
-*sleep* -- Delay execution
+sleep -- Delay execution
 
   int sleep(int seconds)~
 

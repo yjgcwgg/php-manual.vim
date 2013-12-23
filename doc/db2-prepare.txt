@@ -1,4 +1,4 @@
-*db2_prepare* -- Prepares an SQL statement to be executed
+db2_prepare -- Prepares an SQL statement to be executed
 
   resource db2_prepare(resource connection, string statement [, array options])~
 

@@ -1,4 +1,4 @@
-*array_reverse* -- Return an array with elements in reverse order
+array_reverse -- Return an array with elements in reverse order
 
   array array_reverse(array array [, bool preserve_keys])~
 
@@ -7,7 +7,8 @@ reversed.
 
 {array} The input array.
 
-{preserve_keys} If set to TRUE keys are preserved.
+{preserve_keys} If set to TRUE numeric keys are preserved. Non-numeric keys
+are not affected by this setting and will always be preserved.
 
 Returns the reversed array.
 
@@ -17,14 +18,27 @@ Version Description 4.0.3 The {preserve_keys} parameter was added.
 
 <?php >
   $input  = array("php", 4.0, array("green", "red"));
-  $result = array_reverse($input);
-  $result_keyed = array_reverse($input, true);
+  $reversed = array_reverse($input);
+  $preserved = array_reverse($input, true);
+  
+  print_r($input);
+  print_r($reversed);
+  print_r($preserved);
 ?>
 
-This makes both $result and $result_keyed have the same elements, but note the
-difference between the keys. The printout of $result and $result_keyed will
-be:
+The above example will output:
 
+  Array
+  (
+      [0] => php
+      [1] => 4
+      [2] => Array
+          (
+              [0] => green
+              [1] => red
+          )
+  
+  )
   Array
   (
       [0] => Array

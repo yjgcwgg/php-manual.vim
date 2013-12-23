@@ -1,4 +1,4 @@
-*ming_setcubicthreshold* -- Set cubic threshold
+ming_setcubicthreshold -- Set cubic threshold
 
   void ming_setcubicthreshold(int threshold)~
 

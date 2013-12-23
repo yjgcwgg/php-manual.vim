@@ -1,4 +1,4 @@
-*token_name* -- Get the symbolic name of a given PHP token
+token_name -- Get the symbolic name of a given PHP token
 
   string token_name(int token)~
 
@@ -11,8 +11,8 @@ The symbolic name of the given {token}.
 |token_name| example
 
 <?php >
-  // 260 is the token value for the T_REQUIRE token
-  echo token_name(260);        // -> "T_REQUIRE"
+  // 260 is the token value for the T_EVAL token
+  echo token_name(260);        // -> "T_EVAL"
   
   // a token constant maps to its own name
   echo token_name(T_FUNCTION); // -> "T_FUNCTION"

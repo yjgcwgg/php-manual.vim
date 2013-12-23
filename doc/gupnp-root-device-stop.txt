@@ -1,4 +1,4 @@
-*gupnp_root_device_stop* -- Stop main loop
+gupnp_root_device_stop -- Stop main loop
 
   bool gupnp_root_device_stop(resource root_device)~
 

@@ -1,4 +1,4 @@
-*runkit_lint* -- Check the PHP syntax of the specified php code
+runkit_lint -- Check the PHP syntax of the specified php code
 
   bool runkit_lint(string code)~
 

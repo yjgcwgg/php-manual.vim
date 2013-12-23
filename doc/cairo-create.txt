@@ -1,4 +1,4 @@
-*cairo_create* -- Returns a new CairoContext object on the requested surface.
+cairo_create -- Returns a new CairoContext object on the requested surface.
 
   CairoContext cairo_create(CairoSurface surface)~
 

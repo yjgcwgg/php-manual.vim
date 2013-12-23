@@ -1,4 +1,4 @@
-*curl_multi_remove_handle* -- Remove a multi handle from a set of cURL handles
+curl_multi_remove_handle -- Remove a multi handle from a set of cURL handles
 
   int curl_multi_remove_handle(resource mh, resource ch)~
 
@@ -11,7 +11,7 @@ transfer in progress involving that handle.
 
 {ch} A cURL handle returned by |curl_init|.
 
-On success, returns a cURL handle, FALSE on failure.
+Returns 0 on success, or one of the CURLM_XXX error codes.
 
 |curl_init| |curl_multi_init| |curl_multi_add_handle|
 

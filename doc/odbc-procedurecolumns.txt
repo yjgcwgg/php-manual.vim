@@ -1,4 +1,4 @@
-*odbc_procedurecolumns* -- Retrieve information about parameters to procedures
+odbc_procedurecolumns -- Retrieve information about parameters to procedures
 
   resource odbc_procedurecolumns(resource connection_id)~
 

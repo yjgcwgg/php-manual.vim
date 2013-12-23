@@ -1,4 +1,4 @@
-*imap_alerts* -- Returns all IMAP alert messages that have occurred
+imap_alerts -- Returns all IMAP alert messages that have occurred
 
   array imap_alerts()~
 

@@ -1,4 +1,9 @@
-*mysql_ping* -- Ping a server connection or reconnect if there is no connection
+mysql_ping -- Ping a server connection or reconnect if there is no connection
+
+This extension is deprecated as of PHP 5.5.0, and will be removed in the
+future. Instead, the MySQLi or PDO_MySQL extension should be used. See also
+MySQL: choosing an API guide and related FAQ for more information.
+Alternatives to this function include:
 
   bool mysql_ping([resource link_identifier])~
 
@@ -7,7 +12,7 @@ down, an automatic reconnection is attempted. This function can be used by
 scripts that remain idle for a long while, to check whether or not the server
 has closed the connection and reconnect if necessary.
 
-Since MySQL 5.0.13, automatic reconnection feature is disabled.
+Automatic reconnection is disabled by default in versions of MySQL >= 5.0.3.
 
 { link_identifier}The MySQL connection. If the link identifier is not
 specified, the last link opened by |mysql_connect| is assumed. If no such link

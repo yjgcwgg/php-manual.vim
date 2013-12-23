@@ -1,4 +1,4 @@
-*vpopmail_add_user* -- Add a new user to the specified virtual domain
+vpopmail_add_user -- Add a new user to the specified virtual domain
 
   bool vpopmail_add_user(string user, string domain, string password [, string gecos [, bool apop]])~
 

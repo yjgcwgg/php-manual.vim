@@ -1,4 +1,4 @@
-*expect_popen* -- Execute command via Bourne shell, and open the PTY stream to
+expect_popen -- Execute command via Bourne shell, and open the PTY stream to
 the process
 
   resource expect_popen(string command)~

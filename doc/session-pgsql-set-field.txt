@@ -1,4 +1,4 @@
-*session_pgsql_set_field* -- Set custom field value
+session_pgsql_set_field -- Set custom field value
 
   bool session_pgsql_set_field(string value)~
 

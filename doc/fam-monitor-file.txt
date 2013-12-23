@@ -1,4 +1,4 @@
-*fam_monitor_file* -- Monitor a regular file for changes
+fam_monitor_file -- Monitor a regular file for changes
 
   resource fam_monitor_file(resource fam, string filename)~
 

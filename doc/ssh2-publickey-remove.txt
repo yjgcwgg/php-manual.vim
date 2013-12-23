@@ -1,4 +1,4 @@
-*ssh2_publickey_remove* -- Remove an authorized publickey
+ssh2_publickey_remove -- Remove an authorized publickey
 
   bool ssh2_publickey_remove(resource pkey, string algoname, string blob)~
 

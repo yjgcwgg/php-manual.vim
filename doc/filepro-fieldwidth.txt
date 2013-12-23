@@ -1,4 +1,4 @@
-*filepro_fieldwidth* -- Gets the width of a field
+filepro_fieldwidth -- Gets the width of a field
 
   int filepro_fieldwidth(int field_number)~
 

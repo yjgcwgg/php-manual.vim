@@ -1,4 +1,4 @@
-*gupnp_control_point_browse_start* -- Start browsing
+gupnp_control_point_browse_start -- Start browsing
 
   bool gupnp_control_point_browse_start(resource cpoint)~
 

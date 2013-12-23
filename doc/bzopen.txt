@@ -1,4 +1,4 @@
-*bzopen* -- Opens a bzip2 compressed file
+bzopen -- Opens a bzip2 compressed file
 
   resource bzopen(string filename, string mode)~
 

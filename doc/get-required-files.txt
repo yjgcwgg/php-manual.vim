@@ -1,4 +1,4 @@
-*get_required_files* -- Alias of get_included_files
+get_required_files -- Alias of get_included_files
 
 This function is an alias of: |get_included_files|.
 

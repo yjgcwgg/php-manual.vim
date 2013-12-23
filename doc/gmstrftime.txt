@@ -1,4 +1,4 @@
-*gmstrftime* -- Format a GMT/UTC time/date according to locale settings
+gmstrftime -- Format a GMT/UTC time/date according to locale settings
 
   string gmstrftime(string format [, int timestamp])~
 

@@ -1,4 +1,4 @@
-*ctype_graph* -- Check for any printable character(s) except space
+ctype_graph -- Check for any printable character(s) except space
 
   bool ctype_graph(string text)~
 
@@ -30,6 +30,11 @@ The above example will output:
   The string 'string3' consists of all (visibly) printable characters.
 
 
+
+If an integer between -128 and 255 inclusive is provided, it is interpreted as
+the ASCII value of a single character (negative values have 256 added in order
+to allow characters in the Extended ASCII range). Any other integer is
+interpreted as a string containing the decimal digits of the integer.
 
 |ctype_alnum| |ctype_print| |ctype_punct|
 

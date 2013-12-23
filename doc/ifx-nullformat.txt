@@ -1,4 +1,4 @@
-*ifx_nullformat* -- Sets the default return value on a fetch row
+ifx_nullformat -- Sets the default return value on a fetch row
 
   bool ifx_nullformat(int mode)~
 

@@ -1,4 +1,4 @@
-*curl_multi_info_read* -- Get information about the current transfers
+curl_multi_info_read -- Get information about the current transfers
 
   array curl_multi_info_read(resource mh [, int msgs_in_queue])~
 

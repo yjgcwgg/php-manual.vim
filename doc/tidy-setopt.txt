@@ -1,4 +1,4 @@
-*tidy_setopt* -- Updates the configuration settings for the specified tidy
+tidy_setopt -- Updates the configuration settings for the specified tidy
 document
 
   bool tidy_setopt(string option, mixed value)~

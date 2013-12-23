@@ -1,4 +1,4 @@
-*header_remove* -- Remove previously set headers
+header_remove -- Remove previously set headers
 
   void header_remove([string name])~
 
@@ -38,6 +38,9 @@ The above example will output something similar to:
 
 This function will remove all headers set by PHP, including cookies, session
 and the X-Powered-By headers.
+
+Headers will only be accessible and output when a SAPI that supports them is
+in use.
 
 |header| |headers_sent|
 

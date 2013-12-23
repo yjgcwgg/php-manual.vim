@@ -1,4 +1,4 @@
-*imap_savebody* -- Save a specific body section to a file
+imap_savebody -- Save a specific body section to a file
 
   bool imap_savebody(resource imap_stream, mixed file, int msg_number [, string part_number [, int options]])~
 

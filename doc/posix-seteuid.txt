@@ -1,4 +1,4 @@
-*posix_seteuid* -- Set the effective UID of the current process
+posix_seteuid -- Set the effective UID of the current process
 
   bool posix_seteuid(int uid)~
 

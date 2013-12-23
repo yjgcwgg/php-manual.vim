@@ -1,4 +1,4 @@
-*stats_stat_percentile* -- Not documented
+stats_stat_percentile -- Not documented
 
   float stats_stat_percentile(float df, float xnonc)~
 

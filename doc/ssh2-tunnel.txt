@@ -1,4 +1,4 @@
-*ssh2_tunnel* -- Open a tunnel through a remote server
+ssh2_tunnel -- Open a tunnel through a remote server
 
   resource ssh2_tunnel(resource session, string host, int port)~
 

@@ -1,4 +1,4 @@
-*PDF_set_layer_dependency* -- Define relationships among layers
+PDF_set_layer_dependency -- Define relationships among layers
 
   bool PDF_set_layer_dependency(resource pdfdoc, string type, string optlist)~
 

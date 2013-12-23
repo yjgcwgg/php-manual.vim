@@ -1,4 +1,4 @@
-*msql_fieldtable* -- Alias of msql_field_table
+msql_fieldtable -- Alias of msql_field_table
 
 This function is an alias of |msql_field_table|.
 

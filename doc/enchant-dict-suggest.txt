@@ -1,4 +1,4 @@
-*enchant_dict_suggest* -- Will return a list of values if any of those
+enchant_dict_suggest -- Will return a list of values if any of those
 pre-conditions are not met
 
   array enchant_dict_suggest(resource dict, string word)~

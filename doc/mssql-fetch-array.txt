@@ -1,4 +1,4 @@
-*mssql_fetch_array* -- Fetch a result row as an associative array, a numeric
+mssql_fetch_array -- Fetch a result row as an associative array, a numeric
 array, or both
 
   array mssql_fetch_array(resource result [, int result_type])~

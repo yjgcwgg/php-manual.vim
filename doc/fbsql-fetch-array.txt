@@ -1,4 +1,4 @@
-*fbsql_fetch_array* -- Fetch a result row as an associative array, a numeric
+fbsql_fetch_array -- Fetch a result row as an associative array, a numeric
 array, or both
 
   array fbsql_fetch_array(resource result [, int result_type])~

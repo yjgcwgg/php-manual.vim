@@ -1,4 +1,4 @@
-*PDF_end_page* -- Finish page
+PDF_end_page -- Finish page
 
   bool PDF_end_page(resource p)~
 

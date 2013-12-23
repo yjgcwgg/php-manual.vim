@@ -1,4 +1,4 @@
-*radius_send_request* -- Sends the request and waites for a reply
+radius_send_request -- Sends the request and waites for a reply
 
   int radius_send_request(resource radius_handle)~
 

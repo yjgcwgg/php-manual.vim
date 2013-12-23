@@ -1,4 +1,4 @@
-*bzcompress* -- Compress a string into bzip2 encoded data
+bzcompress -- Compress a string into bzip2 encoded data
 
   mixed bzcompress(string source [, int blocksize [, int workfactor]])~
 
@@ -16,7 +16,7 @@ with 0 being a special case.
 
 Regardless of the {workfactor}, the generated output is the same.
 
-The compressed string or number of error in case of error.
+The compressed string, or an error number if an error occurred.
 
 Compressing data
 

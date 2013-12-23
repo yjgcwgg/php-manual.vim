@@ -1,4 +1,4 @@
-*msql_fieldname* -- Alias of msql_field_name
+msql_fieldname -- Alias of msql_field_name
 
 This function is an alias of |msql_field_name|.
 

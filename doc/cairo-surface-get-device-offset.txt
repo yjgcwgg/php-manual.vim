@@ -1,4 +1,4 @@
-*cairo_surface_get_device_offset* -- Description
+cairo_surface_get_device_offset -- Description
 
   array cairo_surface_get_device_offset(CairoSurface surface)~
 

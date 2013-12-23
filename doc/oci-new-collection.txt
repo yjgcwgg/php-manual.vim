@@ -1,4 +1,4 @@
-*oci_new_collection* -- Allocates new collection object
+oci_new_collection -- Allocates new collection object
 
   OCI-Collection oci_new_collection(resource connection, string tdo [, string schema])~
 

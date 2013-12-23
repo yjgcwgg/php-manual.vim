@@ -1,4 +1,4 @@
-*cairo_scaled_font_extents* -- Description
+cairo_scaled_font_extents -- Description
 
   array cairo_scaled_font_extents(CairoScaledFont scaledfont)~
 

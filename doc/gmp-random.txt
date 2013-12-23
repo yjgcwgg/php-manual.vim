@@ -1,4 +1,4 @@
-*gmp_random* -- Random number
+gmp_random -- Random number
 
   resource gmp_random([int limiter])~
 

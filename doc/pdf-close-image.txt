@@ -1,4 +1,4 @@
-*PDF_close_image* -- Close image
+PDF_close_image -- Close image
 
   bool PDF_close_image(resource p, int image)~
 

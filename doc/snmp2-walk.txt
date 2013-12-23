@@ -1,4 +1,4 @@
-*snmp2_walk* -- Fetch all the SNMP objects from an agent
+snmp2_walk -- Fetch all the SNMP objects from an agent
 
   array snmp2_walk(string host, string community, string object_id [, string timeout [, string retries]])~
 
@@ -17,7 +17,7 @@ returned.
 
 The number of microseconds until the first timeout.
 
-The number of retries in case timeouts occur.
+The number of times to retry if timeouts occur.
 
 Returns an array of SNMP object values starting from the {object_id} as root
 or FALSE on error.

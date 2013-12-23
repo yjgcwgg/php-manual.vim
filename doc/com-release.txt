@@ -1,4 +1,4 @@
-*com_release* -- Decreases the components reference counter [deprecated]
+com_release -- Decreases the components reference counter [deprecated]
 
   void com_release()~
 

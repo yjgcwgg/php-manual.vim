@@ -1,4 +1,4 @@
-*yaz_hits* -- Returns number of hits for last search
+yaz_hits -- Returns number of hits for last search
 
   int yaz_hits(resource id [, array searchresult])~
 

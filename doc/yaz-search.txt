@@ -1,4 +1,4 @@
-*yaz_search* -- Prepares for a search
+yaz_search -- Prepares for a search
 
   bool yaz_search(resource id, string type, string query)~
 

@@ -1,4 +1,4 @@
-*readline_list_history* -- Lists the history
+readline_list_history -- Lists the history
 
   array readline_list_history()~
 

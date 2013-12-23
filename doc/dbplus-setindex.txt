@@ -1,4 +1,4 @@
-*dbplus_setindex* -- Set index
+dbplus_setindex -- Set index
 
   int dbplus_setindex(resource relation, string idx_name)~
 

@@ -1,4 +1,4 @@
-*cairo_font_options_merge* -- Description
+cairo_font_options_merge -- Description
 
   void cairo_font_options_merge(CairoFontOptions options, CairoFontOptions other)~
 

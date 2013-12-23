@@ -1,4 +1,4 @@
-*PDF_get_value* -- Get numerical parameter
+PDF_get_value -- Get numerical parameter
 
   float PDF_get_value(resource p, string key, float modifier)~
 

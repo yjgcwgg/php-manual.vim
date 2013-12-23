@@ -1,4 +1,4 @@
-*yaz_itemorder* -- Prepares for Z39.50 Item Order with an ILL-Request package
+yaz_itemorder -- Prepares for Z39.50 Item Order with an ILL-Request package
 
   void yaz_itemorder(resource id, array args)~
 

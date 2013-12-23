@@ -1,4 +1,4 @@
-*ifxus_create_slob* -- Creates an slob object and opens it
+ifxus_create_slob -- Creates an slob object and opens it
 
   int ifxus_create_slob(int mode)~
 

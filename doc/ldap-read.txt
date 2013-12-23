@@ -1,4 +1,4 @@
-*ldap_read* -- Read an entry
+ldap_read -- Read an entry
 
   resource ldap_read(resource link_identifier, string base_dn, string filter [, array attributes [, int attrsonly [, int sizelimit [, int timelimit [, int deref]]]]])~
 

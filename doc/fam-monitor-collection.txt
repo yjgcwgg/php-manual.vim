@@ -1,4 +1,4 @@
-*fam_monitor_collection* -- Monitor a collection of files in a directory for
+fam_monitor_collection -- Monitor a collection of files in a directory for
 changes
 
   resource fam_monitor_collection(resource fam, string dirname, int depth, string mask)~

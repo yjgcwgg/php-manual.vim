@@ -1,4 +1,4 @@
-*ps_fill_stroke* -- Fills and strokes the current path
+ps_fill_stroke -- Fills and strokes the current path
 
   bool ps_fill_stroke(resource psdoc)~
 

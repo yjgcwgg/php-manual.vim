@@ -1,4 +1,4 @@
-*cairo_image_surface_get_height* -- Description
+cairo_image_surface_get_height -- Description
 
   int cairo_image_surface_get_height(CairoImageSurface surface)~
 

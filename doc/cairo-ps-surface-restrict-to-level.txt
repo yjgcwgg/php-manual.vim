@@ -1,4 +1,4 @@
-*cairo_ps_surface_restrict_to_level* -- Description
+cairo_ps_surface_restrict_to_level -- Description
 
   void cairo_ps_surface_restrict_to_level(CairoPsSurface surface, int level)~
 

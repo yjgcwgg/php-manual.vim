@@ -1,4 +1,4 @@
-*newt_listbox* --
+newt_listbox --
 
   resource newt_listbox(int left, int top, int height [, int flags])~
 

@@ -1,4 +1,4 @@
-*dbplus_tremove* -- Remove tuple and return new current tuple
+dbplus_tremove -- Remove tuple and return new current tuple
 
   int dbplus_tremove(resource relation, array tuple [, array current])~
 

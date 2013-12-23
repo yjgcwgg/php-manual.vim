@@ -1,4 +1,4 @@
-*date_isodate_set* -- Alias of DateTime::setISODate
+date_isodate_set -- Alias of DateTime::setISODate
 
 This function is an alias of: DateTime::setISODate
 

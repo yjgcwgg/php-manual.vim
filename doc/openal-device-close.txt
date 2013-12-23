@@ -1,4 +1,4 @@
-*openal_device_close* -- Close an OpenAL device
+openal_device_close -- Close an OpenAL device
 
   bool openal_device_close(resource device)~
 

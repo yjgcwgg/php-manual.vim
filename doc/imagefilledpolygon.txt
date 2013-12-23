@@ -1,4 +1,4 @@
-*imagefilledpolygon* -- Draw a filled polygon
+imagefilledpolygon -- Draw a filled polygon
 
   bool imagefilledpolygon(resource image, array points, int num_points, int color)~
 

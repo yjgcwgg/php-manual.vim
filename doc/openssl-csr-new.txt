@@ -1,4 +1,4 @@
-*openssl_csr_new* -- Generates a CSR
+openssl_csr_new -- Generates a CSR
 
   mixed openssl_csr_new(array dn, resource privkey [, array configargs [, array extraattribs]])~
 
@@ -33,7 +33,7 @@ private key to create. This can be one of OPENSSL_KEYTYPE_DSA,
 OPENSSL_KEYTYPE_DH or OPENSSL_KEYTYPE_RSA. The default value is
 OPENSSL_KEYTYPE_RSA which is currently the only supported key type.
 encrypt_key boolean encrypt_key Should an exported key (with passphrase) be
-encrypted?
+encrypted? encrypt_key_cipher integer none One of cipher constants.
 
 {extraattribs} {extraattribs} is used to specify additional configuration
 options for the CSR. Both {dn} and {extraattribs} are associative arrays whose

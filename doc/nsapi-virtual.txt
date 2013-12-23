@@ -1,4 +1,4 @@
-*nsapi_virtual* -- Perform an NSAPI sub-request
+nsapi_virtual -- Perform an NSAPI sub-request
 
   bool nsapi_virtual(string uri)~
 

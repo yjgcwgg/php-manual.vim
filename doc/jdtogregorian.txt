@@ -1,4 +1,4 @@
-*JDToGregorian* -- Converts Julian Day Count to Gregorian date
+JDToGregorian -- Converts Julian Day Count to Gregorian date
 
   string jdtogregorian(int julianday)~
 

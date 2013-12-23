@@ -1,4 +1,4 @@
-*JDMonthName* -- Returns a month name
+JDMonthName -- Returns a month name
 
   string jdmonthname(int julianday, int mode)~
 

@@ -1,4 +1,4 @@
-*ftp_fget* -- Downloads a file from the FTP server and saves to an open file
+ftp_fget -- Downloads a file from the FTP server and saves to an open file
 
   bool ftp_fget(resource ftp_stream, resource handle, string remote_file, int mode [, int resumepos])~
 

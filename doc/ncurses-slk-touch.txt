@@ -1,4 +1,4 @@
-*ncurses_slk_touch* -- Forces output when ncurses_slk_noutrefresh is performed
+ncurses_slk_touch -- Forces output when ncurses_slk_noutrefresh is performed
 
   int ncurses_slk_touch()~
 

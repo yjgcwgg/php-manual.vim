@@ -1,4 +1,4 @@
-*ncurses_standend* -- Stop using 'standout' attribute
+ncurses_standend -- Stop using 'standout' attribute
 
   int ncurses_standend()~
 

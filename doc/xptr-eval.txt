@@ -1,6 +1,6 @@
-*xptr_eval* -- Evaluate the XPtr Location Path in the given string
+xptr_eval -- Evaluate the XPtr Location Path in the given string
 
-  int xptr_eval(string eval_str [, domnode contextnode])~
+  int XPathContext::xptr_eval(string eval_str [, domnode contextnode])~
 
   int xptr_eval(string eval_str [, domnode contextnode, XPathContext xpath_context, string eval_str [, domnode contextnode]])~
 

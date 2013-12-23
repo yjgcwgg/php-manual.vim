@@ -1,4 +1,4 @@
-*kadm5_delete_principal* -- Deletes a kerberos principal
+kadm5_delete_principal -- Deletes a kerberos principal
 
   bool kadm5_delete_principal(resource handle, string principal)~
 

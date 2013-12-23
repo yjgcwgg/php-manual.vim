@@ -1,4 +1,4 @@
-*printer_write* -- Write data to the printer
+printer_write -- Write data to the printer
 
   bool printer_write(resource printer_handle, string content)~
 

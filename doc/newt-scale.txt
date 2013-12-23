@@ -1,4 +1,4 @@
-*newt_scale* --
+newt_scale --
 
   resource newt_scale(int left, int top, int width, int full_value)~
 

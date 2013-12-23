@@ -1,4 +1,4 @@
-*ncurses_echo* -- Activate keyboard input echo
+ncurses_echo -- Activate keyboard input echo
 
   bool ncurses_echo()~
 

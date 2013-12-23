@@ -1,4 +1,4 @@
-*vpopmail_alias_get* -- Get all lines of an alias for a domain
+vpopmail_alias_get -- Get all lines of an alias for a domain
 
   array vpopmail_alias_get(string alias, string domain)~
 

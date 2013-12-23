@@ -1,4 +1,4 @@
-*db2_bind_param* -- Binds a PHP variable to an SQL statement parameter
+db2_bind_param -- Binds a PHP variable to an SQL statement parameter
 
   bool db2_bind_param(resource stmt, int parameter-number, string variable-name [, int parameter-type [, int data-type [, int precision [, int scale]]]])~
 

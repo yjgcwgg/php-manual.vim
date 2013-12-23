@@ -1,4 +1,4 @@
-*ldap_modify* -- Modify an LDAP entry
+ldap_modify -- Modify an LDAP entry
 
   bool ldap_modify(resource link_identifier, string dn, array entry)~
 

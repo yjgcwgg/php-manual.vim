@@ -1,4 +1,4 @@
-*ibase_prepare* -- Prepare a query for later binding of parameter placeholders
+ibase_prepare -- Prepare a query for later binding of parameter placeholders
 and execution
 
   resource ibase_prepare(string query)~

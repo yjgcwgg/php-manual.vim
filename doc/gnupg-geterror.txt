@@ -1,4 +1,4 @@
-*gnupg_geterror* -- Returns the errortext, if a function fails
+gnupg_geterror -- Returns the errortext, if a function fails
 
   string gnupg_geterror(resource identifier)~
 

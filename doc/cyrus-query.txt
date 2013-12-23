@@ -1,4 +1,4 @@
-*cyrus_query* -- Send a query to a Cyrus IMAP server
+cyrus_query -- Send a query to a Cyrus IMAP server
 
   array cyrus_query(resource connection, string query)~
 

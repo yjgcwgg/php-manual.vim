@@ -1,4 +1,4 @@
-*PDF_end_pattern* -- Finish pattern
+PDF_end_pattern -- Finish pattern
 
   bool PDF_end_pattern(resource p)~
 

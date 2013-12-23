@@ -1,4 +1,4 @@
-*PDF_close_pdi* -- Close the input PDF document [deprecated]
+PDF_close_pdi -- Close the input PDF document [deprecated]
 
   bool PDF_close_pdi(resource p, int doc)~
 

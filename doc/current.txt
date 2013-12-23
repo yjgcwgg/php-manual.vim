@@ -1,4 +1,4 @@
-*current* -- Return the current element in an array
+current -- Return the current element in an array
 
   mixed current(array array)~
 
@@ -13,9 +13,9 @@ pointer in any way. If the internal pointer points beyond the end of the
 elements list or the array is empty, |current| returns FALSE.
 
 This function may return Boolean FALSE, but may also return a non-Boolean
-value which evaluates to FALSE, such as 0 or "". Please read the section on
-Booleans for more information. Use the === operator for testing the return
-value of this function.
+value which evaluates to FALSE. Please read the section on Booleans for more
+information. Use the === operator for testing the return value of this
+function.
 
 Example use of |current| and friends
 

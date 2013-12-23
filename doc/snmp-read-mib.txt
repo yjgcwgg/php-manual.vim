@@ -1,4 +1,4 @@
-*snmp_read_mib* -- Reads and parses a MIB file into the active MIB tree
+snmp_read_mib -- Reads and parses a MIB file into the active MIB tree
 
   bool snmp_read_mib(string filename)~
 

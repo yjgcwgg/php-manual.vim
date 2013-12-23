@@ -1,4 +1,4 @@
-*newt_checkbox_set_flags* -- Configures checkbox resource
+newt_checkbox_set_flags -- Configures checkbox resource
 
   void newt_checkbox_set_flags(resource checkbox, int flags, int sense)~
 

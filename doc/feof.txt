@@ -1,4 +1,4 @@
-*feof* -- Tests for end-of-file on a file pointer
+feof -- Tests for end-of-file on a file pointer
 
   bool feof(resource handle)~
 

@@ -1,4 +1,4 @@
-*svn_export* -- Export the contents of a SVN directory
+svn_export -- Export the contents of a SVN directory
 
   bool svn_export(string frompath, string topath [, bool working_copy [, int revision_no]])~
 

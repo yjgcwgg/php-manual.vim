@@ -1,4 +1,4 @@
-*maxdb_result::fetch_field* -- Returns the next field in the result set
+maxdb_result::fetch_field -- Returns the next field in the result set
 
 Procedural style
 

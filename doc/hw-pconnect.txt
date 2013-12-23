@@ -1,4 +1,4 @@
-*hw_pConnect* -- Make a persistent database connection
+hw_pConnect -- Make a persistent database connection
 
   int hw_pconnect(string host, int port [, string username, string password])~
 

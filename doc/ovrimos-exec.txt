@@ -1,4 +1,4 @@
-*ovrimos_exec* -- Executes an SQL statement
+ovrimos_exec -- Executes an SQL statement
 
   int ovrimos_exec(int connection_id, string query)~
 

@@ -1,4 +1,4 @@
-*event_buffer_free* -- Destroy buffered event
+event_buffer_free -- Destroy buffered event
 
   void event_buffer_free(resource bevent)~
 

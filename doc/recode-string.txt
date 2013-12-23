@@ -1,4 +1,4 @@
-*recode_string* -- Recode a string according to a recode request
+recode_string -- Recode a string according to a recode request
 
   string recode_string(string request, string string)~
 
@@ -13,7 +13,7 @@ Returns the recoded string or FALSE, if unable to perform the recode request.
 Basic |recode_string| example
 
 <?php >
-  echo recode_string("us..flat", "The following character has a diacritical mark: &amp;aacute;");
+  echo recode_string("us..flat", "The following character has a diacritical mark: á");
 ?>
 
 

@@ -1,4 +1,4 @@
-*jpeg2wbmp* -- Convert JPEG image file to WBMP image file
+jpeg2wbmp -- Convert JPEG image file to WBMP image file
 
   bool jpeg2wbmp(string jpegname, string wbmpname, int dest_height, int dest_width, int threshold)~
 

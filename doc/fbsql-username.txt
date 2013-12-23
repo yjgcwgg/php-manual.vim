@@ -1,4 +1,4 @@
-*fbsql_username* -- Get or set the username for the connection
+fbsql_username -- Get or set the username for the connection
 
   string fbsql_username(resource link_identifier [, string username])~
 

@@ -1,4 +1,4 @@
-*apache_get_version* -- Fetch Apache version
+apache_get_version -- Fetch Apache version
 
   string apache_get_version()~
 

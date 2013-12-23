@@ -1,4 +1,4 @@
-*str_replace* -- Replace all occurrences of the search string with the
+str_replace -- Replace all occurrences of the search string with the
 replacement string
 
   mixed str_replace(mixed search, mixed replace, mixed subject [, int count])~
@@ -7,7 +7,7 @@ This function returns a string or an array with all occurrences of {search} in
 {subject} replaced with the given {replace} value.
 
 If you don't need fancy replacing rules (like regular expressions), you should
-always use this function instead of |ereg_replace| or |preg_replace|.
+always use this function instead of |preg_replace|.
 
 If {search} and {replace} are arrays, then |str_replace| takes a value from
 each array and uses them to search and replace on {subject}. If {replace} has

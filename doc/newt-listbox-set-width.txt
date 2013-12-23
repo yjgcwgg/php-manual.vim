@@ -1,4 +1,4 @@
-*newt_listbox_set_width* --
+newt_listbox_set_width --
 
   void newt_listbox_set_width(resource listbox, int width)~
 

@@ -1,4 +1,4 @@
-*px_numrecords* -- Returns number of records in a database
+px_numrecords -- Returns number of records in a database
 
   int px_numrecords(resource pxdoc)~
 

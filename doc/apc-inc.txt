@@ -1,4 +1,4 @@
-*apc_inc* -- Increase a stored number
+apc_inc -- Increase a stored number
 
   int apc_inc(string key [, int step [, bool success]])~
 

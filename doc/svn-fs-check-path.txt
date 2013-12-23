@@ -1,4 +1,4 @@
-*svn_fs_check_path* -- Determines what kind of item lives at path in a given
+svn_fs_check_path -- Determines what kind of item lives at path in a given
 repository fsroot
 
   int svn_fs_check_path(resource fsroot, string path)~

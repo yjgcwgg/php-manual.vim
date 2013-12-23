@@ -1,4 +1,4 @@
-*cairo_scaled_font_create* -- Description
+cairo_scaled_font_create -- Description
 
   CairoScaledFont cairo_scaled_font_create(CairoFontFace fontface, CairoMatrix matrix, CairoMatrix ctm, CairoFontOptions fontoptions)~
 

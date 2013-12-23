@@ -1,4 +1,4 @@
-*fbsql_blob_size* -- Get the size of a BLOB
+fbsql_blob_size -- Get the size of a BLOB
 
   int fbsql_blob_size(string blob_handle [, resource link_identifier])~
 

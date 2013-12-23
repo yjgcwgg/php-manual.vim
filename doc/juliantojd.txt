@@ -1,4 +1,4 @@
-*JulianToJD* -- Converts a Julian Calendar date to Julian Day Count
+JulianToJD -- Converts a Julian Calendar date to Julian Day Count
 
   int juliantojd(int month, int day, int year)~
 

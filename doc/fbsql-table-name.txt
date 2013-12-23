@@ -1,4 +1,4 @@
-*fbsql_table_name* -- Get table name of field
+fbsql_table_name -- Get table name of field
 
   string fbsql_table_name(resource result, int index)~
 

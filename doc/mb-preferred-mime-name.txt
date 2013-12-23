@@ -1,4 +1,4 @@
-*mb_preferred_mime_name* -- Get MIME charset string
+mb_preferred_mime_name -- Get MIME charset string
 
   string mb_preferred_mime_name(string encoding)~
 

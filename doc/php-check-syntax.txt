@@ -1,4 +1,4 @@
-*php_check_syntax* -- Check the PHP syntax of (and execute) the specified file
+php_check_syntax -- Check the PHP syntax of (and execute) the specified file
 
   bool php_check_syntax(string filename [, string error_message])~
 

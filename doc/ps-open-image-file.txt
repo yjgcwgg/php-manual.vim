@@ -1,4 +1,4 @@
-*ps_open_image_file* -- Opens image from file
+ps_open_image_file -- Opens image from file
 
   int ps_open_image_file(resource psdoc, string type, string filename [, string stringparam [, int intparam]])~
 

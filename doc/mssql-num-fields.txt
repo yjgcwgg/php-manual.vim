@@ -1,4 +1,4 @@
-*mssql_num_fields* -- Gets the number of fields in result
+mssql_num_fields -- Gets the number of fields in result
 
   int mssql_num_fields(resource result)~
 

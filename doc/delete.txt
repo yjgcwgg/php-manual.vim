@@ -1,6 +1,4 @@
-*delete* -- See unlink or unset
-
-  void delete()~
+delete -- See unlink or unset
 
 This is a dummy manual entry to satisfy those people who are looking for
 |unlink| or |unset| in the wrong place.

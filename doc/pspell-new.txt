@@ -1,4 +1,4 @@
-*pspell_new* -- Load a new dictionary
+pspell_new -- Load a new dictionary
 
   int pspell_new(string language [, string spelling [, string jargon [, string encoding [, int mode]]]])~
 

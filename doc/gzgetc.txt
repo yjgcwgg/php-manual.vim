@@ -1,4 +1,4 @@
-*gzgetc* -- Get character from gz-file pointer
+gzgetc -- Get character from gz-file pointer
 
   string gzgetc(resource zp)~
 

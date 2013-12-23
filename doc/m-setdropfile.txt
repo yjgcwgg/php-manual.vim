@@ -1,4 +1,4 @@
-*m_setdropfile* -- Set the connection method to Drop-File
+m_setdropfile -- Set the connection method to Drop-File
 
   int m_setdropfile(resource conn, string directory)~
 

@@ -1,4 +1,4 @@
-*msql_free_result* -- Free result memory
+msql_free_result -- Free result memory
 
   bool msql_free_result(resource result)~
 

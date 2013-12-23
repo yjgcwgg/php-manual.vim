@@ -1,4 +1,4 @@
-*pg_field_is_null* -- Test if a field is SQL NULL
+pg_field_is_null -- Test if a field is SQL NULL
 
   int pg_field_is_null(resource result, int row, mixed field)~
 

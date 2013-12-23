@@ -1,4 +1,4 @@
-*php_strip_whitespace* -- Return source with stripped comments and whitespace
+php_strip_whitespace -- Return source with stripped comments and whitespace
 
   string php_strip_whitespace(string filename)~
 

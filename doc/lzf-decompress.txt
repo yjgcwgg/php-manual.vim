@@ -1,4 +1,4 @@
-*lzf_decompress* -- LZF decompression
+lzf_decompress -- LZF decompression
 
   string lzf_decompress(string data)~
 

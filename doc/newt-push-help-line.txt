@@ -1,4 +1,4 @@
-*newt_push_help_line* -- Saves the current help line on a stack, and displays
+newt_push_help_line -- Saves the current help line on a stack, and displays
 the new line
 
   void newt_push_help_line([string text])~

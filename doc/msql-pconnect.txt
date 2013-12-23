@@ -1,4 +1,4 @@
-*msql_pconnect* -- Open persistent mSQL connection
+msql_pconnect -- Open persistent mSQL connection
 
   resource msql_pconnect([string hostname])~
 

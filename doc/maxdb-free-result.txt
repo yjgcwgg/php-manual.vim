@@ -1,4 +1,4 @@
-*maxdb_result::free* -- Frees the memory associated with a result
+maxdb_result::free -- Frees the memory associated with a result
 
 Procedural style
 

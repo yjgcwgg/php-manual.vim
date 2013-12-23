@@ -1,4 +1,4 @@
-*imagecolorset* -- Set the color for the specified palette index
+imagecolorset -- Set the color for the specified palette index
 
   void imagecolorset(resource image, int index, int red, int green, int blue [, int alpha])~
 
@@ -19,9 +19,6 @@ such as |imagecreatetruecolor|.
 
 {alpha} Value of alpha component.
 
-This change exists in the development version of PHP, and will probably exist
-after 5.3.
-
 No value is returned.
 
 |imagecolorset| example
@@ -40,7 +37,7 @@ No value is returned.
   imagecolorset($im, $bg, 0, 0, 255);
   
   // Output the image to the browser
-  header('Content-type: image/png');
+  header('Content-Type: image/png');
   
   imagepng($im);
   imagedestroy($im);

@@ -1,4 +1,4 @@
-*dbplus_last* -- Get last tuple from relation
+dbplus_last -- Get last tuple from relation
 
   int dbplus_last(resource relation, array tuple)~
 

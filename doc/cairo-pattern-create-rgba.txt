@@ -1,4 +1,4 @@
-*cairo_pattern_create_rgba* -- Description
+cairo_pattern_create_rgba -- Description
 
   CairoPattern cairo_pattern_create_rgba(float red, float green, float blue, float alpha)~
 

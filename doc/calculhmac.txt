@@ -1,4 +1,4 @@
-*calculhmac* -- Obtain a hmac key (needs 2 arguments)
+calculhmac -- Obtain a hmac key (needs 2 arguments)
 
   string calculhmac(string clent, string data)~
 

@@ -1,4 +1,4 @@
-*PDF_delete_table* -- Delete table object
+PDF_delete_table -- Delete table object
 
   bool PDF_delete_table(resource pdfdoc, int table, string optlist)~
 

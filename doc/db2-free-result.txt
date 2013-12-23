@@ -1,4 +1,4 @@
-*db2_free_result* -- Frees resources associated with a result set
+db2_free_result -- Frees resources associated with a result set
 
   bool db2_free_result(resource stmt)~
 

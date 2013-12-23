@@ -1,4 +1,4 @@
-*ncurses_has_ic* -- Check for insert- and delete-capabilities
+ncurses_has_ic -- Check for insert- and delete-capabilities
 
   bool ncurses_has_ic()~
 

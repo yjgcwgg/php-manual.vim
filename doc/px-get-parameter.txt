@@ -1,4 +1,4 @@
-*px_get_parameter* -- Gets a parameter
+px_get_parameter -- Gets a parameter
 
   string px_get_parameter(resource pxdoc, string name)~
 

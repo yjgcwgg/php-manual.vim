@@ -1,4 +1,4 @@
-*shm_has_var* -- Check whether a specific entry exists
+shm_has_var -- Check whether a specific entry exists
 
   bool shm_has_var(resource shm_identifier, int variable_key)~
 

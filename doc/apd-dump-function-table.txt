@@ -1,4 +1,4 @@
-*apd_dump_function_table* -- Outputs the current function table
+apd_dump_function_table -- Outputs the current function table
 
   void apd_dump_function_table()~
 

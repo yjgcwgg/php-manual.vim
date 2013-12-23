@@ -1,4 +1,4 @@
-*ovrimos_field_type* -- Returns the type of the output column
+ovrimos_field_type -- Returns the type of the output column
 
   int ovrimos_field_type(int result_id, int field_number)~
 

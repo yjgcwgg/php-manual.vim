@@ -1,4 +1,4 @@
-*apc_delete_file* -- Deletes files from the opcode cache
+apc_delete_file -- Deletes files from the opcode cache
 
   mixed apc_delete_file(mixed keys)~
 

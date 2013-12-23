@@ -1,4 +1,4 @@
-*printer_end_page* -- Close active page
+printer_end_page -- Close active page
 
   bool printer_end_page(resource printer_handle)~
 

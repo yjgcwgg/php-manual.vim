@@ -1,4 +1,4 @@
-*getprotobynumber* -- Get protocol name associated with protocol number
+getprotobynumber -- Get protocol name associated with protocol number
 
   string getprotobynumber(int number)~
 

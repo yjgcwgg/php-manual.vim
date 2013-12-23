@@ -1,4 +1,4 @@
-*geoip_id_by_name* -- Get the Internet connection type
+geoip_id_by_name -- Get the Internet connection type
 
   int geoip_id_by_name(string hostname)~
 

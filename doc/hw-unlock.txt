@@ -1,4 +1,4 @@
-*hw_Unlock* -- Unlock object
+hw_Unlock -- Unlock object
 
   bool hw_unlock(int connection, int objectID)~
 

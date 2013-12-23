@@ -1,4 +1,4 @@
-*gmp_sub* -- Subtract numbers
+gmp_sub -- Subtract numbers
 
   resource gmp_sub(resource a, resource b)~
 

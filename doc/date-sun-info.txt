@@ -1,4 +1,4 @@
-*date_sun_info* -- Returns an array with information about sunset/sunrise and
+date_sun_info -- Returns an array with information about sunset/sunrise and
 twilight begin/end
 
   array date_sun_info(int time, float latitude, float longitude)~

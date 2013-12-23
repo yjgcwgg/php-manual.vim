@@ -1,4 +1,4 @@
-*ovrimos_execute* -- Executes a prepared SQL statement
+ovrimos_execute -- Executes a prepared SQL statement
 
   bool ovrimos_execute(int result_id [, array parameters_array])~
 

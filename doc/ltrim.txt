@@ -1,4 +1,4 @@
-*ltrim* -- Strip whitespace (or other characters) from the beginning of a string
+ltrim -- Strip whitespace (or other characters) from the beginning of a string
 
   string ltrim(string str [, string charlist])~
 

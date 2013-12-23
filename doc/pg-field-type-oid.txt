@@ -1,4 +1,4 @@
-*pg_field_type_oid* -- Returns the type ID (OID) for the corresponding field
+pg_field_type_oid -- Returns the type ID (OID) for the corresponding field
 number
 
   int pg_field_type_oid(resource result, int field_number)~

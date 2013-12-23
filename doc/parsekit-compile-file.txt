@@ -1,4 +1,4 @@
-*parsekit_compile_file* -- Compile a string of PHP code and return the resulting
+parsekit_compile_file -- Compile a string of PHP code and return the resulting
 op array
 
   array parsekit_compile_file(string filename [, array errors [, int options]])~

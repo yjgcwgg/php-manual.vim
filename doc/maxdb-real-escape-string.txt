@@ -1,4 +1,4 @@
-*maxdb::real_escape_string* -- Escapes special characters in a string for use in
+maxdb::real_escape_string -- Escapes special characters in a string for use in
 an SQL statement, taking into account the current charset of the connection
 
 Procedural style
@@ -7,7 +7,7 @@ Procedural style
 
 Object oriented style
 
-  string maxdb::real_escape_sring(resource link, string escapestr, string escapestr)~
+  string maxdb::real_escape_string(resource link, string escapestr, string escapestr)~
 
 This function is used to create a legal SQL string that you can use in an SQL
 statement. The string escapestr is encoded to an escaped SQL string, taking

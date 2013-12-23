@@ -1,6 +1,6 @@
-*zip_open* -- Open a ZIP file archive
+zip_open -- Open a ZIP file archive
 
-  mixed zip_open(string filename)~
+  resource zip_open(string filename)~
 
 Opens a new zip archive for reading.
 

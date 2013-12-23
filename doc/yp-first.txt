@@ -1,4 +1,4 @@
-*yp_first* -- Returns the first key-value pair from the named map
+yp_first -- Returns the first key-value pair from the named map
 
   array yp_first(string domain, string map)~
 

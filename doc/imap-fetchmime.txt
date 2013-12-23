@@ -1,4 +1,4 @@
-*imap_fetchmime* -- Fetch MIME headers for a particular section of the message
+imap_fetchmime -- Fetch MIME headers for a particular section of the message
 
   string imap_fetchmime(resource imap_stream, int msg_number, string section [, int options])~
 

@@ -1,4 +1,4 @@
-*stats_dens_laplace* -- Not documented
+stats_dens_laplace -- Not documented
 
   float stats_dens_laplace(float x, float ave, float stdev)~
 

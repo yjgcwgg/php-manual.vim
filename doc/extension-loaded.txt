@@ -1,4 +1,4 @@
-*extension_loaded* -- Find out whether an extension is loaded
+extension_loaded -- Find out whether an extension is loaded
 
   bool extension_loaded(string name)~
 
@@ -50,6 +50,6 @@ extension names are written in lower case but there may be extensions
 available which also use uppercase letters. Prior to PHP 5, this function
 compared the names case sensitively.
 
-|get_loaded_extensions| |get_extension_funcs| |phpinfo| |dl|
+|get_loaded_extensions| |get_extension_funcs| |phpinfo| |dl| |function_exists|
 
 vim:ft=help:

@@ -1,4 +1,4 @@
-*exp* -- Calculates the exponent of e
+exp -- Calculates the exponent of e
 
   float exp(float arg)~
 

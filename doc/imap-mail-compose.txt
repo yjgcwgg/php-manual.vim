@@ -1,4 +1,4 @@
-*imap_mail_compose* -- Create a MIME message based on given envelope and body
+imap_mail_compose -- Create a MIME message based on given envelope and body
 sections
 
   string imap_mail_compose(array envelope, array body)~

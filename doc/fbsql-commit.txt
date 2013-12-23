@@ -1,4 +1,4 @@
-*fbsql_commit* -- Commits a transaction to the database
+fbsql_commit -- Commits a transaction to the database
 
   bool fbsql_commit([resource link_identifier])~
 

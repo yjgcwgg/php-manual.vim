@@ -1,4 +1,4 @@
-*fpassthru* -- Output all remaining data on a file pointer
+fpassthru -- Output all remaining data on a file pointer
 
   int fpassthru(resource handle)~
 

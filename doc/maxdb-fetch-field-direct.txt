@@ -1,4 +1,4 @@
-*maxdb_result::fetch_field_direct* -- Fetch meta-data for a single field
+maxdb_result::fetch_field_direct -- Fetch meta-data for a single field
 
 Procedural style
 

@@ -1,4 +1,4 @@
-*JDToFrench* -- Converts a Julian Day Count to the French Republican Calendar
+JDToFrench -- Converts a Julian Day Count to the French Republican Calendar
 
   string jdtofrench(int juliandaycount)~
 

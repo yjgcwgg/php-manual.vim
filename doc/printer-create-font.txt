@@ -1,4 +1,4 @@
-*printer_create_font* -- Create a new font
+printer_create_font -- Create a new font
 
   resource printer_create_font(string face, int height, int width, int font_weight, bool italic, bool underline, bool strikeout, int orientation)~
 

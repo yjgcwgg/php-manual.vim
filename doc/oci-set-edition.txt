@@ -1,4 +1,4 @@
-*oci_set_edition* -- Sets the database edition
+oci_set_edition -- Sets the database edition
 
   bool oci_set_edition(string edition)~
 

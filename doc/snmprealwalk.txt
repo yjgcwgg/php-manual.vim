@@ -1,4 +1,4 @@
-*snmprealwalk* -- Return all objects including their respective object ID within
+snmprealwalk -- Return all objects including their respective object ID within
 the specified one
 
   array snmprealwalk(string host, string community, string object_id [, int timeout [, int retries]])~
@@ -15,7 +15,7 @@ object ids.
 
 {timeout} The number of microseconds until the first timeout.
 
-{retries} The number of retries in case timeouts occur.
+{retries} The number of times to retry if timeouts occur.
 
 Returns an associative array of the SNMP object ids and their values on
 success or FALSE on error. In case of an error, an E_WARNING message is shown.

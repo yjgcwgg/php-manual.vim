@@ -1,4 +1,4 @@
-*fbsql_warnings* -- Enable or disable FrontBase warnings
+fbsql_warnings -- Enable or disable FrontBase warnings
 
   bool fbsql_warnings([bool OnOff])~
 

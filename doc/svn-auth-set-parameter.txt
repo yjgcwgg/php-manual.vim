@@ -1,4 +1,4 @@
-*svn_auth_set_parameter* -- Sets an authentication parameter
+svn_auth_set_parameter -- Sets an authentication parameter
 
   void svn_auth_set_parameter(string key, string value)~
 

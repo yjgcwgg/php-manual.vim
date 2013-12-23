@@ -1,4 +1,4 @@
-*signeurlpaiement* -- Obtain the payment url (needs 2 arguments)
+signeurlpaiement -- Obtain the payment url (needs 2 arguments)
 
   string nthmac(string clent, string data)~
 

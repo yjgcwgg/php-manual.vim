@@ -1,4 +1,4 @@
-*oci_field_is_null* -- Checks if the field is NULL
+oci_field_is_null -- Checks if the field is NULL
 
   bool oci_field_is_null(resource statement, mixed field)~
 

@@ -1,4 +1,4 @@
-*printer_get_option* -- Retrieve printer configuration data
+printer_get_option -- Retrieve printer configuration data
 
   mixed printer_get_option(resource printer_handle, string option)~
 

@@ -1,4 +1,4 @@
-*rrd_create* -- Creates rrd database file
+rrd_create -- Creates rrd database file
 
   bool rrd_create(string filename, array options)~
 

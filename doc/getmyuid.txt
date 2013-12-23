@@ -1,4 +1,4 @@
-*getmyuid* -- Gets PHP script owner's UID
+getmyuid -- Gets PHP script owner's UID
 
   int getmyuid()~
 

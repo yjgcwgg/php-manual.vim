@@ -1,4 +1,4 @@
-*session_cache_expire* -- Return current cache expire
+session_cache_expire -- Return current cache expire
 
   int session_cache_expire([string new_cache_expire])~
 

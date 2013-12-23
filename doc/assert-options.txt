@@ -1,4 +1,4 @@
-*assert_options* -- Set/get the various assert flags
+assert_options -- Set/get the various assert flags
 
   mixed assert_options(int what [, mixed value])~
 

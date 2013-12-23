@@ -1,4 +1,4 @@
-*newt_textbox_set_text* --
+newt_textbox_set_text --
 
   void newt_textbox_set_text(resource textbox, string text)~
 

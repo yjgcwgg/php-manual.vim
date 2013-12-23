@@ -1,4 +1,4 @@
-*udm_error* -- Get mnoGoSearch error message
+udm_error -- Get mnoGoSearch error message
 
   string udm_error(resource agent)~
 

@@ -1,4 +1,4 @@
-*ovrimos_num_fields* -- Returns the number of columns
+ovrimos_num_fields -- Returns the number of columns
 
   int ovrimos_num_fields(int result_id)~
 

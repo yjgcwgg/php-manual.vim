@@ -1,4 +1,4 @@
-*ftp_mdtm* -- Returns the last modified time of the given file
+ftp_mdtm -- Returns the last modified time of the given file
 
   int ftp_mdtm(resource ftp_stream, string remote_file)~
 

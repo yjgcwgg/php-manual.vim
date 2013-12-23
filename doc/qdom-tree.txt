@@ -1,4 +1,4 @@
-*qdom_tree* -- Creates a tree of an XML string
+qdom_tree -- Creates a tree of an XML string
 
   QDomDocument qdom_tree(string doc)~
 

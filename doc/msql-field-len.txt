@@ -1,4 +1,4 @@
-*msql_field_len* -- Get field length
+msql_field_len -- Get field length
 
   int msql_field_len(resource result, int field_offset)~
 

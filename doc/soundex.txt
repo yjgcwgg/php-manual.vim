@@ -1,4 +1,4 @@
-*soundex* -- Calculate the soundex key of a string
+soundex -- Calculate the soundex key of a string
 
   string soundex(string str)~
 

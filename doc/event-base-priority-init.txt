@@ -1,4 +1,4 @@
-*event_base_priority_init* -- Set the number of event priority levels
+event_base_priority_init -- Set the number of event priority levels
 
   bool event_base_priority_init(resource event_base, int npriorities)~
 

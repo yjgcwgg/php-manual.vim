@@ -1,4 +1,4 @@
-*hw_ErrorMsg* -- Returns error message
+hw_ErrorMsg -- Returns error message
 
   string hw_errormsg(int connection)~
 

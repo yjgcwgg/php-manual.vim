@@ -1,4 +1,4 @@
-*printer_draw_rectangle* -- Draw a rectangle
+printer_draw_rectangle -- Draw a rectangle
 
   void printer_draw_rectangle(resource printer_handle, int ul_x, int ul_y, int lr_x, int lr_y)~
 

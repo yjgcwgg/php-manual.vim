@@ -1,4 +1,4 @@
-*pcntl_waitpid* -- Waits on or returns the status of a forked child
+pcntl_waitpid -- Waits on or returns the status of a forked child
 
   int pcntl_waitpid(int pid, int status [, int options])~
 

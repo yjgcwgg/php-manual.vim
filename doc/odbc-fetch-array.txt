@@ -1,4 +1,4 @@
-*odbc_fetch_array* -- Fetch a result row as an associative array
+odbc_fetch_array -- Fetch a result row as an associative array
 
   array odbc_fetch_array(resource result [, int rownumber])~
 

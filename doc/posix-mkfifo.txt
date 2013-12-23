@@ -1,4 +1,4 @@
-*posix_mkfifo* -- Create a fifo special file (a named pipe)
+posix_mkfifo -- Create a fifo special file (a named pipe)
 
   bool posix_mkfifo(string pathname, int mode)~
 

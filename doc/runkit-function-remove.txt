@@ -1,4 +1,4 @@
-*runkit_function_remove* -- Remove a function definition
+runkit_function_remove -- Remove a function definition
 
   bool runkit_function_remove(string funcname)~
 

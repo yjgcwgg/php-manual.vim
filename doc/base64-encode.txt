@@ -1,4 +1,4 @@
-*base64_encode* -- Encodes data with MIME base64
+base64_encode -- Encodes data with MIME base64
 
   string base64_encode(string data)~
 
@@ -11,7 +11,7 @@ Base64-encoded data takes about 33% more space than the original data.
 
 {data} The data to encode.
 
-The encoded data, as a string.
+The encoded data, as a string or FALSE on failure.
 
 |base64_encode| example
 

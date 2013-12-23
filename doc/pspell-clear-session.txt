@@ -1,4 +1,4 @@
-*pspell_clear_session* -- Clear the current session
+pspell_clear_session -- Clear the current session
 
   bool pspell_clear_session(int dictionary_link)~
 

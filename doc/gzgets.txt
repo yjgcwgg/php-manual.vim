@@ -1,4 +1,4 @@
-*gzgets* -- Get line from file pointer
+gzgets -- Get line from file pointer
 
   string gzgets(resource zp, int length)~
 

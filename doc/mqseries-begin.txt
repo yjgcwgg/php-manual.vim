@@ -1,4 +1,4 @@
-*mqseries_begin* -- MQseries MQBEGIN
+mqseries_begin -- MQseries MQBEGIN
 
   void mqseries_begin(resource hconn, array beginOptions, resource compCode, resource reason)~
 

@@ -1,4 +1,4 @@
-*dbplus_setindexbynumber* -- Set index by number
+dbplus_setindexbynumber -- Set index by number
 
   int dbplus_setindexbynumber(resource relation, int idx_number)~
 

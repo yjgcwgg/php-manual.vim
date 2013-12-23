@@ -1,4 +1,4 @@
-*imap_headerinfo* -- Read the header of the message
+imap_headerinfo -- Read the header of the message
 
   object imap_headerinfo(resource imap_stream, int msg_number [, int fromlength [, int subjectlength [, string defaulthost]]])~
 

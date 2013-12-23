@@ -1,4 +1,4 @@
-*zip_entry_name* -- Retrieve the name of a directory entry
+zip_entry_name -- Retrieve the name of a directory entry
 
   string zip_entry_name(resource zip_entry)~
 

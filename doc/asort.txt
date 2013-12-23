@@ -1,4 +1,4 @@
-*asort* -- Sort an array and maintain index association
+asort -- Sort an array and maintain index association
 
   bool asort(array array [, int sort_flags])~
 

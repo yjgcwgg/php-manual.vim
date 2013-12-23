@@ -1,4 +1,4 @@
-*xdiff_file_rabdiff* -- Make binary diff of two files using the Rabin's
+xdiff_file_rabdiff -- Make binary diff of two files using the Rabin's
 polynomial fingerprinting algorithm
 
   bool xdiff_file_rabdiff(string old_file, string new_file, string dest)~

@@ -1,4 +1,4 @@
-*PDF_place_image* -- Place image on the page [deprecated]
+PDF_place_image -- Place image on the page [deprecated]
 
   bool PDF_place_image(resource pdfdoc, int image, float x, float y, float scale)~
 

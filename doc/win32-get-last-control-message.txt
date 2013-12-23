@@ -1,4 +1,4 @@
-*win32_get_last_control_message* -- Returns the last control message that was
+win32_get_last_control_message -- Returns the last control message that was
 sent to this service
 
   int win32_get_last_control_message()~

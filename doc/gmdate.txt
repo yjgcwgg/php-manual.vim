@@ -1,4 +1,4 @@
-*gmdate* -- Format a GMT/UTC date/time
+gmdate -- Format a GMT/UTC date/time
 
   string gmdate(string format [, int timestamp])~
 

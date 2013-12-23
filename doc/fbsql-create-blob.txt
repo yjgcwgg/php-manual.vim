@@ -1,4 +1,4 @@
-*fbsql_create_blob* -- Create a BLOB
+fbsql_create_blob -- Create a BLOB
 
   string fbsql_create_blob(string blob_data [, resource link_identifier])~
 

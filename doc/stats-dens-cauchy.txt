@@ -1,4 +1,4 @@
-*stats_dens_cauchy* -- Not documented
+stats_dens_cauchy -- Not documented
 
   float stats_dens_cauchy(float x, float ave, float stdev)~
 

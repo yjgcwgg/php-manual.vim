@@ -1,4 +1,4 @@
-*fbsql_data_seek* -- Move internal result pointer
+fbsql_data_seek -- Move internal result pointer
 
   bool fbsql_data_seek(resource result, int row_number)~
 

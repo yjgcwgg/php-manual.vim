@@ -1,4 +1,4 @@
-*ps_set_border_dash* -- Sets length of dashes for border of annotations
+ps_set_border_dash -- Sets length of dashes for border of annotations
 
   bool ps_set_border_dash(resource psdoc, float black, float white)~
 

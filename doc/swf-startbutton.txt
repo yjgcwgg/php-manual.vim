@@ -1,4 +1,4 @@
-*swf_startbutton* -- Start the definition of a button
+swf_startbutton -- Start the definition of a button
 
   void swf_startbutton(int objid, int type)~
 

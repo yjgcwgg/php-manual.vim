@@ -1,4 +1,4 @@
-*getmyinode* -- Gets the inode of the current script
+getmyinode -- Gets the inode of the current script
 
   int getmyinode()~
 

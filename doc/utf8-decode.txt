@@ -1,4 +1,4 @@
-*utf8_decode* -- Converts a string with ISO-8859-1 characters encoded with UTF-8
+utf8_decode -- Converts a string with ISO-8859-1 characters encoded with UTF-8
 to single-byte ISO-8859-1
 
   string utf8_decode(string data)~

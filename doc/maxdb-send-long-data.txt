@@ -1,4 +1,4 @@
-*maxdb_send_long_data* -- Alias of maxdb_stmt_send_long_data
+maxdb_send_long_data -- Alias of maxdb_stmt_send_long_data
 
 This function is an alias of: |maxdb_stmt_send_long_data|.
 

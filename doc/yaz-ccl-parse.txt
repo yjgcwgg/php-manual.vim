@@ -1,4 +1,4 @@
-*yaz_ccl_parse* -- Invoke CCL Parser
+yaz_ccl_parse -- Invoke CCL Parser
 
   bool yaz_ccl_parse(resource id, string query, array result)~
 

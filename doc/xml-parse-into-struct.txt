@@ -1,4 +1,4 @@
-*xml_parse_into_struct* -- Parse XML data into an array structure
+xml_parse_into_struct -- Parse XML data into an array structure
 
   int xml_parse_into_struct(resource parser, string data, array values [, array index])~
 

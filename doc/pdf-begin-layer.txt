@@ -1,4 +1,4 @@
-*PDF_begin_layer* -- Start layer
+PDF_begin_layer -- Start layer
 
   bool PDF_begin_layer(resource pdfdoc, int layer)~
 

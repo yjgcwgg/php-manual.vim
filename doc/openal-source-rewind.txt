@@ -1,4 +1,4 @@
-*openal_source_rewind* -- Rewind the source
+openal_source_rewind -- Rewind the source
 
   bool openal_source_rewind(resource source)~
 

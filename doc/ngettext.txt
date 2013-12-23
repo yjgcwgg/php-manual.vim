@@ -1,4 +1,4 @@
-*ngettext* -- Plural version of gettext
+ngettext -- Plural version of gettext
 
   string ngettext(string msgid1, string msgid2, int n)~
 

@@ -1,4 +1,4 @@
-*pg_fetch_array* -- Fetch a row as an array
+pg_fetch_array -- Fetch a row as an array
 
   array pg_fetch_array(resource result [, int row [, int result_type]])~
 
@@ -42,13 +42,13 @@ Version Description 4.1.0 The {row} parameter became optional.
 <?php >
   $conn = pg_pconnect("dbname=publisher");
   if (!$conn) {
-    echo "An error occured.\n";
+    echo "An error occurred.\n";
     exit;
   }
   
   $result = pg_query($conn, "SELECT author, email FROM authors");
   if (!$result) {
-    echo "An error occured.\n";
+    echo "An error occurred.\n";
     exit;
   }
   

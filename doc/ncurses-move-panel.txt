@@ -1,4 +1,4 @@
-*ncurses_move_panel* -- Moves a panel so that its upper-left corner is at
+ncurses_move_panel -- Moves a panel so that its upper-left corner is at
 [startx, starty]
 
   int ncurses_move_panel(resource panel, int startx, int starty)~

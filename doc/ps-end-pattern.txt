@@ -1,4 +1,4 @@
-*ps_end_pattern* -- End a pattern
+ps_end_pattern -- End a pattern
 
   bool ps_end_pattern(resource psdoc)~
 

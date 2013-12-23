@@ -1,4 +1,4 @@
-*basename* -- Returns trailing name component of path
+basename -- Returns trailing name component of path
 
   string basename(string path [, string suffix])~
 

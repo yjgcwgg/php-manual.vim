@@ -1,4 +1,4 @@
-*openssl_csr_export* -- Exports a CSR as a string
+openssl_csr_export -- Exports a CSR as a string
 
   bool openssl_csr_export(resource csr, string out [, bool notext])~
 

@@ -1,4 +1,4 @@
-*is_soap_fault* -- Checks if a SOAP call has failed
+is_soap_fault -- Checks if a SOAP call has failed
 
   bool is_soap_fault(mixed object)~
 

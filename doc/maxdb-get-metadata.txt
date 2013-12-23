@@ -1,4 +1,4 @@
-*maxdb_get_metadata* -- Alias of maxdb_stmt_result_metadata
+maxdb_get_metadata -- Alias of maxdb_stmt_result_metadata
 
 This function is an alias of: |maxdb_stmt_result_metadata|.
 

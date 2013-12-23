@@ -1,4 +1,4 @@
-*newt_checkbox_tree_get_current* -- Returns checkbox tree selected item
+newt_checkbox_tree_get_current -- Returns checkbox tree selected item
 
   mixed newt_checkbox_tree_get_current(resource checkboxtree)~
 

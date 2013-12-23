@@ -1,4 +1,4 @@
-*db2_exec* -- Executes an SQL statement directly
+db2_exec -- Executes an SQL statement directly
 
   resource db2_exec(resource connection, string statement [, array options])~
 

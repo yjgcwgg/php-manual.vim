@@ -1,4 +1,4 @@
-*yaz_element* -- Specifies Element-Set Name for retrieval
+yaz_element -- Specifies Element-Set Name for retrieval
 
   bool yaz_element(resource id, string elementset)~
 

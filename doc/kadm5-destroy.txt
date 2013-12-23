@@ -1,4 +1,4 @@
-*kadm5_destroy* -- Closes the connection to the admin server and releases all
+kadm5_destroy -- Closes the connection to the admin server and releases all
 related resources
 
   bool kadm5_destroy(resource handle)~

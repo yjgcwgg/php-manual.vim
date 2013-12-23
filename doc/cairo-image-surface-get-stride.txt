@@ -1,4 +1,4 @@
-*cairo_image_surface_get_stride* -- Description
+cairo_image_surface_get_stride -- Description
 
   int cairo_image_surface_get_stride(CairoImageSurface surface)~
 

@@ -1,4 +1,4 @@
-*bzwrite* -- Binary safe bzip2 file write
+bzwrite -- Binary safe bzip2 file write
 
   int bzwrite(resource bz, string data [, int length])~
 

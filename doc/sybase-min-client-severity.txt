@@ -1,4 +1,4 @@
-*sybase_min_client_severity* -- Sets minimum client severity
+sybase_min_client_severity -- Sets minimum client severity
 
   void sybase_min_client_severity(int severity)~
 

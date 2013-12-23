@@ -1,4 +1,4 @@
-*event_base_new* -- Create and initialize new event base
+event_base_new -- Create and initialize new event base
 
   resource event_base_new()~
 

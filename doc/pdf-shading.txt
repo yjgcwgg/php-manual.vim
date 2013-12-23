@@ -1,4 +1,4 @@
-*PDF_shading* -- Define blend
+PDF_shading -- Define blend
 
   int PDF_shading(resource pdfdoc, string shtype, float x0, float y0, float x1, float y1, float c1, float c2, float c3, float c4, string optlist)~
 

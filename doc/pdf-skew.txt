@@ -1,4 +1,4 @@
-*PDF_skew* -- Skew the coordinate system
+PDF_skew -- Skew the coordinate system
 
   bool PDF_skew(resource p, float alpha, float beta)~
 

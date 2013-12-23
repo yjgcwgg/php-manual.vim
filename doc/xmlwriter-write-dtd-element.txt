@@ -1,8 +1,8 @@
-*XMLWriter::writeDTDElement* -- Write full DTD element tag
+xmlwriter_write_dtd_element -- Write full DTD element tag
 
 Object oriented style
 
-  bool writeDTDElement(string name, string content)~
+  bool XMLWriter::writeDTDElement(string name, string content)~
 
 Procedural style
 

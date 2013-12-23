@@ -1,4 +1,4 @@
-*zend_thread_id* -- Returns a unique identifier for the current thread
+zend_thread_id -- Returns a unique identifier for the current thread
 
   int zend_thread_id()~
 

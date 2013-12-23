@@ -1,4 +1,4 @@
-*ibase_blob_cancel* -- Cancel creating blob
+ibase_blob_cancel -- Cancel creating blob
 
   bool ibase_blob_cancel(resource blob_handle)~
 

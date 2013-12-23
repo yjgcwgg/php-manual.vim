@@ -1,4 +1,4 @@
-*PDF_makespotcolor* -- Make spot color
+PDF_makespotcolor -- Make spot color
 
   int PDF_makespotcolor(resource p, string spotname)~
 

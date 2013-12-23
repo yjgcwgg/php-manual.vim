@@ -1,4 +1,4 @@
-*gmp_xor* -- Bitwise XOR
+gmp_xor -- Bitwise XOR
 
   resource gmp_xor(resource a, resource b)~
 

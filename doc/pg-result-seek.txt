@@ -1,4 +1,4 @@
-*pg_result_seek* -- Set internal row offset in result resource
+pg_result_seek -- Set internal row offset in result resource
 
   bool pg_result_seek(resource result, int offset)~
 

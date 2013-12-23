@@ -1,4 +1,4 @@
-*gzputs* -- Alias of gzwrite
+gzputs -- Alias of gzwrite
 
 This function is an alias of: |gzwrite|.
 

@@ -1,4 +1,4 @@
-*gmp_prob_prime* -- Check if number is "probably prime"
+gmp_prob_prime -- Check if number is "probably prime"
 
   int gmp_prob_prime(resource a [, int reps])~
 

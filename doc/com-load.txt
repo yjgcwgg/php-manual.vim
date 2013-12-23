@@ -1,4 +1,4 @@
-*com_load* -- Creates a new reference to a COM component [deprecated]
+com_load -- Creates a new reference to a COM component [deprecated]
 
 Deprecated, use the OO syntax instead.
 

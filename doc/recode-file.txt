@@ -1,4 +1,4 @@
-*recode_file* -- Recode from file to file according to recode request
+recode_file -- Recode from file to file according to recode request
 
   bool recode_file(string request, resource input, resource output)~
 

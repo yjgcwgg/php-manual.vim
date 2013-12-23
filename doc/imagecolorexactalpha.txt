@@ -1,4 +1,4 @@
-*imagecolorexactalpha* -- Get the index of the specified color + alpha
+imagecolorexactalpha -- Get the index of the specified color + alpha
 
   int imagecolorexactalpha(resource image, int red, int green, int blue, int alpha)~
 

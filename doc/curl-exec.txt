@@ -1,4 +1,4 @@
-*curl_exec* -- Perform a cURL session
+curl_exec -- Perform a cURL session
 
   mixed curl_exec(resource ch)~
 

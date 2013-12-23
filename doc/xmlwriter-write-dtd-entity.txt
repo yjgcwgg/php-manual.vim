@@ -1,8 +1,8 @@
-*XMLWriter::writeDTDEntity* -- Write full DTD Entity tag
+xmlwriter_write_dtd_entity -- Write full DTD Entity tag
 
 Object oriented style
 
-  bool writeDTDEntity(string name, string content, bool pe, string pubid, string sysid, string ndataid)~
+  bool XMLWriter::writeDTDEntity(string name, string content, bool pe, string pubid, string sysid, string ndataid)~
 
 Procedural style
 

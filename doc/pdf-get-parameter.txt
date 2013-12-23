@@ -1,4 +1,4 @@
-*PDF_get_parameter* -- Get string parameter
+PDF_get_parameter -- Get string parameter
 
   string PDF_get_parameter(resource p, string key, float modifier)~
 

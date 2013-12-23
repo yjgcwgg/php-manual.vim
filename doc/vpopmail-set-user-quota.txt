@@ -1,4 +1,4 @@
-*vpopmail_set_user_quota* -- Sets a virtual user's quota
+vpopmail_set_user_quota -- Sets a virtual user's quota
 
   bool vpopmail_set_user_quota(string user, string domain, string quota)~
 

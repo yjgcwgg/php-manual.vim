@@ -1,4 +1,4 @@
-*dbplus_getunique* -- Get an id number unique to a relation
+dbplus_getunique -- Get an id number unique to a relation
 
   int dbplus_getunique(resource relation, int uniqueid)~
 

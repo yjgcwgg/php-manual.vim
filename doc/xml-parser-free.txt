@@ -1,4 +1,4 @@
-*xml_parser_free* -- Free an XML parser
+xml_parser_free -- Free an XML parser
 
   bool xml_parser_free(resource parser)~
 

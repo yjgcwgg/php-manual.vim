@@ -1,4 +1,4 @@
-*newt_set_help_callback* --
+newt_set_help_callback --
 
   void newt_set_help_callback(mixed function)~
 

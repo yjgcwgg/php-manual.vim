@@ -1,4 +1,4 @@
-*PDF_add_note* -- Set annotation for current page [deprecated]
+PDF_add_note -- Set annotation for current page [deprecated]
 
   bool PDF_add_note(resource pdfdoc, float llx, float lly, float urx, float ury, string contents, string title, string icon, int open)~
 

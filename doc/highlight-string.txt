@@ -1,4 +1,4 @@
-*highlight_string* -- Syntax highlighting of a string
+highlight_string -- Syntax highlighting of a string
 
   mixed highlight_string(string str [, bool return])~
 
@@ -38,9 +38,9 @@ The above example will output (in PHP 5):
 
 
 
-This function uses internal output buffering with this parameter so it can not
-be used inside an |ob_start| callback function.
+When the {return} parameter is used, this function uses internal output
+buffering so it cannot be used inside an |ob_start| callback function.
 
-|highlight_file|
+|highlight_file| Highlighting INI directives
 
 vim:ft=help:

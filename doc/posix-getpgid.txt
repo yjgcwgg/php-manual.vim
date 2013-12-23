@@ -1,4 +1,4 @@
-*posix_getpgid* -- Get process group id for job control
+posix_getpgid -- Get process group id for job control
 
   int posix_getpgid(int pid)~
 

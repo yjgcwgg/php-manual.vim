@@ -1,4 +1,4 @@
-*newt_checkbox_tree_get_entry_value* --
+newt_checkbox_tree_get_entry_value --
 
   string newt_checkbox_tree_get_entry_value(resource checkboxtree, mixed data)~
 

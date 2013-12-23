@@ -1,4 +1,4 @@
-*cairo_surface_write_to_png* -- Description
+cairo_surface_write_to_png -- Description
 
   void cairo_surface_write_to_png(CairoSurface surface, resource stream)~
 

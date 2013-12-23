@@ -1,4 +1,4 @@
-*newt_open_window* -- Open a window of the specified size and position
+newt_open_window -- Open a window of the specified size and position
 
   int newt_open_window(int left, int top, int width, int height [, string title])~
 

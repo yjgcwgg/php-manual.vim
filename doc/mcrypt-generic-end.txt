@@ -1,4 +1,4 @@
-*mcrypt_generic_end* -- This function terminates encryption
+mcrypt_generic_end -- This function terminates encryption
 
   bool mcrypt_generic_end(resource td)~
 

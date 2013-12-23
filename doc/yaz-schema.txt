@@ -1,4 +1,4 @@
-*yaz_schema* -- Specifies schema for retrieval
+yaz_schema -- Specifies schema for retrieval
 
   void yaz_schema(resource id, string schema)~
 

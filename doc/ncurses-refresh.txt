@@ -1,4 +1,4 @@
-*ncurses_refresh* -- Refresh screen
+ncurses_refresh -- Refresh screen
 
   int ncurses_refresh(int ch)~
 

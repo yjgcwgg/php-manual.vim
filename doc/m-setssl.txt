@@ -1,4 +1,4 @@
-*m_setssl* -- Set the connection method to SSL
+m_setssl -- Set the connection method to SSL
 
   int m_setssl(resource conn, string host, int port)~
 

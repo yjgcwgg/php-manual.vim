@@ -1,4 +1,4 @@
-*gnupg_setarmor* -- Toggle armored output
+gnupg_setarmor -- Toggle armored output
 
   bool gnupg_setarmor(resource identifier, int armor)~
 

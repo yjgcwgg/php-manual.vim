@@ -1,4 +1,4 @@
-*maxdb::rpl_query_type* -- Returns RPL query type
+maxdb::rpl_query_type -- Returns RPL query type
 
 Procedural style
 

@@ -1,4 +1,4 @@
-*dbase_numfields* -- Gets the number of fields of a database
+dbase_numfields -- Gets the number of fields of a database
 
   int dbase_numfields(int dbase_identifier)~
 

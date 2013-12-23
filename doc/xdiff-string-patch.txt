@@ -1,4 +1,4 @@
-*xdiff_string_patch* -- Patch a string with an unified diff
+xdiff_string_patch -- Patch a string with an unified diff
 
   string xdiff_string_patch(string str, string patch [, int flags [, string error]])~
 

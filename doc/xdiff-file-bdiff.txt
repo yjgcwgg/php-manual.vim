@@ -1,4 +1,4 @@
-*xdiff_file_bdiff* -- Make binary diff of two files
+xdiff_file_bdiff -- Make binary diff of two files
 
   bool xdiff_file_bdiff(string old_file, string new_file, string dest)~
 

@@ -1,4 +1,4 @@
-*swf_shapelinesolid* -- Set the current line style
+swf_shapelinesolid -- Set the current line style
 
   void swf_shapelinesolid(float r, float g, float b, float a, float width)~
 

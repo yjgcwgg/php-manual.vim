@@ -1,4 +1,4 @@
-*m_setssl_cafile* -- Set SSL CA (Certificate Authority) file for verification of
+m_setssl_cafile -- Set SSL CA (Certificate Authority) file for verification of
 server certificate
 
   int m_setssl_cafile(resource conn, string cafile)~

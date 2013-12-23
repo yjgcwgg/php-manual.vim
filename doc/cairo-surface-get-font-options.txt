@@ -1,4 +1,4 @@
-*cairo_surface_get_font_options* -- Description
+cairo_surface_get_font_options -- Description
 
   CairoFontOptions cairo_surface_get_font_options(CairoSurface surface)~
 

@@ -1,4 +1,4 @@
-*bcompiler_load_exe* -- Reads and creates classes from a bcompiler exe file
+bcompiler_load_exe -- Reads and creates classes from a bcompiler exe file
 
   bool bcompiler_load_exe(string filename)~
 

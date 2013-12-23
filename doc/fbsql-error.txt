@@ -1,4 +1,4 @@
-*fbsql_error* -- Returns the error message from previous operation
+fbsql_error -- Returns the error message from previous operation
 
   string fbsql_error([resource link_identifier])~
 

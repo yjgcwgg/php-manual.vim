@@ -1,4 +1,4 @@
-*msg_remove_queue* -- Destroy a message queue
+msg_remove_queue -- Destroy a message queue
 
   bool msg_remove_queue(resource queue)~
 

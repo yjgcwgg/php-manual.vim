@@ -1,4 +1,4 @@
-*join* -- Alias of implode
+join -- Alias of implode
 
 This function is an alias of: |implode|.
 

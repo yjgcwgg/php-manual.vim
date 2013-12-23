@@ -1,4 +1,4 @@
-*bzread* -- Binary safe bzip2 file read
+bzread -- Binary safe bzip2 file read
 
   string bzread(resource bz [, int length])~
 

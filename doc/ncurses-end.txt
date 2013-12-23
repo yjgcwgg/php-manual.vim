@@ -1,4 +1,4 @@
-*ncurses_end* -- Stop using ncurses, clean up the screen
+ncurses_end -- Stop using ncurses, clean up the screen
 
   int ncurses_end()~
 

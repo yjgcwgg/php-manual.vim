@@ -1,4 +1,4 @@
-*radius_strerror* -- Returns an error message
+radius_strerror -- Returns an error message
 
   string radius_strerror(resource radius_handle)~
 

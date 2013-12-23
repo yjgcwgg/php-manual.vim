@@ -1,4 +1,4 @@
-*printer_delete_pen* -- Delete a pen
+printer_delete_pen -- Delete a pen
 
   void printer_delete_pen(resource pen_handle)~
 

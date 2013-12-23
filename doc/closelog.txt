@@ -1,4 +1,4 @@
-*closelog* -- Close connection to system logger
+closelog -- Close connection to system logger
 
   bool closelog()~
 

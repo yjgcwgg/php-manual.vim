@@ -1,4 +1,4 @@
-*yaz_close* -- Close YAZ connection
+yaz_close -- Close YAZ connection
 
   bool yaz_close(resource id)~
 

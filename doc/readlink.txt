@@ -1,4 +1,4 @@
-*readlink* -- Returns the target of a symbolic link
+readlink -- Returns the target of a symbolic link
 
   string readlink(string path)~
 

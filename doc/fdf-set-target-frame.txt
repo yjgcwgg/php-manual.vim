@@ -1,4 +1,4 @@
-*fdf_set_target_frame* -- Set target frame for form display
+fdf_set_target_frame -- Set target frame for form display
 
   bool fdf_set_target_frame(resource fdf_document, string frame_name)~
 

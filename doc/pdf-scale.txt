@@ -1,4 +1,4 @@
-*PDF_scale* -- Scale coordinate system
+PDF_scale -- Scale coordinate system
 
   bool PDF_scale(resource p, float sx, float sy)~
 

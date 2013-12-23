@@ -1,4 +1,4 @@
-*printer_logical_fontheight* -- Get logical font height
+printer_logical_fontheight -- Get logical font height
 
   int printer_logical_fontheight(resource printer_handle, int height)~
 

@@ -1,4 +1,4 @@
-*ps_lineto* -- Draws a line
+ps_lineto -- Draws a line
 
   bool ps_lineto(resource psdoc, float x, float y)~
 

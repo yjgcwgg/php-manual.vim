@@ -1,4 +1,4 @@
-*pg_end_copy* -- Sync with PostgreSQL backend
+pg_end_copy -- Sync with PostgreSQL backend
 
   bool pg_end_copy([resource connection])~
 

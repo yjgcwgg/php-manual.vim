@@ -1,4 +1,4 @@
-*intl_get_error_code* -- Get the last error code
+intl_get_error_code -- Get the last error code
 
   int intl_get_error_code()~
 

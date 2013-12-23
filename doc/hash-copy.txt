@@ -1,4 +1,4 @@
-*hash_copy* -- Copy hashing context
+hash_copy -- Copy hashing context
 
   resource hash_copy(resource context)~
 

@@ -1,4 +1,4 @@
-*xml_set_object* -- Use XML Parser within an object
+xml_set_object -- Use XML Parser within an object
 
   bool xml_set_object(resource parser, object object)~
 

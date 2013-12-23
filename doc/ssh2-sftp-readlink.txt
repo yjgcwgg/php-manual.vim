@@ -1,4 +1,4 @@
-*ssh2_sftp_readlink* -- Return the target of a symbolic link
+ssh2_sftp_readlink -- Return the target of a symbolic link
 
   string ssh2_sftp_readlink(resource sftp, string link)~
 

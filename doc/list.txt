@@ -1,11 +1,11 @@
-*list* -- Assign variables as if they were an array
+list -- Assign variables as if they were an array
 
-  array list(mixed varname [, mixed ...])~
+  array list(mixed var1 [, mixed ...])~
 
 Like |array|, this is not really a function, but a language construct. |list|
 is used to assign a list of variables in one operation.
 
-{varname} A variable.
+{var1} A variable.
 
 Returns the assigned array.
 
@@ -43,8 +43,8 @@ An example use of |list|
     <th>Salary</th>
    </tr>
 <?php >
-  $result = mysql_query("SELECT id, name, salary FROM employees", $conn);
-  while (list($id, $name, $salary) = mysql_fetch_row($result)) {
+  $result = $pdo->query("SELECT id, name, salary FROM employees");
+  while (list($id, $name, $salary) = $result->fetch(PDO::FETCH_NUM)) {
       echo " <tr>\n" .
             "  <td><a href=\"info.php?id=$id\">$name</a></td>\n" .
             "  <td>$salary</td>\n" .
@@ -101,6 +101,9 @@ using plain variables, you don't have to worry about this. But if you are
 using arrays with indices you usually expect the order of the indices in the
 array the same you wrote in the |list| from left to right; which it isn't.
 It's assigned in the reverse order.
+
+Modification of the array during |list| execution (e.g. using list($a, $b) =
+$b) results in undefined behavior.
 
 |list| only works on numerical arrays and assumes the numerical indices start
 at 0.

@@ -1,4 +1,4 @@
-*printer_select_font* -- Select a font
+printer_select_font -- Select a font
 
   void printer_select_font(resource printer_handle, resource font_handle)~
 

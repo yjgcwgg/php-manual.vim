@@ -1,4 +1,4 @@
-*imagetruecolortopalette* -- Convert a true color image to a palette image
+imagetruecolortopalette -- Convert a true color image to a palette image
 
   bool imagetruecolortopalette(resource image, bool dither, int ncolors)~
 

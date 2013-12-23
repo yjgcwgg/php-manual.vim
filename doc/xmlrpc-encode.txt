@@ -1,4 +1,4 @@
-*xmlrpc_encode* -- Generates XML for a PHP value
+xmlrpc_encode -- Generates XML for a PHP value
 
   string xmlrpc_encode(mixed value)~
 

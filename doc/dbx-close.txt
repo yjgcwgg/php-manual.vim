@@ -1,4 +1,4 @@
-*dbx_close* -- Close an open connection/database
+dbx_close -- Close an open connection/database
 
   int dbx_close(object link_identifier)~
 

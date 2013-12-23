@@ -1,4 +1,4 @@
-*svn_repos_fs_begin_txn_for_commit* -- Create a new transaction
+svn_repos_fs_begin_txn_for_commit -- Create a new transaction
 
   resource svn_repos_fs_begin_txn_for_commit(resource repos, int rev, string author, string log_msg)~
 

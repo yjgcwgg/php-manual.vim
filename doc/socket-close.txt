@@ -1,4 +1,4 @@
-*socket_close* -- Closes a socket resource
+socket_close -- Closes a socket resource
 
   void socket_close(resource socket)~
 

@@ -1,4 +1,4 @@
-*property_exists* -- Checks if the object or class has a property
+property_exists -- Checks if the object or class has a property
 
   bool property_exists(mixed class, string property)~
 

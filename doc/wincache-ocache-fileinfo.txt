@@ -1,4 +1,4 @@
-*wincache_ocache_fileinfo* -- Retrieves information about files cached in the
+wincache_ocache_fileinfo -- Retrieves information about files cached in the
 opcode cache
 
   array wincache_ocache_fileinfo([bool summaryonly])~

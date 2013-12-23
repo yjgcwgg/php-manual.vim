@@ -1,4 +1,4 @@
-*yp_next* -- Returns the next key-value pair in the named map
+yp_next -- Returns the next key-value pair in the named map
 
   array yp_next(string domain, string map, string key)~
 

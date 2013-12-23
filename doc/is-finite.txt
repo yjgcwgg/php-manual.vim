@@ -1,4 +1,4 @@
-*is_finite* -- Finds whether a value is a legal finite number
+is_finite -- Finds whether a value is a legal finite number
 
   bool is_finite(float val)~
 

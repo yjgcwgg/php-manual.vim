@@ -1,4 +1,4 @@
-*date_sunset* -- Returns time of sunset for a given day and location
+date_sunset -- Returns time of sunset for a given day and location
 
   mixed date_sunset(int timestamp [, int format [, float latitude [, float longitude [, float zenith [, float gmt_offset]]]]])~
 

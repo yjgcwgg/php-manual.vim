@@ -1,4 +1,4 @@
-*xslt_backend_info* -- Returns the information on the compilation settings of
+xslt_backend_info -- Returns the information on the compilation settings of
 the backend
 
   string xslt_backend_info()~

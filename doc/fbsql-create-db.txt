@@ -1,4 +1,4 @@
-*fbsql_create_db* -- Create a FrontBase database
+fbsql_create_db -- Create a FrontBase database
 
   bool fbsql_create_db(string database_name [, resource link_identifier [, string database_options]])~
 

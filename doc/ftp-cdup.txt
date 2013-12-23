@@ -1,4 +1,4 @@
-*ftp_cdup* -- Changes to the parent directory
+ftp_cdup -- Changes to the parent directory
 
   bool ftp_cdup(resource ftp_stream)~
 

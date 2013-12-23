@@ -1,4 +1,4 @@
-*ob_iconv_handler* -- Convert character encoding as output buffer handler
+ob_iconv_handler -- Convert character encoding as output buffer handler
 
   string ob_iconv_handler(string contents, int status)~
 

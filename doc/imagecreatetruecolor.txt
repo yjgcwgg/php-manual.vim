@@ -1,4 +1,4 @@
-*imagecreatetruecolor* -- Create a new true color image
+imagecreatetruecolor -- Create a new true color image
 
   resource imagecreatetruecolor(int width, int height)~
 
@@ -21,7 +21,7 @@ Returns an image resource identifier on success, FALSE on errors.
 Creating a new GD image stream and outputting an image.
 
 <?php >
-  header ('Content-type: image/png');
+  header ('Content-Type: image/png');
   $im = @imagecreatetruecolor(120, 20)
         or die('Cannot Initialize new GD image stream');
   $text_color = imagecolorallocate($im, 233, 14, 91);

@@ -1,4 +1,4 @@
-*tidy_error_count* -- Returns the Number of Tidy errors encountered for
+tidy_error_count -- Returns the Number of Tidy errors encountered for
 specified document
 
   int tidy_error_count(tidy object)~

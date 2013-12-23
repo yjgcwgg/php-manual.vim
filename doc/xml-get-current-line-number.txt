@@ -1,4 +1,4 @@
-*xml_get_current_line_number* -- Get current line number for an XML parser
+xml_get_current_line_number -- Get current line number for an XML parser
 
   int xml_get_current_line_number(resource parser)~
 

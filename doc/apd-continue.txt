@@ -1,4 +1,4 @@
-*apd_continue* -- Restarts the interpreter
+apd_continue -- Restarts the interpreter
 
   bool apd_continue(int debug_level)~
 

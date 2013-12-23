@@ -1,4 +1,4 @@
-*PDF_continue_text* -- Output text in next line
+PDF_continue_text -- Output text in next line
 
   bool PDF_continue_text(resource p, string text)~
 

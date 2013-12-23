@@ -1,4 +1,4 @@
-*get_include_path* -- Gets the current include_path configuration option
+get_include_path -- Gets the current include_path configuration option
 
   string get_include_path()~
 

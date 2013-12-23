@@ -1,4 +1,4 @@
-*svn_mkdir* -- Creates a directory in a working copy or repository
+svn_mkdir -- Creates a directory in a working copy or repository
 
   bool svn_mkdir(string path [, string log_message])~
 

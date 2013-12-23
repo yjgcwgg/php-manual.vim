@@ -1,4 +1,4 @@
-*ncurses_clear* -- Clear screen
+ncurses_clear -- Clear screen
 
   bool ncurses_clear()~
 

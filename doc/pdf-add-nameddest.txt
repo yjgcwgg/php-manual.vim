@@ -1,4 +1,4 @@
-*PDF_add_nameddest* -- Create named destination
+PDF_add_nameddest -- Create named destination
 
   bool PDF_add_nameddest(resource pdfdoc, string name, string optlist)~
 

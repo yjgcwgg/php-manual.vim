@@ -1,4 +1,4 @@
-*imap_deletemailbox* -- Delete a mailbox
+imap_deletemailbox -- Delete a mailbox
 
   bool imap_deletemailbox(resource imap_stream, string mailbox)~
 

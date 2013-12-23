@@ -1,4 +1,4 @@
-*cairo_ps_surface_set_size* -- Description
+cairo_ps_surface_set_size -- Description
 
   void cairo_ps_surface_set_size(CairoPsSurface surface, float width, float height)~
 

@@ -1,4 +1,4 @@
-*imagesavealpha* -- Set the flag to save full alpha channel information (as
+imagesavealpha -- Set the flag to save full alpha channel information (as
 opposed to single-color transparency) when saving PNG images
 
   bool imagesavealpha(resource image, bool saveflag)~

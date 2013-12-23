@@ -1,4 +1,4 @@
-*hw_Deleteobject* -- Deletes object
+hw_Deleteobject -- Deletes object
 
   bool hw_deleteobject(int connection, int object_to_delete)~
 

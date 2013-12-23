@@ -1,4 +1,4 @@
-*fseek* -- Seeks on a file pointer
+fseek -- Seeks on a file pointer
 
   int fseek(resource handle, int offset [, int whence])~
 

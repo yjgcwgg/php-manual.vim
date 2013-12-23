@@ -1,4 +1,4 @@
-*m_numcolumns* -- Number of columns returned in a comma delimited response
+m_numcolumns -- Number of columns returned in a comma delimited response
 
   int m_numcolumns(resource conn, int identifier)~
 

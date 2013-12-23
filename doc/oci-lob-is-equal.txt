@@ -1,4 +1,4 @@
-*oci_lob_is_equal* -- Compares two LOB/FILE locators for equality
+oci_lob_is_equal -- Compares two LOB/FILE locators for equality
 
   bool oci_lob_is_equal(OCI-Lob lob1, OCI-Lob lob2)~
 

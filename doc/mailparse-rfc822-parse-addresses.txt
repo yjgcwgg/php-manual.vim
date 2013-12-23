@@ -1,4 +1,4 @@
-*mailparse_rfc822_parse_addresses* -- Parse RFC 822 compliant addresses
+mailparse_rfc822_parse_addresses -- Parse RFC 822 compliant addresses
 
   array mailparse_rfc822_parse_addresses(string addresses)~
 

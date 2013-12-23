@@ -1,4 +1,4 @@
-*PDF_close* -- Close pdf resource [deprecated]
+PDF_close -- Close pdf resource [deprecated]
 
   bool PDF_close(resource p)~
 

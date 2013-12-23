@@ -1,4 +1,4 @@
-*db2_tables* -- Returns a result set listing the tables and associated metadata
+db2_tables -- Returns a result set listing the tables and associated metadata
 in a database
 
   resource db2_tables(resource connection [, string qualifier [, string schema [, string table-name [, string table-type]]]])~

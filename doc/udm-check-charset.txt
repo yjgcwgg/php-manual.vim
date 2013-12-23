@@ -1,4 +1,4 @@
-*udm_check_charset* -- Check if the given charset is known to mnogosearch
+udm_check_charset -- Check if the given charset is known to mnogosearch
 
   bool udm_check_charset(resource agent, string charset)~
 

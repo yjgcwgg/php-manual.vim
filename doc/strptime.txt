@@ -1,4 +1,4 @@
-*strptime* -- Parse a time/date generated with strftime
+strptime -- Parse a time/date generated with strftime
 
   array strptime(string date, string format)~
 
@@ -68,6 +68,6 @@ information on leap seconds, see the Wikipedia article on leap seconds.
 Prior to PHP 5.2.0, this function could return undefined behaviour. Notably,
 the "tm_sec", "tm_min" and "tm_hour" entries would return undefined values.
 
-|checkdate| |strftime|
+|checkdate| |strftime| |date_parse_from_format| |DateTime::createFromFormat|
 
 vim:ft=help:

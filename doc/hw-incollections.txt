@@ -1,4 +1,4 @@
-*hw_InCollections* -- Check if object ids in collections
+hw_InCollections -- Check if object ids in collections
 
   array hw_incollections(int connection, array object_id_array, array collection_id_array, int return_collections)~
 

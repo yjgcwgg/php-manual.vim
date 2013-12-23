@@ -1,4 +1,4 @@
-*cairo_font_options_create* -- Description
+cairo_font_options_create -- Description
 
   CairoFontOptions cairo_font_options_create()~
 

@@ -1,4 +1,4 @@
-*PDF_info_matchbox* -- Query matchbox information
+PDF_info_matchbox -- Query matchbox information
 
   float PDF_info_matchbox(resource pdfdoc, string boxname, int num, string keyword)~
 

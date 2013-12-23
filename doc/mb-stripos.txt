@@ -1,4 +1,4 @@
-*mb_stripos* -- Finds position of first occurrence of a string within another,
+mb_stripos -- Finds position of first occurrence of a string within another,
 case insensitive
 
   int mb_stripos(string haystack, string needle [, int offset [, string encoding]])~

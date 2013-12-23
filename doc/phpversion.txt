@@ -1,4 +1,4 @@
-*phpversion* -- Gets the current PHP version
+phpversion -- Gets the current PHP version
 
   string phpversion([string extension])~
 

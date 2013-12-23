@@ -1,4 +1,4 @@
-*geoip_region_by_name* -- Get the country code and region
+geoip_region_by_name -- Get the country code and region
 
   array geoip_region_by_name(string hostname)~
 

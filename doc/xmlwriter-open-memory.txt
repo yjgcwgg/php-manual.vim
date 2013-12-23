@@ -1,8 +1,8 @@
-*XMLWriter::openMemory* -- Create new xmlwriter using memory for string output
+xmlwriter_open_memory -- Create new xmlwriter using memory for string output
 
 Object oriented style
 
-  bool openMemory()~
+  bool XMLWriter::openMemory()~
 
 Procedural style
 

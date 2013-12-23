@@ -1,4 +1,4 @@
-*swf_setfont* -- Change the current font
+swf_setfont -- Change the current font
 
   void swf_setfont(int fontid)~
 

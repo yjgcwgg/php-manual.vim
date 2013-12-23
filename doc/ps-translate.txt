@@ -1,4 +1,4 @@
-*ps_translate* -- Sets translation
+ps_translate -- Sets translation
 
   bool ps_translate(resource psdoc, float x, float y)~
 

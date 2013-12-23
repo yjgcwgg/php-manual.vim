@@ -1,4 +1,4 @@
-*gmp_div_q* -- Divide numbers
+gmp_div_q -- Divide numbers
 
   resource gmp_div_q(resource a, resource b [, int round])~
 

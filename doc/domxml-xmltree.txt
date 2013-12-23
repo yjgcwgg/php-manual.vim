@@ -1,4 +1,4 @@
-*domxml_xmltree* -- Creates a tree of PHP objects from an XML document
+domxml_xmltree -- Creates a tree of PHP objects from an XML document
 
   DomDocument domxml_xmltree(string str)~
 

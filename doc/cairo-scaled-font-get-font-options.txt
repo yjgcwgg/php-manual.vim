@@ -1,4 +1,4 @@
-*cairo_scaled_font_get_font_options* -- Description
+cairo_scaled_font_get_font_options -- Description
 
   CairoFontOptions cairo_scaled_font_get_font_options(CairoScaledFont scaledfont)~
 

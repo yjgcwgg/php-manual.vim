@@ -1,4 +1,4 @@
-*oci_field_size* -- Returns field's size
+oci_field_size -- Returns field's size
 
   int oci_field_size(resource statement, mixed field)~
 

@@ -1,4 +1,4 @@
-*dbplus_getlock* -- Get a write lock on a tuple
+dbplus_getlock -- Get a write lock on a tuple
 
   int dbplus_getlock(resource relation, string tuple)~
 

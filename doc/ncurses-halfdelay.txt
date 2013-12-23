@@ -1,4 +1,4 @@
-*ncurses_halfdelay* -- Put terminal into halfdelay mode
+ncurses_halfdelay -- Put terminal into halfdelay mode
 
   int ncurses_halfdelay(int tenth)~
 

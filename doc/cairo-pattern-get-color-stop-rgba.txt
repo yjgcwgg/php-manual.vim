@@ -1,4 +1,4 @@
-*cairo_pattern_get_color_stop_rgba* -- Description
+cairo_pattern_get_color_stop_rgba -- Description
 
   array cairo_pattern_get_color_stop_rgba(CairoGradientPattern pattern, int index)~
 

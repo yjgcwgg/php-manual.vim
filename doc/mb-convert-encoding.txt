@@ -1,4 +1,4 @@
-*mb_convert_encoding* -- Convert character encoding
+mb_convert_encoding -- Convert character encoding
 
   string mb_convert_encoding(string str, string to_encoding [, mixed from_encoding])~
 

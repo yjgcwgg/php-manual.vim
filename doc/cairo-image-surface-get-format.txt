@@ -1,4 +1,4 @@
-*cairo_image_surface_get_format* -- Description
+cairo_image_surface_get_format -- Description
 
   int cairo_image_surface_get_format(CairoImageSurface surface)~
 

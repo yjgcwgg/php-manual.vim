@@ -1,4 +1,4 @@
-*mssql_result* -- Get result data
+mssql_result -- Get result data
 
   string mssql_result(resource result, int row, mixed field)~
 

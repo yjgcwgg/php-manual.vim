@@ -1,4 +1,4 @@
-*stats_rand_gen_gamma* -- Generates random deviates from a gamma distribution
+stats_rand_gen_gamma -- Generates random deviates from a gamma distribution
 
   float stats_rand_gen_gamma(float a, float r)~
 

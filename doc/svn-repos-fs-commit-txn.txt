@@ -1,4 +1,4 @@
-*svn_repos_fs_commit_txn* -- Commits a transaction and returns the new revision
+svn_repos_fs_commit_txn -- Commits a transaction and returns the new revision
 
   int svn_repos_fs_commit_txn(resource txn)~
 

@@ -1,4 +1,4 @@
-*ifx_prepare* -- Prepare an SQL-statement for execution
+ifx_prepare -- Prepare an SQL-statement for execution
 
   resource ifx_prepare(string query, resource link_identifier [, int cursor_def, mixed blobidarray])~
 

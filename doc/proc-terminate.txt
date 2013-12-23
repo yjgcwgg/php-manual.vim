@@ -1,4 +1,4 @@
-*proc_terminate* -- Kills a process opened by proc_open
+proc_terminate -- Kills a process opened by proc_open
 
   bool proc_terminate(resource process [, int signal])~
 

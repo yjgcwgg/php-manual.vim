@@ -1,4 +1,4 @@
-*PDF_create_textflow* -- Create textflow object
+PDF_create_textflow -- Create textflow object
 
   int PDF_create_textflow(resource pdfdoc, string text, string optlist)~
 

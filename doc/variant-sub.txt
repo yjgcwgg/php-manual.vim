@@ -1,4 +1,4 @@
-*variant_sub* -- Subtracts the value of the right variant from the left variant
+variant_sub -- Subtracts the value of the right variant from the left variant
 value
 
   mixed variant_sub(mixed left, mixed right)~

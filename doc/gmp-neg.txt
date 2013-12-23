@@ -1,4 +1,4 @@
-*gmp_neg* -- Negate number
+gmp_neg -- Negate number
 
   resource gmp_neg(resource a)~
 

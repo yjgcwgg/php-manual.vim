@@ -1,4 +1,4 @@
-*gmp_perfect_square* -- Perfect square check
+gmp_perfect_square -- Perfect square check
 
   bool gmp_perfect_square(resource a)~
 

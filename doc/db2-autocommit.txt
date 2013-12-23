@@ -1,4 +1,4 @@
-*db2_autocommit* -- Returns or sets the AUTOCOMMIT state for a database
+db2_autocommit -- Returns or sets the AUTOCOMMIT state for a database
 connection
 
   mixed db2_autocommit(resource connection [, bool value])~

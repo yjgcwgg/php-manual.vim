@@ -1,4 +1,4 @@
-*fbsql_fetch_lengths* -- Get the length of each output in a result
+fbsql_fetch_lengths -- Get the length of each output in a result
 
   array fbsql_fetch_lengths(resource result)~
 

@@ -1,4 +1,4 @@
-*ps_stringwidth* -- Gets width of a string
+ps_stringwidth -- Gets width of a string
 
   float ps_stringwidth(resource psdoc, string text [, int fontid [, float size]])~
 

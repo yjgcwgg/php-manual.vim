@@ -1,4 +1,4 @@
-*odbc_statistics* -- Retrieve statistics about a table
+odbc_statistics -- Retrieve statistics about a table
 
   resource odbc_statistics(resource connection_id, string qualifier, string owner, string table_name, int unique, int accuracy)~
 

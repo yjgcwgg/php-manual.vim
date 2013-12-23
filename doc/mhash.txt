@@ -1,4 +1,4 @@
-*mhash* -- Computes hash
+mhash -- Computes hash
 
   string mhash(int hash, string data [, string key])~
 

@@ -1,4 +1,4 @@
-*ncurses_wnoutrefresh* -- Copies window to virtual screen
+ncurses_wnoutrefresh -- Copies window to virtual screen
 
   int ncurses_wnoutrefresh(resource window)~
 

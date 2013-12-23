@@ -1,4 +1,4 @@
-*svn_status* -- Returns the status of working copy files and directories
+svn_status -- Returns the status of working copy files and directories
 
   array svn_status(string path [, int flags])~
 

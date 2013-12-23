@@ -1,4 +1,4 @@
-*stats_cdf_chisquare* -- Calculates any one parameter of the chi-square
+stats_cdf_chisquare -- Calculates any one parameter of the chi-square
 distribution given values for the others.
 
   float stats_cdf_chisquare(float par1, float par2, int which)~

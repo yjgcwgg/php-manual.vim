@@ -1,4 +1,4 @@
-*rpm_version* -- Returns a string representing the current version of the
+rpm_version -- Returns a string representing the current version of the
 rpmreader extension
 
   string rpm_version()~

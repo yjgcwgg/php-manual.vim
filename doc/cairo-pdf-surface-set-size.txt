@@ -1,4 +1,4 @@
-*cairo_pdf_surface_set_size* -- Description
+cairo_pdf_surface_set_size -- Description
 
   void cairo_pdf_surface_set_size(CairoPdfSurface surface, float width, float height)~
 

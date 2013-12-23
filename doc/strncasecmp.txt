@@ -1,4 +1,4 @@
-*strncasecmp* -- Binary safe case-insensitive string comparison of the first n
+strncasecmp -- Binary safe case-insensitive string comparison of the first n
 characters
 
   int strncasecmp(string str1, string str2, int len)~

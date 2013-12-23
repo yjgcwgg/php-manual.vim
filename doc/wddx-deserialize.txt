@@ -1,5 +1,12 @@
-*wddx_deserialize* -- Alias of wddx_unserialize
+wddx_deserialize -- Unserializes a WDDX packet
 
-This function is an alias of: |wddx_unserialize|.
+  mixed wddx_deserialize(string packet)~
+
+Unserializes a WDDX {packet}.
+
+{packet} A WDDX packet, as a string or stream.
+
+Returns the deserialized value which can be a string, a number or an array.
+Note that structures are deserialized into associative arrays.
 
 vim:ft=help:

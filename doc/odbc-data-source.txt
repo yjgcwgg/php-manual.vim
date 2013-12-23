@@ -1,4 +1,4 @@
-*odbc_data_source* -- Returns information about a current connection
+odbc_data_source -- Returns information about a current connection
 
   array odbc_data_source(resource connection_id, int fetch_type)~
 

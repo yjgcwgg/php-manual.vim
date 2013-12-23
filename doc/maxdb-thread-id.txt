@@ -1,4 +1,4 @@
-*maxdb->thread_id* -- Returns the thread ID for the current connection
+maxdb::thread_id -- Returns the thread ID for the current connection
 
 Procedural style
 

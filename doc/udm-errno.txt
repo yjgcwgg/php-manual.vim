@@ -1,4 +1,4 @@
-*udm_errno* -- Get mnoGoSearch error number
+udm_errno -- Get mnoGoSearch error number
 
   int udm_errno(resource agent)~
 

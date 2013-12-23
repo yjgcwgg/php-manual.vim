@@ -1,4 +1,4 @@
-*libxml_clear_errors* -- Clear libxml error buffer
+libxml_clear_errors -- Clear libxml error buffer
 
   void libxml_clear_errors()~
 

@@ -1,4 +1,4 @@
-*swf_shapefilloff* -- Turns off filling
+swf_shapefilloff -- Turns off filling
 
   void swf_shapefilloff()~
 

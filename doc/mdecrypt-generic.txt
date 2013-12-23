@@ -1,4 +1,4 @@
-*mdecrypt_generic* -- Decrypts data
+mdecrypt_generic -- Decrypts data
 
   string mdecrypt_generic(resource td, string data)~
 

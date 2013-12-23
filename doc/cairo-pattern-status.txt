@@ -1,4 +1,4 @@
-*cairo_pattern_status* -- Description
+cairo_pattern_status -- Description
 
   int cairo_pattern_status(CairoPattern pattern)~
 

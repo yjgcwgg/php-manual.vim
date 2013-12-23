@@ -1,4 +1,4 @@
-*lzf_optimized_for* -- Determines what LZF extension was optimized for
+lzf_optimized_for -- Determines what LZF extension was optimized for
 
   int lzf_optimized_for()~
 

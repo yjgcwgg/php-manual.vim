@@ -1,4 +1,4 @@
-*posix_setpgid* -- Set process group id for job control
+posix_setpgid -- Set process group id for job control
 
   bool posix_setpgid(int pid, int pgid)~
 

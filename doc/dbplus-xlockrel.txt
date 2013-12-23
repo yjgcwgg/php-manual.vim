@@ -1,4 +1,4 @@
-*dbplus_xlockrel* -- Request exclusive lock on relation
+dbplus_xlockrel -- Request exclusive lock on relation
 
   int dbplus_xlockrel(resource relation)~
 

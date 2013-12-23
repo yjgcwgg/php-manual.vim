@@ -1,4 +1,4 @@
-*radius_auth_open* -- Creates a Radius handle for authentication
+radius_auth_open -- Creates a Radius handle for authentication
 
   resource radius_auth_open()~
 

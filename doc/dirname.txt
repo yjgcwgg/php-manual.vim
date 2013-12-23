@@ -1,4 +1,4 @@
-*dirname* -- Returns parent directory's path
+dirname -- Returns parent directory's path
 
   string dirname(string path)~
 

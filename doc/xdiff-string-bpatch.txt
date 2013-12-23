@@ -1,4 +1,4 @@
-*xdiff_string_bpatch* -- Patch a string with a binary diff
+xdiff_string_bpatch -- Patch a string with a binary diff
 
   string xdiff_string_bpatch(string str, string patch)~
 

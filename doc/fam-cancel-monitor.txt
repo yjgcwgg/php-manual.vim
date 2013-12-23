@@ -1,4 +1,4 @@
-*fam_cancel_monitor* -- Terminate monitoring
+fam_cancel_monitor -- Terminate monitoring
 
   bool fam_cancel_monitor(resource fam, resource fam_monitor)~
 

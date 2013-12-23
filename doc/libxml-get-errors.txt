@@ -1,4 +1,4 @@
-*libxml_get_errors* -- Retrieve array of errors
+libxml_get_errors -- Retrieve array of errors
 
   array libxml_get_errors()~
 

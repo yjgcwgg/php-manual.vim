@@ -1,4 +1,4 @@
-*imap_utf7_decode* -- Decodes a modified UTF-7 encoded string
+imap_utf7_decode -- Decodes a modified UTF-7 encoded string
 
   string imap_utf7_decode(string text)~
 

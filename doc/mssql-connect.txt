@@ -1,4 +1,4 @@
-*mssql_connect* -- Open MS SQL server connection
+mssql_connect -- Open MS SQL server connection
 
   resource mssql_connect([string servername [, string username [, string password [, bool new_link]]]])~
 

@@ -1,4 +1,4 @@
-*mssql_field_type* -- Gets the type of a field
+mssql_field_type -- Gets the type of a field
 
   string mssql_field_type(resource result [, int offset])~
 

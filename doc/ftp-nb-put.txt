@@ -1,4 +1,4 @@
-*ftp_nb_put* -- Stores a file on the FTP server (non-blocking)
+ftp_nb_put -- Stores a file on the FTP server (non-blocking)
 
   int ftp_nb_put(resource ftp_stream, string remote_file, string local_file, int mode [, int startpos])~
 

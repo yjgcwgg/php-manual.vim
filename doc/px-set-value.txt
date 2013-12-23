@@ -1,4 +1,4 @@
-*px_set_value* -- Sets a value
+px_set_value -- Sets a value
 
   bool px_set_value(resource pxdoc, string name, float value)~
 

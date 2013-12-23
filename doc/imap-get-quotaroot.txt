@@ -1,4 +1,4 @@
-*imap_get_quotaroot* -- Retrieve the quota settings per user
+imap_get_quotaroot -- Retrieve the quota settings per user
 
   array imap_get_quotaroot(resource imap_stream, string quota_root)~
 

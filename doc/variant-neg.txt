@@ -1,4 +1,4 @@
-*variant_neg* -- Performs logical negation on a variant
+variant_neg -- Performs logical negation on a variant
 
   mixed variant_neg(mixed variant)~
 

@@ -1,4 +1,4 @@
-*rsort* -- Sort an array in reverse order
+rsort -- Sort an array in reverse order
 
   bool rsort(array array [, int sort_flags])~
 

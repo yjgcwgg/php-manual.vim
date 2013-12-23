@@ -1,4 +1,4 @@
-*ps_fill* -- Fills the current path
+ps_fill -- Fills the current path
 
   bool ps_fill(resource psdoc)~
 

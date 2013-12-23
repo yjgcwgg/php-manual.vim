@@ -1,4 +1,4 @@
-*PDF_open_jpeg* -- Open JPEG image [deprecated]
+PDF_open_jpeg -- Open JPEG image [deprecated]
 
 This function is deprecated since PDFlib version 3, use |PDF_load_image|
 instead.

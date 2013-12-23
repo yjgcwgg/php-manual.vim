@@ -1,4 +1,4 @@
-*px_get_info* -- Return lots of information about a paradox file
+px_get_info -- Return lots of information about a paradox file
 
   array px_get_info(resource pxdoc)~
 

@@ -1,4 +1,4 @@
-*dba_key_split* -- Splits a key in string representation into array
+dba_key_split -- Splits a key in string representation into array
 representation
 
   mixed dba_key_split(mixed key)~

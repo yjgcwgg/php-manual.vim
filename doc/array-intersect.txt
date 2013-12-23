@@ -1,4 +1,4 @@
-*array_intersect* -- Computes the intersection of arrays
+array_intersect -- Computes the intersection of arrays
 
   array array_intersect(array array1, array array2 [, array ...])~
 
@@ -9,7 +9,7 @@ are present in all the arguments. Note that keys are preserved.
 
 {array2} An array to compare values against.
 
-{array} A variable list of arrays to compare.
+{...} A variable list of arrays to compare.
 
 Returns an array containing all of the values in {array1} whose values exist
 in all of the parameters.

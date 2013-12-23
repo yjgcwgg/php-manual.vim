@@ -1,4 +1,4 @@
-*newt_redraw_help_line* --
+newt_redraw_help_line --
 
   void newt_redraw_help_line()~
 

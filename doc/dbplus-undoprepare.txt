@@ -1,4 +1,4 @@
-*dbplus_undoprepare* -- Prepare undo
+dbplus_undoprepare -- Prepare undo
 
   int dbplus_undoprepare(resource relation)~
 

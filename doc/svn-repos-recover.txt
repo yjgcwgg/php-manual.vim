@@ -1,4 +1,4 @@
-*svn_repos_recover* -- Run recovery procedures on the repository located at
+svn_repos_recover -- Run recovery procedures on the repository located at
 path.
 
   bool svn_repos_recover(string path)~

@@ -1,4 +1,4 @@
-*chdb_create* -- Creates a chdb file
+chdb_create -- Creates a chdb file
 
   bool chdb_create(string pathname, array data)~
 

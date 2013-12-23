@@ -1,4 +1,4 @@
-*ldap_parse_result* -- Extract information from result
+ldap_parse_result -- Extract information from result
 
   bool ldap_parse_result(resource link, resource result, int errcode [, string matcheddn [, string errmsg [, array referrals]]])~
 

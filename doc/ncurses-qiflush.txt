@@ -1,4 +1,4 @@
-*ncurses_qiflush* -- Flush on signal characters
+ncurses_qiflush -- Flush on signal characters
 
   void ncurses_qiflush()~
 

@@ -1,6 +1,6 @@
-*mailparse_msg_extract_part_file* -- Extracts/decodes a message section
+mailparse_msg_extract_part_file -- Extracts/decodes a message section
 
-  string mailparse_msg_extract_part_file(resource mimemail, mixed filename [, callback callbackfunc])~
+  string mailparse_msg_extract_part_file(resource mimemail, mixed filename [, callable callbackfunc])~
 
 Extracts/decodes a message section from the supplied filename.
 

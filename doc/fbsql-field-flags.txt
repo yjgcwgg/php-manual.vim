@@ -1,4 +1,4 @@
-*fbsql_field_flags* -- Get the flags associated with the specified field in a
+fbsql_field_flags -- Get the flags associated with the specified field in a
 result
 
   string fbsql_field_flags(resource result [, int field_offset])~

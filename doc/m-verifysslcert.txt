@@ -1,4 +1,4 @@
-*m_verifysslcert* -- Set whether or not to verify the server ssl certificate
+m_verifysslcert -- Set whether or not to verify the server ssl certificate
 
   bool m_verifysslcert(resource conn, int tf)~
 

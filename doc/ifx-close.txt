@@ -1,4 +1,4 @@
-*ifx_close* -- Close Informix connection
+ifx_close -- Close Informix connection
 
   bool ifx_close([resource link_identifier])~
 

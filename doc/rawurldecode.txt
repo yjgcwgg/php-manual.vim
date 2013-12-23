@@ -1,4 +1,4 @@
-*rawurldecode* -- Decode URL-encoded strings
+rawurldecode -- Decode URL-encoded strings
 
   string rawurldecode(string str)~
 
@@ -22,6 +22,6 @@ Returns the decoded URL, as a string.
 |rawurldecode| does not decode plus symbols ('+') into spaces. |urldecode|
 does.
 
-|rawurlencode| |urldecode| |urlencode|
+|rawurlencode| |urldecode| |urlencode| RFC 3986
 
 vim:ft=help:

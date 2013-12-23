@@ -1,4 +1,4 @@
-*odbc_free_result* -- Free resources associated with a result
+odbc_free_result -- Free resources associated with a result
 
   bool odbc_free_result(resource result_id)~
 

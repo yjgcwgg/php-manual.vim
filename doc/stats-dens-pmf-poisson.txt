@@ -1,4 +1,4 @@
-*stats_dens_pmf_poisson* -- Not documented
+stats_dens_pmf_poisson -- Not documented
 
   float stats_dens_pmf_poisson(float x, float lb)~
 

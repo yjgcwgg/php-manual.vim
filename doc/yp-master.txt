@@ -1,4 +1,4 @@
-*yp_master* -- Returns the machine name of the master NIS server for a map
+yp_master -- Returns the machine name of the master NIS server for a map
 
   string yp_master(string domain, string map)~
 

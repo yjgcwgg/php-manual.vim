@@ -1,4 +1,4 @@
-*stats_harmonic_mean* -- Returns the harmonic mean of an array of values
+stats_harmonic_mean -- Returns the harmonic mean of an array of values
 
   number stats_harmonic_mean(array a)~
 

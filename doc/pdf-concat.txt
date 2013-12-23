@@ -1,4 +1,4 @@
-*PDF_concat* -- Concatenate a matrix to the CTM
+PDF_concat -- Concatenate a matrix to the CTM
 
   bool PDF_concat(resource p, float a, float b, float c, float d, float e, float f)~
 

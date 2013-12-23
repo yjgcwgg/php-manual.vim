@@ -1,4 +1,4 @@
-*PDF_get_apiname* -- Get name of unsuccessfull API function
+PDF_get_apiname -- Get name of unsuccessfull API function
 
   string PDF_get_apiname(resource pdfdoc)~
 

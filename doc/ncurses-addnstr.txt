@@ -1,4 +1,4 @@
-*ncurses_addnstr* -- Add string with specified length at current position
+ncurses_addnstr -- Add string with specified length at current position
 
   int ncurses_addnstr(string s, int n)~
 

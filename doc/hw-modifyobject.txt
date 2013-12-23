@@ -1,4 +1,4 @@
-*hw_Modifyobject* -- Modifies object record
+hw_Modifyobject -- Modifies object record
 
   bool hw_modifyobject(int connection, int object_to_change, array remove, array add [, int mode])~
 

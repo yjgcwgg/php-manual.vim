@@ -1,4 +1,4 @@
-*PDF_define_layer* -- Create layer definition
+PDF_define_layer -- Create layer definition
 
   int PDF_define_layer(resource pdfdoc, string name, string optlist)~
 

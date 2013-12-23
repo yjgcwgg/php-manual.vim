@@ -1,4 +1,4 @@
-*udm_load_ispell_data* -- Load ispell data
+udm_load_ispell_data -- Load ispell data
 
   bool udm_load_ispell_data(resource agent, int var, string val1, string val2, int flag)~
 

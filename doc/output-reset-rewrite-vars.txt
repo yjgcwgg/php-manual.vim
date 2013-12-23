@@ -1,4 +1,4 @@
-*output_reset_rewrite_vars* -- Reset URL rewriter values
+output_reset_rewrite_vars -- Reset URL rewriter values
 
   bool output_reset_rewrite_vars()~
 

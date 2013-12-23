@@ -1,4 +1,4 @@
-*wincache_rplist_fileinfo* -- Retrieves information about resolve file path
+wincache_rplist_fileinfo -- Retrieves information about resolve file path
 cache
 
   array wincache_rplist_fileinfo([bool summaryonly])~

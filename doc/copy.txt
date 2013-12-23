@@ -1,4 +1,4 @@
-*copy* -- Copies file
+copy -- Copies file
 
   bool copy(string source, string dest [, resource context])~
 

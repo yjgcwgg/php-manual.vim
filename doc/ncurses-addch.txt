@@ -1,4 +1,4 @@
-*ncurses_addch* -- Add character at current position and advance cursor
+ncurses_addch -- Add character at current position and advance cursor
 
   int ncurses_addch(int ch)~
 

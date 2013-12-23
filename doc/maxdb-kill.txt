@@ -1,4 +1,4 @@
-*maxdb::kill* -- Disconnects from a MaxDB server
+maxdb::kill -- Disconnects from a MaxDB server
 
 Procedural style
 

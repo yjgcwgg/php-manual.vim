@@ -1,4 +1,4 @@
-*locale_get_default* -- Get the default Locale
+locale_get_default -- Get the default Locale
 
   string locale_get_default()~
 

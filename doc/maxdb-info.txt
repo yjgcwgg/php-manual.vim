@@ -1,4 +1,4 @@
-*maxdb->info* -- Retrieves information about the most recently executed query
+maxdb::info -- Retrieves information about the most recently executed query
 
 Procedural style
 

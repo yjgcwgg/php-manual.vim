@@ -1,4 +1,4 @@
-*ssh2_fetch_stream* -- Fetch an extended data stream
+ssh2_fetch_stream -- Fetch an extended data stream
 
   resource ssh2_fetch_stream(resource channel, int streamid)~
 

@@ -1,4 +1,4 @@
-*PDF_get_errnum* -- Get error number
+PDF_get_errnum -- Get error number
 
   int PDF_get_errnum(resource pdfdoc)~
 

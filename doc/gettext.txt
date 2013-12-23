@@ -1,4 +1,4 @@
-*gettext* -- Lookup a message in the current domain
+gettext -- Lookup a message in the current domain
 
   string gettext(string message)~
 

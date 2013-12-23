@@ -1,4 +1,4 @@
-*chroot* -- Change the root directory
+chroot -- Change the root directory
 
   bool chroot(string directory)~
 

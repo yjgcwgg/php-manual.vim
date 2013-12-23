@@ -1,4 +1,4 @@
-*socket_send* -- Sends data to a connected socket
+socket_send -- Sends data to a connected socket
 
   int socket_send(resource socket, string buf, int len, int flags)~
 

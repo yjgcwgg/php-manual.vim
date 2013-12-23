@@ -1,4 +1,4 @@
-*stream_socket_pair* -- Creates a pair of connected, indistinguishable socket
+stream_socket_pair -- Creates a pair of connected, indistinguishable socket
 streams
 
   array stream_socket_pair(int domain, int type, int protocol)~

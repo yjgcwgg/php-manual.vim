@@ -1,4 +1,4 @@
-*runkit_constant_add* -- Similar to define(), but allows defining in class
+runkit_constant_add -- Similar to define(), but allows defining in class
 definitions as well
 
   bool runkit_constant_add(string constname, mixed value)~

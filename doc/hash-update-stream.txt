@@ -1,4 +1,4 @@
-*hash_update_stream* -- Pump data into an active hashing context from an open
+hash_update_stream -- Pump data into an active hashing context from an open
 stream
 
   int hash_update_stream(resource context, resource handle [, int length])~

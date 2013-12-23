@@ -1,4 +1,4 @@
-*imagesetthickness* -- Set the thickness for line drawing
+imagesetthickness -- Set the thickness for line drawing
 
   bool imagesetthickness(resource image, int thickness)~
 

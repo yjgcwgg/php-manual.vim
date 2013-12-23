@@ -1,4 +1,4 @@
-*stomp_connect_error* -- Returns a string description of the last connect error
+stomp_connect_error -- Returns a string description of the last connect error
 
   string stomp_connect_error()~
 

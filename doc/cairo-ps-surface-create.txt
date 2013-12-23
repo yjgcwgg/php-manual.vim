@@ -1,4 +1,4 @@
-*cairo_ps_surface_create* -- Description
+cairo_ps_surface_create -- Description
 
   CairoPsSurface cairo_ps_surface_create(string file, float width, float height)~
 

@@ -1,4 +1,4 @@
-*apd_croak* -- Throw an error, a callstack and then exit
+apd_croak -- Throw an error, a callstack and then exit
 
   void apd_croak(string warning [, string delimiter])~
 

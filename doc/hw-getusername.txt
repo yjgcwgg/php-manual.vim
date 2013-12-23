@@ -1,4 +1,4 @@
-*hw_getusername* -- Name of currently logged in user
+hw_getusername -- Name of currently logged in user
 
   string hw_getusername(int connection)~
 

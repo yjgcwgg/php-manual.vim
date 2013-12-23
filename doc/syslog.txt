@@ -1,4 +1,4 @@
-*syslog* -- Generate a system log message
+syslog -- Generate a system log message
 
   bool syslog(int priority, string message)~
 

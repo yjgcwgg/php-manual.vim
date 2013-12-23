@@ -1,4 +1,4 @@
-*maxdb::__construct* -- Open a new connection to the MaxDB server
+maxdb::__construct -- Open a new connection to the MaxDB server
 
 Procedural style
 

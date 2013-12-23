@@ -1,4 +1,4 @@
-*fread* -- Binary-safe file read
+fread -- Binary-safe file read
 
   string fread(resource handle, int length)~
 

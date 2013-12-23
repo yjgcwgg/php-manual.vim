@@ -1,4 +1,4 @@
-*maxdb_result::fetch_object* -- Returns the current row of a result set as an
+maxdb_result::fetch_object -- Returns the current row of a result set as an
 object
 
 Procedural style

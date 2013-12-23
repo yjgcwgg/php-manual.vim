@@ -1,4 +1,4 @@
-*localeconv* -- Get numeric formatting information
+localeconv -- Get numeric formatting information
 
   array localeconv()~
 

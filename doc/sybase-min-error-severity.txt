@@ -1,4 +1,4 @@
-*sybase_min_error_severity* -- Sets minimum error severity
+sybase_min_error_severity -- Sets minimum error severity
 
   void sybase_min_error_severity(int severity)~
 

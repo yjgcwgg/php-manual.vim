@@ -1,4 +1,4 @@
-*apache_child_terminate* -- Terminate apache process after this request
+apache_child_terminate -- Terminate apache process after this request
 
   bool apache_child_terminate()~
 
@@ -12,6 +12,9 @@ Returns TRUE if PHP is running as an Apache 1 module, the Apache version is
 non-multithreaded, and the child_terminate PHP directive is enabled (disabled
 by default). If these conditions are not met, FALSE is returned and an error
 of level E_WARNING is generated.
+
+Version Description 5.4.0 This function became available under FastCGI.
+Previously, it was supported only when PHP was installed as an Apache module.
 
 This function is not implemented on Windows platforms.
 

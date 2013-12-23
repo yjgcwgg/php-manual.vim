@@ -1,4 +1,4 @@
-*odbc_result* -- Get result data
+odbc_result -- Get result data
 
   mixed odbc_result(resource result_id, mixed field)~
 

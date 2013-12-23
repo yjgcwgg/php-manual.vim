@@ -1,4 +1,4 @@
-*posix_getpid* -- Return the current process identifier
+posix_getpid -- Return the current process identifier
 
   int posix_getpid()~
 

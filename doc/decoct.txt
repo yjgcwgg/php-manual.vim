@@ -1,4 +1,4 @@
-*decoct* -- Decimal to octal
+decoct -- Decimal to octal
 
   string decoct(int number)~
 

@@ -1,4 +1,4 @@
-*radius_get_vendor_attr* -- Extracts a vendor specific attribute
+radius_get_vendor_attr -- Extracts a vendor specific attribute
 
   array radius_get_vendor_attr(string data)~
 

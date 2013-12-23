@@ -1,4 +1,4 @@
-*dio_seek* -- Seeks to pos on fd from whence
+dio_seek -- Seeks to pos on fd from whence
 
   int dio_seek(resource fd, int pos [, int whence])~
 

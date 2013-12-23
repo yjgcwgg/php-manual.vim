@@ -1,11 +1,15 @@
-*imagecreate* -- Create a new palette based image
+imagecreate -- Create a new palette based image
 
   resource imagecreate(int width, int height)~
 
 |imagecreate| returns an image identifier representing a blank image of
 specified size.
 
-We recommend the use of |imagecreatetruecolor|.
+In general, we recommend the use of |imagecreatetruecolor| instead of
+|imagecreate| so that image processing occurs on the highest quality image
+possible. If you want to output a palette image, then
+|imagetruecolortopalette| should be called immediately before saving the image
+with |imagepng| or |imagegif|.
 
 {width} The image width.
 
@@ -16,7 +20,7 @@ Returns an image resource identifier on success, FALSE on errors.
 Creating a new GD image stream and outputting an image.
 
 <?php >
-  header("Content-type: image/png");
+  header("Content-Type: image/png");
   $im = @imagecreate(110, 20)
       or die("Cannot Initialize new GD image stream");
   $background_color = imagecolorallocate($im, 0, 0, 0);

@@ -1,4 +1,4 @@
-*ovrimos_field_name* -- Returns the output column name
+ovrimos_field_name -- Returns the output column name
 
   string ovrimos_field_name(int result_id, int field_number)~
 

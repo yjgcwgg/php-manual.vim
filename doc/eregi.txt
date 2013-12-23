@@ -1,4 +1,4 @@
-*eregi* -- Case insensitive regular expression match
+eregi -- Case insensitive regular expression match
 
   int eregi(string pattern, string string [, array regs])~
 
@@ -43,6 +43,10 @@ As of PHP 5.3.0, the regex extension is deprecated in favor of the PCRE
 extension. Calling this function will issue an E_DEPRECATED notice. See the
 list of differences for help on converting to PCRE.
 
-|ereg| |ereg_replace| |eregi_replace| |stripos| |stristr|
+|eregi| is deprecated as of PHP 5.3.0. |preg_match| with the i (PCRE_CASELESS)
+modifier is the suggested alternative.
+
+|ereg| |ereg_replace| |eregi_replace| |preg_match| |stripos| |stristr|
+|quotemeta|
 
 vim:ft=help:

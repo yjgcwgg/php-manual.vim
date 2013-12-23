@@ -1,4 +1,4 @@
-*sybase_close* -- Closes a Sybase connection
+sybase_close -- Closes a Sybase connection
 
   bool sybase_close([resource link_identifier])~
 

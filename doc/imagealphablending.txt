@@ -1,4 +1,4 @@
-*imagealphablending* -- Set the blending mode for an image
+imagealphablending -- Set the blending mode for an image
 
   bool imagealphablending(resource image, bool blendmode)~
 

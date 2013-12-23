@@ -1,4 +1,4 @@
-*odbc_num_fields* -- Number of columns in a result
+odbc_num_fields -- Number of columns in a result
 
   int odbc_num_fields(resource result_id)~
 

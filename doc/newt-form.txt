@@ -1,4 +1,4 @@
-*newt_form* -- Create a form
+newt_form -- Create a form
 
   resource newt_form([resource vert_bar [, string help [, int flags]]])~
 

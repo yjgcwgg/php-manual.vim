@@ -1,4 +1,4 @@
-*apc_define_constants* -- Defines a set of constants for retrieval and
+apc_define_constants -- Defines a set of constants for retrieval and
 mass-definition
 
   bool apc_define_constants(string key, array constants [, bool case_sensitive])~

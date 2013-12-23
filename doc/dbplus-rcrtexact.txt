@@ -1,4 +1,4 @@
-*dbplus_rcrtexact* -- Creates an exact but empty copy of a relation including
+dbplus_rcrtexact -- Creates an exact but empty copy of a relation including
 indices
 
   mixed dbplus_rcrtexact(string name, resource relation [, bool overwrite])~

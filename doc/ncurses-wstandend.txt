@@ -1,4 +1,4 @@
-*ncurses_wstandend* -- End standout mode for a window
+ncurses_wstandend -- End standout mode for a window
 
   int ncurses_wstandend(resource window)~
 

@@ -1,4 +1,4 @@
-*ifx_fieldtypes* -- List of Informix SQL fields
+ifx_fieldtypes -- List of Informix SQL fields
 
   array ifx_fieldtypes(resource result_id)~
 

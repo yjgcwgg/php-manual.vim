@@ -1,4 +1,4 @@
-*geoip_record_by_name* -- Returns the detailed City information found in the
+geoip_record_by_name -- Returns the detailed City information found in the
 GeoIP Database
 
   array geoip_record_by_name(string hostname)~

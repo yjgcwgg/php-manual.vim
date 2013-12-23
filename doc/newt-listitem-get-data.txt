@@ -1,4 +1,4 @@
-*newt_listitem_get_data* --
+newt_listitem_get_data --
 
   mixed newt_listitem_get_data(resource item)~
 

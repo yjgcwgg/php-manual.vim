@@ -1,4 +1,4 @@
-*msession_listvar* -- List sessions with variable
+msession_listvar -- List sessions with variable
 
   array msession_listvar(string name)~
 

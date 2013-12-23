@@ -1,4 +1,4 @@
-*imageinterlace* -- Enable or disable interlace
+imageinterlace -- Enable or disable interlace
 
   int imageinterlace(resource image [, int interlace])~
 

@@ -1,4 +1,4 @@
-*PDF_load_3ddata* -- Load 3D model
+PDF_load_3ddata -- Load 3D model
 
   int PDF_load_3ddata(resource pdfdoc, string filename, string optlist)~
 

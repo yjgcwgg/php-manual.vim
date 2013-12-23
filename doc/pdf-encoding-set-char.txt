@@ -1,4 +1,4 @@
-*PDF_encoding_set_char* -- Add glyph name and/or Unicode value
+PDF_encoding_set_char -- Add glyph name and/or Unicode value
 
   bool PDF_encoding_set_char(resource pdfdoc, string encoding, int slot, string glyphname, int uv)~
 

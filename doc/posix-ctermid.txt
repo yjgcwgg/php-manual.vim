@@ -1,4 +1,4 @@
-*posix_ctermid* -- Get path name of controlling terminal
+posix_ctermid -- Get path name of controlling terminal
 
   string posix_ctermid()~
 

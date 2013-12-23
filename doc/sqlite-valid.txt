@@ -1,12 +1,12 @@
-*SQLiteUnbuffered->valid* -- Returns whether more rows are available
+SQLiteUnbuffered::valid -- Returns whether more rows are available
 
   bool sqlite_valid(resource result)~
 
 Object oriented style (method):
 
-  bool valid(resource result)~
+  bool SQLiteResult::valid(resource result)~
 
-  bool valid(resource result)~
+  bool SQLiteUnbuffered::valid(resource result)~
 
 Finds whether more rows are available from the given result handle.
 

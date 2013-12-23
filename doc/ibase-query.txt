@@ -1,4 +1,4 @@
-*ibase_query* -- Execute a query on an InterBase database
+ibase_query -- Execute a query on an InterBase database
 
   resource ibase_query([resource link_identifier, string query [, int bind_args]])~
 

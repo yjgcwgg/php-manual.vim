@@ -1,4 +1,4 @@
-*kadm5_get_principal* -- Gets the principal's entries from the Kerberos database
+kadm5_get_principal -- Gets the principal's entries from the Kerberos database
 
   array kadm5_get_principal(resource handle, string principal)~
 

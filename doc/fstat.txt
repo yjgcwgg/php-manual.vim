@@ -1,4 +1,4 @@
-*fstat* -- Gets information about a file using an open file pointer
+fstat -- Gets information about a file using an open file pointer
 
   array fstat(resource handle)~
 

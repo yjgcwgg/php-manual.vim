@@ -1,4 +1,4 @@
-*geoip_region_name_by_code* -- Returns the region name for some country and
+geoip_region_name_by_code -- Returns the region name for some country and
 region code combo
 
   string geoip_region_name_by_code(string country_code, string region_code)~

@@ -1,4 +1,4 @@
-*memory_get_usage* -- Returns the amount of memory allocated to PHP
+memory_get_usage -- Returns the amount of memory allocated to PHP
 
   int memory_get_usage([bool real_usage])~
 

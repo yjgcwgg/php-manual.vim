@@ -1,4 +1,4 @@
-*strnatcmp* -- String comparisons using a "natural order" algorithm
+strnatcmp -- String comparisons using a "natural order" algorithm
 
   int strnatcmp(string str1, string str2)~
 

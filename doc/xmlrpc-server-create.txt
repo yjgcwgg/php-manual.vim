@@ -1,4 +1,4 @@
-*xmlrpc_server_create* -- Creates an xmlrpc server
+xmlrpc_server_create -- Creates an xmlrpc server
 
   resource xmlrpc_server_create()~
 

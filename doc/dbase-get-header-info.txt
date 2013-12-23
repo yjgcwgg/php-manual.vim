@@ -1,4 +1,4 @@
-*dbase_get_header_info* -- Gets the header info of a database
+dbase_get_header_info -- Gets the header info of a database
 
   array dbase_get_header_info(int dbase_identifier)~
 

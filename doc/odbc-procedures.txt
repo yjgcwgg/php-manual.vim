@@ -1,4 +1,4 @@
-*odbc_procedures* -- Get the list of procedures stored in a specific data source
+odbc_procedures -- Get the list of procedures stored in a specific data source
 
   resource odbc_procedures(resource connection_id)~
 

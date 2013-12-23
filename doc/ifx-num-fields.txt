@@ -1,4 +1,4 @@
-*ifx_num_fields* -- Returns the number of columns in the query
+ifx_num_fields -- Returns the number of columns in the query
 
   int ifx_num_fields(resource result_id)~
 

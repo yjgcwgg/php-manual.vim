@@ -1,4 +1,4 @@
-*ncurses_mousemask* -- Sets mouse options
+ncurses_mousemask -- Sets mouse options
 
   int ncurses_mousemask(int newmask, int oldmask)~
 

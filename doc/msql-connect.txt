@@ -1,11 +1,11 @@
-*msql_connect* -- Open mSQL connection
+msql_connect -- Open mSQL connection
 
   resource msql_connect([string hostname])~
 
 |msql_connect| establishes a connection to a mSQL server.
 
-In case a second call is made to |msql_connect| with the same arguments, no
-new link will be established, but instead, the link identifier of the already
+If a second call is made to |msql_connect| with the same arguments, no new
+link will be established, but instead, the link identifier of the already
 opened link will be returned.
 
 The link to the server will be closed as soon as the execution of the script

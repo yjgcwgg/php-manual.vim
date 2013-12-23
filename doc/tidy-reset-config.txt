@@ -1,4 +1,4 @@
-*tidy_reset_config* -- Restore Tidy configuration to default values
+tidy_reset_config -- Restore Tidy configuration to default values
 
   bool tidy_reset_config()~
 

@@ -1,10 +1,10 @@
-*SQLiteResult->numRows* -- Returns the number of rows in a buffered result set
+SQLiteResult::numRows -- Returns the number of rows in a buffered result set
 
   int sqlite_num_rows(resource result)~
 
 Object oriented style (method):
 
-  int numRows(resource result)~
+  int SQLiteResult::numRows(resource result)~
 
 Returns the number of rows in the buffered {result} set.
 

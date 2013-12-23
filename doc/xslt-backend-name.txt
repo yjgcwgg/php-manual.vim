@@ -1,4 +1,4 @@
-*xslt_backend_name* -- Returns the name of the backend
+xslt_backend_name -- Returns the name of the backend
 
   string xslt_backend_name()~
 

@@ -1,4 +1,4 @@
-*pg_field_num* -- Returns the field number of the named field
+pg_field_num -- Returns the field number of the named field
 
   int pg_field_num(resource result, string field_name)~
 

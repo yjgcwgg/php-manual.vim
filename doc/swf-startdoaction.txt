@@ -1,4 +1,4 @@
-*swf_startdoaction* -- Start a description of an action list for the current
+swf_startdoaction -- Start a description of an action list for the current
 frame
 
   void swf_startdoaction()~

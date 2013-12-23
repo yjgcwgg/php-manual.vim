@@ -1,4 +1,4 @@
-*ldap_parse_reference* -- Extract information from reference entry
+ldap_parse_reference -- Extract information from reference entry
 
   bool ldap_parse_reference(resource link, resource entry, array referrals)~
 

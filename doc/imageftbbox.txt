@@ -1,4 +1,4 @@
-*imageftbbox* -- Give the bounding box of a text using fonts via freetype2
+imageftbbox -- Give the bounding box of a text using fonts via freetype2
 
   array imageftbbox(float size, float angle, string fontfile, string text [, array extrainfo])~
 
@@ -53,7 +53,7 @@ means in the top left-hand corner seeing the text horizontally.
   imagefttext($im, 10, 0, $x, $y, $black, $font, 'The PHP Documentation Group');
   
   // Output to browser
-  header('Content-type: image/png');
+  header('Content-Type: image/png');
   
   imagepng($im);
   imagedestroy($im);

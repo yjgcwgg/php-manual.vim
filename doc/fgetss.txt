@@ -1,4 +1,4 @@
-*fgetss* -- Gets line from file pointer and strip HTML tags
+fgetss -- Gets line from file pointer and strip HTML tags
 
   string fgetss(resource handle [, int length [, string allowable_tags]])~
 

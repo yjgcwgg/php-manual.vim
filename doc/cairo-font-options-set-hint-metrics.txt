@@ -1,4 +1,4 @@
-*cairo_font_options_set_hint_metrics* -- Description
+cairo_font_options_set_hint_metrics -- Description
 
   void cairo_font_options_set_hint_metrics(CairoFontOptions options, int hint_metrics)~
 

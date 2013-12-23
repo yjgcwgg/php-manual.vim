@@ -1,4 +1,4 @@
-*ctype_alpha* -- Check for alphabetic character(s)
+ctype_alpha -- Check for alphabetic character(s)
 
   bool ctype_alpha(string text)~
 
@@ -32,6 +32,11 @@ The above example will output:
   The string arf12 does not consist of all letters.
 
 
+
+If an integer between -128 and 255 inclusive is provided, it is interpreted as
+the ASCII value of a single character (negative values have 256 added in order
+to allow characters in the Extended ASCII range). Any other integer is
+interpreted as a string containing the decimal digits of the integer.
 
 |ctype_upper| |ctype_lower| |setlocale|
 

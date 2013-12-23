@@ -1,4 +1,4 @@
-*odbc_commit* -- Commit an ODBC transaction
+odbc_commit -- Commit an ODBC transaction
 
   bool odbc_commit(resource connection_id)~
 

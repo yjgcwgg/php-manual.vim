@@ -1,11 +1,11 @@
-*SQLiteDatabase->createFunction* -- Registers a "regular" User Defined Function
+SQLiteDatabase::createFunction -- Registers a "regular" User Defined Function
 for use in SQL statements
 
-  void sqlite_create_function(resource dbhandle, string function_name, callback callback [, int num_args])~
+  void sqlite_create_function(resource dbhandle, string function_name, callable callback [, int num_args])~
 
 Object oriented style (method):
 
-  void createFunction(resource dbhandle, string function_name, callback callback [, int num_args, string function_name, callback callback [, int num_args]])~
+  void SQLiteDatabase::createFunction(resource dbhandle, string function_name, callable callback [, int num_args, string function_name, callable callback [, int num_args]])~
 
 |sqlite_create_function| allows you to register a PHP function with SQLite as
 an UDF (User Defined Function), so that it can be called from within your SQL

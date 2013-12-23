@@ -1,4 +1,4 @@
-*swf_startsymbol* -- Define a symbol
+swf_startsymbol -- Define a symbol
 
   void swf_startsymbol(int objid)~
 

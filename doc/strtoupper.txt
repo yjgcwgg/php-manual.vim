@@ -1,4 +1,4 @@
-*strtoupper* -- Make a string uppercase
+strtoupper -- Make a string uppercase
 
   string strtoupper(string string)~
 

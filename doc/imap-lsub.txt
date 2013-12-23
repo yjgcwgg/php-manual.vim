@@ -1,4 +1,4 @@
-*imap_lsub* -- List all the subscribed mailboxes
+imap_lsub -- List all the subscribed mailboxes
 
   array imap_lsub(resource imap_stream, string ref, string pattern)~
 

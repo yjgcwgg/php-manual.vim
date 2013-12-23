@@ -1,4 +1,4 @@
-*maxdb_bind_result* -- Alias of maxdb_stmt_bind_result
+maxdb_bind_result -- Alias of maxdb_stmt_bind_result
 
 This function is an alias of: |maxdb_stmt_bind_result|.
 

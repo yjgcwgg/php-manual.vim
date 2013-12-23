@@ -1,4 +1,4 @@
-*odbc_fetch_object* -- Fetch a result row as an object
+odbc_fetch_object -- Fetch a result row as an object
 
   object odbc_fetch_object(resource result [, int rownumber])~
 

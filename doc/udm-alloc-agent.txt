@@ -1,4 +1,4 @@
-*udm_alloc_agent* -- Allocate mnoGoSearch session
+udm_alloc_agent -- Allocate mnoGoSearch session
 
   resource udm_alloc_agent(string dbaddr [, string dbmode])~
 

@@ -1,4 +1,4 @@
-*imagesx* -- Get image width
+imagesx -- Get image width
 
   int imagesx(resource image)~
 

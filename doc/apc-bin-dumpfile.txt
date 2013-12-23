@@ -1,4 +1,4 @@
-*apc_bin_dumpfile* -- Output a binary dump of cached files and user variables to
+apc_bin_dumpfile -- Output a binary dump of cached files and user variables to
 a file
 
   int apc_bin_dumpfile(array files, array user_vars, string filename [, int flags [, resource context]])~

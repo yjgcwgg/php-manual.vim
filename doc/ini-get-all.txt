@@ -1,4 +1,4 @@
-*ini_get_all* -- Gets all configuration options
+ini_get_all -- Gets all configuration options
 
   array ini_get_all([string extension [, bool details]])~
 
@@ -95,5 +95,6 @@ The above example will output something similar to:
 
 
 |ini_get| |ini_restore| |ini_set| |get_loaded_extensions| |phpinfo|
+ReflectionExtension::getINIEntries
 
 vim:ft=help:

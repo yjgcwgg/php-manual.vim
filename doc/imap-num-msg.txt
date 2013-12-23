@@ -1,4 +1,4 @@
-*imap_num_msg* -- Gets the number of messages in the current mailbox
+imap_num_msg -- Gets the number of messages in the current mailbox
 
   int imap_num_msg(resource imap_stream)~
 

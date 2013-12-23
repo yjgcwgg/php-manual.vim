@@ -1,4 +1,4 @@
-*dbplus_rchperm* -- Change relation permissions
+dbplus_rchperm -- Change relation permissions
 
   int dbplus_rchperm(resource relation, int mask, string user, string group)~
 

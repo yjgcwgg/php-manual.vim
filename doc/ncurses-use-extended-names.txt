@@ -1,4 +1,4 @@
-*ncurses_use_extended_names* -- Control use of extended names in terminfo
+ncurses_use_extended_names -- Control use of extended names in terminfo
 descriptions
 
   int ncurses_use_extended_names(bool flag)~

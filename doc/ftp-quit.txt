@@ -1,4 +1,4 @@
-*ftp_quit* -- Alias of ftp_close
+ftp_quit -- Alias of ftp_close
 
 This function is an alias of: |ftp_close|.
 

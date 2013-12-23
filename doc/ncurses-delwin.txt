@@ -1,4 +1,4 @@
-*ncurses_delwin* -- Delete a ncurses window
+ncurses_delwin -- Delete a ncurses window
 
   bool ncurses_delwin(resource window)~
 

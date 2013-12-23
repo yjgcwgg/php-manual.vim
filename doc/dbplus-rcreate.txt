@@ -1,4 +1,4 @@
-*dbplus_rcreate* -- Creates a new DB++ relation
+dbplus_rcreate -- Creates a new DB++ relation
 
   resource dbplus_rcreate(string name, mixed domlist [, bool overwrite])~
 

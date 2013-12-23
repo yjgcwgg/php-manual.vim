@@ -1,4 +1,4 @@
-*readline_callback_handler_remove* -- Removes a previously installed callback
+readline_callback_handler_remove -- Removes a previously installed callback
 handler and restores terminal settings
 
   bool readline_callback_handler_remove()~

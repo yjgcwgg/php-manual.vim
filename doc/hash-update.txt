@@ -1,4 +1,4 @@
-*hash_update* -- Pump data into an active hashing context
+hash_update -- Pump data into an active hashing context
 
   bool hash_update(resource context, string data)~
 

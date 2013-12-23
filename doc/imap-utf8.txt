@@ -1,4 +1,4 @@
-*imap_utf8* -- Converts MIME-encoded text to UTF-8
+imap_utf8 -- Converts MIME-encoded text to UTF-8
 
   string imap_utf8(string mime_encoded_text)~
 

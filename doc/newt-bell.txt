@@ -1,4 +1,4 @@
-*newt_bell* -- Send a beep to the terminal
+newt_bell -- Send a beep to the terminal
 
   void newt_bell()~
 

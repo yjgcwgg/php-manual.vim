@@ -1,4 +1,4 @@
-*hw_mv* -- Moves objects
+hw_mv -- Moves objects
 
   int hw_mv(int connection, array object_id_array, int source_id, int destination_id)~
 

@@ -1,4 +1,4 @@
-*maxdb_stmt->num_rows* -- Return the number of rows in statements result set
+maxdb_stmt::num_rows -- Return the number of rows in statements result set
 
 Procedural style
 

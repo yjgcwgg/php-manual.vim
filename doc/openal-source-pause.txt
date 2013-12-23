@@ -1,4 +1,4 @@
-*openal_source_pause* -- Pause the source
+openal_source_pause -- Pause the source
 
   bool openal_source_pause(resource source)~
 

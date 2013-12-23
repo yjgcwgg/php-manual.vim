@@ -1,4 +1,4 @@
-*pspell_new_config* -- Load a new dictionary with settings based on a given
+pspell_new_config -- Load a new dictionary with settings based on a given
 config
 
   int pspell_new_config(int config)~

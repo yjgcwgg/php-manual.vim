@@ -1,4 +1,4 @@
-*stream_filter_remove* -- Remove a filter from a stream
+stream_filter_remove -- Remove a filter from a stream
 
   bool stream_filter_remove(resource stream_filter)~
 

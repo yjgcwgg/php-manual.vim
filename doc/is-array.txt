@@ -1,4 +1,4 @@
-*is_array* -- Finds whether a variable is an array
+is_array -- Finds whether a variable is an array
 
   bool is_array(mixed var)~
 

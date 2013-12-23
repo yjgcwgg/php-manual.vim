@@ -1,4 +1,4 @@
-*ifx_blobinfile_mode* -- Set the default blob mode for all select queries
+ifx_blobinfile_mode -- Set the default blob mode for all select queries
 
   bool ifx_blobinfile_mode(int mode)~
 

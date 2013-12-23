@@ -1,4 +1,4 @@
-*imap_ping* -- Check if the IMAP stream is still active
+imap_ping -- Check if the IMAP stream is still active
 
   bool imap_ping(resource imap_stream)~
 

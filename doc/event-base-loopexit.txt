@@ -1,4 +1,4 @@
-*event_base_loopexit* -- Exit loop after a time
+event_base_loopexit -- Exit loop after a time
 
   bool event_base_loopexit(resource event_base [, int timeout])~
 

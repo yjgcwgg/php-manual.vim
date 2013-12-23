@@ -1,4 +1,4 @@
-*inotify_rm_watch* -- Remove an existing watch from an inotify instance
+inotify_rm_watch -- Remove an existing watch from an inotify instance
 
   bool inotify_rm_watch(resource inotify_instance, int watch_descriptor)~
 

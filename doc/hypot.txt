@@ -1,4 +1,4 @@
-*hypot* -- Calculate the length of the hypotenuse of a right-angle triangle
+hypot -- Calculate the length of the hypotenuse of a right-angle triangle
 
   float hypot(float x, float y)~
 

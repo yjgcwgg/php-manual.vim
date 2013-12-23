@@ -1,4 +1,4 @@
-*ncurses_mouseinterval* -- Set timeout for mouse button clicks
+ncurses_mouseinterval -- Set timeout for mouse button clicks
 
   int ncurses_mouseinterval(int milliseconds)~
 

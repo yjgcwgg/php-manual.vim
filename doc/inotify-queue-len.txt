@@ -1,4 +1,4 @@
-*inotify_queue_len* -- Return a number upper than zero if there are pending
+inotify_queue_len -- Return a number upper than zero if there are pending
 events
 
   int inotify_queue_len(resource inotify_instance)~

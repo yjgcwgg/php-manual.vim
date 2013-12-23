@@ -1,4 +1,4 @@
-*yaz_database* -- Specifies the databases within a session
+yaz_database -- Specifies the databases within a session
 
   bool yaz_database(resource id, string databases)~
 

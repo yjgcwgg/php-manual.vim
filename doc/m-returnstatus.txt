@@ -1,4 +1,4 @@
-*m_returnstatus* -- Check to see if the transaction was successful
+m_returnstatus -- Check to see if the transaction was successful
 
   int m_returnstatus(resource conn, int identifier)~
 

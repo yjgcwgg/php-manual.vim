@@ -1,4 +1,4 @@
-*msg_send* -- Send a message to a message queue
+msg_send -- Send a message to a message queue
 
   bool msg_send(resource queue, int msgtype, mixed message [, bool serialize [, bool blocking [, int errorcode]]])~
 

@@ -1,4 +1,4 @@
-*vpopmail_del_user* -- Delete a user from a virtual domain
+vpopmail_del_user -- Delete a user from a virtual domain
 
   bool vpopmail_del_user(string user, string domain)~
 

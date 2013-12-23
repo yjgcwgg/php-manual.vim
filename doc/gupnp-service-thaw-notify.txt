@@ -1,4 +1,4 @@
-*gupnp_service_thaw_notify* -- Sends out any pending notifications and stops
+gupnp_service_thaw_notify -- Sends out any pending notifications and stops
 queuing of new ones.
 
   bool gupnp_service_thaw_notify(resource service)~

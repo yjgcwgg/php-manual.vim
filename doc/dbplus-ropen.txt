@@ -1,4 +1,4 @@
-*dbplus_ropen* -- Open relation file local
+dbplus_ropen -- Open relation file local
 
   resource dbplus_ropen(string name)~
 

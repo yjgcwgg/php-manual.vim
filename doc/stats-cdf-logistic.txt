@@ -1,4 +1,4 @@
-*stats_cdf_logistic* -- Not documented
+stats_cdf_logistic -- Not documented
 
   float stats_cdf_logistic(float par1, float par2, float par3, int which)~
 

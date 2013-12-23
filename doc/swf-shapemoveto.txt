@@ -1,4 +1,4 @@
-*swf_shapemoveto* -- Move the current position
+swf_shapemoveto -- Move the current position
 
   void swf_shapemoveto(float x, float y)~
 

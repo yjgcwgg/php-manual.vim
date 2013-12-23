@@ -1,4 +1,4 @@
-*shm_put_var* -- Inserts or updates a variable in shared memory
+shm_put_var -- Inserts or updates a variable in shared memory
 
   bool shm_put_var(resource shm_identifier, int variable_key, mixed variable)~
 

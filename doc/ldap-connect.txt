@@ -1,4 +1,4 @@
-*ldap_connect* -- Connect to an LDAP server
+ldap_connect -- Connect to an LDAP server
 
   resource ldap_connect([string hostname [, int port]])~
 

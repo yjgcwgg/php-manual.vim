@@ -1,4 +1,4 @@
-*mqseries_strerror* -- Returns the error message corresponding to a result code
+mqseries_strerror -- Returns the error message corresponding to a result code
 (MQRC).
 
   string mqseries_strerror(int reason)~

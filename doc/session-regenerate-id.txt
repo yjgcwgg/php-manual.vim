@@ -1,4 +1,4 @@
-*session_regenerate_id* -- Update the current session id with a newly generated
+session_regenerate_id -- Update the current session id with a newly generated
 one
 
   bool session_regenerate_id([bool delete_old_session])~

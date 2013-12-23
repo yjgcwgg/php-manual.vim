@@ -1,4 +1,4 @@
-*get_defined_vars* -- Returns an array of all defined variables
+get_defined_vars -- Returns an array of all defined variables
 
   array get_defined_vars()~
 

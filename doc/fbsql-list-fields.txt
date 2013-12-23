@@ -1,4 +1,4 @@
-*fbsql_list_fields* -- List FrontBase result fields
+fbsql_list_fields -- List FrontBase result fields
 
   resource fbsql_list_fields(string database_name, string table_name [, resource link_identifier])~
 

@@ -1,4 +1,4 @@
-*opendir* -- Open directory handle
+opendir -- Open directory handle
 
   resource opendir(string path [, resource context])~
 
@@ -47,6 +47,6 @@ The above example will output something similar to:
 
 
 
-|is_dir| |readdir| Dir
+|is_dir| |readdir| |dir|
 
 vim:ft=help:

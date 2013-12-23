@@ -1,4 +1,4 @@
-*com_print_typeinfo* -- Print out a PHP class definition for a dispatchable
+com_print_typeinfo -- Print out a PHP class definition for a dispatchable
 interface
 
   bool com_print_typeinfo(object comobject [, string dispinterface [, bool wantsink]])~

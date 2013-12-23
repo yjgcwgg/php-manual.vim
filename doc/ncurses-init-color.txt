@@ -1,4 +1,4 @@
-*ncurses_init_color* -- Define a terminal color
+ncurses_init_color -- Define a terminal color
 
   int ncurses_init_color(int color, int r, int g, int b)~
 

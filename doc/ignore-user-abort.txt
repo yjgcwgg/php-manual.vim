@@ -1,4 +1,4 @@
-*ignore_user_abort* -- Set whether a client disconnect should abort script
+ignore_user_abort -- Set whether a client disconnect should abort script
 execution
 
   int ignore_user_abort([string value])~

@@ -1,6 +1,6 @@
-*xml_set_end_namespace_decl_handler* -- Set up end namespace declaration handler
+xml_set_end_namespace_decl_handler -- Set up end namespace declaration handler
 
-  bool xml_set_end_namespace_decl_handler(resource parser, callback handler)~
+  bool xml_set_end_namespace_decl_handler(resource parser, callable handler)~
 
 Set a handler to be called when leaving the scope of a namespace declaration.
 This will be called, for each namespace declaration, after the handler for the
@@ -11,7 +11,7 @@ end tag of the element in which the namespace was declared.
 {handler} {handler} is a string containing the name of a function that must
 exist when |xml_parse| is called for {parser}.
 
-  bool (resource parser, callback handler, resource parser, string prefix)~
+  bool (resource parser, callable handler, resource parser, string prefix)~
 
 The function named by {handler} must accept two parameters, and should return
 an integer value. If the value returned from the handler is FALSE (which it

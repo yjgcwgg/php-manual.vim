@@ -1,4 +1,4 @@
-*maxdb_stmt->param_count* -- Returns the number of parameter for the given
+maxdb_stmt::param_count -- Returns the number of parameter for the given
 statement
 
 Procedural style

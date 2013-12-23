@@ -1,4 +1,4 @@
-*fdf_set_opt* -- Sets an option of a field
+fdf_set_opt -- Sets an option of a field
 
   bool fdf_set_opt(resource fdf_document, string fieldname, int element, string str1, string str2)~
 

@@ -1,11 +1,11 @@
-*ssh2_sftp_stat* -- Stat a file on a remote filesystem
+ssh2_sftp_stat -- Stat a file on a remote filesystem
 
   array ssh2_sftp_stat(resource sftp, string path)~
 
 Stats a file on the remote filesystem following any symbolic links.
 
 This function is similar to using the |stat| function with the ssh2.sftp://
-wrapper in PHP5 and returns the same values.
+wrapper in PHP 5 and returns the same values.
 
 {sftp} An SSH2 SFTP resource opened by |ssh2_sftp|.
 

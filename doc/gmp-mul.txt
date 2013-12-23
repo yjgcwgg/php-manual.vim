@@ -1,4 +1,4 @@
-*gmp_mul* -- Multiply numbers
+gmp_mul -- Multiply numbers
 
   resource gmp_mul(resource a, resource b)~
 

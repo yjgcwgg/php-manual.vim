@@ -1,4 +1,4 @@
-*ncurses_clrtoeol* -- Clear screen from current position to end of line
+ncurses_clrtoeol -- Clear screen from current position to end of line
 
   bool ncurses_clrtoeol()~
 

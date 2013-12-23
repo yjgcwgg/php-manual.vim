@@ -1,4 +1,4 @@
-*gmp_legendre* -- Legendre symbol
+gmp_legendre -- Legendre symbol
 
   int gmp_legendre(resource a, resource p)~
 

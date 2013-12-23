@@ -1,4 +1,4 @@
-*odbc_gettypeinfo* -- Retrieves information about data types supported by the
+odbc_gettypeinfo -- Retrieves information about data types supported by the
 data source
 
   resource odbc_gettypeinfo(resource connection_id [, int data_type])~

@@ -1,4 +1,4 @@
-*fdf_errno* -- Return error code for last fdf operation
+fdf_errno -- Return error code for last fdf operation
 
   int fdf_errno()~
 

@@ -1,4 +1,4 @@
-*stream_get_transports* -- Retrieve list of registered socket transports
+stream_get_transports -- Retrieve list of registered socket transports
 
   array stream_get_transports()~
 

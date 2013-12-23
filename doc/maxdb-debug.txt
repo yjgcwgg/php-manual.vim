@@ -1,4 +1,4 @@
-*maxdb_debug* -- Performs debugging operations
+maxdb_debug -- Performs debugging operations
 
   void maxdb_debug(string debug)~
 

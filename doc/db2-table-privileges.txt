@@ -1,4 +1,4 @@
-*db2_table_privileges* -- Returns a result set listing the tables and associated
+db2_table_privileges -- Returns a result set listing the tables and associated
 privileges in a database
 
   resource db2_table_privileges(resource connection [, string qualifier [, string schema [, string table_name]]])~

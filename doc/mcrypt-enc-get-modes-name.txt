@@ -1,4 +1,4 @@
-*mcrypt_enc_get_modes_name* -- Returns the name of the opened mode
+mcrypt_enc_get_modes_name -- Returns the name of the opened mode
 
   string mcrypt_enc_get_modes_name(resource td)~
 

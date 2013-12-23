@@ -1,4 +1,4 @@
-*notes_create_db* -- Create a Lotus Notes database
+notes_create_db -- Create a Lotus Notes database
 
   bool notes_create_db(string database_name)~
 

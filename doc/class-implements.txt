@@ -1,4 +1,4 @@
-*class_implements* -- Return the interfaces which are implemented by the given
+class_implements -- Return the interfaces which are implemented by the given
 class
 
   array class_implements(mixed class [, bool autoload])~
@@ -9,7 +9,7 @@ This function returns an array with the names of the interfaces that the given
 {class} An object (class instance) or a string (class name).
 
 {autoload} Whether to allow this function to load the class automatically
-through the __autoload magic method.
+through the |__autoload| magic method.
 
 An array on success, or FALSE on error.
 

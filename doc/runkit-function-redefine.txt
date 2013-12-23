@@ -1,4 +1,4 @@
-*runkit_function_redefine* -- Replace a function definition with a new
+runkit_function_redefine -- Replace a function definition with a new
 implementation
 
   bool runkit_function_redefine(string funcname, string arglist, string code)~

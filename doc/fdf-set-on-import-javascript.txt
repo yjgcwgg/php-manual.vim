@@ -1,4 +1,4 @@
-*fdf_set_on_import_javascript* -- Adds javascript code to be executed when
+fdf_set_on_import_javascript -- Adds javascript code to be executed when
 Acrobat opens the FDF
 
   bool fdf_set_on_import_javascript(resource fdf_document, string script, bool before_data_import)~

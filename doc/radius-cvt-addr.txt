@@ -1,4 +1,4 @@
-*radius_cvt_addr* -- Converts raw data to IP-Address
+radius_cvt_addr -- Converts raw data to IP-Address
 
   string radius_cvt_addr(string data)~
 

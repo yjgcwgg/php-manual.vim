@@ -1,4 +1,4 @@
-*bcompiler_parse_class* -- Reads the bytecodes of a class and calls back to a
+bcompiler_parse_class -- Reads the bytecodes of a class and calls back to a
 user function
 
   bool bcompiler_parse_class(string class, string callback)~

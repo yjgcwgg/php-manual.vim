@@ -1,4 +1,4 @@
-*swf_perspective* -- Define a perspective projection transformation
+swf_perspective -- Define a perspective projection transformation
 
   void swf_perspective(float fovy, float aspect, float near, float far)~
 

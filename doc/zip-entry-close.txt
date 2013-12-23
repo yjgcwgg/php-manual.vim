@@ -1,4 +1,4 @@
-*zip_entry_close* -- Close a directory entry
+zip_entry_close -- Close a directory entry
 
   bool zip_entry_close(resource zip_entry)~
 

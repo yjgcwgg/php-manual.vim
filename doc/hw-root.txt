@@ -1,4 +1,4 @@
-*hw_Root* -- Root object id
+hw_Root -- Root object id
 
   int hw_root()~
 

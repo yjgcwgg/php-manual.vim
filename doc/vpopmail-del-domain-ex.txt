@@ -1,4 +1,4 @@
-*vpopmail_del_domain_ex* -- Delete a virtual domain
+vpopmail_del_domain_ex -- Delete a virtual domain
 
   bool vpopmail_del_domain_ex(string domain)~
 

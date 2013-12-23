@@ -1,4 +1,4 @@
-*PDF_get_pdi_value* -- Get PDI numerical parameter [deprecated]
+PDF_get_pdi_value -- Get PDI numerical parameter [deprecated]
 
   float PDF_get_pdi_value(resource p, string key, int doc, int page, int reserved)~
 

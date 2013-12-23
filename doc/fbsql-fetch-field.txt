@@ -1,4 +1,4 @@
-*fbsql_fetch_field* -- Get column information from a result and return as an
+fbsql_fetch_field -- Get column information from a result and return as an
 object
 
   object fbsql_fetch_field(resource result [, int field_offset])~

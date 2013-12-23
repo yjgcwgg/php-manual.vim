@@ -1,4 +1,4 @@
-*gzread* -- Binary-safe gz-file read
+gzread -- Binary-safe gz-file read
 
   string gzread(resource zp, int length)~
 

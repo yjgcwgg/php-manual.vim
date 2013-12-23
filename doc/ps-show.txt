@@ -1,4 +1,4 @@
-*ps_show* -- Output text
+ps_show -- Output text
 
   bool ps_show(resource psdoc, string text)~
 

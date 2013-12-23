@@ -1,4 +1,4 @@
-*dbplus_undo* -- Undo
+dbplus_undo -- Undo
 
   int dbplus_undo(resource relation)~
 

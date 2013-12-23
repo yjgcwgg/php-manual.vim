@@ -1,4 +1,4 @@
-*ps_add_launchlink* -- Adds link which launches file
+ps_add_launchlink -- Adds link which launches file
 
   bool ps_add_launchlink(resource psdoc, float llx, float lly, float urx, float ury, string filename)~
 

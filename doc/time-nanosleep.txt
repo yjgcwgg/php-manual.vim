@@ -1,12 +1,12 @@
-*time_nanosleep* -- Delay for a number of seconds and nanoseconds
+time_nanosleep -- Delay for a number of seconds and nanoseconds
 
   mixed time_nanosleep(int seconds, int nanoseconds)~
 
 Delays program execution for the given number of {seconds} and {nanoseconds}.
 
-{seconds} Must be a positive integer.
+{seconds} Must be a non-negative integer.
 
-{nanoseconds} Must be a positive integer less than 1 billion.
+{nanoseconds} Must be a non-negative integer less than 1 billion.
 
 Returns TRUE on success or &false; on failure.
 

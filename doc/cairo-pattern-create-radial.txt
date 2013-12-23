@@ -1,4 +1,4 @@
-*cairo_pattern_create_radial* -- Description
+cairo_pattern_create_radial -- Description
 
   CairoPattern cairo_pattern_create_radial(float x0, float y0, float r0, float x1, float y1, float r1)~
 

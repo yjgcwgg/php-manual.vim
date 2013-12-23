@@ -1,4 +1,4 @@
-*tidy_save_config* -- Save current settings to named file
+tidy_save_config -- Save current settings to named file
 
   bool tidy_save_config(string filename)~
 

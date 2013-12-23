@@ -1,4 +1,4 @@
-*ps_setlinewidth* -- Sets width of a line
+ps_setlinewidth -- Sets width of a line
 
   bool ps_setlinewidth(resource psdoc, float width)~
 

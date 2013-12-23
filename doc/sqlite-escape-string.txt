@@ -1,4 +1,4 @@
-*sqlite_escape_string* -- Escapes a string for use as a query parameter
+sqlite_escape_string -- Escapes a string for use as a query parameter
 
   string sqlite_escape_string(string item)~
 

@@ -1,4 +1,4 @@
-*unicode_get_error_mode* -- Get the error mode for strings conversions
+unicode_get_error_mode -- Get the error mode for strings conversions
 
   int unicode_get_error_mode(int direction)~
 

@@ -1,4 +1,4 @@
-*xdiff_file_diff_binary* -- Alias of xdiff_file_bdiff
+xdiff_file_diff_binary -- Alias of xdiff_file_bdiff
 
   bool xdiff_file_diff_binary(string old_file, string new_file, string dest)~
 

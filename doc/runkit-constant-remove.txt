@@ -1,4 +1,4 @@
-*runkit_constant_remove* -- Remove/Delete an already defined constant
+runkit_constant_remove -- Remove/Delete an already defined constant
 
   bool runkit_constant_remove(string constname)~
 

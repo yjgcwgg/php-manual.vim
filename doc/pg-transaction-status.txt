@@ -1,4 +1,4 @@
-*pg_transaction_status* -- Returns the current in-transaction status of the
+pg_transaction_status -- Returns the current in-transaction status of the
 server.
 
   int pg_transaction_status(resource connection)~

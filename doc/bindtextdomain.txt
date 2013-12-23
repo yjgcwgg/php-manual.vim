@@ -1,4 +1,4 @@
-*bindtextdomain* -- Sets the path for a domain
+bindtextdomain -- Sets the path for a domain
 
   string bindtextdomain(string domain, string directory)~
 

@@ -1,4 +1,4 @@
-*is_resource* -- Finds whether a variable is a resource
+is_resource -- Finds whether a variable is a resource
 
   bool is_resource(mixed var)~
 

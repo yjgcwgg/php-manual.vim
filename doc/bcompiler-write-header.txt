@@ -1,4 +1,4 @@
-*bcompiler_write_header* -- Writes the bcompiler header
+bcompiler_write_header -- Writes the bcompiler header
 
   bool bcompiler_write_header(resource filehandle [, string write_ver])~
 

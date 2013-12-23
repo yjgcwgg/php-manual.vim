@@ -1,4 +1,4 @@
-*gupnp_device_info_get* -- Get info of root device
+gupnp_device_info_get -- Get info of root device
 
   array gupnp_device_info_get(resource root_device)~
 

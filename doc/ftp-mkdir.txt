@@ -1,4 +1,4 @@
-*ftp_mkdir* -- Creates a directory
+ftp_mkdir -- Creates a directory
 
   string ftp_mkdir(resource ftp_stream, string directory)~
 

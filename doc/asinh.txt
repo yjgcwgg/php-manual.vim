@@ -1,4 +1,4 @@
-*asinh* -- Inverse hyperbolic sine
+asinh -- Inverse hyperbolic sine
 
   float asinh(float arg)~
 

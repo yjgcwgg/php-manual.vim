@@ -1,4 +1,4 @@
-*ncurses_longname* -- Returns terminals description
+ncurses_longname -- Returns terminals description
 
   string ncurses_longname()~
 

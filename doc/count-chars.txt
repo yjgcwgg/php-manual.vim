@@ -1,4 +1,4 @@
-*count_chars* -- Return information about characters used in a string
+count_chars -- Return information about characters used in a string
 
   mixed count_chars(string string [, int mode])~
 

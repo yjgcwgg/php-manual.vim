@@ -1,4 +1,4 @@
-*PDF_pcos_get_string* -- Get value of pCOS path with type name, string, or
+PDF_pcos_get_string -- Get value of pCOS path with type name, string, or
 boolean
 
   string PDF_pcos_get_string(resource p, int doc, string path)~

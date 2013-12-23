@@ -1,4 +1,4 @@
-*gupnp_service_action_get* -- Retrieves the specified action arguments
+gupnp_service_action_get -- Retrieves the specified action arguments
 
   mixed gupnp_service_action_get(resource action, string name, int type)~
 

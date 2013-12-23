@@ -1,4 +1,4 @@
-*openal_buffer_data* -- Load a buffer with data
+openal_buffer_data -- Load a buffer with data
 
   bool openal_buffer_data(resource buffer, int format, string data, int freq)~
 

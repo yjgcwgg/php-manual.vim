@@ -1,4 +1,4 @@
-*variant_xor* -- Performs a logical exclusion on two variants
+variant_xor -- Performs a logical exclusion on two variants
 
   mixed variant_xor(mixed left, mixed right)~
 

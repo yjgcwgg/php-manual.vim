@@ -1,4 +1,4 @@
-*ldap_close* -- Alias of ldap_unbind
+ldap_close -- Alias of ldap_unbind
 
 This function is an alias of: |ldap_unbind|.
 

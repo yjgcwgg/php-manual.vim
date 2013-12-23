@@ -1,4 +1,4 @@
-*exec* -- Execute an external program
+exec -- Execute an external program
 
   string exec(string command [, array output [, int return_var]])~
 

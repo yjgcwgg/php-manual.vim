@@ -1,4 +1,4 @@
-*pg_close* -- Closes a PostgreSQL connection
+pg_close -- Closes a PostgreSQL connection
 
   bool pg_close([resource connection])~
 

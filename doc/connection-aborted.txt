@@ -1,4 +1,4 @@
-*connection_aborted* -- Check whether client disconnected
+connection_aborted -- Check whether client disconnected
 
   int connection_aborted()~
 

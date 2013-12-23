@@ -1,4 +1,4 @@
-*str_shuffle* -- Randomly shuffles a string
+str_shuffle -- Randomly shuffles a string
 
   string str_shuffle(string str)~
 

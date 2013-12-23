@@ -1,4 +1,4 @@
-*posix_initgroups* -- Calculate the group access list
+posix_initgroups -- Calculate the group access list
 
   bool posix_initgroups(string name, int base_group_id)~
 

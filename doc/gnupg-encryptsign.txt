@@ -1,4 +1,4 @@
-*gnupg_encryptsign* -- Encrypts and signs a given text
+gnupg_encryptsign -- Encrypts and signs a given text
 
   string gnupg_encryptsign(resource identifier, string plaintext)~
 

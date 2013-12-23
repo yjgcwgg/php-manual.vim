@@ -1,4 +1,4 @@
-*odbc_prepare* -- Prepares a statement for execution
+odbc_prepare -- Prepares a statement for execution
 
   resource odbc_prepare(resource connection_id, string query_string)~
 

@@ -1,4 +1,4 @@
-*xdiff_file_diff* -- Make unified diff of two files
+xdiff_file_diff -- Make unified diff of two files
 
   bool xdiff_file_diff(string old_file, string new_file, string dest [, int context [, bool minimal]])~
 

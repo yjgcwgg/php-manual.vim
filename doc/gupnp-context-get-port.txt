@@ -1,4 +1,4 @@
-*gupnp_context_get_port* -- Get the port
+gupnp_context_get_port -- Get the port
 
   int gupnp_context_get_port(resource context)~
 

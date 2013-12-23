@@ -1,4 +1,4 @@
-*timezone_version_get* -- Gets the version of the timezonedb
+timezone_version_get -- Gets the version of the timezonedb
 
   string timezone_version_get()~
 

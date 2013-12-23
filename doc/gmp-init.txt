@@ -1,4 +1,4 @@
-*gmp_init* -- Create GMP number
+gmp_init -- Create GMP number
 
   resource gmp_init(mixed number [, int base])~
 

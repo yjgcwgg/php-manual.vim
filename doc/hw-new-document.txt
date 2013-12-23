@@ -1,4 +1,4 @@
-*hw_New_Document* -- Create new document
+hw_New_Document -- Create new document
 
   int hw_new_document(string object_record, string document_data, int document_size)~
 

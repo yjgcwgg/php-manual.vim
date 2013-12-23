@@ -1,4 +1,4 @@
-*cos* -- Cosine
+cos -- Cosine
 
   float cos(float arg)~
 

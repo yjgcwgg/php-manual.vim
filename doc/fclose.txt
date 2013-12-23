@@ -1,4 +1,4 @@
-*fclose* -- Closes an open file pointer
+fclose -- Closes an open file pointer
 
   bool fclose(resource handle)~
 

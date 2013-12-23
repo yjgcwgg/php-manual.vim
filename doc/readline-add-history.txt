@@ -1,4 +1,4 @@
-*readline_add_history* -- Adds a line to the history
+readline_add_history -- Adds a line to the history
 
   bool readline_add_history(string line)~
 

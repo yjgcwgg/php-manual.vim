@@ -1,4 +1,4 @@
-*pg_escape_bytea* -- Escape a string for insertion into a bytea field
+pg_escape_bytea -- Escape a string for insertion into a bytea field
 
   string pg_escape_bytea([resource connection, string data])~
 

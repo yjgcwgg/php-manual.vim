@@ -1,4 +1,4 @@
-*svn_fs_apply_text* -- Creates and returns a stream that will be used to replace
+svn_fs_apply_text -- Creates and returns a stream that will be used to replace
 
   resource svn_fs_apply_text(resource root, string path)~
 

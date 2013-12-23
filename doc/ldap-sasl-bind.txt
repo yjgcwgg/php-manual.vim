@@ -1,4 +1,4 @@
-*ldap_sasl_bind* -- Bind to LDAP directory using SASL
+ldap_sasl_bind -- Bind to LDAP directory using SASL
 
   bool ldap_sasl_bind(resource link [, string binddn [, string password [, string sasl_mech [, string sasl_realm [, string sasl_authc_id [, string sasl_authz_id [, string props]]]]]]])~
 

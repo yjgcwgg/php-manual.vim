@@ -1,4 +1,4 @@
-*nsapi_response_headers* -- Fetch all HTTP response headers
+nsapi_response_headers -- Fetch all HTTP response headers
 
   array nsapi_response_headers()~
 

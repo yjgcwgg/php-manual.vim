@@ -1,4 +1,4 @@
-*dbplus_lockrel* -- Request write lock on relation
+dbplus_lockrel -- Request write lock on relation
 
   int dbplus_lockrel(resource relation)~
 

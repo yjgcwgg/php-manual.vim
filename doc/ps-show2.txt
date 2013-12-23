@@ -1,4 +1,4 @@
-*ps_show2* -- Output a text at current position
+ps_show2 -- Output a text at current position
 
   bool ps_show2(resource psdoc, string text, int len)~
 

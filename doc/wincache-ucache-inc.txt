@@ -1,4 +1,4 @@
-*wincache_ucache_inc* -- Increments the value associated with the key
+wincache_ucache_inc -- Increments the value associated with the key
 
   mixed wincache_ucache_inc(string key [, int inc_by [, bool success]])~
 

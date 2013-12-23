@@ -1,7 +1,7 @@
-*xml_set_external_entity_ref_handler* -- Set up external entity reference
+xml_set_external_entity_ref_handler -- Set up external entity reference
 handler
 
-  bool xml_set_external_entity_ref_handler(resource parser, callback handler)~
+  bool xml_set_external_entity_ref_handler(resource parser, callable handler)~
 
 Sets the external entity reference handler function for the XML parser
 {parser}.
@@ -12,7 +12,7 @@ handler function.
 {handler} {handler} is a string containing the name of a function that must
 exist when |xml_parse| is called for {parser}.
 
-  bool (resource parser, callback handler, resource parser, string open_entity_names, string base, string system_id, string public_id)~
+  bool (resource parser, callable handler, resource parser, string open_entity_names, string base, string system_id, string public_id)~
 
 The function named by {handler} must accept five parameters, and should return
 an integer value.If the value returned from the handler is FALSE (which it

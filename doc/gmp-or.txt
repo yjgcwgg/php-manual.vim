@@ -1,4 +1,4 @@
-*gmp_or* -- Bitwise OR
+gmp_or -- Bitwise OR
 
   resource gmp_or(resource a, resource b)~
 

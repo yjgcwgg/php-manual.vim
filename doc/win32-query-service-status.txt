@@ -1,4 +1,4 @@
-*win32_query_service_status* -- Queries the status of a service
+win32_query_service_status -- Queries the status of a service
 
   mixed win32_query_service_status(string servicename [, string machine])~
 

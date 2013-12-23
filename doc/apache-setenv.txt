@@ -1,4 +1,4 @@
-*apache_setenv* -- Set an Apache subprocess_env variable
+apache_setenv -- Set an Apache subprocess_env variable
 
   bool apache_setenv(string variable, string value [, bool walk_to_top])~
 

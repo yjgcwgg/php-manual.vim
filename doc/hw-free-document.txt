@@ -1,4 +1,4 @@
-*hw_Free_Document* -- Frees hw_document
+hw_Free_Document -- Frees hw_document
 
   bool hw_free_document(int hw_document)~
 

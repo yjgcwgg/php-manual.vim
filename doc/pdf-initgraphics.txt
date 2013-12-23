@@ -1,4 +1,4 @@
-*PDF_initgraphics* -- Reset graphic state
+PDF_initgraphics -- Reset graphic state
 
   bool PDF_initgraphics(resource p)~
 

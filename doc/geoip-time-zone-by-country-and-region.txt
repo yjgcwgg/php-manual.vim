@@ -1,4 +1,4 @@
-*geoip_time_zone_by_country_and_region* -- Returns the time zone for some
+geoip_time_zone_by_country_and_region -- Returns the time zone for some
 country and region code combo
 
   string geoip_time_zone_by_country_and_region(string country_code [, string region_code])~

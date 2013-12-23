@@ -1,4 +1,4 @@
-*maxdb_stmt::bind_result* -- Binds variables to a prepared statement for result
+maxdb_stmt::bind_result -- Binds variables to a prepared statement for result
 storage
 
 Procedural style

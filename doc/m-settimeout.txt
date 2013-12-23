@@ -1,4 +1,4 @@
-*m_settimeout* -- Set maximum transaction time (per trans)
+m_settimeout -- Set maximum transaction time (per trans)
 
   int m_settimeout(resource conn, int seconds)~
 

@@ -1,4 +1,4 @@
-*cairo_font_options_get_antialias* -- Description
+cairo_font_options_get_antialias -- Description
 
   int cairo_font_options_get_antialias(CairoFontOptions options)~
 

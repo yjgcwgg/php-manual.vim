@@ -1,4 +1,4 @@
-*pg_connection_status* -- Get connection status
+pg_connection_status -- Get connection status
 
   int pg_connection_status(resource connection)~
 

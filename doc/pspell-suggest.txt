@@ -1,4 +1,4 @@
-*pspell_suggest* -- Suggest spellings of a word
+pspell_suggest -- Suggest spellings of a word
 
   array pspell_suggest(int dictionary_link, string word)~
 

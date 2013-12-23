@@ -1,4 +1,4 @@
-*odbc_columns* -- Lists the column names in specified tables
+odbc_columns -- Lists the column names in specified tables
 
   resource odbc_columns(resource connection_id [, string qualifier [, string schema [, string table_name [, string column_name]]]])~
 

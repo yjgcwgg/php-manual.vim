@@ -1,4 +1,4 @@
-*xdiff_string_diff_binary* -- Alias of xdiff_string_bdiff
+xdiff_string_diff_binary -- Alias of xdiff_string_bdiff
 
   string xdiff_string_bdiff(string old_data, string new_data)~
 

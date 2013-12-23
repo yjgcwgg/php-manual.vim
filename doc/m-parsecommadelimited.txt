@@ -1,4 +1,4 @@
-*m_parsecommadelimited* -- Parse the comma delimited response so m_getcell, etc
+m_parsecommadelimited -- Parse the comma delimited response so m_getcell, etc
 will work
 
   int m_parsecommadelimited(resource conn, int identifier)~

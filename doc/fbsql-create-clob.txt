@@ -1,4 +1,4 @@
-*fbsql_create_clob* -- Create a CLOB
+fbsql_create_clob -- Create a CLOB
 
   string fbsql_create_clob(string clob_data [, resource link_identifier])~
 

@@ -1,4 +1,4 @@
-*newt_suspend* -- Tells newt to return the terminal to its initial state
+newt_suspend -- Tells newt to return the terminal to its initial state
 
   void newt_suspend()~
 

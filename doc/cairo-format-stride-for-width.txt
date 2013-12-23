@@ -1,4 +1,4 @@
-*cairo_format_stride_for_width* -- Description
+cairo_format_stride_for_width -- Description
 
   int cairo_format_stride_for_width(int format, int width)~
 

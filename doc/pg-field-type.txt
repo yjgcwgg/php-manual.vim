@@ -1,4 +1,4 @@
-*pg_field_type* -- Returns the type name for the corresponding field number
+pg_field_type -- Returns the type name for the corresponding field number
 
   string pg_field_type(resource result, int field_number)~
 

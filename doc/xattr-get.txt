@@ -1,4 +1,4 @@
-*xattr_get* -- Get an extended attribute
+xattr_get -- Get an extended attribute
 
   string xattr_get(string filename, string name [, int flags])~
 

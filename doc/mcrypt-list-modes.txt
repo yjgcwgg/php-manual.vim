@@ -1,4 +1,4 @@
-*mcrypt_list_modes* -- Gets an array of all supported modes
+mcrypt_list_modes -- Gets an array of all supported modes
 
   array mcrypt_list_modes([string lib_dir])~
 

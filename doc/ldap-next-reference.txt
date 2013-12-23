@@ -1,4 +1,4 @@
-*ldap_next_reference* -- Get next reference
+ldap_next_reference -- Get next reference
 
   resource ldap_next_reference(resource link, resource entry)~
 

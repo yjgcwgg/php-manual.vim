@@ -1,12 +1,12 @@
-*imagettfbbox* -- Give the bounding box of a text using TrueType fonts
+imagettfbbox -- Give the bounding box of a text using TrueType fonts
 
   array imagettfbbox(float size, float angle, string fontfile, string text)~
 
 This function calculates and returns the bounding box in pixels for a TrueType
 text.
 
-{size} The font size. Depending on your version of GD, this should be
-specified as the pixel size (GD1) or point size (GD2).
+{size} The font size. In GD 1, this is measured in pixels. In GD 2, this is
+measured in points.
 
 {angle} Angle in degrees in which {text} will be measured.
 
@@ -62,7 +62,7 @@ means in the top left-hand corner seeing the text horizontally.
   imagettftext($im, 10, 45, $x, $y, $black, $font, 'and Zend Engine ' . zend_version());
   
   // Output to browser
-  header('Content-type: image/png');
+  header('Content-Type: image/png');
   
   imagepng($im);
   imagedestroy($im);

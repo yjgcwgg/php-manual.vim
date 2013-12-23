@@ -1,4 +1,4 @@
-*intl_get_error_message* -- Get description of the last error
+intl_get_error_message -- Get description of the last error
 
   string intl_get_error_message()~
 

@@ -1,4 +1,4 @@
-*dbplus_update* -- Update specified tuple in relation
+dbplus_update -- Update specified tuple in relation
 
   int dbplus_update(resource relation, array old, array new)~
 

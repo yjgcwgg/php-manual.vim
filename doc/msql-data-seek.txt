@@ -1,4 +1,4 @@
-*msql_data_seek* -- Move internal row pointer
+msql_data_seek -- Move internal row pointer
 
   bool msql_data_seek(resource result, int row_number)~
 

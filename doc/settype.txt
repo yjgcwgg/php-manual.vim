@@ -1,4 +1,4 @@
-*settype* -- Set the type of a variable
+settype -- Set the type of a variable
 
   bool settype(mixed var, string type)~
 

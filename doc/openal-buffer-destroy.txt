@@ -1,4 +1,4 @@
-*openal_buffer_destroy* -- Destroys an OpenAL buffer
+openal_buffer_destroy -- Destroys an OpenAL buffer
 
   bool openal_buffer_destroy(resource buffer)~
 

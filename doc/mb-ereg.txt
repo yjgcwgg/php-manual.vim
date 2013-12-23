@@ -1,4 +1,4 @@
-*mb_ereg* -- Regular expression match with multibyte support
+mb_ereg -- Regular expression match with multibyte support
 
   int mb_ereg(string pattern, string string [, array regs])~
 

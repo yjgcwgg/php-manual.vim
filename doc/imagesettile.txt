@@ -1,4 +1,4 @@
-*imagesettile* -- Set the tile image for filling
+imagesettile -- Set the tile image for filling
 
   bool imagesettile(resource image, resource tile)~
 

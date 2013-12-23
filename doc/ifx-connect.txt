@@ -1,4 +1,4 @@
-*ifx_connect* -- Open Informix server connection
+ifx_connect -- Open Informix server connection
 
   resource ifx_connect([string database [, string userid [, string password]]])~
 

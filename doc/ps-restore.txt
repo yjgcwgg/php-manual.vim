@@ -1,4 +1,4 @@
-*ps_restore* -- Restore previously save context
+ps_restore -- Restore previously save context
 
   bool ps_restore(resource psdoc)~
 

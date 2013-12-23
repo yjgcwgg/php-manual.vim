@@ -1,4 +1,4 @@
-*ldap_free_result* -- Free result memory
+ldap_free_result -- Free result memory
 
   bool ldap_free_result(resource result_identifier)~
 

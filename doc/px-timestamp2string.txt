@@ -1,4 +1,4 @@
-*px_timestamp2string* -- Converts the timestamp into a string.
+px_timestamp2string -- Converts the timestamp into a string.
 
   string px_timestamp2string(resource pxdoc, float value, string format)~
 

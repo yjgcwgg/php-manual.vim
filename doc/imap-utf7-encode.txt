@@ -1,4 +1,4 @@
-*imap_utf7_encode* -- Converts ISO-8859-1 string to modified UTF-7 text
+imap_utf7_encode -- Converts ISO-8859-1 string to modified UTF-7 text
 
   string imap_utf7_encode(string data)~
 

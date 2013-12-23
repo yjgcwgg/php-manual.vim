@@ -1,4 +1,4 @@
-*m_connect* -- Establish the connection to MCVE
+m_connect -- Establish the connection to MCVE
 
   int m_connect(resource conn)~
 

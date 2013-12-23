@@ -1,4 +1,4 @@
-*vsprintf* -- Return a formatted string
+vsprintf -- Return a formatted string
 
   string vsprintf(string format, array args)~
 

@@ -1,4 +1,4 @@
-*imagetypes* -- Return the image types supported by this PHP build
+imagetypes -- Return the image types supported by this PHP build
 
   int imagetypes()~
 

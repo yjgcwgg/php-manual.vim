@@ -1,4 +1,4 @@
-*escapeshellcmd* -- Escape shell metacharacters
+escapeshellcmd -- Escape shell metacharacters
 
   string escapeshellcmd(string command)~
 

@@ -1,4 +1,4 @@
-*spl_autoload_call* -- Try all registered __autoload() function to load the
+spl_autoload_call -- Try all registered __autoload() function to load the
 requested class
 
   void spl_autoload_call(string class_name)~

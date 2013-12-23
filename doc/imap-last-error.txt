@@ -1,4 +1,4 @@
-*imap_last_error* -- Gets the last IMAP error that occurred during this page
+imap_last_error -- Gets the last IMAP error that occurred during this page
 request
 
   string imap_last_error()~

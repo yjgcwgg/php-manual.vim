@@ -1,4 +1,4 @@
-*variant_cast* -- Convert a variant into a new variant object of another type
+variant_cast -- Convert a variant into a new variant object of another type
 
   variant variant_cast(variant variant, int type)~
 
